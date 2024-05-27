@@ -1,0 +1,1072 @@
+[
+  {
+    "text": "folks we've got about 54 minutes left to",
+    "start": 0.04,
+    "duration": 4.08
+  },
+  {
+    "text": "trade before we close out what has been",
+    "start": 2.159,
+    "duration": 3.801
+  },
+  {
+    "text": "such a volatile first week of the second",
+    "start": 4.12,
+    "duration": 3.96
+  },
+  {
+    "text": "quarter even with the point gains that",
+    "start": 5.96,
+    "duration": 4.08
+  },
+  {
+    "text": "we're seeing for this session you can",
+    "start": 8.08,
+    "duration": 4.0
+  },
+  {
+    "text": "see the Dow is still on Pace for its",
+    "start": 10.04,
+    "duration": 4.0
+  },
+  {
+    "text": "worst week in more than a year it will",
+    "start": 12.08,
+    "duration": 4.48
+  },
+  {
+    "text": "have lost about 2 and a qu% for the week",
+    "start": 14.04,
+    "duration": 5.44
+  },
+  {
+    "text": "S&P down 1% the Dow and the S&P by the",
+    "start": 16.56,
+    "duration": 4.639
+  },
+  {
+    "text": "way are on track to snap two week",
+    "start": 19.48,
+    "duration": 3.52
+  },
+  {
+    "text": "winning streaks and it looks like the",
+    "start": 21.199,
+    "duration": 5.041
+  },
+  {
+    "text": "NASDAQ will lose about 1% just under 1%",
+    "start": 23.0,
+    "duration": 5.279
+  },
+  {
+    "text": "for the week the gains we are seeing",
+    "start": 26.24,
+    "duration": 4.119
+  },
+  {
+    "text": "today though come on the heels of the",
+    "start": 28.279,
+    "duration": 5.481
+  },
+  {
+    "text": "March jobs report US employers hired",
+    "start": 30.359,
+    "duration": 6.401
+  },
+  {
+    "text": "303,000 workers in March way more than",
+    "start": 33.76,
+    "duration": 5.84
+  },
+  {
+    "text": "the 200,000 expected unemployment ticked",
+    "start": 36.76,
+    "duration": 5.16
+  },
+  {
+    "text": "down to 3.8% from",
+    "start": 39.6,
+    "duration": 5.479
+  },
+  {
+    "text": "3.9% annual increases in wages did",
+    "start": 41.92,
+    "duration": 5.119
+  },
+  {
+    "text": "soften from the previous month but still",
+    "start": 45.079,
+    "duration": 3.721
+  },
+  {
+    "text": "came in up",
+    "start": 47.039,
+    "duration": 4.441
+  },
+  {
+    "text": "4.1% this stronger labor market",
+    "start": 48.8,
+    "duration": 4.599
+  },
+  {
+    "text": "complicates the Federal Reserve stated",
+    "start": 51.48,
+    "duration": 4.16
+  },
+  {
+    "text": "plan to cut interest rates sometime this",
+    "start": 53.399,
+    "duration": 4.68
+  },
+  {
+    "text": "year which has triggered a stellar R",
+    "start": 55.64,
+    "duration": 4.879
+  },
+  {
+    "text": "rally in Precious medals over the past",
+    "start": 58.079,
+    "duration": 5.561
+  },
+  {
+    "text": "five sessions look at the move in gold",
+    "start": 60.519,
+    "duration": 6.96
+  },
+  {
+    "text": "gold has gained about let's see four",
+    "start": 63.64,
+    "duration": 5.72
+  },
+  {
+    "text": "four full percentage points over the",
+    "start": 67.479,
+    "duration": 5.68
+  },
+  {
+    "text": "week 60 bucks per troy ounce and as you",
+    "start": 69.36,
+    "duration": 6.04
+  },
+  {
+    "text": "see we've got another fresh record high",
+    "start": 73.159,
+    "duration": 4.721
+  },
+  {
+    "text": "for the yellow metal Silver is no slouch",
+    "start": 75.4,
+    "duration": 4.679
+  },
+  {
+    "text": "at all in fact it's looking at a 10%",
+    "start": 77.88,
+    "duration": 4.919
+  },
+  {
+    "text": "gain week to date both a precious and",
+    "start": 80.079,
+    "duration": 4.68
+  },
+  {
+    "text": "Industrial Metal that's what silver is",
+    "start": 82.799,
+    "duration": 4.601
+  },
+  {
+    "text": "it is melting up this week nice move",
+    "start": 84.759,
+    "duration": 3.761
+  },
+  {
+    "text": "there let's bring in the floor show",
+    "start": 87.4,
+    "duration": 2.84
+  },
+  {
+    "text": "traders to tackle all of it it Economist",
+    "start": 88.52,
+    "duration": 3.2
+  },
+  {
+    "text": "and perennial gold buug Peter Schiff",
+    "start": 90.24,
+    "duration": 3.72
+  },
+  {
+    "text": "joins us along with options King John",
+    "start": 91.72,
+    "duration": 4.719
+  },
+  {
+    "text": "nerian of Marcus's Rebellion John at",
+    "start": 93.96,
+    "duration": 4.439
+  },
+  {
+    "text": "this time yesterday stocks plummeted on",
+    "start": 96.439,
+    "duration": 3.601
+  },
+  {
+    "text": "news of that tense phone call where",
+    "start": 98.399,
+    "duration": 3.281
+  },
+  {
+    "text": "President Biden basically threatened",
+    "start": 100.04,
+    "duration": 4.0
+  },
+  {
+    "text": "Israeli Prime Minister Netanyahu saying",
+    "start": 101.68,
+    "duration": 4.439
+  },
+  {
+    "text": "that unless Israel agrees to a ceas in",
+    "start": 104.04,
+    "duration": 4.48
+  },
+  {
+    "text": "Gaza the US might pull out aid but or at",
+    "start": 106.119,
+    "duration": 4.881
+  },
+  {
+    "text": "least diminish it that stock sell off we",
+    "start": 108.52,
+    "duration": 4.52
+  },
+  {
+    "text": "saw yesterday appears to be over at",
+    "start": 111.0,
+    "duration": 3.68
+  },
+  {
+    "text": "least for now did investors who were",
+    "start": 113.04,
+    "duration": 3.96
+  },
+  {
+    "text": "hoping for an entry point just simply",
+    "start": 114.68,
+    "duration": 4.16
+  },
+  {
+    "text": "miss it because it was so",
+    "start": 117.0,
+    "duration": 6.039
+  },
+  {
+    "text": "fast um I guess the simple answer is yes",
+    "start": 118.84,
+    "duration": 7.239
+  },
+  {
+    "text": "Liz but uh I didn't view yesterday's you",
+    "start": 123.039,
+    "duration": 6.0
+  },
+  {
+    "text": "know very small pullback in terms of a",
+    "start": 126.079,
+    "duration": 5.16
+  },
+  {
+    "text": "percentage move I didn't view that as an",
+    "start": 129.039,
+    "duration": 4.601
+  },
+  {
+    "text": "entry level really not for the way that",
+    "start": 131.239,
+    "duration": 5.201
+  },
+  {
+    "text": "I trade I think you'd really have to be",
+    "start": 133.64,
+    "duration": 5.52
+  },
+  {
+    "text": "uh a high frequency Trader practically",
+    "start": 136.44,
+    "duration": 5.519
+  },
+  {
+    "text": "to get into that uh I do think we'll get",
+    "start": 139.16,
+    "duration": 5.32
+  },
+  {
+    "text": "more opportunities Liz both from the",
+    "start": 141.959,
+    "duration": 4.56
+  },
+  {
+    "text": "tensions in the Middle East perhaps",
+    "start": 144.48,
+    "duration": 4.8
+  },
+  {
+    "text": "putting some pressure on stocks we've",
+    "start": 146.519,
+    "duration": 6.041
+  },
+  {
+    "text": "seen the vol volatility index up 30%",
+    "start": 149.28,
+    "duration": 5.72
+  },
+  {
+    "text": "just in the last five trading sessions",
+    "start": 152.56,
+    "duration": 5.12
+  },
+  {
+    "text": "and we've seen the crude oil index the",
+    "start": 155.0,
+    "duration": 5.4
+  },
+  {
+    "text": "ox the volatility of crude oil moving up",
+    "start": 157.68,
+    "duration": 5.16
+  },
+  {
+    "text": "substantially so I'd say that could",
+    "start": 160.4,
+    "duration": 4.559
+  },
+  {
+    "text": "create a better entry in the coming",
+    "start": 162.84,
+    "duration": 5.2
+  },
+  {
+    "text": "weeks as well as more fed speak like Mr",
+    "start": 164.959,
+    "duration": 4.761
+  },
+  {
+    "text": "cashcari yesterday that you just",
+    "start": 168.04,
+    "duration": 3.839
+  },
+  {
+    "text": "detailed we're putting up on the screen",
+    "start": 169.72,
+    "duration": 4.4
+  },
+  {
+    "text": "what you would buy if you were an",
+    "start": 171.879,
+    "duration": 4.161
+  },
+  {
+    "text": "investor who wanted exposure to the",
+    "start": 174.12,
+    "duration": 4.28
+  },
+  {
+    "text": "markets John what is that trade you're",
+    "start": 176.04,
+    "duration": 4.32
+  },
+  {
+    "text": "saying there are call and put options",
+    "start": 178.4,
+    "duration": 3.64
+  },
+  {
+    "text": "that you could mix and",
+    "start": 180.36,
+    "duration": 4.08
+  },
+  {
+    "text": "match well you could of course that's",
+    "start": 182.04,
+    "duration": 4.64
+  },
+  {
+    "text": "always true and uh you know you're an",
+    "start": 184.44,
+    "duration": 5.48
+  },
+  {
+    "text": "astute Market Watcher and Trader Liz um",
+    "start": 186.68,
+    "duration": 5.119
+  },
+  {
+    "text": "I would say that I would be buying at",
+    "start": 189.92,
+    "duration": 5.12
+  },
+  {
+    "text": "the money S&P 500 calls out in August",
+    "start": 191.799,
+    "duration": 5.0
+  },
+  {
+    "text": "I'd want to give myself time they're",
+    "start": 195.04,
+    "duration": 4.32
+  },
+  {
+    "text": "going to Decay much slower and then I",
+    "start": 196.799,
+    "duration": 5.44
+  },
+  {
+    "text": "would start selling May options call",
+    "start": 199.36,
+    "duration": 5.599
+  },
+  {
+    "text": "options against those that I purchased",
+    "start": 202.239,
+    "duration": 5.121
+  },
+  {
+    "text": "the reason for that is faster time Decay",
+    "start": 204.959,
+    "duration": 4.36
+  },
+  {
+    "text": "and also that I think we're going to get",
+    "start": 207.36,
+    "duration": 3.079
+  },
+  {
+    "text": "a move",
+    "start": 209.319,
+    "duration": 4.081
+  },
+  {
+    "text": "or a nonm move perhaps at that meeting",
+    "start": 210.439,
+    "duration": 6.121
+  },
+  {
+    "text": "26 days from now when we actually get",
+    "start": 213.4,
+    "duration": 6.039
+  },
+  {
+    "text": "the fomc meeting again Liz okay yeah",
+    "start": 216.56,
+    "duration": 5.039
+  },
+  {
+    "text": "Peter no flash dip at all no opportunity",
+    "start": 219.439,
+    "duration": 4.641
+  },
+  {
+    "text": "to jump into gold over the past at least",
+    "start": 221.599,
+    "duration": 4.321
+  },
+  {
+    "text": "month or so because it just keeps",
+    "start": 224.08,
+    "duration": 4.0
+  },
+  {
+    "text": "hitting record after record can you",
+    "start": 225.92,
+    "duration": 5.08
+  },
+  {
+    "text": "explain to our viewers Why We are",
+    "start": 228.08,
+    "duration": 7.32
+  },
+  {
+    "text": "continuing to see Gold Spike so",
+    "start": 231.0,
+    "duration": 6.799
+  },
+  {
+    "text": "high yeah well first of all is you know",
+    "start": 235.4,
+    "duration": 4.119
+  },
+  {
+    "text": "the the labor market isn't strong it's",
+    "start": 237.799,
+    "duration": 4.321
+  },
+  {
+    "text": "weak all the jobs that are being created",
+    "start": 239.519,
+    "duration": 5.041
+  },
+  {
+    "text": "are part-time jobs for Americans who are",
+    "start": 242.12,
+    "duration": 4.88
+  },
+  {
+    "text": "forced to Moonlight because inflation is",
+    "start": 244.56,
+    "duration": 4.679
+  },
+  {
+    "text": "driving up the cost of living and",
+    "start": 247.0,
+    "duration": 4.2
+  },
+  {
+    "text": "inflation is going to keep going up",
+    "start": 249.239,
+    "duration": 4.56
+  },
+  {
+    "text": "that's why gold is rising uh it's it's a",
+    "start": 251.2,
+    "duration": 5.759
+  },
+  {
+    "text": "signal that the monetary policy is wrong",
+    "start": 253.799,
+    "duration": 5.881
+  },
+  {
+    "text": "uh that Pal's rate cut could go down as",
+    "start": 256.959,
+    "duration": 4.68
+  },
+  {
+    "text": "the biggest mistake the FED has ever",
+    "start": 259.68,
+    "duration": 3.56
+  },
+  {
+    "text": "made and they've made a lot of mistakes",
+    "start": 261.639,
+    "duration": 3.401
+  },
+  {
+    "text": "so that's saying a lot in fact they",
+    "start": 263.24,
+    "duration": 3.959
+  },
+  {
+    "text": "should be raising interest rates but the",
+    "start": 265.04,
+    "duration": 4.84
+  },
+  {
+    "text": "gold Traders know that pal is too too",
+    "start": 267.199,
+    "duration": 4.321
+  },
+  {
+    "text": "afraid to raise interest rates cuz he",
+    "start": 269.88,
+    "duration": 3.84
+  },
+  {
+    "text": "caus caused a financial crisis but if",
+    "start": 271.52,
+    "duration": 4.399
+  },
+  {
+    "text": "you look at the landscape oil is already",
+    "start": 273.72,
+    "duration": 6.479
+  },
+  {
+    "text": "up 22% this year it was down 10% last",
+    "start": 275.919,
+    "duration": 7.881
+  },
+  {
+    "text": "year and the CPI was up 4.1 imagine how",
+    "start": 280.199,
+    "duration": 5.681
+  },
+  {
+    "text": "high it's going to rise this year with",
+    "start": 283.8,
+    "duration": 4.88
+  },
+  {
+    "text": "that move in oil look at the crb oh the",
+    "start": 285.88,
+    "duration": 4.84
+  },
+  {
+    "text": "commodity prices which were flat last",
+    "start": 288.68,
+    "duration": 5.519
+  },
+  {
+    "text": "year are already up 177% this year it's",
+    "start": 290.72,
+    "duration": 5.919
+  },
+  {
+    "text": "only the first quarter so inflation is",
+    "start": 294.199,
+    "duration": 4.521
+  },
+  {
+    "text": "coming roaring back and the FED is",
+    "start": 296.639,
+    "duration": 4.321
+  },
+  {
+    "text": "pretending that it's gone away yeah you",
+    "start": 298.72,
+    "duration": 4.36
+  },
+  {
+    "text": "know you look at oil as well oil has had",
+    "start": 300.96,
+    "duration": 4.799
+  },
+  {
+    "text": "an incredible move uh gold of course",
+    "start": 303.08,
+    "duration": 4.399
+  },
+  {
+    "text": "hitting a record right now",
+    "start": 305.759,
+    "duration": 4.801
+  },
+  {
+    "text": "$2,342 a Troy ounce but let's bring back",
+    "start": 307.479,
+    "duration": 4.641
+  },
+  {
+    "text": "John to the conversation you know when",
+    "start": 310.56,
+    "duration": 3.68
+  },
+  {
+    "text": "you talk about oil you add other",
+    "start": 312.12,
+    "duration": 3.56
+  },
+  {
+    "text": "Commodities into the mix whether it's",
+    "start": 314.24,
+    "duration": 3.92
+  },
+  {
+    "text": "ARB gasoline wholesale just about",
+    "start": 315.68,
+    "duration": 4.44
+  },
+  {
+    "text": "everything else except maybe corn and",
+    "start": 318.16,
+    "duration": 4.4
+  },
+  {
+    "text": "wheat and and natural gas those are down",
+    "start": 320.12,
+    "duration": 5.359
+  },
+  {
+    "text": "year to date uh what is the trade there",
+    "start": 322.56,
+    "duration": 4.52
+  },
+  {
+    "text": "because you can look at the volatility",
+    "start": 325.479,
+    "duration": 4.761
+  },
+  {
+    "text": "that we've seen lately and and well I'll",
+    "start": 327.08,
+    "duration": 6.88
+  },
+  {
+    "text": "let you tell our viewers John well uh um",
+    "start": 330.24,
+    "duration": 6.239
+  },
+  {
+    "text": "we've seen a lot of speculation Liz and",
+    "start": 333.96,
+    "duration": 5.76
+  },
+  {
+    "text": "even some m& or mergers and Acquisitions",
+    "start": 336.479,
+    "duration": 5.601
+  },
+  {
+    "text": "going on in the energy space and that's",
+    "start": 339.72,
+    "duration": 5.96
+  },
+  {
+    "text": "not surprising um because we've seen a a",
+    "start": 342.08,
+    "duration": 6.08
+  },
+  {
+    "text": "six-month High I believe out of crude",
+    "start": 345.68,
+    "duration": 5.239
+  },
+  {
+    "text": "oil as it trades up through 86 and Brent",
+    "start": 348.16,
+    "duration": 5.72
+  },
+  {
+    "text": "is through 90 right now uh Middle East",
+    "start": 350.919,
+    "duration": 5.441
+  },
+  {
+    "text": "tensions as well as what's going on with",
+    "start": 353.88,
+    "duration": 4.8
+  },
+  {
+    "text": "drones back and forth Russia to Ukraine",
+    "start": 356.36,
+    "duration": 4.399
+  },
+  {
+    "text": "and vice versa that's all going to put",
+    "start": 358.68,
+    "duration": 5.16
+  },
+  {
+    "text": "more demand or at least Less in the",
+    "start": 360.759,
+    "duration": 6.44
+  },
+  {
+    "text": "supply Liz and either of those either uh",
+    "start": 363.84,
+    "duration": 5.359
+  },
+  {
+    "text": "taking some of the supply away or",
+    "start": 367.199,
+    "duration": 4.201
+  },
+  {
+    "text": "increasing demand into the Fourth of",
+    "start": 369.199,
+    "duration": 4.241
+  },
+  {
+    "text": "July holiday which we see every single",
+    "start": 371.4,
+    "duration": 4.72
+  },
+  {
+    "text": "year that's going to push oil up I think",
+    "start": 373.44,
+    "duration": 5.84
+  },
+  {
+    "text": "WTI has $90 a barrel written all over it",
+    "start": 376.12,
+    "duration": 6.519
+  },
+  {
+    "text": "so rig Trans Ocean is one of the plays",
+    "start": 379.28,
+    "duration": 5.44
+  },
+  {
+    "text": "in that space I would keep my eye on",
+    "start": 382.639,
+    "duration": 4.201
+  },
+  {
+    "text": "those oil stocks L and you can always",
+    "start": 384.72,
+    "duration": 5.44
+  },
+  {
+    "text": "buy oil volatility the ovx which is",
+    "start": 386.84,
+    "duration": 5.16
+  },
+  {
+    "text": "right up on our screen right now uh",
+    "start": 390.16,
+    "duration": 3.599
+  },
+  {
+    "text": "while it's slightly down right now it",
+    "start": 392.0,
+    "duration": 3.759
+  },
+  {
+    "text": "has had an a pretty significant runup",
+    "start": 393.759,
+    "duration": 4.801
+  },
+  {
+    "text": "over the past uh more than six months I",
+    "start": 395.759,
+    "duration": 4.361
+  },
+  {
+    "text": "believe or at least year to date all",
+    "start": 398.56,
+    "duration": 4.96
+  },
+  {
+    "text": "right uh Peter you've got to explain",
+    "start": 400.12,
+    "duration": 5.799
+  },
+  {
+    "text": "about the options to buy the",
+    "start": 403.52,
+    "duration": 6.119
+  },
+  {
+    "text": "opportunities to buy oil names or let's",
+    "start": 405.919,
+    "duration": 6.28
+  },
+  {
+    "text": "say for example gold and silver names",
+    "start": 409.639,
+    "duration": 4.441
+  },
+  {
+    "text": "Silver's really roared higher what are",
+    "start": 412.199,
+    "duration": 4.241
+  },
+  {
+    "text": "your picks",
+    "start": 414.08,
+    "duration": 5.799
+  },
+  {
+    "text": "here well you know I think that these",
+    "start": 416.44,
+    "duration": 5.84
+  },
+  {
+    "text": "stocks are going to explode almost any",
+    "start": 419.879,
+    "duration": 5.76
+  },
+  {
+    "text": "day you know you this week the GDX which",
+    "start": 422.28,
+    "duration": 5.88
+  },
+  {
+    "text": "is an index of senior gold mining stocks",
+    "start": 425.639,
+    "duration": 6.24
+  },
+  {
+    "text": "is up 7% a gdxj which is Junior mining",
+    "start": 428.16,
+    "duration": 6.879
+  },
+  {
+    "text": "stocks is up 9% but these stocks are",
+    "start": 431.879,
+    "duration": 5.241
+  },
+  {
+    "text": "still dirt cheap they're they're barely",
+    "start": 435.039,
+    "duration": 4.081
+  },
+  {
+    "text": "positive on the year because the whole",
+    "start": 437.12,
+    "duration": 4.639
+  },
+  {
+    "text": "time goal was Rising everybody expected",
+    "start": 439.12,
+    "duration": 4.68
+  },
+  {
+    "text": "it to fall you know a couple of months",
+    "start": 441.759,
+    "duration": 4.241
+  },
+  {
+    "text": "ago or one month ago analysts were",
+    "start": 443.8,
+    "duration": 4.519
+  },
+  {
+    "text": "downgrading Newmont Mining and Barrack",
+    "start": 446.0,
+    "duration": 4.52
+  },
+  {
+    "text": "gold to cells you know basically holds",
+    "start": 448.319,
+    "duration": 4.6
+  },
+  {
+    "text": "and sells these stocks are now up 30%",
+    "start": 450.52,
+    "duration": 4.399
+  },
+  {
+    "text": "since those downgrades Wall Street has",
+    "start": 452.919,
+    "duration": 4.56
+  },
+  {
+    "text": "got this trade completely wrong uh you",
+    "start": 454.919,
+    "duration": 4.161
+  },
+  {
+    "text": "should just buy these stocks you know I",
+    "start": 457.479,
+    "duration": 3.481
+  },
+  {
+    "text": "managing gol fund the europacific GOL",
+    "start": 459.08,
+    "duration": 4.08
+  },
+  {
+    "text": "fund Adrian day manages for me people",
+    "start": 460.96,
+    "duration": 4.0
+  },
+  {
+    "text": "can buy that no load if you want to buy",
+    "start": 463.16,
+    "duration": 3.599
+  },
+  {
+    "text": "individual stocks you I gave you a",
+    "start": 464.96,
+    "duration": 3.84
+  },
+  {
+    "text": "couple of names panamerican silver for",
+    "start": 466.759,
+    "duration": 5.521
+  },
+  {
+    "text": "silver ago Eagle uh in the gold space",
+    "start": 468.8,
+    "duration": 4.88
+  },
+  {
+    "text": "but just buy them you don't have to wait",
+    "start": 472.28,
+    "duration": 3.16
+  },
+  {
+    "text": "for a dip they're they're cheap even",
+    "start": 473.68,
+    "duration": 3.76
+  },
+  {
+    "text": "though they've gone up so much you just",
+    "start": 475.44,
+    "duration": 4.52
+  },
+  {
+    "text": "got to get into these names it's a bull",
+    "start": 477.44,
+    "duration": 4.8
+  },
+  {
+    "text": "market uh and especially if you were",
+    "start": 479.96,
+    "duration": 3.799
+  },
+  {
+    "text": "foolish enough to buy any of these",
+    "start": 482.24,
+    "duration": 4.56
+  },
+  {
+    "text": "Bitcoin ETFs you should sell these ETFs",
+    "start": 483.759,
+    "duration": 5.241
+  },
+  {
+    "text": "right now before the market closes take",
+    "start": 486.8,
+    "duration": 4.679
+  },
+  {
+    "text": "that money put it into some gold stocks",
+    "start": 489.0,
+    "duration": 4.8
+  },
+  {
+    "text": "right because Bitcoin is fool's gold you",
+    "start": 491.479,
+    "duration": 4.16
+  },
+  {
+    "text": "want to own the real thing and if you",
+    "start": 493.8,
+    "duration": 3.959
+  },
+  {
+    "text": "really want to make 10 times your money",
+    "start": 495.639,
+    "duration": 4.321
+  },
+  {
+    "text": "20 50 times your money I think you can",
+    "start": 497.759,
+    "duration": 4.88
+  },
+  {
+    "text": "do it uh in these Junior mining stocks",
+    "start": 499.96,
+    "duration": 4.88
+  },
+  {
+    "text": "Junior mining stocks two names he gives",
+    "start": 502.639,
+    "duration": 6.081
+  },
+  {
+    "text": "us AEM and P A for those of you well",
+    "start": 504.84,
+    "duration": 5.72
+  },
+  {
+    "text": "those aren't Junior those are big those",
+    "start": 508.72,
+    "duration": 3.439
+  },
+  {
+    "text": "those are big names but some other names",
+    "start": 510.56,
+    "duration": 3.399
+  },
+  {
+    "text": "as well all right thank you Peter Schiff",
+    "start": 512.159,
+    "duration": 5.201
+  },
+  {
+    "text": "John nerian great to have you",
+    "start": 513.959,
+    "duration": 3.401
+  }
+]

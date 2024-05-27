@@ -1,0 +1,557 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.0,
+    "duration": 5.33
+  },
+  {
+    "text": "hello everyone Greg Diamond here editor",
+    "start": 7.68,
+    "duration": 4.48
+  },
+  {
+    "text": "of 10 Stock Trader at Sansbury research",
+    "start": 10.04,
+    "duration": 3.679
+  },
+  {
+    "text": "uh this is another edition of diamonds",
+    "start": 12.16,
+    "duration": 4.8
+  },
+  {
+    "text": "Edge video and um before I get started",
+    "start": 13.719,
+    "duration": 4.281
+  },
+  {
+    "text": "this week this is going to be an",
+    "start": 16.96,
+    "duration": 3.84
+  },
+  {
+    "text": "important week Nvidia earnings uh with",
+    "start": 18.0,
+    "duration": 4.359
+  },
+  {
+    "text": "this is with back with stocks back at",
+    "start": 20.8,
+    "duration": 3.92
+  },
+  {
+    "text": "new all-time highs uh or the indexes",
+    "start": 22.359,
+    "duration": 5.281
+  },
+  {
+    "text": "rather um but I have a plan regardless",
+    "start": 24.72,
+    "duration": 4.52
+  },
+  {
+    "text": "uh regardless of what you know we have",
+    "start": 27.64,
+    "duration": 3.119
+  },
+  {
+    "text": "more inflation data to regardless of",
+    "start": 29.24,
+    "duration": 3.12
+  },
+  {
+    "text": "inflation data regardless of Nvidia",
+    "start": 30.759,
+    "duration": 4.001
+  },
+  {
+    "text": "earnings um I have a plan for what to do",
+    "start": 32.36,
+    "duration": 5.12
+  },
+  {
+    "text": "over the next call a week or two um so",
+    "start": 34.76,
+    "duration": 4.52
+  },
+  {
+    "text": "check out the link below uh check out",
+    "start": 37.48,
+    "duration": 4.32
+  },
+  {
+    "text": "the URL uh for a new report that I just",
+    "start": 39.28,
+    "duration": 4.92
+  },
+  {
+    "text": "put together a new video uh explaining",
+    "start": 41.8,
+    "duration": 4.32
+  },
+  {
+    "text": "some of the well details of 10 Stock",
+    "start": 44.2,
+    "duration": 4.64
+  },
+  {
+    "text": "Trader but also what what I expect going",
+    "start": 46.12,
+    "duration": 5.119
+  },
+  {
+    "text": "forward and um for new subscribers who",
+    "start": 48.84,
+    "duration": 4.0
+  },
+  {
+    "text": "sign up and obviously current",
+    "start": 51.239,
+    "duration": 4.081
+  },
+  {
+    "text": "subscribers um I put together a new",
+    "start": 52.84,
+    "duration": 4.68
+  },
+  {
+    "text": "report as well as a new masterclass",
+    "start": 55.32,
+    "duration": 4.719
+  },
+  {
+    "text": "video and these detail",
+    "start": 57.52,
+    "duration": 4.039
+  },
+  {
+    "text": "both kind of the short-term setups",
+    "start": 60.039,
+    "duration": 3.241
+  },
+  {
+    "text": "looking for both in Nvidia and the",
+    "start": 61.559,
+    "duration": 4.481
+  },
+  {
+    "text": "semiconductor sector uh but also more",
+    "start": 63.28,
+    "duration": 5.08
+  },
+  {
+    "text": "long-term Gan cycles and how that plays",
+    "start": 66.04,
+    "duration": 4.24
+  },
+  {
+    "text": "out for the rest of 2024 so I think",
+    "start": 68.36,
+    "duration": 3.52
+  },
+  {
+    "text": "you'll like it again check out the link",
+    "start": 70.28,
+    "duration": 4.72
+  },
+  {
+    "text": "below uh for more information and this",
+    "start": 71.88,
+    "duration": 4.879
+  },
+  {
+    "text": "week I'm also going to cover something",
+    "start": 75.0,
+    "duration": 3.119
+  },
+  {
+    "text": "that you know maybe not a lot of",
+    "start": 76.759,
+    "duration": 3.601
+  },
+  {
+    "text": "investors are focused on um although",
+    "start": 78.119,
+    "duration": 3.801
+  },
+  {
+    "text": "they should be focused on obviously",
+    "start": 80.36,
+    "duration": 4.16
+  },
+  {
+    "text": "Nvidia and inflation and and the rest of",
+    "start": 81.92,
+    "duration": 5.159
+  },
+  {
+    "text": "it but uh let's turn to uh what I have",
+    "start": 84.52,
+    "duration": 3.8
+  },
+  {
+    "text": "on the screen here and this is a",
+    "start": 87.079,
+    "duration": 4.601
+  },
+  {
+    "text": "screenshot I took last week uh from",
+    "start": 88.32,
+    "duration": 5.0
+  },
+  {
+    "text": "Bloomberg and basically according to",
+    "start": 91.68,
+    "duration": 5.36
+  },
+  {
+    "text": "nedis Ned Davis research hedge funds are",
+    "start": 93.32,
+    "duration": 5.64
+  },
+  {
+    "text": "have one of their biggest net short",
+    "start": 97.04,
+    "duration": 4.759
+  },
+  {
+    "text": "positions on in the Russell 2000s okay",
+    "start": 98.96,
+    "duration": 5.04
+  },
+  {
+    "text": "so the pain trade here and what I mean",
+    "start": 101.799,
+    "duration": 4.841
+  },
+  {
+    "text": "by the pain trade is that what's going",
+    "start": 104.0,
+    "duration": 4.04
+  },
+  {
+    "text": "to hurt the most people what's going to",
+    "start": 106.64,
+    "duration": 3.88
+  },
+  {
+    "text": "cause the most pain if hedge funds have",
+    "start": 108.04,
+    "duration": 4.84
+  },
+  {
+    "text": "a record net short position higher",
+    "start": 110.52,
+    "duration": 4.559
+  },
+  {
+    "text": "prices are going to force them um to",
+    "start": 112.88,
+    "duration": 3.64
+  },
+  {
+    "text": "close that out as that will be painful",
+    "start": 115.079,
+    "duration": 2.68
+  },
+  {
+    "text": "because I'll lose a lot of money all",
+    "start": 116.52,
+    "duration": 3.879
+  },
+  {
+    "text": "right so this is the fun fundamental",
+    "start": 117.759,
+    "duration": 4.561
+  },
+  {
+    "text": "Catalyst or fundamental backdrop based",
+    "start": 120.399,
+    "duration": 3.841
+  },
+  {
+    "text": "upon positioning now let's look at the",
+    "start": 122.32,
+    "duration": 4.0
+  },
+  {
+    "text": "technicals okay so this is a chart of",
+    "start": 124.24,
+    "duration": 4.4
+  },
+  {
+    "text": "iwm I shares Russell 2000 which",
+    "start": 126.32,
+    "duration": 4.6
+  },
+  {
+    "text": "obviously tracks the um Russell 2000",
+    "start": 128.64,
+    "duration": 4.239
+  },
+  {
+    "text": "Futures Contract all right and I've",
+    "start": 130.92,
+    "duration": 4.48
+  },
+  {
+    "text": "labeled here U just a simple from this",
+    "start": 132.879,
+    "duration": 6.241
+  },
+  {
+    "text": "April 19th Panic low 1 2 3 4 5 for a",
+    "start": 135.4,
+    "duration": 6.64
+  },
+  {
+    "text": "possible big wave one high all right and",
+    "start": 139.12,
+    "duration": 4.24
+  },
+  {
+    "text": "now if we get this correction over the",
+    "start": 142.04,
+    "duration": 3.199
+  },
+  {
+    "text": "next week or two and some of this will",
+    "start": 143.36,
+    "duration": 5.879
+  },
+  {
+    "text": "depend upon Nvidia maybe but definitely",
+    "start": 145.239,
+    "duration": 6.761
+  },
+  {
+    "text": "inflation um in interest rates okay so",
+    "start": 149.239,
+    "duration": 4.08
+  },
+  {
+    "text": "let's say interest rates bump up a",
+    "start": 152.0,
+    "duration": 2.599
+  },
+  {
+    "text": "little bit but we get this correction",
+    "start": 153.319,
+    "duration": 3.401
+  },
+  {
+    "text": "maybe it's steep you know down to this",
+    "start": 154.599,
+    "duration": 4.881
+  },
+  {
+    "text": "um 200ish level I noted this Gap here in",
+    "start": 156.72,
+    "duration": 4.96
+  },
+  {
+    "text": "purple okay as you can see this would be",
+    "start": 159.48,
+    "duration": 4.16
+  },
+  {
+    "text": "a correction so if I see this correct",
+    "start": 161.68,
+    "duration": 4.12
+  },
+  {
+    "text": "and then we start to Rally up again this",
+    "start": 163.64,
+    "duration": 4.04
+  },
+  {
+    "text": "is likely telling me that we're in",
+    "start": 165.8,
+    "duration": 4.519
+  },
+  {
+    "text": "breakout mode okay this could be a huge",
+    "start": 167.68,
+    "duration": 5.4
+  },
+  {
+    "text": "wave two wave three type of um Elliot",
+    "start": 170.319,
+    "duration": 5.241
+  },
+  {
+    "text": "wave move uh I've noted here um June",
+    "start": 173.08,
+    "duration": 5.56
+  },
+  {
+    "text": "14th to June 21st be mindful of those",
+    "start": 175.56,
+    "duration": 5.0
+  },
+  {
+    "text": "dates um this would be maybe a",
+    "start": 178.64,
+    "duration": 3.879
+  },
+  {
+    "text": "short-term Reflection Point it's",
+    "start": 180.56,
+    "duration": 4.52
+  },
+  {
+    "text": "possible that we see you know a kind of",
+    "start": 182.519,
+    "duration": 4.481
+  },
+  {
+    "text": "a bigger correction and I'll show you",
+    "start": 185.08,
+    "duration": 5.079
+  },
+  {
+    "text": "what that might look like um you know",
+    "start": 187.0,
+    "duration": 5.519
+  },
+  {
+    "text": "it's possible we do something like this",
+    "start": 190.159,
+    "duration": 4.201
+  },
+  {
+    "text": "okay and then correct and then we get",
+    "start": 192.519,
+    "duration": 4.561
+  },
+  {
+    "text": "the big move up I'm that's that is you",
+    "start": 194.36,
+    "duration": 5.08
+  },
+  {
+    "text": "know a scenario that I'm considering but",
+    "start": 197.08,
+    "duration": 4.439
+  },
+  {
+    "text": "either way understand that the net",
+    "start": 199.44,
+    "duration": 4.799
+  },
+  {
+    "text": "Futures short position from hedge funds",
+    "start": 201.519,
+    "duration": 5.601
+  },
+  {
+    "text": "um in addition to we've already seen you",
+    "start": 204.239,
+    "duration": 5.64
+  },
+  {
+    "text": "know major indexes at new all-time highs",
+    "start": 207.12,
+    "duration": 4.92
+  },
+  {
+    "text": "a Russell 2000 finally catch up the",
+    "start": 209.879,
+    "duration": 4.041
+  },
+  {
+    "text": "technical Picture Tells Me it does as",
+    "start": 212.04,
+    "duration": 4.6
+  },
+  {
+    "text": "long as the 190 holds okay you know I",
+    "start": 213.92,
+    "duration": 4.239
+  },
+  {
+    "text": "see some type of one of these two",
+    "start": 216.64,
+    "duration": 4.12
+  },
+  {
+    "text": "scenarios where we get this low you know",
+    "start": 218.159,
+    "duration": 4.841
+  },
+  {
+    "text": "whether it's um later this week or early",
+    "start": 220.76,
+    "duration": 5.0
+  },
+  {
+    "text": "next week or then maybe into mid June",
+    "start": 223.0,
+    "duration": 4.08
+  },
+  {
+    "text": "you know that's going to be a situation",
+    "start": 225.76,
+    "duration": 2.839
+  },
+  {
+    "text": "to buy call options that's going to be a",
+    "start": 227.08,
+    "duration": 3.719
+  },
+  {
+    "text": "situation to establish a core position I",
+    "start": 228.599,
+    "duration": 4.601
+  },
+  {
+    "text": "like as I like to call it with um 3x",
+    "start": 230.799,
+    "duration": 5.881
+  },
+  {
+    "text": "leverage ETFs okay um so in addition to",
+    "start": 233.2,
+    "duration": 5.759
+  },
+  {
+    "text": "Nvidia in addition to inflation check",
+    "start": 236.68,
+    "duration": 4.52
+  },
+  {
+    "text": "out what's happening in terms of the",
+    "start": 238.959,
+    "duration": 4.601
+  },
+  {
+    "text": "price action regarding the Russell 2000",
+    "start": 241.2,
+    "duration": 3.52
+  },
+  {
+    "text": "I really think this is going to be an",
+    "start": 243.56,
+    "duration": 2.92
+  },
+  {
+    "text": "important morget to watch over the next",
+    "start": 244.72,
+    "duration": 3.28
+  },
+  {
+    "text": "few months all right thank you very much",
+    "start": 246.48,
+    "duration": 4.13
+  },
+  {
+    "text": "I'll see you next time",
+    "start": 248.0,
+    "duration": 5.729
+  },
+  {
+    "text": "[Music]",
+    "start": 250.61,
+    "duration": 3.119
+  }
+]

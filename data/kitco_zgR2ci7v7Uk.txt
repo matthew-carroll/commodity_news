@@ -1,0 +1,2267 @@
+[
+  {
+    "text": "[Music]",
+    "start": 1.41,
+    "duration": 6.23
+  },
+  {
+    "text": "hey everyone I'm Jeremy Safford this is",
+    "start": 6.12,
+    "duration": 3.24
+  },
+  {
+    "text": "Kiko news thanks for joining us today",
+    "start": 7.64,
+    "duration": 3.119
+  },
+  {
+    "text": "don't forget to hit that subscribe",
+    "start": 9.36,
+    "duration": 3.56
+  },
+  {
+    "text": "button for the latest now today on chart",
+    "start": 10.759,
+    "duration": 4.04
+  },
+  {
+    "text": "this with Gary Wagner we're exploring",
+    "start": 12.92,
+    "duration": 4.4
+  },
+  {
+    "text": "the impact of the US dollar strength on",
+    "start": 14.799,
+    "duration": 5.24
+  },
+  {
+    "text": "precious medals like gold and silver and",
+    "start": 17.32,
+    "duration": 4.36
+  },
+  {
+    "text": "despite the broader Market facing",
+    "start": 20.039,
+    "duration": 3.641
+  },
+  {
+    "text": "challenges from Modest growth and",
+    "start": 21.68,
+    "duration": 4.04
+  },
+  {
+    "text": "persistent inflation the star of today's",
+    "start": 23.68,
+    "duration": 4.439
+  },
+  {
+    "text": "show is Nidia it's a company that has",
+    "start": 25.72,
+    "duration": 4.799
+  },
+  {
+    "text": "transformed from a niche chip fire to a",
+    "start": 28.119,
+    "duration": 4.521
+  },
+  {
+    "text": "dominant force in the tech industry",
+    "start": 30.519,
+    "duration": 3.72
+  },
+  {
+    "text": "fresh off of a blockbuster earnings",
+    "start": 32.64,
+    "duration": 3.72
+  },
+  {
+    "text": "report Nvidia continues to shatter",
+    "start": 34.239,
+    "duration": 4.84
+  },
+  {
+    "text": "expectations in the first quarter loan",
+    "start": 36.36,
+    "duration": 5.76
+  },
+  {
+    "text": "the revenue surged to 26 billion now",
+    "start": 39.079,
+    "duration": 5.401
+  },
+  {
+    "text": "that's a triple increase propelling them",
+    "start": 42.12,
+    "duration": 4.68
+  },
+  {
+    "text": "pass industry giants like McDonald's and",
+    "start": 44.48,
+    "duration": 4.399
+  },
+  {
+    "text": "MasterCard now with a stock price that",
+    "start": 46.8,
+    "duration": 5.239
+  },
+  {
+    "text": "is soared adding $1.1 trillion dollar in",
+    "start": 48.879,
+    "duration": 6.0
+  },
+  {
+    "text": "market cap or market capitalization this",
+    "start": 52.039,
+    "duration": 5.281
+  },
+  {
+    "text": "year nvidia's Journey mirrors the early",
+    "start": 54.879,
+    "duration": 5.081
+  },
+  {
+    "text": "days of the internet boom and of course",
+    "start": 57.32,
+    "duration": 4.399
+  },
+  {
+    "text": "ize all of this we welcome our buddy",
+    "start": 59.96,
+    "duration": 3.559
+  },
+  {
+    "text": "Gary Wagner our resident technical",
+    "start": 61.719,
+    "duration": 3.72
+  },
+  {
+    "text": "analyst and the editor of the Gold",
+    "start": 63.519,
+    "duration": 4.441
+  },
+  {
+    "text": "forecast.com T to code what these Market",
+    "start": 65.439,
+    "duration": 4.761
+  },
+  {
+    "text": "movements mean to people like you and I",
+    "start": 67.96,
+    "duration": 5.519
+  },
+  {
+    "text": "Gary it's been too long welcome back it",
+    "start": 70.2,
+    "duration": 5.52
+  },
+  {
+    "text": "has but it is great to be here and it is",
+    "start": 73.479,
+    "duration": 6.0
+  },
+  {
+    "text": "an exciting day uh for multiple uh",
+    "start": 75.72,
+    "duration": 6.56
+  },
+  {
+    "text": "Financial sectors isn't that the truth",
+    "start": 79.479,
+    "duration": 4.521
+  },
+  {
+    "text": "okay let's let's get straight to it I",
+    "start": 82.28,
+    "duration": 3.199
+  },
+  {
+    "text": "want to start by talking a little bit",
+    "start": 84.0,
+    "duration": 3.6
+  },
+  {
+    "text": "about the US dollar Gary uh you know",
+    "start": 85.479,
+    "duration": 3.96
+  },
+  {
+    "text": "it's showing significant strength and",
+    "start": 87.6,
+    "duration": 3.159
+  },
+  {
+    "text": "I'm kind of curious you know what the",
+    "start": 89.439,
+    "duration": 3.841
+  },
+  {
+    "text": "latest chart tells us about its movement",
+    "start": 90.759,
+    "duration": 4.161
+  },
+  {
+    "text": "you know can you highlight any key",
+    "start": 93.28,
+    "duration": 3.199
+  },
+  {
+    "text": "technical indicators that are currently",
+    "start": 94.92,
+    "duration": 2.96
+  },
+  {
+    "text": "in play",
+    "start": 96.479,
+    "duration": 4.441
+  },
+  {
+    "text": "here well absolutely if if we look at",
+    "start": 97.88,
+    "duration": 5.04
+  },
+  {
+    "text": "the dollar and I have a daily",
+    "start": 100.92,
+    "duration": 5.68
+  },
+  {
+    "text": "Candlestick chart we can see that",
+    "start": 102.92,
+    "duration": 6.159
+  },
+  {
+    "text": "roughly in about the middle of April it",
+    "start": 106.6,
+    "duration": 5.6
+  },
+  {
+    "text": "topped out at around 106 this of course",
+    "start": 109.079,
+    "duration": 5.801
+  },
+  {
+    "text": "is the dollar Index we saw it hit a",
+    "start": 112.2,
+    "duration": 5.959
+  },
+  {
+    "text": "double top and from there over a period",
+    "start": 114.88,
+    "duration": 7.199
+  },
+  {
+    "text": "of about a month till the middle of May",
+    "start": 118.159,
+    "duration": 6.681
+  },
+  {
+    "text": "Thursday the 16th it really hit a bottom",
+    "start": 122.079,
+    "duration": 6.201
+  },
+  {
+    "text": "at about 104 and it has gone up",
+    "start": 124.84,
+    "duration": 6.32
+  },
+  {
+    "text": "significantly over the last week roughly",
+    "start": 128.28,
+    "duration": 7.76
+  },
+  {
+    "text": "from 104 to 105 which means that it has",
+    "start": 131.16,
+    "duration": 7.64
+  },
+  {
+    "text": "increased in terms of its value against",
+    "start": 136.04,
+    "duration": 5.36
+  },
+  {
+    "text": "the basket of currencies And Trades",
+    "start": 138.8,
+    "duration": 5.439
+  },
+  {
+    "text": "against by a full percentage point in a",
+    "start": 141.4,
+    "duration": 6.199
+  },
+  {
+    "text": "currency that is a lot uh the dollar has",
+    "start": 144.239,
+    "duration": 5.72
+  },
+  {
+    "text": "been on solid footing moving to the",
+    "start": 147.599,
+    "duration": 5.481
+  },
+  {
+    "text": "upside for over a week in terms of",
+    "start": 149.959,
+    "duration": 5.801
+  },
+  {
+    "text": "trading okay well as the FED maintains a",
+    "start": 153.08,
+    "duration": 5.04
+  },
+  {
+    "text": "cautious stance on interest rates you",
+    "start": 155.76,
+    "duration": 4.24
+  },
+  {
+    "text": "know let's talk a little bit more about",
+    "start": 158.12,
+    "duration": 3.28
+  },
+  {
+    "text": "those signals that at least Traders",
+    "start": 160.0,
+    "duration": 3.28
+  },
+  {
+    "text": "should watch that might indicate a shift",
+    "start": 161.4,
+    "duration": 4.32
+  },
+  {
+    "text": "in the trajectory here is there an up is",
+    "start": 163.28,
+    "duration": 5.08
+  },
+  {
+    "text": "there a down where we go from",
+    "start": 165.72,
+    "duration": 5.36
+  },
+  {
+    "text": "here well of course the most recent",
+    "start": 168.36,
+    "duration": 4.32
+  },
+  {
+    "text": "reaction that we saw in the precious",
+    "start": 171.08,
+    "duration": 4.439
+  },
+  {
+    "text": "metals and other markets was the release",
+    "start": 172.68,
+    "duration": 5.559
+  },
+  {
+    "text": "the other day of the fomc meeting",
+    "start": 175.519,
+    "duration": 5.64
+  },
+  {
+    "text": "minutes from the last meeting meeting",
+    "start": 178.239,
+    "duration": 5.161
+  },
+  {
+    "text": "that of course came out prior to the",
+    "start": 181.159,
+    "duration": 6.201
+  },
+  {
+    "text": "most recent CPI data that followed the",
+    "start": 183.4,
+    "duration": 6.199
+  },
+  {
+    "text": "information that the Federal Reserve had",
+    "start": 187.36,
+    "duration": 5.56
+  },
+  {
+    "text": "at the time of the meeting was that all",
+    "start": 189.599,
+    "duration": 6.041
+  },
+  {
+    "text": "through last year we had a methodical",
+    "start": 192.92,
+    "duration": 6.039
+  },
+  {
+    "text": "and steady downtick in inflation moving",
+    "start": 195.64,
+    "duration": 5.28
+  },
+  {
+    "text": "to their 2%",
+    "start": 198.959,
+    "duration": 4.84
+  },
+  {
+    "text": "trajectory that kind of changed in",
+    "start": 200.92,
+    "duration": 5.879
+  },
+  {
+    "text": "January February and March when we got",
+    "start": 203.799,
+    "duration": 6.321
+  },
+  {
+    "text": "an accelerated or elevated reading in",
+    "start": 206.799,
+    "duration": 5.601
+  },
+  {
+    "text": "other words a slight",
+    "start": 210.12,
+    "duration": 4.56
+  },
+  {
+    "text": "uptick and that's what the Federal",
+    "start": 212.4,
+    "duration": 4.96
+  },
+  {
+    "text": "Reserve was talking about because the",
+    "start": 214.68,
+    "duration": 4.639
+  },
+  {
+    "text": "minutes of course is the discussion",
+    "start": 217.36,
+    "duration": 4.959
+  },
+  {
+    "text": "between Federal Reserve officials it did",
+    "start": 219.319,
+    "duration": 5.401
+  },
+  {
+    "text": "not take into account the most recent",
+    "start": 222.319,
+    "duration": 5.361
+  },
+  {
+    "text": "inflation report that actually showed a",
+    "start": 224.72,
+    "duration": 6.28
+  },
+  {
+    "text": "once again another downtick so I think",
+    "start": 227.68,
+    "duration": 5.72
+  },
+  {
+    "text": "that we had Market participants being",
+    "start": 231.0,
+    "duration": 5.64
+  },
+  {
+    "text": "over optimistic prior to the release of",
+    "start": 233.4,
+    "duration": 6.6
+  },
+  {
+    "text": "the minutes uh wishing that the First",
+    "start": 236.64,
+    "duration": 7.12
+  },
+  {
+    "text": "Rate cut would first come in June then",
+    "start": 240.0,
+    "duration": 6.4
+  },
+  {
+    "text": "September now it's in question as to",
+    "start": 243.76,
+    "duration": 5.759
+  },
+  {
+    "text": "whether or not there will be three more",
+    "start": 246.4,
+    "duration": 6.399
+  },
+  {
+    "text": "likely two some are calling for one yeah",
+    "start": 249.519,
+    "duration": 5.8
+  },
+  {
+    "text": "but the key is that the market",
+    "start": 252.799,
+    "duration": 5.641
+  },
+  {
+    "text": "participant were reacting to minutes",
+    "start": 255.319,
+    "duration": 6.6
+  },
+  {
+    "text": "that came out before the latest report",
+    "start": 258.44,
+    "duration": 6.6
+  },
+  {
+    "text": "the only caveat to that is that the FED",
+    "start": 261.919,
+    "duration": 5.121
+  },
+  {
+    "text": "is on record saying that one month does",
+    "start": 265.04,
+    "duration": 3.76
+  },
+  {
+    "text": "not make a trend they need to see",
+    "start": 267.04,
+    "duration": 5.52
+  },
+  {
+    "text": "meaningful data on a series of months so",
+    "start": 268.8,
+    "duration": 6.16
+  },
+  {
+    "text": "what is important to watch is the",
+    "start": 272.56,
+    "duration": 7.32
+  },
+  {
+    "text": "upcoming readings of the pce and the CPI",
+    "start": 274.96,
+    "duration": 7.44
+  },
+  {
+    "text": "because that will really determine the",
+    "start": 279.88,
+    "duration": 6.759
+  },
+  {
+    "text": "forward trajectory of multiple asset",
+    "start": 282.4,
+    "duration": 6.68
+  },
+  {
+    "text": "classes Yeah Yeah you mentioned it here",
+    "start": 286.639,
+    "duration": 4.081
+  },
+  {
+    "text": "kind of in a waiting pattern but we've",
+    "start": 289.08,
+    "duration": 3.679
+  },
+  {
+    "text": "seen some resilience on some of the",
+    "start": 290.72,
+    "duration": 3.88
+  },
+  {
+    "text": "precious metal side but you know talking",
+    "start": 292.759,
+    "duration": 3.72
+  },
+  {
+    "text": "about gold Gary when we talk about the",
+    "start": 294.6,
+    "duration": 4.08
+  },
+  {
+    "text": "US dollar you know that inverse",
+    "start": 296.479,
+    "duration": 4.401
+  },
+  {
+    "text": "relationship pull up a gold chart",
+    "start": 298.68,
+    "duration": 3.959
+  },
+  {
+    "text": "because it's been so fascinating we've",
+    "start": 300.88,
+    "duration": 4.28
+  },
+  {
+    "text": "seen these all-time highs as volatility",
+    "start": 302.639,
+    "duration": 4.601
+  },
+  {
+    "text": "can you talk about when Traders or when",
+    "start": 305.16,
+    "duration": 3.92
+  },
+  {
+    "text": "people were reacting does that reflect",
+    "start": 307.24,
+    "duration": 5.36
+  },
+  {
+    "text": "on the chart as well yeah well if let's",
+    "start": 309.08,
+    "duration": 5.24
+  },
+  {
+    "text": "take a look before I switch over the",
+    "start": 312.6,
+    "duration": 5.08
+  },
+  {
+    "text": "dollar has been up for the last six",
+    "start": 314.32,
+    "duration": 7.599
+  },
+  {
+    "text": "trading days and during that time we had",
+    "start": 317.68,
+    "duration": 7.639
+  },
+  {
+    "text": "gold move higher with the dollar moving",
+    "start": 321.919,
+    "duration": 6.481
+  },
+  {
+    "text": "higher and then of course over the last",
+    "start": 325.319,
+    "duration": 6.201
+  },
+  {
+    "text": "three days it came down",
+    "start": 328.4,
+    "duration": 7.079
+  },
+  {
+    "text": "substantially and so it's almost been as",
+    "start": 331.52,
+    "duration": 6.88
+  },
+  {
+    "text": "though the the dollar hasn't played a",
+    "start": 335.479,
+    "duration": 6.321
+  },
+  {
+    "text": "significant role and the key is is that",
+    "start": 338.4,
+    "duration": 5.359
+  },
+  {
+    "text": "all of the precious metals are paired",
+    "start": 341.8,
+    "duration": 5.04
+  },
+  {
+    "text": "against the dollar there's a 100%",
+    "start": 343.759,
+    "duration": 6.361
+  },
+  {
+    "text": "inverse or negative correlation between",
+    "start": 346.84,
+    "duration": 6.4
+  },
+  {
+    "text": "a dollar strength and how the metals do",
+    "start": 350.12,
+    "duration": 5.799
+  },
+  {
+    "text": "a strong dollar will take Gold Silver",
+    "start": 353.24,
+    "duration": 4.519
+  },
+  {
+    "text": "Platinum Palladium all of the precious",
+    "start": 355.919,
+    "duration": 5.441
+  },
+  {
+    "text": "metals lower BAS Bas based upon the fact",
+    "start": 357.759,
+    "duration": 6.361
+  },
+  {
+    "text": "that it's paired against it but whereas",
+    "start": 361.36,
+    "duration": 5.64
+  },
+  {
+    "text": "we saw dollar strength we saw dollar",
+    "start": 364.12,
+    "duration": 5.32
+  },
+  {
+    "text": "strength while gold and silver were",
+    "start": 367.0,
+    "duration": 5.84
+  },
+  {
+    "text": "moving higher we saw dollar strength as",
+    "start": 369.44,
+    "duration": 6.96
+  },
+  {
+    "text": "gold and silver moved lower so the",
+    "start": 372.84,
+    "duration": 7.16
+  },
+  {
+    "text": "dollar has not not been the most",
+    "start": 376.4,
+    "duration": 7.48
+  },
+  {
+    "text": "important factor but rather buyers or",
+    "start": 380.0,
+    "duration": 7.319
+  },
+  {
+    "text": "sellers dominating the market okay so",
+    "start": 383.88,
+    "duration": 5.319
+  },
+  {
+    "text": "you know given the dollar strength what",
+    "start": 387.319,
+    "duration": 3.761
+  },
+  {
+    "text": "would be a significant technical",
+    "start": 389.199,
+    "duration": 4.28
+  },
+  {
+    "text": "development or you know a pattern Gary",
+    "start": 391.08,
+    "duration": 4.959
+  },
+  {
+    "text": "that could possibly make this a reversal",
+    "start": 393.479,
+    "duration": 5.521
+  },
+  {
+    "text": "or continued weakness in gold prices",
+    "start": 396.039,
+    "duration": 6.72
+  },
+  {
+    "text": "here well I believe that we're seeing an",
+    "start": 399.0,
+    "duration": 6.199
+  },
+  {
+    "text": "overreaction a really strong knee-jerk",
+    "start": 402.759,
+    "duration": 6.041
+  },
+  {
+    "text": "reaction because we were down $33",
+    "start": 405.199,
+    "duration": 7.321
+  },
+  {
+    "text": "yesterday and another 50 today so that's",
+    "start": 408.8,
+    "duration": 5.799
+  },
+  {
+    "text": "an $80",
+    "start": 412.52,
+    "duration": 5.76
+  },
+  {
+    "text": "decline due to directly attributable I",
+    "start": 414.599,
+    "duration": 6.201
+  },
+  {
+    "text": "should say to the releas of the fomc",
+    "start": 418.28,
+    "duration": 3.8
+  },
+  {
+    "text": "meeting",
+    "start": 420.8,
+    "duration": 3.92
+  },
+  {
+    "text": "minutes those minutes as I talked about",
+    "start": 422.08,
+    "duration": 6.32
+  },
+  {
+    "text": "a second ago came in prior to new",
+    "start": 424.72,
+    "duration": 6.44
+  },
+  {
+    "text": "information conveying the opposite or",
+    "start": 428.4,
+    "duration": 5.68
+  },
+  {
+    "text": "what the FED actually wants to see so on",
+    "start": 431.16,
+    "duration": 6.0
+  },
+  {
+    "text": "a technical basis real support comes in",
+    "start": 434.08,
+    "duration": 6.239
+  },
+  {
+    "text": "at around 2300 that's these series of",
+    "start": 437.16,
+    "duration": 7.0
+  },
+  {
+    "text": "bottoms that came in in in May and then",
+    "start": 440.319,
+    "duration": 8.28
+  },
+  {
+    "text": "April here but the fact of the matter is",
+    "start": 444.16,
+    "duration": 6.0
+  },
+  {
+    "text": "we could see",
+    "start": 448.599,
+    "duration": 5.32
+  },
+  {
+    "text": "gold find tentative support roughly at",
+    "start": 450.16,
+    "duration": 6.52
+  },
+  {
+    "text": "2320 that's the next Target that I have",
+    "start": 453.919,
+    "duration": 6.12
+  },
+  {
+    "text": "and we're currently at 2331 of course",
+    "start": 456.68,
+    "duration": 6.799
+  },
+  {
+    "text": "I'm looking at June Futures what we'll",
+    "start": 460.039,
+    "duration": 5.72
+  },
+  {
+    "text": "want to see is we've got good volume but",
+    "start": 463.479,
+    "duration": 5.72
+  },
+  {
+    "text": "we also have a holiday weekend coming up",
+    "start": 465.759,
+    "duration": 5.641
+  },
+  {
+    "text": "and so that will always add some",
+    "start": 469.199,
+    "duration": 5.521
+  },
+  {
+    "text": "volatility to the market but I'm not",
+    "start": 471.4,
+    "duration": 5.479
+  },
+  {
+    "text": "convinced that we are witnessing a a",
+    "start": 474.72,
+    "duration": 5.039
+  },
+  {
+    "text": "full a fullblown correction yet it's",
+    "start": 476.879,
+    "duration": 5.801
+  },
+  {
+    "text": "certainly more than a oneoff because",
+    "start": 479.759,
+    "duration": 6.0
+  },
+  {
+    "text": "we've seen the second day and it's a a",
+    "start": 482.68,
+    "duration": 5.959
+  },
+  {
+    "text": "very very strong decline but the other",
+    "start": 485.759,
+    "duration": 5.241
+  },
+  {
+    "text": "thing that's noteworthy is it's not a",
+    "start": 488.639,
+    "duration": 5.361
+  },
+  {
+    "text": "decline from gold in a mid-range uh in a",
+    "start": 491.0,
+    "duration": 5.68
+  },
+  {
+    "text": "price point it's been to before this",
+    "start": 494.0,
+    "duration": 5.0
+  },
+  {
+    "text": "decline is occurring immediately",
+    "start": 496.68,
+    "duration": 5.84
+  },
+  {
+    "text": "following a new all-time record high so",
+    "start": 499.0,
+    "duration": 6.8
+  },
+  {
+    "text": "it gives um shorter term and interim",
+    "start": 502.52,
+    "duration": 7.56
+  },
+  {
+    "text": "Traders the ability to pull profits um",
+    "start": 505.8,
+    "duration": 6.32
+  },
+  {
+    "text": "based on the recent move and the recent",
+    "start": 510.08,
+    "duration": 6.28
+  },
+  {
+    "text": "move really was from about 2300 up to",
+    "start": 512.12,
+    "duration": 8.0
+  },
+  {
+    "text": "2440 and above and so a",
+    "start": 516.36,
+    "duration": 7.359
+  },
+  {
+    "text": "$100 in terms of a decline over let's",
+    "start": 520.12,
+    "duration": 6.64
+  },
+  {
+    "text": "say the last two days in perspective is",
+    "start": 523.719,
+    "duration": 5.521
+  },
+  {
+    "text": "not that great so I'm not convinced",
+    "start": 526.76,
+    "duration": 5.519
+  },
+  {
+    "text": "we're looking at a full-blown correction",
+    "start": 529.24,
+    "duration": 6.12
+  },
+  {
+    "text": "but if it is a correction this is how it",
+    "start": 532.279,
+    "duration": 5.441
+  },
+  {
+    "text": "would look at the beginning so we need",
+    "start": 535.36,
+    "duration": 4.8
+  },
+  {
+    "text": "more data to determine",
+    "start": 537.72,
+    "duration": 5.0
+  },
+  {
+    "text": "and we need to see what the fundamental",
+    "start": 540.16,
+    "duration": 5.6
+  },
+  {
+    "text": "reports that are upcoming over the next",
+    "start": 542.72,
+    "duration": 6.08
+  },
+  {
+    "text": "say 3 weeks as inflation reports come in",
+    "start": 545.76,
+    "duration": 5.56
+  },
+  {
+    "text": "again and we get some signals from the",
+    "start": 548.8,
+    "duration": 5.36
+  },
+  {
+    "text": "FED as to what they're going to do in",
+    "start": 551.32,
+    "duration": 5.56
+  },
+  {
+    "text": "regards to rate cuts the magnitude",
+    "start": 554.16,
+    "duration": 4.679
+  },
+  {
+    "text": "meaning the amount of cuts and the",
+    "start": 556.88,
+    "duration": 4.68
+  },
+  {
+    "text": "timing of those cuts they have pretty",
+    "start": 558.839,
+    "duration": 5.721
+  },
+  {
+    "text": "much taken a uh a rate hike off the",
+    "start": 561.56,
+    "duration": 5.6
+  },
+  {
+    "text": "table and that of course is very very",
+    "start": 564.56,
+    "duration": 5.76
+  },
+  {
+    "text": "bullish but rates are high now",
+    "start": 567.16,
+    "duration": 4.919
+  },
+  {
+    "text": "yeah they're high and and as you said I",
+    "start": 570.32,
+    "duration": 3.48
+  },
+  {
+    "text": "mean we started the year with six or",
+    "start": 572.079,
+    "duration": 3.521
+  },
+  {
+    "text": "seven right cuts that was the narrative",
+    "start": 573.8,
+    "duration": 3.36
+  },
+  {
+    "text": "at least that's what we were covering",
+    "start": 575.6,
+    "duration": 3.88
+  },
+  {
+    "text": "here we are possibly one some people",
+    "start": 577.16,
+    "duration": 4.44
+  },
+  {
+    "text": "saying maybe none at all I'm curious is",
+    "start": 579.48,
+    "duration": 5.0
+  },
+  {
+    "text": "the volatility still affecting silver is",
+    "start": 581.6,
+    "duration": 5.08
+  },
+  {
+    "text": "it somewhat similar is there specific",
+    "start": 584.48,
+    "duration": 4.479
+  },
+  {
+    "text": "patterns emerging that differ from gold",
+    "start": 586.68,
+    "duration": 4.48
+  },
+  {
+    "text": "or is it kind of a same approach here on",
+    "start": 588.959,
+    "duration": 3.281
+  },
+  {
+    "text": "the profit",
+    "start": 591.16,
+    "duration": 4.0
+  },
+  {
+    "text": "side well you know Silver's been",
+    "start": 592.24,
+    "duration": 4.12
+  },
+  {
+    "text": "interesting",
+    "start": 595.16,
+    "duration": 4.4
+  },
+  {
+    "text": "because the percentage gains re recently",
+    "start": 596.36,
+    "duration": 6.32
+  },
+  {
+    "text": "L have been enormous in other words when",
+    "start": 599.56,
+    "duration": 7.48
+  },
+  {
+    "text": "gold was moving up 1% 3/4 of a percent",
+    "start": 602.68,
+    "duration": 7.88
+  },
+  {
+    "text": "silver was moving up 3% here is a four",
+    "start": 607.04,
+    "duration": 7.76
+  },
+  {
+    "text": "four and a half% move uh just shy of 3%",
+    "start": 610.56,
+    "duration": 8.519
+  },
+  {
+    "text": "it hit a high that has not been seen and",
+    "start": 614.8,
+    "duration": 6.84
+  },
+  {
+    "text": "we really have to go far back but it's",
+    "start": 619.079,
+    "duration": 6.561
+  },
+  {
+    "text": "not been seen really since February of",
+    "start": 621.64,
+    "duration": 7.0
+  },
+  {
+    "text": "21 and this top here which comes in in",
+    "start": 625.64,
+    "duration": 6.639
+  },
+  {
+    "text": "May so it's been a long time since we've",
+    "start": 628.64,
+    "duration": 7.04
+  },
+  {
+    "text": "seen Silver hit this exaggerated high",
+    "start": 632.279,
+    "duration": 6.481
+  },
+  {
+    "text": "and to go beyond that we've really got",
+    "start": 635.68,
+    "duration": 7.08
+  },
+  {
+    "text": "to go back into August of 2020 so it's",
+    "start": 638.76,
+    "duration": 6.96
+  },
+  {
+    "text": "been a long wait for uh what what I'll",
+    "start": 642.76,
+    "duration": 5.04
+  },
+  {
+    "text": "call Silver stackers out there they have",
+    "start": 645.72,
+    "duration": 5.16
+  },
+  {
+    "text": "been waiting for a move like this and",
+    "start": 647.8,
+    "duration": 5.44
+  },
+  {
+    "text": "considering that silver moved from",
+    "start": 650.88,
+    "duration": 5.12
+  },
+  {
+    "text": "$26 to almost",
+    "start": 653.24,
+    "duration": 7.08
+  },
+  {
+    "text": "$33 in under three weeks is really",
+    "start": 656.0,
+    "duration": 7.6
+  },
+  {
+    "text": "significant because we've seen gold make",
+    "start": 660.32,
+    "duration": 6.36
+  },
+  {
+    "text": "series of record highs we've not seen",
+    "start": 663.6,
+    "duration": 7.32
+  },
+  {
+    "text": "Silver follow suit this time we've seen",
+    "start": 666.68,
+    "duration": 7.08
+  },
+  {
+    "text": "Silver move along with gold with larger",
+    "start": 670.92,
+    "duration": 6.0
+  },
+  {
+    "text": "percentage gains and the declines have",
+    "start": 673.76,
+    "duration": 5.84
+  },
+  {
+    "text": "been about on par with the percentage",
+    "start": 676.92,
+    "duration": 6.28
+  },
+  {
+    "text": "declines of gold it's been exceedingly",
+    "start": 679.6,
+    "duration": 6.44
+  },
+  {
+    "text": "strong and so the key is it did break",
+    "start": 683.2,
+    "duration": 7.439
+  },
+  {
+    "text": "above 30 it traded to a high of almost",
+    "start": 686.04,
+    "duration": 8.68
+  },
+  {
+    "text": "33 the key to me is maintaining a price",
+    "start": 690.639,
+    "duration": 7.921
+  },
+  {
+    "text": "point above 30 specifically 2950 is",
+    "start": 694.72,
+    "duration": 6.559
+  },
+  {
+    "text": "really important but 30 is going to be a",
+    "start": 698.56,
+    "duration": 4.92
+  },
+  {
+    "text": "point in which some sellers could emerge",
+    "start": 701.279,
+    "duration": 4.721
+  },
+  {
+    "text": "a break below that yeah we had a lot of",
+    "start": 703.48,
+    "duration": 4.2
+  },
+  {
+    "text": "people come on and say 30 is so",
+    "start": 706.0,
+    "duration": 3.68
+  },
+  {
+    "text": "important just keep holding 30 when you",
+    "start": 707.68,
+    "duration": 3.24
+  },
+  {
+    "text": "look at that chart is there anything",
+    "start": 709.68,
+    "duration": 2.64
+  },
+  {
+    "text": "that you can see about the future price",
+    "start": 710.92,
+    "duration": 2.76
+  },
+  {
+    "text": "Direction here Gary in terms of a",
+    "start": 712.32,
+    "duration": 2.4
+  },
+  {
+    "text": "forecast",
+    "start": 713.68,
+    "duration": 5.92
+  },
+  {
+    "text": "Forest well what I can see is when we",
+    "start": 714.72,
+    "duration": 6.88
+  },
+  {
+    "text": "look I mean when we look at Major",
+    "start": 719.6,
+    "duration": 4.08
+  },
+  {
+    "text": "bottoms nothing comes in the beginning",
+    "start": 721.6,
+    "duration": 4.919
+  },
+  {
+    "text": "of this rally we do have this resistance",
+    "start": 723.68,
+    "duration": 5.92
+  },
+  {
+    "text": "area that comes in at 29 a half which is",
+    "start": 726.519,
+    "duration": 5.361
+  },
+  {
+    "text": "why that's an important number to me",
+    "start": 729.6,
+    "duration": 5.76
+  },
+  {
+    "text": "based on these particular tops back in",
+    "start": 731.88,
+    "duration": 7.8
+  },
+  {
+    "text": "April but we had such strong moves and",
+    "start": 735.36,
+    "duration": 6.44
+  },
+  {
+    "text": "although they weren't true price gaps",
+    "start": 739.68,
+    "duration": 5.279
+  },
+  {
+    "text": "because you do get this Wick the wick is",
+    "start": 741.8,
+    "duration": 5.36
+  },
+  {
+    "text": "the differential between this real body",
+    "start": 744.959,
+    "duration": 4.56
+  },
+  {
+    "text": "which is the open and close in green it",
+    "start": 747.16,
+    "duration": 5.039
+  },
+  {
+    "text": "means it closed above the open in red it",
+    "start": 749.519,
+    "duration": 5.44
+  },
+  {
+    "text": "means it closed below the open but the",
+    "start": 752.199,
+    "duration": 6.08
+  },
+  {
+    "text": "fact is is that you had a price void in",
+    "start": 754.959,
+    "duration": 7.12
+  },
+  {
+    "text": "essence here a very small one here and",
+    "start": 758.279,
+    "duration": 6.961
+  },
+  {
+    "text": "so it really gapped higher in a very",
+    "start": 762.079,
+    "duration": 7.041
+  },
+  {
+    "text": "very uh not violent but exceedingly",
+    "start": 765.24,
+    "duration": 8.039
+  },
+  {
+    "text": "strong Manner and it to me showed pent",
+    "start": 769.12,
+    "duration": 8.32
+  },
+  {
+    "text": "up buying demand emerging once we got",
+    "start": 773.279,
+    "duration": 6.601
+  },
+  {
+    "text": "real breakouts above 29",
+    "start": 777.44,
+    "duration": 5.639
+  },
+  {
+    "text": "and it took it way past 30 silver has",
+    "start": 779.88,
+    "duration": 5.68
+  },
+  {
+    "text": "been impressive yeah I mean the medals",
+    "start": 783.079,
+    "duration": 4.161
+  },
+  {
+    "text": "have been so interesting just to watch",
+    "start": 785.56,
+    "duration": 3.44
+  },
+  {
+    "text": "even over the past couple of weeks here",
+    "start": 787.24,
+    "duration": 3.48
+  },
+  {
+    "text": "Gary but you're see here what I'm",
+    "start": 789.0,
+    "duration": 3.04
+  },
+  {
+    "text": "hearing from you is maybe a little bit",
+    "start": 790.72,
+    "duration": 3.6
+  },
+  {
+    "text": "more smoke than fire a little trigger",
+    "start": 792.04,
+    "duration": 4.039
+  },
+  {
+    "text": "happy on those buttons",
+    "start": 794.32,
+    "duration": 5.079
+  },
+  {
+    "text": "perhaps well whenever you get a surge",
+    "start": 796.079,
+    "duration": 6.76
+  },
+  {
+    "text": "that is takes up gold or silver any of",
+    "start": 799.399,
+    "duration": 7.24
+  },
+  {
+    "text": "the metals dramatically higher when it",
+    "start": 802.839,
+    "duration": 7.081
+  },
+  {
+    "text": "does hit a scenario in which Market",
+    "start": 806.639,
+    "duration": 5.161
+  },
+  {
+    "text": "participants believe that it's",
+    "start": 809.92,
+    "duration": 4.44
+  },
+  {
+    "text": "overbought it's going to come down as",
+    "start": 811.8,
+    "duration": 5.719
+  },
+  {
+    "text": "significantly as it went up so a a",
+    "start": 814.36,
+    "duration": 5.599
+  },
+  {
+    "text": "brilliant move up calls for a dramatic",
+    "start": 817.519,
+    "duration": 6.241
+  },
+  {
+    "text": "move down you typically don't get a mild",
+    "start": 819.959,
+    "duration": 7.721
+  },
+  {
+    "text": "or tepid um price drop or correction",
+    "start": 823.76,
+    "duration": 6.8
+  },
+  {
+    "text": "following a surge and really if you look",
+    "start": 827.68,
+    "duration": 5.519
+  },
+  {
+    "text": "at this this is a real surge I mean",
+    "start": 830.56,
+    "duration": 5.399
+  },
+  {
+    "text": "you're looking at in a period of a under",
+    "start": 833.199,
+    "duration": 4.56
+  },
+  {
+    "text": "a week going from",
+    "start": 835.959,
+    "duration": 6.521
+  },
+  {
+    "text": "28 to 3275 that's a huge move yeah",
+    "start": 837.759,
+    "duration": 6.481
+  },
+  {
+    "text": "absolutely it sure is we'll continue to",
+    "start": 842.48,
+    "duration": 3.64
+  },
+  {
+    "text": "keep an eye on that you know as I watch",
+    "start": 844.24,
+    "duration": 4.36
+  },
+  {
+    "text": "the markets today everything quite red",
+    "start": 846.12,
+    "duration": 3.719
+  },
+  {
+    "text": "everything under a little bit of",
+    "start": 848.6,
+    "duration": 3.0
+  },
+  {
+    "text": "pressure but as we talked about in the",
+    "start": 849.839,
+    "duration": 4.321
+  },
+  {
+    "text": "introduction Nvidia has been the darling",
+    "start": 851.6,
+    "duration": 4.159
+  },
+  {
+    "text": "I mean recently posting impressive",
+    "start": 854.16,
+    "duration": 4.0
+  },
+  {
+    "text": "earnings driving significant movement to",
+    "start": 855.759,
+    "duration": 4.921
+  },
+  {
+    "text": "its stock price you know I'm so curious",
+    "start": 858.16,
+    "duration": 5.2
+  },
+  {
+    "text": "from a technical analyst perspective how",
+    "start": 860.68,
+    "duration": 5.04
+  },
+  {
+    "text": "did the earning surge impact the chart",
+    "start": 863.36,
+    "duration": 6.52
+  },
+  {
+    "text": "here and uh were you surprised",
+    "start": 865.72,
+    "duration": 6.96
+  },
+  {
+    "text": "well you know Nvidia has outperformed",
+    "start": 869.88,
+    "duration": 5.56
+  },
+  {
+    "text": "pretty much all of the other companies",
+    "start": 872.68,
+    "duration": 6.44
+  },
+  {
+    "text": "equities out there considering that it",
+    "start": 875.44,
+    "duration": 8.24
+  },
+  {
+    "text": "surged by 10% today doesn't surprise me",
+    "start": 879.12,
+    "duration": 7.519
+  },
+  {
+    "text": "in that the estimates the earning",
+    "start": 883.68,
+    "duration": 5.68
+  },
+  {
+    "text": "estimates prior to the announcement the",
+    "start": 886.639,
+    "duration": 5.44
+  },
+  {
+    "text": "other day were exceedingly high they",
+    "start": 889.36,
+    "duration": 6.479
+  },
+  {
+    "text": "were a high Benchmark to reach and then",
+    "start": 892.079,
+    "duration": 6.361
+  },
+  {
+    "text": "when the report came out they exceeded",
+    "start": 895.839,
+    "duration": 6.481
+  },
+  {
+    "text": "that bench Mark they are the only game",
+    "start": 898.44,
+    "duration": 8.319
+  },
+  {
+    "text": "in town um for AI right now they're",
+    "start": 902.32,
+    "duration": 6.959
+  },
+  {
+    "text": "developing a new platform called",
+    "start": 906.759,
+    "duration": 5.561
+  },
+  {
+    "text": "Blackwell and that is significant and",
+    "start": 909.279,
+    "duration": 5.12
+  },
+  {
+    "text": "they're keeping it in the same price",
+    "start": 912.32,
+    "duration": 5.199
+  },
+  {
+    "text": "range between anticipated between 30 and",
+    "start": 914.399,
+    "duration": 6.8
+  },
+  {
+    "text": "40,000 and this is not a single CPU chip",
+    "start": 917.519,
+    "duration": 7.041
+  },
+  {
+    "text": "but rather a rack of chips that are all",
+    "start": 921.199,
+    "duration": 9.76
+  },
+  {
+    "text": "related and it does have the to really",
+    "start": 924.56,
+    "duration": 9.839
+  },
+  {
+    "text": "transform and speed up the development",
+    "start": 930.959,
+    "duration": 7.44
+  },
+  {
+    "text": "in AI projects globally and that is",
+    "start": 934.399,
+    "duration": 7.12
+  },
+  {
+    "text": "significant there is no other company",
+    "start": 938.399,
+    "duration": 5.841
+  },
+  {
+    "text": "producing technology to the level that",
+    "start": 941.519,
+    "duration": 4.161
+  },
+  {
+    "text": "Nvidia",
+    "start": 944.24,
+    "duration": 4.92
+  },
+  {
+    "text": "is and it's hard to see any company like",
+    "start": 945.68,
+    "duration": 6.24
+  },
+  {
+    "text": "AMD or Intel catching up with them",
+    "start": 949.16,
+    "duration": 4.599
+  },
+  {
+    "text": "because they are so far ahead of the",
+    "start": 951.92,
+    "duration": 5.159
+  },
+  {
+    "text": "curve so the fact that it's up currently",
+    "start": 953.759,
+    "duration": 7.601
+  },
+  {
+    "text": "uh I mean it Rose I I think 10% well",
+    "start": 957.079,
+    "duration": 6.88
+  },
+  {
+    "text": "99.32% but if you look at this daily",
+    "start": 961.36,
+    "duration": 6.039
+  },
+  {
+    "text": "chart you have this former top at around",
+    "start": 963.959,
+    "duration": 6.68
+  },
+  {
+    "text": "958 it comes down and then hits this top",
+    "start": 967.399,
+    "duration": 5.88
+  },
+  {
+    "text": "just prior to the earning and gaps",
+    "start": 970.639,
+    "duration": 5.241
+  },
+  {
+    "text": "substantially higher now the big news",
+    "start": 973.279,
+    "duration": 4.881
+  },
+  {
+    "text": "right now with Nvidia is they announced",
+    "start": 975.88,
+    "duration": 6.439
+  },
+  {
+    "text": "a a 10 to1 stock split which makes sense",
+    "start": 978.16,
+    "duration": 6.52
+  },
+  {
+    "text": "now that it's over a thousand I don't",
+    "start": 982.319,
+    "duration": 5.32
+  },
+  {
+    "text": "think that there's another uh chip maker",
+    "start": 984.68,
+    "duration": 7.2
+  },
+  {
+    "text": "that can touch them for AI development",
+    "start": 987.639,
+    "duration": 8.481
+  },
+  {
+    "text": "uh gpus in the case of Nvidia yeah for",
+    "start": 991.88,
+    "duration": 6.879
+  },
+  {
+    "text": "processing power even even the others in",
+    "start": 996.12,
+    "duration": 4.399
+  },
+  {
+    "text": "their peers in the markets today were a",
+    "start": 998.759,
+    "duration": 3.601
+  },
+  {
+    "text": "little bit red you know with such a",
+    "start": 1000.519,
+    "duration": 3.521
+  },
+  {
+    "text": "strong performance there are technical",
+    "start": 1002.36,
+    "duration": 3.8
+  },
+  {
+    "text": "signs that might suggest I don't know an",
+    "start": 1004.04,
+    "duration": 3.919
+  },
+  {
+    "text": "overextension or are we going to",
+    "start": 1006.16,
+    "duration": 4.0
+  },
+  {
+    "text": "continue to see this gross here at least",
+    "start": 1007.959,
+    "duration": 4.32
+  },
+  {
+    "text": "some profit taking I mean we're just",
+    "start": 1010.16,
+    "duration": 4.08
+  },
+  {
+    "text": "expecting the market to take a breath",
+    "start": 1012.279,
+    "duration": 3.841
+  },
+  {
+    "text": "but this one's",
+    "start": 1014.24,
+    "duration": 6.0
+  },
+  {
+    "text": "resilient this is 100% % fundamentally",
+    "start": 1016.12,
+    "duration": 7.44
+  },
+  {
+    "text": "based yeah as long as they have an edge",
+    "start": 1020.24,
+    "duration": 5.839
+  },
+  {
+    "text": "and that edge is significant it's more",
+    "start": 1023.56,
+    "duration": 3.56
+  },
+  {
+    "text": "than",
+    "start": 1026.079,
+    "duration": 4.0
+  },
+  {
+    "text": "significant because the other dominant",
+    "start": 1027.12,
+    "duration": 7.36
+  },
+  {
+    "text": "players such as Intel AMD do not have",
+    "start": 1030.079,
+    "duration": 7.281
+  },
+  {
+    "text": "any product that will substitute what",
+    "start": 1034.48,
+    "duration": 6.76
+  },
+  {
+    "text": "this new Blackwell will or their former",
+    "start": 1037.36,
+    "duration": 6.439
+  },
+  {
+    "text": "um AI chips which is the",
+    "start": 1041.24,
+    "duration": 5.839
+  },
+  {
+    "text": "Cornerstone of all of these centers that",
+    "start": 1043.799,
+    "duration": 6.561
+  },
+  {
+    "text": "are doing large large language model",
+    "start": 1047.079,
+    "duration": 5.081
+  },
+  {
+    "text": "learning things that",
+    "start": 1050.36,
+    "duration": 5.48
+  },
+  {
+    "text": "require a t a tremendous amount of",
+    "start": 1052.16,
+    "duration": 6.08
+  },
+  {
+    "text": "processing power and there's no other",
+    "start": 1055.84,
+    "duration": 4.719
+  },
+  {
+    "text": "company that is able to deliver the",
+    "start": 1058.24,
+    "duration": 5.679
+  },
+  {
+    "text": "solution needed by these companies to",
+    "start": 1060.559,
+    "duration": 5.881
+  },
+  {
+    "text": "move forward and everybody is getting",
+    "start": 1063.919,
+    "duration": 4.681
+  },
+  {
+    "text": "into the a game whether it's Google",
+    "start": 1066.44,
+    "duration": 5.88
+  },
+  {
+    "text": "releasing Gemini um Microsoft releasing",
+    "start": 1068.6,
+    "duration": 6.12
+  },
+  {
+    "text": "their new platform All of You know open",
+    "start": 1072.32,
+    "duration": 4.68
+  },
+  {
+    "text": "AI all of the former players like chat",
+    "start": 1074.72,
+    "duration": 6.0
+  },
+  {
+    "text": "gbt there's Claude now Tesla's coming",
+    "start": 1077.0,
+    "duration": 6.919
+  },
+  {
+    "text": "out with a or it has has been a real",
+    "start": 1080.72,
+    "duration": 6.4
+  },
+  {
+    "text": "active player in AI so all of",
+    "start": 1083.919,
+    "duration": 8.401
+  },
+  {
+    "text": "the primary players are dependent upon",
+    "start": 1087.12,
+    "duration": 8.72
+  },
+  {
+    "text": "Nvidia to continue to grow their models",
+    "start": 1092.32,
+    "duration": 6.2
+  },
+  {
+    "text": "and to train their systems and to",
+    "start": 1095.84,
+    "duration": 5.48
+  },
+  {
+    "text": "develop the products they are developing",
+    "start": 1098.52,
+    "duration": 5.56
+  },
+  {
+    "text": "and those products are transforming the",
+    "start": 1101.32,
+    "duration": 6.28
+  },
+  {
+    "text": "workplace the way you and I and others",
+    "start": 1104.08,
+    "duration": 5.24
+  },
+  {
+    "text": "around the world work",
+    "start": 1107.6,
+    "duration": 4.76
+  },
+  {
+    "text": "because we're implementing the earliest",
+    "start": 1109.32,
+    "duration": 6.64
+  },
+  {
+    "text": "stages of these products now yeah yeah",
+    "start": 1112.36,
+    "duration": 5.36
+  },
+  {
+    "text": "it's almost like I said at the beginning",
+    "start": 1115.96,
+    "duration": 3.199
+  },
+  {
+    "text": "there it almost looks like we're at the",
+    "start": 1117.72,
+    "duration": 3.6
+  },
+  {
+    "text": "beginning of the internet boom once",
+    "start": 1119.159,
+    "duration": 4.601
+  },
+  {
+    "text": "again only it's the AI boom I'm curious",
+    "start": 1121.32,
+    "duration": 4.2
+  },
+  {
+    "text": "Gary when you look at the markets before",
+    "start": 1123.76,
+    "duration": 3.6
+  },
+  {
+    "text": "I let you go here and you look at the",
+    "start": 1125.52,
+    "duration": 3.279
+  },
+  {
+    "text": "overall strength of what you're seeing",
+    "start": 1127.36,
+    "duration": 3.28
+  },
+  {
+    "text": "today as a Trader is there anything",
+    "start": 1128.799,
+    "duration": 3.841
+  },
+  {
+    "text": "that's surprising you about the macro",
+    "start": 1130.64,
+    "duration": 3.72
+  },
+  {
+    "text": "situation just about the way that",
+    "start": 1132.64,
+    "duration": 3.72
+  },
+  {
+    "text": "they're reacting in this",
+    "start": 1134.36,
+    "duration": 5.16
+  },
+  {
+    "text": "environment well it takes me back to one",
+    "start": 1136.36,
+    "duration": 6.679
+  },
+  {
+    "text": "of my earliest mentors uh when I first",
+    "start": 1139.52,
+    "duration": 6.36
+  },
+  {
+    "text": "got in the industry and this is back in",
+    "start": 1143.039,
+    "duration": 7.481
+  },
+  {
+    "text": "83 and '84 so it dates me but I looked",
+    "start": 1145.88,
+    "duration": 7.96
+  },
+  {
+    "text": "at charts and and studied fundamentals",
+    "start": 1150.52,
+    "duration": 5.72
+  },
+  {
+    "text": "and the first thing I was taught about",
+    "start": 1153.84,
+    "duration": 6.12
+  },
+  {
+    "text": "equities was that it's not a stock",
+    "start": 1156.24,
+    "duration": 7.72
+  },
+  {
+    "text": "market but a market of stocks so it's",
+    "start": 1159.96,
+    "duration": 6.36
+  },
+  {
+    "text": "not so much about these sectors because",
+    "start": 1163.96,
+    "duration": 5.36
+  },
+  {
+    "text": "sectors are going to to run with certain",
+    "start": 1166.32,
+    "duration": 5.16
+  },
+  {
+    "text": "demands whether Automotive sector",
+    "start": 1169.32,
+    "duration": 5.239
+  },
+  {
+    "text": "running hot or cold but something like",
+    "start": 1171.48,
+    "duration": 6.48
+  },
+  {
+    "text": "Ai and the technology needed to move",
+    "start": 1174.559,
+    "duration": 7.681
+  },
+  {
+    "text": "forward with it the demand is huge and",
+    "start": 1177.96,
+    "duration": 7.16
+  },
+  {
+    "text": "there is only one pair of shoes that are",
+    "start": 1182.24,
+    "duration": 6.0
+  },
+  {
+    "text": "currently is filling that demand and the",
+    "start": 1185.12,
+    "duration": 7.439
+  },
+  {
+    "text": "curve to become competitive such as AMD",
+    "start": 1188.24,
+    "duration": 8.08
+  },
+  {
+    "text": "or or Intel coming up with a",
+    "start": 1192.559,
+    "duration": 8.641
+  },
+  {
+    "text": "alternative is so far removed from what",
+    "start": 1196.32,
+    "duration": 8.599
+  },
+  {
+    "text": "they're able to produce now it seems as",
+    "start": 1201.2,
+    "duration": 6.4
+  },
+  {
+    "text": "though the domination and dominance of",
+    "start": 1204.919,
+    "duration": 6.481
+  },
+  {
+    "text": "Nvidia can only Excel and can only get",
+    "start": 1207.6,
+    "duration": 7.0
+  },
+  {
+    "text": "stronger and so I would look for",
+    "start": 1211.4,
+    "duration": 6.519
+  },
+  {
+    "text": "particular stocks rather than Market",
+    "start": 1214.6,
+    "duration": 6.24
+  },
+  {
+    "text": "sectors right now in terms of investing",
+    "start": 1217.919,
+    "duration": 5.961
+  },
+  {
+    "text": "dollars in strength yeah well said and",
+    "start": 1220.84,
+    "duration": 5.04
+  },
+  {
+    "text": "well put uh thanks my friend we're out",
+    "start": 1223.88,
+    "duration": 3.76
+  },
+  {
+    "text": "of time already that's Gary Wagner of",
+    "start": 1225.88,
+    "duration": 4.12
+  },
+  {
+    "text": "course editor of the forecast.com and",
+    "start": 1227.64,
+    "duration": 4.88
+  },
+  {
+    "text": "our chief analyst I would say on the",
+    "start": 1230.0,
+    "duration": 4.159
+  },
+  {
+    "text": "technical side we appreciate you coming",
+    "start": 1232.52,
+    "duration": 4.2
+  },
+  {
+    "text": "on all the way from Hawaii Today Gary",
+    "start": 1234.159,
+    "duration": 5.561
+  },
+  {
+    "text": "again great to be here as always and uh",
+    "start": 1236.72,
+    "duration": 4.959
+  },
+  {
+    "text": "I look forward to uh doing this again",
+    "start": 1239.72,
+    "duration": 3.56
+  },
+  {
+    "text": "and sharing our knowledge with our",
+    "start": 1241.679,
+    "duration": 3.761
+  },
+  {
+    "text": "viewers yeah I appreciate it big thanks",
+    "start": 1243.28,
+    "duration": 4.0
+  },
+  {
+    "text": "to your son for helping us out today too",
+    "start": 1245.44,
+    "duration": 4.16
+  },
+  {
+    "text": "and for all of us here at Kiko news I'm",
+    "start": 1247.28,
+    "duration": 4.56
+  },
+  {
+    "text": "Jerry Safford we thank you for tuning in",
+    "start": 1249.6,
+    "duration": 3.92
+  },
+  {
+    "text": "uh we got great content coming your way",
+    "start": 1251.84,
+    "duration": 2.959
+  },
+  {
+    "text": "this week so don't forget to hit that",
+    "start": 1253.52,
+    "duration": 3.08
+  },
+  {
+    "text": "notifi button and we'll see you next",
+    "start": 1254.799,
+    "duration": 4.791
+  },
+  {
+    "text": "time",
+    "start": 1256.6,
+    "duration": 18.51
+  },
+  {
+    "text": "[Music]",
+    "start": 1259.59,
+    "duration": 15.52
+  }
+]

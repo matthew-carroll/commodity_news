@@ -1,0 +1,2022 @@
+[
+  {
+    "text": "well after months of waiting silver",
+    "start": 0.08,
+    "duration": 5.32
+  },
+  {
+    "text": "finally broke out today I have been",
+    "start": 2.8,
+    "duration": 5.719
+  },
+  {
+    "text": "pounding the table on my podcast and",
+    "start": 5.4,
+    "duration": 6.0
+  },
+  {
+    "text": "also on the special videos that I've",
+    "start": 8.519,
+    "duration": 6.401
+  },
+  {
+    "text": "recorded for shift gold to buy silver",
+    "start": 11.4,
+    "duration": 5.32
+  },
+  {
+    "text": "ahead of the breakout because it",
+    "start": 14.92,
+    "duration": 4.119
+  },
+  {
+    "text": "appeared to me that a breakout was",
+    "start": 16.72,
+    "duration": 4.68
+  },
+  {
+    "text": "eminent well now that breakout is",
+    "start": 19.039,
+    "duration": 5.48
+  },
+  {
+    "text": "history but the good news is it's still",
+    "start": 21.4,
+    "duration": 6.279
+  },
+  {
+    "text": "early it's not too late to buy silver",
+    "start": 24.519,
+    "duration": 5.08
+  },
+  {
+    "text": "sure it would have been better to buy it",
+    "start": 27.679,
+    "duration": 4.961
+  },
+  {
+    "text": "before it broke out but buying it right",
+    "start": 29.599,
+    "duration": 6.28
+  },
+  {
+    "text": "after the breakout is almost as good",
+    "start": 32.64,
+    "duration": 5.72
+  },
+  {
+    "text": "it's a lot better than weighted silver",
+    "start": 35.879,
+    "duration": 6.121
+  },
+  {
+    "text": "closed today not only above $30 an ounce",
+    "start": 38.36,
+    "duration": 6.76
+  },
+  {
+    "text": "but above $31 an ounce it finished a",
+    "start": 42.0,
+    "duration": 5.16
+  },
+  {
+    "text": "week at around",
+    "start": 45.12,
+    "duration": 5.04
+  },
+  {
+    "text": "$31.50 although I still see it trading",
+    "start": 47.16,
+    "duration": 6.199
+  },
+  {
+    "text": "that's up better than 6 and a half% on",
+    "start": 50.16,
+    "duration": 8.199
+  },
+  {
+    "text": "the day silver is now up more than 30%",
+    "start": 53.359,
+    "duration": 9.601
+  },
+  {
+    "text": "so far in 202 for today's close is the",
+    "start": 58.359,
+    "duration": 7.12
+  },
+  {
+    "text": "highest price and the highest close for",
+    "start": 62.96,
+    "duration": 7.36
+  },
+  {
+    "text": "silver since February of",
+    "start": 65.479,
+    "duration": 8.201
+  },
+  {
+    "text": "2013 and if you look at a chart it looks",
+    "start": 70.32,
+    "duration": 6.0
+  },
+  {
+    "text": "like the price is going to accelerate",
+    "start": 73.68,
+    "duration": 6.119
+  },
+  {
+    "text": "rapidly from here that's why I am",
+    "start": 76.32,
+    "duration": 6.439
+  },
+  {
+    "text": "recording this video but you know silver",
+    "start": 79.799,
+    "duration": 6.521
+  },
+  {
+    "text": "isn't the strongest metal year to date",
+    "start": 82.759,
+    "duration": 6.121
+  },
+  {
+    "text": "that honor goes to copper and it's not",
+    "start": 86.32,
+    "duration": 5.799
+  },
+  {
+    "text": "even precious copper was up about 4%",
+    "start": 88.88,
+    "duration": 6.599
+  },
+  {
+    "text": "today not quite as much as silver but it",
+    "start": 92.119,
+    "duration": 8.521
+  },
+  {
+    "text": "was up 33% so far in",
+    "start": 95.479,
+    "duration": 10.041
+  },
+  {
+    "text": "2024 you know I looked at the 1970s the",
+    "start": 100.64,
+    "duration": 8.079
+  },
+  {
+    "text": "inflationary decade of the 1970s and if",
+    "start": 105.52,
+    "duration": 4.84
+  },
+  {
+    "text": "you look at what happened at Copper",
+    "start": 108.719,
+    "duration": 6.641
+  },
+  {
+    "text": "prices from 1970 through 19 80 copper",
+    "start": 110.36,
+    "duration": 7.24
+  },
+  {
+    "text": "didn't even move that much it only moved",
+    "start": 115.36,
+    "duration": 5.2
+  },
+  {
+    "text": "up about 90% during in the course of",
+    "start": 117.6,
+    "duration": 5.6
+  },
+  {
+    "text": "that 10 years now that's still a pretty",
+    "start": 120.56,
+    "duration": 5.12
+  },
+  {
+    "text": "big increase 9% a year right that's a",
+    "start": 123.2,
+    "duration": 4.76
+  },
+  {
+    "text": "lot of inflation that drove up the price",
+    "start": 125.68,
+    "duration": 5.68
+  },
+  {
+    "text": "of copper but so far this decade since",
+    "start": 127.96,
+    "duration": 6.279
+  },
+  {
+    "text": "2020 before covid it actually got even",
+    "start": 131.36,
+    "duration": 5.159
+  },
+  {
+    "text": "cheaper if you measure it from the covid",
+    "start": 134.239,
+    "duration": 4.561
+  },
+  {
+    "text": "lows but I'm ignoring that if you just",
+    "start": 136.519,
+    "duration": 6.681
+  },
+  {
+    "text": "look at what's happened from 2020 to May",
+    "start": 138.8,
+    "duration": 8.56
+  },
+  {
+    "text": "2024 we're already up 80% this decade",
+    "start": 143.2,
+    "duration": 6.48
+  },
+  {
+    "text": "isn't even half over you know a lot of",
+    "start": 147.36,
+    "duration": 4.68
+  },
+  {
+    "text": "people people say this isn't the 1970s",
+    "start": 149.68,
+    "duration": 5.16
+  },
+  {
+    "text": "they're right it's not it's much worse",
+    "start": 152.04,
+    "duration": 5.36
+  },
+  {
+    "text": "than the 1970s that's what copper is",
+    "start": 154.84,
+    "duration": 4.399
+  },
+  {
+    "text": "telling you in fact if I look at a chart",
+    "start": 157.4,
+    "duration": 4.839
+  },
+  {
+    "text": "of copper I think an explosive move is",
+    "start": 159.239,
+    "duration": 6.64
+  },
+  {
+    "text": "coming we may even get to $10 a pound it",
+    "start": 162.239,
+    "duration": 7.521
+  },
+  {
+    "text": "closed over $5 today think about",
+    "start": 165.879,
+    "duration": 7.321
+  },
+  {
+    "text": "58 at $10 would represent a double from",
+    "start": 169.76,
+    "duration": 5.64
+  },
+  {
+    "text": "where it is right now but looking at the",
+    "start": 173.2,
+    "duration": 4.72
+  },
+  {
+    "text": "chart I think that kind of move can",
+    "start": 175.4,
+    "duration": 4.96
+  },
+  {
+    "text": "happen it may even happen as as soon as",
+    "start": 177.92,
+    "duration": 4.36
+  },
+  {
+    "text": "next year but even if it takes another",
+    "start": 180.36,
+    "duration": 3.64
+  },
+  {
+    "text": "two or three years for the price of",
+    "start": 182.28,
+    "duration": 5.4
+  },
+  {
+    "text": "copper to double that is a huge move and",
+    "start": 184.0,
+    "duration": 7.0
+  },
+  {
+    "text": "believe me if copper goes to $10 a pound",
+    "start": 187.68,
+    "duration": 5.479
+  },
+  {
+    "text": "silver is going to $100 an ounce",
+    "start": 191.0,
+    "duration": 5.48
+  },
+  {
+    "text": "probably higher and that means",
+    "start": 193.159,
+    "duration": 6.401
+  },
+  {
+    "text": "$31.50 is still cheap if you don't buy",
+    "start": 196.48,
+    "duration": 5.8
+  },
+  {
+    "text": "the breakout above $30 you may end up",
+    "start": 199.56,
+    "duration": 5.72
+  },
+  {
+    "text": "buying the breakout above $50 that could",
+    "start": 202.28,
+    "duration": 5.64
+  },
+  {
+    "text": "happen soon so I wouldn't wait I've been",
+    "start": 205.28,
+    "duration": 4.519
+  },
+  {
+    "text": "talking to the guys at shift gold and",
+    "start": 207.92,
+    "duration": 3.92
+  },
+  {
+    "text": "they've been telling me that a lot of",
+    "start": 209.799,
+    "duration": 4.36
+  },
+  {
+    "text": "our customers have been waiting for a",
+    "start": 211.84,
+    "duration": 4.319
+  },
+  {
+    "text": "pullback now if you've been listening to",
+    "start": 214.159,
+    "duration": 4.601
+  },
+  {
+    "text": "my podcast I've been advising people not",
+    "start": 216.159,
+    "duration": 5.201
+  },
+  {
+    "text": "to do that it's not worth it any",
+    "start": 218.76,
+    "duration": 4.479
+  },
+  {
+    "text": "pullbacks are going to be short and",
+    "start": 221.36,
+    "duration": 5.439
+  },
+  {
+    "text": "shallow it's not meaningful if you are a",
+    "start": 223.239,
+    "duration": 5.521
+  },
+  {
+    "text": "long-term buyer like if you want to",
+    "start": 226.799,
+    "duration": 5.841
+  },
+  {
+    "text": "trade silver or gold day trader oh sure",
+    "start": 228.76,
+    "duration": 6.16
+  },
+  {
+    "text": "yeah you got to be more strategic look",
+    "start": 232.64,
+    "duration": 4.76
+  },
+  {
+    "text": "for pullbacks but if you're day trading",
+    "start": 234.92,
+    "duration": 4.239
+  },
+  {
+    "text": "or even short-term trading you shouldn't",
+    "start": 237.4,
+    "duration": 5.039
+  },
+  {
+    "text": "be buying any physical silver or gold",
+    "start": 239.159,
+    "duration": 5.041
+  },
+  {
+    "text": "open up a Commodities account trade",
+    "start": 242.439,
+    "duration": 5.201
+  },
+  {
+    "text": "futures or buy an ETF at a uh you know",
+    "start": 244.2,
+    "duration": 6.0
+  },
+  {
+    "text": "discount broker that's what they're for",
+    "start": 247.64,
+    "duration": 5.12
+  },
+  {
+    "text": "they're for trading you don't trade",
+    "start": 250.2,
+    "duration": 4.84
+  },
+  {
+    "text": "physical gold and silver the transaction",
+    "start": 252.76,
+    "duration": 4.319
+  },
+  {
+    "text": "costs are too high what you do with",
+    "start": 255.04,
+    "duration": 4.0
+  },
+  {
+    "text": "physical gold and silver is you buy it",
+    "start": 257.079,
+    "duration": 4.521
+  },
+  {
+    "text": "and you keep it and you keep it until",
+    "start": 259.04,
+    "duration": 4.96
+  },
+  {
+    "text": "you need it not until you sell it a lot",
+    "start": 261.6,
+    "duration": 3.96
+  },
+  {
+    "text": "of people are going to need their",
+    "start": 264.0,
+    "duration": 4.52
+  },
+  {
+    "text": "precious metals especially their silver",
+    "start": 265.56,
+    "duration": 4.68
+  },
+  {
+    "text": "they're going to need it because it may",
+    "start": 268.52,
+    "duration": 4.64
+  },
+  {
+    "text": "be the only monetary instrument that",
+    "start": 270.24,
+    "duration": 5.239
+  },
+  {
+    "text": "other people may accept in exchange for",
+    "start": 273.16,
+    "duration": 4.08
+  },
+  {
+    "text": "goods and services we have a real",
+    "start": 275.479,
+    "duration": 4.401
+  },
+  {
+    "text": "currency crisis we have hyperinflation",
+    "start": 277.24,
+    "duration": 4.76
+  },
+  {
+    "text": "which is a distinct possibility how you",
+    "start": 279.88,
+    "duration": 3.159
+  },
+  {
+    "text": "going to buy",
+    "start": 282.0,
+    "duration": 4.0
+  },
+  {
+    "text": "stuff if we end up with price controls",
+    "start": 283.039,
+    "duration": 5.201
+  },
+  {
+    "text": "which I think may come there's going to",
+    "start": 286.0,
+    "duration": 4.039
+  },
+  {
+    "text": "be shortages there's going to be black",
+    "start": 288.24,
+    "duration": 3.84
+  },
+  {
+    "text": "markets how are you going to buy stuff",
+    "start": 290.039,
+    "duration": 4.521
+  },
+  {
+    "text": "on the black market it may be that",
+    "start": 292.08,
+    "duration": 4.6
+  },
+  {
+    "text": "silver is what you need so you're not",
+    "start": 294.56,
+    "duration": 3.479
+  },
+  {
+    "text": "actually going to sell your silver",
+    "start": 296.68,
+    "duration": 4.68
+  },
+  {
+    "text": "you're going to use it as money and one",
+    "start": 298.039,
+    "duration": 7.921
+  },
+  {
+    "text": "of the best monetary Silvers is junk",
+    "start": 301.36,
+    "duration": 7.04
+  },
+  {
+    "text": "silver if you don't know what junk",
+    "start": 305.96,
+    "duration": 7.12
+  },
+  {
+    "text": "silver is those are US coins minted by",
+    "start": 308.4,
+    "duration": 7.04
+  },
+  {
+    "text": "the United States that circulated as",
+    "start": 313.08,
+    "duration": 5.76
+  },
+  {
+    "text": "legal tender up until",
+    "start": 315.44,
+    "duration": 7.28
+  },
+  {
+    "text": "1964 all dimes quarters and half dollars",
+    "start": 318.84,
+    "duration": 7.479
+  },
+  {
+    "text": "were made of silver 90% silver to be",
+    "start": 322.72,
+    "duration": 7.64
+  },
+  {
+    "text": "exact in 1965 they took the silver",
+    "start": 326.319,
+    "duration": 7.561
+  },
+  {
+    "text": "out of uh the currency or the coins and",
+    "start": 330.36,
+    "duration": 5.88
+  },
+  {
+    "text": "they replaced it with nickel and",
+    "start": 333.88,
+    "duration": 4.48
+  },
+  {
+    "text": "copper but pre1",
+    "start": 336.24,
+    "duration": 4.44
+  },
+  {
+    "text": "1965 you get",
+    "start": 338.36,
+    "duration": 7.399
+  },
+  {
+    "text": "silver and they sell junk silver in bags",
+    "start": 340.68,
+    "duration": 6.6
+  },
+  {
+    "text": "and they call it junk because it's",
+    "start": 345.759,
+    "duration": 3.961
+  },
+  {
+    "text": "circulated know you can buy",
+    "start": 347.28,
+    "duration": 4.88
+  },
+  {
+    "text": "uncirculated uh dimes or quarters or",
+    "start": 349.72,
+    "duration": 4.319
+  },
+  {
+    "text": "half dollars and they cost more because",
+    "start": 352.16,
+    "duration": 4.879
+  },
+  {
+    "text": "they're more for collectors if you just",
+    "start": 354.039,
+    "duration": 5.961
+  },
+  {
+    "text": "want the silver that's in the coins then",
+    "start": 357.039,
+    "duration": 5.72
+  },
+  {
+    "text": "you buy the junk silver and they sell it",
+    "start": 360.0,
+    "duration": 6.68
+  },
+  {
+    "text": "by the bag a full bag is",
+    "start": 362.759,
+    "duration": 7.72
+  },
+  {
+    "text": ",000 face not a th000 ounces of silver",
+    "start": 366.68,
+    "duration": 8.359
+  },
+  {
+    "text": "but a th000 uh dollars face and you can",
+    "start": 370.479,
+    "duration": 6.72
+  },
+  {
+    "text": "buy it in fractions of a bad we're",
+    "start": 375.039,
+    "duration": 4.961
+  },
+  {
+    "text": "running a special at shift gold over",
+    "start": 377.199,
+    "duration": 5.28
+  },
+  {
+    "text": "this weekend so you can call don't even",
+    "start": 380.0,
+    "duration": 4.4
+  },
+  {
+    "text": "wait till Monday you could do it over",
+    "start": 382.479,
+    "duration": 4.641
+  },
+  {
+    "text": "the weekend we're going to be selling",
+    "start": 384.4,
+    "duration": 6.68
+  },
+  {
+    "text": "junk silver at $1.79 over spot this is a",
+    "start": 387.12,
+    "duration": 5.96
+  },
+  {
+    "text": "very low price and in fact looking at",
+    "start": 391.08,
+    "duration": 5.239
+  },
+  {
+    "text": "the premiums historically junk silver is",
+    "start": 393.08,
+    "duration": 6.2
+  },
+  {
+    "text": "cheap it's cheaper over spot than it",
+    "start": 396.319,
+    "duration": 5.88
+  },
+  {
+    "text": "normally is I expect that to change I",
+    "start": 399.28,
+    "duration": 5.319
+  },
+  {
+    "text": "think the move up in silver is going to",
+    "start": 402.199,
+    "duration": 4.44
+  },
+  {
+    "text": "attract a lot of demand and there's not",
+    "start": 404.599,
+    "duration": 5.401
+  },
+  {
+    "text": "a lot of supply of these bags so while",
+    "start": 406.639,
+    "duration": 6.0
+  },
+  {
+    "text": "there is some you should contact shift",
+    "start": 410.0,
+    "duration": 5.479
+  },
+  {
+    "text": "gold if you want to get half a dollars",
+    "start": 412.639,
+    "duration": 3.84
+  },
+  {
+    "text": "and they're you know they're nice",
+    "start": 415.479,
+    "duration": 3.081
+  },
+  {
+    "text": "looking coins uh you know you get the",
+    "start": 416.479,
+    "duration": 4.12
+  },
+  {
+    "text": "Kennedy half dollar the Ben Franklin",
+    "start": 418.56,
+    "duration": 4.4
+  },
+  {
+    "text": "half dollars you can buy those but",
+    "start": 420.599,
+    "duration": 5.44
+  },
+  {
+    "text": "they're actually 50 cents an ounce extra",
+    "start": 422.96,
+    "duration": 5.04
+  },
+  {
+    "text": "more than a dime or a quarter the dimes",
+    "start": 426.039,
+    "duration": 3.321
+  },
+  {
+    "text": "are a pretty good deal because if you",
+    "start": 428.0,
+    "duration": 3.479
+  },
+  {
+    "text": "want a really small quantity they're",
+    "start": 429.36,
+    "duration": 3.959
+  },
+  {
+    "text": "perfect for barter and they don't you",
+    "start": 431.479,
+    "duration": 3.361
+  },
+  {
+    "text": "know they don't cost anymore the reason",
+    "start": 433.319,
+    "duration": 3.681
+  },
+  {
+    "text": "that the half dollars are more expensive",
+    "start": 434.84,
+    "duration": 4.0
+  },
+  {
+    "text": "is they didn't mint as many there's not",
+    "start": 437.0,
+    "duration": 4.12
+  },
+  {
+    "text": "as many half dollars around as there are",
+    "start": 438.84,
+    "duration": 4.12
+  },
+  {
+    "text": "dimes and quarters so it's all a supply",
+    "start": 441.12,
+    "duration": 4.759
+  },
+  {
+    "text": "and demand situation plus people like",
+    "start": 442.96,
+    "duration": 5.72
+  },
+  {
+    "text": "the half dollars just as a solid coin",
+    "start": 445.879,
+    "duration": 4.561
+  },
+  {
+    "text": "and so you're going to pay more if you",
+    "start": 448.68,
+    "duration": 3.76
+  },
+  {
+    "text": "want to get them but the key is to get",
+    "start": 450.44,
+    "duration": 5.28
+  },
+  {
+    "text": "them before the price and the premium go",
+    "start": 452.44,
+    "duration": 5.599
+  },
+  {
+    "text": "much higher you know every time we get",
+    "start": 455.72,
+    "duration": 3.84
+  },
+  {
+    "text": "one of these strong",
+    "start": 458.039,
+    "duration": 4.121
+  },
+  {
+    "text": "Fridays I think maybe over the weekend",
+    "start": 459.56,
+    "duration": 4.4
+  },
+  {
+    "text": "we're going to get an explosive rally",
+    "start": 462.16,
+    "duration": 3.479
+  },
+  {
+    "text": "Sunday night come Monday morning we're",
+    "start": 463.96,
+    "duration": 4.28
+  },
+  {
+    "text": "going to Gap way up we haven't had that",
+    "start": 465.639,
+    "duration": 5.52
+  },
+  {
+    "text": "happen yet but it's gonna happen and I",
+    "start": 468.24,
+    "duration": 5.04
+  },
+  {
+    "text": "think when we get a real big move",
+    "start": 471.159,
+    "duration": 4.401
+  },
+  {
+    "text": "because today's move was solid but it",
+    "start": 473.28,
+    "duration": 4.759
+  },
+  {
+    "text": "wasn't you know the type of move that I",
+    "start": 475.56,
+    "duration": 5.88
+  },
+  {
+    "text": "know is coming that may happen Monday it",
+    "start": 478.039,
+    "duration": 5.361
+  },
+  {
+    "text": "may not it may happen on another Monday",
+    "start": 481.44,
+    "duration": 4.479
+  },
+  {
+    "text": "or any given day but I think there's a",
+    "start": 483.4,
+    "duration": 4.639
+  },
+  {
+    "text": "good chance that when gold and silver",
+    "start": 485.919,
+    "duration": 3.601
+  },
+  {
+    "text": "really break out it's going to be in",
+    "start": 488.039,
+    "duration": 4.28
+  },
+  {
+    "text": "Asia because that's where all the buying",
+    "start": 489.52,
+    "duration": 4.76
+  },
+  {
+    "text": "is coming from in fact if you look at",
+    "start": 492.319,
+    "duration": 4.6
+  },
+  {
+    "text": "the prices that are being paid in China",
+    "start": 494.28,
+    "duration": 4.8
+  },
+  {
+    "text": "for gold and silver especially silver",
+    "start": 496.919,
+    "duration": 4.441
+  },
+  {
+    "text": "they're paying big premiums over what",
+    "start": 499.08,
+    "duration": 4.559
+  },
+  {
+    "text": "we're paying over here so that's where",
+    "start": 501.36,
+    "duration": 4.16
+  },
+  {
+    "text": "the buying is taking place in fact if",
+    "start": 503.639,
+    "duration": 5.4
+  },
+  {
+    "text": "you look at investors both in the US and",
+    "start": 505.52,
+    "duration": 5.04
+  },
+  {
+    "text": "Europe",
+    "start": 509.039,
+    "duration": 4.24
+  },
+  {
+    "text": "they've been net sellers the ETFs the",
+    "start": 510.56,
+    "duration": 5.959
+  },
+  {
+    "text": "gold ETFs have had net outflows for the",
+    "start": 513.279,
+    "duration": 5.961
+  },
+  {
+    "text": "last 11 months now I don't know so far",
+    "start": 516.519,
+    "duration": 4.76
+  },
+  {
+    "text": "for May maybe it'll change because this",
+    "start": 519.24,
+    "duration": 3.84
+  },
+  {
+    "text": "month isn't over and we don't have the",
+    "start": 521.279,
+    "duration": 4.12
+  },
+  {
+    "text": "data but for the prior 11 months",
+    "start": 523.08,
+    "duration": 5.0
+  },
+  {
+    "text": "investors that buy ETFs have been",
+    "start": 525.399,
+    "duration": 6.12
+  },
+  {
+    "text": "selling gold the entire time that it's R",
+    "start": 528.08,
+    "duration": 6.64
+  },
+  {
+    "text": "gold closed the day up",
+    "start": 531.519,
+    "duration": 8.801
+  },
+  {
+    "text": "$40 it closed at$ 2415 approximately",
+    "start": 534.72,
+    "duration": 8.359
+  },
+  {
+    "text": "$40 an ounce on the day this is the",
+    "start": 540.32,
+    "duration": 6.6
+  },
+  {
+    "text": "highest close ever for gold it's the",
+    "start": 543.079,
+    "duration": 5.641
+  },
+  {
+    "text": "highest weekly close ever because we",
+    "start": 546.92,
+    "duration": 3.96
+  },
+  {
+    "text": "happen to be at the end of the week it's",
+    "start": 548.72,
+    "duration": 4.559
+  },
+  {
+    "text": "not the highest price ever because back",
+    "start": 550.88,
+    "duration": 7.16
+  },
+  {
+    "text": "in April intraday we traded as high as",
+    "start": 553.279,
+    "duration": 7.481
+  },
+  {
+    "text": "2,430 we didn't close there we sold off",
+    "start": 558.04,
+    "duration": 4.68
+  },
+  {
+    "text": "quickly that was about you know early in",
+    "start": 560.76,
+    "duration": 6.36
+  },
+  {
+    "text": "the morning today we closed higher than",
+    "start": 562.72,
+    "duration": 7.679
+  },
+  {
+    "text": "we did the day gold set that all-time",
+    "start": 567.12,
+    "duration": 5.719
+  },
+  {
+    "text": "record high I think that's extremely",
+    "start": 570.399,
+    "duration": 4.88
+  },
+  {
+    "text": "bullish the charts look phenomenal for",
+    "start": 572.839,
+    "duration": 6.961
+  },
+  {
+    "text": "Gold Silver and copper also uh platinum",
+    "start": 575.279,
+    "duration": 6.721
+  },
+  {
+    "text": "and padium have been moving up as well I",
+    "start": 579.8,
+    "duration": 5.24
+  },
+  {
+    "text": "mean it's the entire Metals complex that",
+    "start": 582.0,
+    "duration": 6.56
+  },
+  {
+    "text": "has been rising you know recently um",
+    "start": 585.04,
+    "duration": 5.56
+  },
+  {
+    "text": "jome pal said he doesn't see any",
+    "start": 588.56,
+    "duration": 5.399
+  },
+  {
+    "text": "evidence of stagflation he sees no stag",
+    "start": 590.6,
+    "duration": 5.88
+  },
+  {
+    "text": "he sees no flation well he's CLE clearly",
+    "start": 593.959,
+    "duration": 4.481
+  },
+  {
+    "text": "not looking at Copper not looking at",
+    "start": 596.48,
+    "duration": 4.359
+  },
+  {
+    "text": "Silver you know silver is an industrial",
+    "start": 598.44,
+    "duration": 5.36
+  },
+  {
+    "text": "metal but it's also a precious metal",
+    "start": 600.839,
+    "duration": 7.161
+  },
+  {
+    "text": "copper is more of a industrial",
+    "start": 603.8,
+    "duration": 7.0
+  },
+  {
+    "text": "metal I think what's happening in silver",
+    "start": 608.0,
+    "duration": 7.0
+  },
+  {
+    "text": "and copper is even more indicative of",
+    "start": 610.8,
+    "duration": 6.64
+  },
+  {
+    "text": "inflationary pressures building than",
+    "start": 615.0,
+    "duration": 5.64
+  },
+  {
+    "text": "what's happening in Gold the big buyers",
+    "start": 617.44,
+    "duration": 4.8
+  },
+  {
+    "text": "in Gold have been the central banks",
+    "start": 620.64,
+    "duration": 3.24
+  },
+  {
+    "text": "they're not buying any silver they're",
+    "start": 622.24,
+    "duration": 3.96
+  },
+  {
+    "text": "not buying any copper this is being",
+    "start": 623.88,
+    "duration": 4.639
+  },
+  {
+    "text": "driven by inflation and it's not",
+    "start": 626.2,
+    "duration": 5.52
+  },
+  {
+    "text": "investors who are buying they should be",
+    "start": 628.519,
+    "duration": 5.361
+  },
+  {
+    "text": "but it this is real buying from the real",
+    "start": 631.72,
+    "duration": 4.359
+  },
+  {
+    "text": "economy now sure gold is an industrial",
+    "start": 633.88,
+    "duration": 4.84
+  },
+  {
+    "text": "metal too it's used in industry just not",
+    "start": 636.079,
+    "duration": 4.801
+  },
+  {
+    "text": "nearly as much as silver because the",
+    "start": 638.72,
+    "duration": 4.44
+  },
+  {
+    "text": "price is too high so they use silver",
+    "start": 640.88,
+    "duration": 5.32
+  },
+  {
+    "text": "instead and in some cases silver is too",
+    "start": 643.16,
+    "duration": 5.56
+  },
+  {
+    "text": "expensive so they use copper but these",
+    "start": 646.2,
+    "duration": 5.079
+  },
+  {
+    "text": "are very important metals and they are",
+    "start": 648.72,
+    "duration": 5.52
+  },
+  {
+    "text": "flashing an inflationary warning that",
+    "start": 651.279,
+    "duration": 6.401
+  },
+  {
+    "text": "the FED is oblivious to the same thing",
+    "start": 654.24,
+    "duration": 5.52
+  },
+  {
+    "text": "with the weakness in the economy",
+    "start": 657.68,
+    "duration": 4.959
+  },
+  {
+    "text": "we have been overwhelmed with economic",
+    "start": 659.76,
+    "duration": 4.12
+  },
+  {
+    "text": "data",
+    "start": 662.639,
+    "duration": 3.961
+  },
+  {
+    "text": "recently of weakness in the",
+    "start": 663.88,
+    "duration": 7.24
+  },
+  {
+    "text": "economy and Pal doesn't see that either",
+    "start": 666.6,
+    "duration": 7.28
+  },
+  {
+    "text": "everybody is delusional in thinking we",
+    "start": 671.12,
+    "duration": 5.2
+  },
+  {
+    "text": "have this strong economy and inflation",
+    "start": 673.88,
+    "duration": 5.8
+  },
+  {
+    "text": "is on track to return to 2% we have a",
+    "start": 676.32,
+    "duration": 5.12
+  },
+  {
+    "text": "weak economy the only thing that's",
+    "start": 679.68,
+    "duration": 4.92
+  },
+  {
+    "text": "strong is inflation and prices are about",
+    "start": 681.44,
+    "duration": 6.72
+  },
+  {
+    "text": "to start to rise far more rapidly in the",
+    "start": 684.6,
+    "duration": 6.76
+  },
+  {
+    "text": "near future then they've been rising in",
+    "start": 688.16,
+    "duration": 6.96
+  },
+  {
+    "text": "the recent past so the key is before the",
+    "start": 691.36,
+    "duration": 6.84
+  },
+  {
+    "text": "investment Community wakes up to what's",
+    "start": 695.12,
+    "duration": 7.64
+  },
+  {
+    "text": "going on you want to buy precious metals",
+    "start": 698.2,
+    "duration": 6.72
+  },
+  {
+    "text": "and if you look at the action in the",
+    "start": 702.76,
+    "duration": 4.28
+  },
+  {
+    "text": "mining stocks which I'm very much",
+    "start": 704.92,
+    "duration": 5.599
+  },
+  {
+    "text": "involved in I have most of my precious",
+    "start": 707.04,
+    "duration": 6.599
+  },
+  {
+    "text": "metal exposure personally in mining",
+    "start": 710.519,
+    "duration": 6.481
+  },
+  {
+    "text": "stocks and that's because I'm so bullish",
+    "start": 713.639,
+    "duration": 5.32
+  },
+  {
+    "text": "on gold and silver that I want to own",
+    "start": 717.0,
+    "duration": 4.44
+  },
+  {
+    "text": "the companies that not only mine it but",
+    "start": 718.959,
+    "duration": 5.281
+  },
+  {
+    "text": "that have it in the ground because when",
+    "start": 721.44,
+    "duration": 6.68
+  },
+  {
+    "text": "you own a Mining stock you own the gold",
+    "start": 724.24,
+    "duration": 5.88
+  },
+  {
+    "text": "and silver that is in the ground that",
+    "start": 728.12,
+    "duration": 3.6
+  },
+  {
+    "text": "the mines own that they're going to",
+    "start": 730.12,
+    "duration": 3.399
+  },
+  {
+    "text": "bring out of the ground in the future",
+    "start": 731.72,
+    "duration": 3.559
+  },
+  {
+    "text": "when the price is even higher and",
+    "start": 733.519,
+    "duration": 3.041
+  },
+  {
+    "text": "they're going to sell it and they're",
+    "start": 735.279,
+    "duration": 3.401
+  },
+  {
+    "text": "going to make a ton of money so I've",
+    "start": 736.56,
+    "duration": 4.44
+  },
+  {
+    "text": "been so bullish on gold and silver that",
+    "start": 738.68,
+    "duration": 5.56
+  },
+  {
+    "text": "I've loaded up on mining stocks now over",
+    "start": 741.0,
+    "duration": 6.0
+  },
+  {
+    "text": "the last 10 years in general buying",
+    "start": 744.24,
+    "duration": 5.56
+  },
+  {
+    "text": "physical gold has actually been better",
+    "start": 747.0,
+    "duration": 5.12
+  },
+  {
+    "text": "than buying the mining stocks the reason",
+    "start": 749.8,
+    "duration": 5.159
+  },
+  {
+    "text": "for that is the entire rally investors",
+    "start": 752.12,
+    "duration": 4.56
+  },
+  {
+    "text": "have remained skeptical they don't",
+    "start": 754.959,
+    "duration": 4.401
+  },
+  {
+    "text": "believe it investors expect gold and",
+    "start": 756.68,
+    "duration": 4.92
+  },
+  {
+    "text": "silver prices to fall and so they don't",
+    "start": 759.36,
+    "duration": 4.479
+  },
+  {
+    "text": "want to buy uh gold and silver mining",
+    "start": 761.6,
+    "duration": 3.96
+  },
+  {
+    "text": "stocks because they expect earnings in",
+    "start": 763.839,
+    "duration": 3.641
+  },
+  {
+    "text": "the future to fall because they think",
+    "start": 765.56,
+    "duration": 4.079
+  },
+  {
+    "text": "gold and silver prices are going down",
+    "start": 767.48,
+    "duration": 5.68
+  },
+  {
+    "text": "this is the most unloved precious metals",
+    "start": 769.639,
+    "duration": 6.56
+  },
+  {
+    "text": "bull market in history which means it's",
+    "start": 773.16,
+    "duration": 6.119
+  },
+  {
+    "text": "got a long way to go it's not even close",
+    "start": 776.199,
+    "duration": 6.481
+  },
+  {
+    "text": "a capitulation what we need is the",
+    "start": 779.279,
+    "duration": 6.521
+  },
+  {
+    "text": "precious metals Bears to capitulate that",
+    "start": 782.68,
+    "duration": 5.68
+  },
+  {
+    "text": "has to happen we need to see investors",
+    "start": 785.8,
+    "duration": 4.64
+  },
+  {
+    "text": "who have been shorting gold mining",
+    "start": 788.36,
+    "duration": 5.44
+  },
+  {
+    "text": "stocks or just avoiding them to buy them",
+    "start": 790.44,
+    "duration": 6.92
+  },
+  {
+    "text": "because even though the GDX and the gdxj",
+    "start": 793.8,
+    "duration": 7.0
+  },
+  {
+    "text": "which are indexes of gold and silver",
+    "start": 797.36,
+    "duration": 7.88
+  },
+  {
+    "text": "mining stocks even though both of those",
+    "start": 800.8,
+    "duration": 7.92
+  },
+  {
+    "text": "indexes closed at 52 week highs today",
+    "start": 805.24,
+    "duration": 5.56
+  },
+  {
+    "text": "there are fraction of their all-time",
+    "start": 808.72,
+    "duration": 5.64
+  },
+  {
+    "text": "highs and the GDX was up a little over",
+    "start": 810.8,
+    "duration": 7.159
+  },
+  {
+    "text": "3% today gdxj maybe 4 and a half% those",
+    "start": 814.36,
+    "duration": 6.919
+  },
+  {
+    "text": "are big moves but they're not nearly big",
+    "start": 817.959,
+    "duration": 6.601
+  },
+  {
+    "text": "enough considering what's going on",
+    "start": 821.279,
+    "duration": 5.521
+  },
+  {
+    "text": "considering where the price of gold and",
+    "start": 824.56,
+    "duration": 4.92
+  },
+  {
+    "text": "silver are right now where they closed",
+    "start": 826.8,
+    "duration": 4.92
+  },
+  {
+    "text": "and where they're likely to be in the",
+    "start": 829.48,
+    "duration": 5.359
+  },
+  {
+    "text": "near future institutions are not buying",
+    "start": 831.72,
+    "duration": 4.16
+  },
+  {
+    "text": "these",
+    "start": 834.839,
+    "duration": 4.841
+  },
+  {
+    "text": "stocks and what that tells me is prices",
+    "start": 835.88,
+    "duration": 5.759
+  },
+  {
+    "text": "are going to keep Rising until they do",
+    "start": 839.68,
+    "duration": 5.0
+  },
+  {
+    "text": "buy gold and silver prices I think are",
+    "start": 841.639,
+    "duration": 5.44
+  },
+  {
+    "text": "not going to have any meaningful",
+    "start": 844.68,
+    "duration": 4.719
+  },
+  {
+    "text": "correction that represents any kind of",
+    "start": 847.079,
+    "duration": 4.801
+  },
+  {
+    "text": "buying opportunity until the price is",
+    "start": 849.399,
+    "duration": 5.281
+  },
+  {
+    "text": "high enough to cause the Bears to",
+    "start": 851.88,
+    "duration": 5.8
+  },
+  {
+    "text": "capitulate and we're not even close to",
+    "start": 854.68,
+    "duration": 5.279
+  },
+  {
+    "text": "that moment we haven't had big short",
+    "start": 857.68,
+    "duration": 5.159
+  },
+  {
+    "text": "covering we haven't had a big influx of",
+    "start": 859.959,
+    "duration": 5.56
+  },
+  {
+    "text": "buying we haven't even seen gold and",
+    "start": 862.839,
+    "duration": 5.12
+  },
+  {
+    "text": "silver stocks get upgraded nobody is",
+    "start": 865.519,
+    "duration": 4.76
+  },
+  {
+    "text": "putting buys on stock stocks uh that are",
+    "start": 867.959,
+    "duration": 4.961
+  },
+  {
+    "text": "holds uh nobody is reiterating or",
+    "start": 870.279,
+    "duration": 5.161
+  },
+  {
+    "text": "raising their price targets everybody on",
+    "start": 872.92,
+    "duration": 5.08
+  },
+  {
+    "text": "Wall Street is oblivious to what's",
+    "start": 875.44,
+    "duration": 3.8
+  },
+  {
+    "text": "happening I don't know if they're",
+    "start": 878.0,
+    "duration": 3.36
+  },
+  {
+    "text": "intentionally not noticing it or they",
+    "start": 879.24,
+    "duration": 3.88
+  },
+  {
+    "text": "just literally don't notice it because",
+    "start": 881.36,
+    "duration": 3.32
+  },
+  {
+    "text": "none of these stocks are on anybody's",
+    "start": 883.12,
+    "duration": 4.48
+  },
+  {
+    "text": "screen nobody even cares about gold and",
+    "start": 884.68,
+    "duration": 5.32
+  },
+  {
+    "text": "silver maybe they talk about Bitcoin and",
+    "start": 887.6,
+    "duration": 4.64
+  },
+  {
+    "text": "that's been a big distraction to prevent",
+    "start": 890.0,
+    "duration": 4.32
+  },
+  {
+    "text": "people with seeing what's happening in",
+    "start": 892.24,
+    "duration": 4.399
+  },
+  {
+    "text": "real gold because they've been fixated",
+    "start": 894.32,
+    "duration": 5.16
+  },
+  {
+    "text": "on Fool's Gold well the smart money has",
+    "start": 896.639,
+    "duration": 5.12
+  },
+  {
+    "text": "been buying physical gold and silver",
+    "start": 899.48,
+    "duration": 6.64
+  },
+  {
+    "text": "underneath the radar and so I recommend",
+    "start": 901.759,
+    "duration": 6.88
+  },
+  {
+    "text": "that my clients take advantage again the",
+    "start": 906.12,
+    "duration": 5.24
+  },
+  {
+    "text": "guys at shift gold are going to work all",
+    "start": 908.639,
+    "duration": 6.281
+  },
+  {
+    "text": "weekend so that you could buy before the",
+    "start": 911.36,
+    "duration": 7.24
+  },
+  {
+    "text": "open on Monday now maybe Gold's not",
+    "start": 914.92,
+    "duration": 5.599
+  },
+  {
+    "text": "going to take off but you know what",
+    "start": 918.6,
+    "duration": 4.12
+  },
+  {
+    "text": "doesn't matter you got to buy it anyway",
+    "start": 920.519,
+    "duration": 4.56
+  },
+  {
+    "text": "but who knows something could be going",
+    "start": 922.72,
+    "duration": 4.32
+  },
+  {
+    "text": "on something big could be happening in",
+    "start": 925.079,
+    "duration": 5.041
+  },
+  {
+    "text": "Asia and maybe just may while Americans",
+    "start": 927.04,
+    "duration": 5.0
+  },
+  {
+    "text": "are enjoying their Sunday you're going",
+    "start": 930.12,
+    "duration": 4.88
+  },
+  {
+    "text": "to see an explosive rally uh overnight",
+    "start": 932.04,
+    "duration": 4.919
+  },
+  {
+    "text": "they wake up Monday morning and they're",
+    "start": 935.0,
+    "duration": 4.48
+  },
+  {
+    "text": "going to see much higher prices in gold",
+    "start": 936.959,
+    "duration": 5.281
+  },
+  {
+    "text": "or silver I'd rather buy mine now and",
+    "start": 939.48,
+    "duration": 6.12
+  },
+  {
+    "text": "own it than be surprised uh by not",
+    "start": 942.24,
+    "duration": 5.44
+  },
+  {
+    "text": "buying it and have that happen because",
+    "start": 945.6,
+    "duration": 4.56
+  },
+  {
+    "text": "even if it doesn't explode on Monday you",
+    "start": 947.68,
+    "duration": 5.279
+  },
+  {
+    "text": "got it I don't see significant downside",
+    "start": 950.16,
+    "duration": 4.479
+  },
+  {
+    "text": "from here maybe Silver's never going",
+    "start": 952.959,
+    "duration": 4.961
+  },
+  {
+    "text": "back below 30 I don't know maybe uh we",
+    "start": 954.639,
+    "duration": 5.68
+  },
+  {
+    "text": "have support just below there but we're",
+    "start": 957.92,
+    "duration": 4.68
+  },
+  {
+    "text": "at 3150 what difference does it make",
+    "start": 960.319,
+    "duration": 4.96
+  },
+  {
+    "text": "again when silver is at $100 an ounce is",
+    "start": 962.6,
+    "duration": 4.479
+  },
+  {
+    "text": "it going to matter if you bought it at",
+    "start": 965.279,
+    "duration": 5.721
+  },
+  {
+    "text": "31 or 29 or 28 or 32 no it's not going",
+    "start": 967.079,
+    "duration": 5.841
+  },
+  {
+    "text": "to matter what's going to matter is if",
+    "start": 971.0,
+    "duration": 3.72
+  },
+  {
+    "text": "it's at 100 and you still haven't bought",
+    "start": 972.92,
+    "duration": 3.96
+  },
+  {
+    "text": "it because you're waiting for a pullback",
+    "start": 974.72,
+    "duration": 5.0
+  },
+  {
+    "text": "there's no reason to wait just call up",
+    "start": 976.88,
+    "duration": 6.399
+  },
+  {
+    "text": "uh shift gold uh and they will uh",
+    "start": 979.72,
+    "duration": 6.479
+  },
+  {
+    "text": "recommend or help you with the junk",
+    "start": 983.279,
+    "duration": 5.321
+  },
+  {
+    "text": "silver with the special that we have and",
+    "start": 986.199,
+    "duration": 3.721
+  },
+  {
+    "text": "of course you could buy anything you",
+    "start": 988.6,
+    "duration": 3.159
+  },
+  {
+    "text": "don't have to buy the junk silver",
+    "start": 989.92,
+    "duration": 3.76
+  },
+  {
+    "text": "special I just think that it's a great",
+    "start": 991.759,
+    "duration": 3.921
+  },
+  {
+    "text": "time to do and if you don't have some",
+    "start": 993.68,
+    "duration": 3.88
+  },
+  {
+    "text": "you should get some and if you have some",
+    "start": 995.68,
+    "duration": 4.159
+  },
+  {
+    "text": "it's an opportunity to buy more but you",
+    "start": 997.56,
+    "duration": 4.44
+  },
+  {
+    "text": "can also buy gold you know on this",
+    "start": 999.839,
+    "duration": 4.601
+  },
+  {
+    "text": "breakout it's a first time ever closing",
+    "start": 1002.0,
+    "duration": 6.48
+  },
+  {
+    "text": "above 2400 eventually $2,400 gold is",
+    "start": 1004.44,
+    "duration": 6.879
+  },
+  {
+    "text": "going to be very cheap and so before it",
+    "start": 1008.48,
+    "duration": 5.159
+  },
+  {
+    "text": "it it is you want to buy it before we",
+    "start": 1011.319,
+    "duration": 4.681
+  },
+  {
+    "text": "get a real expensive price people think",
+    "start": 1013.639,
+    "duration": 4.481
+  },
+  {
+    "text": "the current price of gold is expensive",
+    "start": 1016.0,
+    "duration": 3.519
+  },
+  {
+    "text": "because they don't have perspective",
+    "start": 1018.12,
+    "duration": 2.639
+  },
+  {
+    "text": "they're just looking in the rear viw",
+    "start": 1019.519,
+    "duration": 3.841
+  },
+  {
+    "text": "mirror and they're lot looking ahead at",
+    "start": 1020.759,
+    "duration": 5.401
+  },
+  {
+    "text": "what the prices are likely to be in the",
+    "start": 1023.36,
+    "duration": 5.36
+  },
+  {
+    "text": "future and again if you are more",
+    "start": 1026.16,
+    "duration": 5.44
+  },
+  {
+    "text": "speculative gold is a conservative store",
+    "start": 1028.72,
+    "duration": 6.839
+  },
+  {
+    "text": "of value it's a safe haven if you want",
+    "start": 1031.6,
+    "duration": 5.719
+  },
+  {
+    "text": "to look at the",
+    "start": 1035.559,
+    "duration": 4.36
+  },
+  {
+    "text": "opportunities of mining stocks if you",
+    "start": 1037.319,
+    "duration": 4.801
+  },
+  {
+    "text": "don't want to buy just gold and silver",
+    "start": 1039.919,
+    "duration": 5.52
+  },
+  {
+    "text": "at shift gold but you want to own the",
+    "start": 1042.12,
+    "duration": 5.04
+  },
+  {
+    "text": "mining companies that have the silver",
+    "start": 1045.439,
+    "duration": 4.321
+  },
+  {
+    "text": "and gold in the ground then contact the",
+    "start": 1047.16,
+    "duration": 4.84
+  },
+  {
+    "text": "representatives at europacific asset",
+    "start": 1049.76,
+    "duration": 4.919
+  },
+  {
+    "text": "management or look into the europacific",
+    "start": 1052.0,
+    "duration": 5.64
+  },
+  {
+    "text": "gold fund that could be bought no load",
+    "start": 1054.679,
+    "duration": 5.521
+  },
+  {
+    "text": "at any of the major uh discount",
+    "start": 1057.64,
+    "duration": 5.48
+  },
+  {
+    "text": "brokerage houses that's it for now enjoy",
+    "start": 1060.2,
+    "duration": 5.88
+  },
+  {
+    "text": "your weekend and hopefully you take",
+    "start": 1063.12,
+    "duration": 6.84
+  },
+  {
+    "text": "advantage of our special and worst case",
+    "start": 1066.08,
+    "duration": 6.24
+  },
+  {
+    "text": "you prepared for something that didn't",
+    "start": 1069.96,
+    "duration": 5.88
+  },
+  {
+    "text": "happen immediately but that will happen",
+    "start": 1072.32,
+    "duration": 7.08
+  },
+  {
+    "text": "ultimately but best case you got in",
+    "start": 1075.84,
+    "duration": 8.44
+  },
+  {
+    "text": "just under the wire bye everybody",
+    "start": 1079.4,
+    "duration": 4.88
+  }
+]

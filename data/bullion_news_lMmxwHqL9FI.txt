@@ -1,0 +1,867 @@
+[
+  {
+    "text": "central banks globally they've been",
+    "start": 0.199,
+    "duration": 4.12
+  },
+  {
+    "text": "massively accumulating gold you know",
+    "start": 2.159,
+    "duration": 4.24
+  },
+  {
+    "text": "gold is completely out of the system it",
+    "start": 4.319,
+    "duration": 3.961
+  },
+  {
+    "text": "doesn't need anybody to say that it's",
+    "start": 6.399,
+    "duration": 4.24
+  },
+  {
+    "text": "money and according to the bank for",
+    "start": 8.28,
+    "duration": 5.479
+  },
+  {
+    "text": "international settlements gold held at",
+    "start": 10.639,
+    "duration": 7.121
+  },
+  {
+    "text": "home runs no political risk it is the",
+    "start": 13.759,
+    "duration": 7.481
+  },
+  {
+    "text": "only financial asset that runs no",
+    "start": 17.76,
+    "duration": 6.32
+  },
+  {
+    "text": "counterparty risk in other words this is",
+    "start": 21.24,
+    "duration": 5.039
+  },
+  {
+    "text": "not your debt that I have to count on",
+    "start": 24.08,
+    "duration": 5.64
+  },
+  {
+    "text": "you to pay right it runs no counterparty",
+    "start": 26.279,
+    "duration": 6.761
+  },
+  {
+    "text": "risk it's a proven inflation hedge over",
+    "start": 29.72,
+    "duration": 6.839
+  },
+  {
+    "text": "time and you know gold is critical for",
+    "start": 33.04,
+    "duration": 6.0
+  },
+  {
+    "text": "you to have completely outside of the",
+    "start": 36.559,
+    "duration": 4.32
+  },
+  {
+    "text": "system because look at this little teeny",
+    "start": 39.04,
+    "duration": 4.839
+  },
+  {
+    "text": "thing and this is a 1 o gold coin and",
+    "start": 40.879,
+    "duration": 6.241
+  },
+  {
+    "text": "it's an easy way to carry a lot of",
+    "start": 43.879,
+    "duration": 6.401
+  },
+  {
+    "text": "wealth in a small little package that",
+    "start": 47.12,
+    "duration": 6.52
+  },
+  {
+    "text": "truly is outside of the system that I",
+    "start": 50.28,
+    "duration": 6.119
+  },
+  {
+    "text": "hold and I own outright it's critical",
+    "start": 53.64,
+    "duration": 5.32
+  },
+  {
+    "text": "gold is the primary currency metal and",
+    "start": 56.399,
+    "duration": 5.201
+  },
+  {
+    "text": "it's the metal against which they",
+    "start": 58.96,
+    "duration": 5.32
+  },
+  {
+    "text": "revalue currencies when they do a an",
+    "start": 61.6,
+    "duration": 6.48
+  },
+  {
+    "text": "overnight reset silver is the secondary",
+    "start": 64.28,
+    "duration": 6.4
+  },
+  {
+    "text": "monetary metal while both of them are",
+    "start": 68.08,
+    "duration": 4.88
+  },
+  {
+    "text": "used in manufacturing silver has a lot",
+    "start": 70.68,
+    "duration": 5.28
+  },
+  {
+    "text": "more manufacturing use gold does not get",
+    "start": 72.96,
+    "duration": 5.88
+  },
+  {
+    "text": "used up in production in industry it's",
+    "start": 75.96,
+    "duration": 5.199
+  },
+  {
+    "text": "all recoverable so we can account for",
+    "start": 78.84,
+    "duration": 5.56
+  },
+  {
+    "text": "about 98% of it all the gold that's ever",
+    "start": 81.159,
+    "duration": 6.841
+  },
+  {
+    "text": "been mined in thousands of years silver",
+    "start": 84.4,
+    "duration": 7.399
+  },
+  {
+    "text": "gets used up so you will see silver move",
+    "start": 88.0,
+    "duration": 7.439
+  },
+  {
+    "text": "toward its fundamental value along with",
+    "start": 91.799,
+    "duration": 6.521
+  },
+  {
+    "text": "gold but um it's not going to be Wall",
+    "start": 95.439,
+    "duration": 4.72
+  },
+  {
+    "text": "Street that's telling you what its true",
+    "start": 98.32,
+    "duration": 4.079
+  },
+  {
+    "text": "value is it's going to be the central",
+    "start": 100.159,
+    "duration": 5.121
+  },
+  {
+    "text": "banks when they do those overnight",
+    "start": 102.399,
+    "duration": 5.881
+  },
+  {
+    "text": "revaluations and I would like to say",
+    "start": 105.28,
+    "duration": 5.6
+  },
+  {
+    "text": "that even when we go into the digital",
+    "start": 108.28,
+    "duration": 5.6
+  },
+  {
+    "text": "currency the digital dollar people will",
+    "start": 110.88,
+    "duration": 4.76
+  },
+  {
+    "text": "think oh well then that's going to fix",
+    "start": 113.88,
+    "duration": 3.32
+  },
+  {
+    "text": "the system but no cuz they're not going",
+    "start": 115.64,
+    "duration": 4.24
+  },
+  {
+    "text": "to change their behavior what Absolut",
+    "start": 117.2,
+    "duration": 6.0
+  },
+  {
+    "text": "absolutely 100% has to has to has to",
+    "start": 119.88,
+    "duration": 6.279
+  },
+  {
+    "text": "happen is that all of the debt that",
+    "start": 123.2,
+    "duration": 4.88
+  },
+  {
+    "text": "we've accumulated the trillions and",
+    "start": 126.159,
+    "duration": 5.361
+  },
+  {
+    "text": "trillions and trillions of debt that has",
+    "start": 128.08,
+    "duration": 6.519
+  },
+  {
+    "text": "been globally accumulated needs to be",
+    "start": 131.52,
+    "duration": 6.079
+  },
+  {
+    "text": "burned off and that's what the",
+    "start": 134.599,
+    "duration": 5.841
+  },
+  {
+    "text": "hyperinflation is really about is",
+    "start": 137.599,
+    "duration": 6.041
+  },
+  {
+    "text": "burning off all of that debt and then it",
+    "start": 140.44,
+    "duration": 5.799
+  },
+  {
+    "text": "becomes obvious to everybody that the",
+    "start": 143.64,
+    "duration": 5.879
+  },
+  {
+    "text": "dollars Euros Yen whatever it is that",
+    "start": 146.239,
+    "duration": 6.0
+  },
+  {
+    "text": "they have absolutely zero value I know",
+    "start": 149.519,
+    "duration": 5.041
+  },
+  {
+    "text": "this is going to sound crazy but you",
+    "start": 152.239,
+    "duration": 4.0
+  },
+  {
+    "text": "know a lot of things that are coming to",
+    "start": 154.56,
+    "duration": 4.08
+  },
+  {
+    "text": "pass now that I said in the past sounded",
+    "start": 156.239,
+    "duration": 5.041
+  },
+  {
+    "text": "crazy back then oh you can't say that my",
+    "start": 158.64,
+    "duration": 5.08
+  },
+  {
+    "text": "job is to tell you so that you can make",
+    "start": 161.28,
+    "duration": 6.239
+  },
+  {
+    "text": "educated choices so what will happen is",
+    "start": 163.72,
+    "duration": 6.48
+  },
+  {
+    "text": "we'll go into hyperinflation mode and",
+    "start": 167.519,
+    "duration": 4.64
+  },
+  {
+    "text": "then people will lose complete",
+    "start": 170.2,
+    "duration": 5.0
+  },
+  {
+    "text": "confidence in the currency in the system",
+    "start": 172.159,
+    "duration": 5.481
+  },
+  {
+    "text": "and they'll stop using it and they'll go",
+    "start": 175.2,
+    "duration": 5.039
+  },
+  {
+    "text": "to a barter system so you'll get real",
+    "start": 177.64,
+    "duration": 4.599
+  },
+  {
+    "text": "local for a while that's where silver",
+    "start": 180.239,
+    "duration": 4.761
+  },
+  {
+    "text": "really comes into play and you'll go",
+    "start": 182.239,
+    "duration": 6.481
+  },
+  {
+    "text": "real local and then what will happen is",
+    "start": 185.0,
+    "duration": 5.68
+  },
+  {
+    "text": "they'll want you to use the currency",
+    "start": 188.72,
+    "duration": 4.56
+  },
+  {
+    "text": "again so you know like a pack of gum",
+    "start": 190.68,
+    "duration": 5.24
+  },
+  {
+    "text": "could cost you know $112,000 which I",
+    "start": 193.28,
+    "duration": 5.28
+  },
+  {
+    "text": "know sounds outrageous but it won't soon",
+    "start": 195.92,
+    "duration": 5.84
+  },
+  {
+    "text": "right so they'll Lop off zeros and",
+    "start": 198.56,
+    "duration": 6.12
+  },
+  {
+    "text": "they'll do that overnight",
+    "start": 201.76,
+    "duration": 5.24
+  },
+  {
+    "text": "revaluation and then you'll see gold",
+    "start": 204.68,
+    "duration": 4.559
+  },
+  {
+    "text": "like in Venezuela it went up overnight",
+    "start": 207.0,
+    "duration": 5.56
+  },
+  {
+    "text": "like3 500% something like that and",
+    "start": 209.239,
+    "duration": 7.401
+  },
+  {
+    "text": "Venezuela has had now three overnight",
+    "start": 212.56,
+    "duration": 8.2
+  },
+  {
+    "text": "revaluations against gold so they do",
+    "start": 216.64,
+    "duration": 8.08
+  },
+  {
+    "text": "that to gain the public confidence again",
+    "start": 220.76,
+    "duration": 6.96
+  },
+  {
+    "text": "but they won't change Behavior yet",
+    "start": 224.72,
+    "duration": 5.92
+  },
+  {
+    "text": "globally on average it takes them doing",
+    "start": 227.72,
+    "duration": 6.76
+  },
+  {
+    "text": "it three times before then they go into",
+    "start": 230.64,
+    "duration": 6.319
+  },
+  {
+    "text": "a system where we actually would have",
+    "start": 234.48,
+    "duration": 5.52
+  },
+  {
+    "text": "gold to a degree backing the new",
+    "start": 236.959,
+    "duration": 5.081
+  },
+  {
+    "text": "currency that's when they'll get the",
+    "start": 240.0,
+    "duration": 5.0
+  },
+  {
+    "text": "confidence back but the Cur the next",
+    "start": 242.04,
+    "duration": 5.08
+  },
+  {
+    "text": "currency won't be good until there's a",
+    "start": 245.0,
+    "duration": 4.959
+  },
+  {
+    "text": "component of gold to stabilize it",
+    "start": 247.12,
+    "duration": 7.479
+  },
+  {
+    "text": "because what gold does is it requires",
+    "start": 249.959,
+    "duration": 8.161
+  },
+  {
+    "text": "the government to have fiscal",
+    "start": 254.599,
+    "duration": 6.2
+  },
+  {
+    "text": "responsibility you know they have to",
+    "start": 258.12,
+    "duration": 5.04
+  },
+  {
+    "text": "live within their means or at least on a",
+    "start": 260.799,
+    "duration": 5.201
+  },
+  {
+    "text": "relative basis right now there's no",
+    "start": 263.16,
+    "duration": 5.16
+  },
+  {
+    "text": "restrictions I mean as we've seen as",
+    "start": 266.0,
+    "duration": 4.759
+  },
+  {
+    "text": "we've witnessed no restrictions on how",
+    "start": 268.32,
+    "duration": 5.0
+  },
+  {
+    "text": "much new money can be printed but every",
+    "start": 270.759,
+    "duration": 5.601
+  },
+  {
+    "text": "time that happens the value of what's",
+    "start": 273.32,
+    "duration": 5.8
+  },
+  {
+    "text": "already out there is lost where it loses",
+    "start": 276.36,
+    "duration": 5.44
+  },
+  {
+    "text": "more I should say but we're all",
+    "start": 279.12,
+    "duration": 5.44
+  },
+  {
+    "text": "experiencing a huge amount of inflation",
+    "start": 281.8,
+    "duration": 5.0
+  },
+  {
+    "text": "right now although it's going to get",
+    "start": 284.56,
+    "duration": 4.8
+  },
+  {
+    "text": "worse there's not one doubt in my mind I",
+    "start": 286.8,
+    "duration": 5.04
+  },
+  {
+    "text": "can't guarantee this but you know I'm",
+    "start": 289.36,
+    "duration": 5.119
+  },
+  {
+    "text": "pretty darn sure that we are at the",
+    "start": 291.84,
+    "duration": 6.359
+  },
+  {
+    "text": "beginning of a hyperinflationary event",
+    "start": 294.479,
+    "duration": 5.521
+  },
+  {
+    "text": "and the only difference between",
+    "start": 298.199,
+    "duration": 4.201
+  },
+  {
+    "text": "inflation and hyperinflation is the",
+    "start": 300.0,
+    "duration": 7.88
+  },
+  {
+    "text": "speed of that inflation the problem is",
+    "start": 302.4,
+    "duration": 8.76
+  },
+  {
+    "text": "that there's virtually no purchasing",
+    "start": 307.88,
+    "duration": 6.56
+  },
+  {
+    "text": "power left in the US dollar if you go on",
+    "start": 311.16,
+    "duration": 7.96
+  },
+  {
+    "text": "the Federal Reserves website the Fred F",
+    "start": 314.44,
+    "duration": 7.08
+  },
+  {
+    "text": "and in the search bar you put in",
+    "start": 319.12,
+    "duration": 6.16
+  },
+  {
+    "text": "purchasing power of the consumer dollar",
+    "start": 321.52,
+    "duration": 6.679
+  },
+  {
+    "text": "what you'll see is that there's",
+    "start": 325.28,
+    "duration": 6.88
+  },
+  {
+    "text": "officially Three three cents left out of",
+    "start": 328.199,
+    "duration": 6.401
+  },
+  {
+    "text": "the original dollars worth of purchasing",
+    "start": 332.16,
+    "duration": 5.4
+  },
+  {
+    "text": "power which means it's worse than that",
+    "start": 334.6,
+    "duration": 5.439
+  },
+  {
+    "text": "and all of this infra inflation that",
+    "start": 337.56,
+    "duration": 3.479
+  },
+  {
+    "text": "we're",
+    "start": 340.039,
+    "duration": 4.921
+  },
+  {
+    "text": "experiencing we are losing rapidly",
+    "start": 341.039,
+    "duration": 6.681
+  },
+  {
+    "text": "whatever little bit of purchasing power",
+    "start": 344.96,
+    "duration": 6.4
+  },
+  {
+    "text": "is left and so the bottom line to all of",
+    "start": 347.72,
+    "duration": 7.84
+  },
+  {
+    "text": "that is that we are at the end phase the",
+    "start": 351.36,
+    "duration": 8.279
+  },
+  {
+    "text": "end of this Fiat this government",
+    "start": 355.56,
+    "duration": 7.639
+  },
+  {
+    "text": "debt-based money and that is one of the",
+    "start": 359.639,
+    "duration": 7.481
+  },
+  {
+    "text": "patterns is very high inflation you know",
+    "start": 363.199,
+    "duration": 5.961
+  },
+  {
+    "text": "a lot of people procrastinate because",
+    "start": 367.12,
+    "duration": 3.76
+  },
+  {
+    "text": "they think they're going to magically",
+    "start": 369.16,
+    "duration": 3.84
+  },
+  {
+    "text": "know the second before they lose all",
+    "start": 370.88,
+    "duration": 4.08
+  },
+  {
+    "text": "choice and that's really what my big",
+    "start": 373.0,
+    "duration": 4.96
+  },
+  {
+    "text": "concern is is that people will postpone",
+    "start": 374.96,
+    "duration": 5.679
+  },
+  {
+    "text": "and postpone and they'll look at you",
+    "start": 377.96,
+    "duration": 5.2
+  },
+  {
+    "text": "know the meme stocks going up or the",
+    "start": 380.639,
+    "duration": 4.921
+  },
+  {
+    "text": "stock market going up and they'll think",
+    "start": 383.16,
+    "duration": 4.24
+  },
+  {
+    "text": "oh okay look at I can make all of this",
+    "start": 385.56,
+    "duration": 4.639
+  },
+  {
+    "text": "money there so I'm not going to buy gold",
+    "start": 387.4,
+    "duration": 4.84
+  },
+  {
+    "text": "I mean what is gold doing yeah it's near",
+    "start": 390.199,
+    "duration": 4.641
+  },
+  {
+    "text": "its high it's too expensive you know",
+    "start": 392.24,
+    "duration": 5.6
+  },
+  {
+    "text": "interesting that stocks at a million",
+    "start": 394.84,
+    "duration": 5.759
+  },
+  {
+    "text": "times earnings are not too expensive but",
+    "start": 397.84,
+    "duration": 5.84
+  },
+  {
+    "text": "gold that has the broadest base of buyer",
+    "start": 400.599,
+    "duration": 6.841
+  },
+  {
+    "text": "is it's not gold and silver are the only",
+    "start": 403.68,
+    "duration": 7.079
+  },
+  {
+    "text": "assets that are severely undervalued",
+    "start": 407.44,
+    "duration": 6.28
+  },
+  {
+    "text": "because a rising gold price is an",
+    "start": 410.759,
+    "duration": 6.88
+  },
+  {
+    "text": "indication of a failing currency so if",
+    "start": 413.72,
+    "duration": 6.64
+  },
+  {
+    "text": "you've got gains and some stuff great",
+    "start": 417.639,
+    "duration": 5.081
+  },
+  {
+    "text": "take those gains whatever you have",
+    "start": 420.36,
+    "duration": 4.72
+  },
+  {
+    "text": "you've got to get prepared and you've",
+    "start": 422.72,
+    "duration": 5.64
+  },
+  {
+    "text": "got to do it now because what is the",
+    "start": 425.08,
+    "duration": 7.519
+  },
+  {
+    "text": "price of your freedom worth and that's",
+    "start": 428.36,
+    "duration": 6.959
+  },
+  {
+    "text": "really what's at Jeopardy is your",
+    "start": 432.599,
+    "duration": 6.361
+  },
+  {
+    "text": "freedom and it may sound crazy but it is",
+    "start": 435.319,
+    "duration": 7.32
+  },
+  {
+    "text": "simply a repetition of History the",
+    "start": 438.96,
+    "duration": 6.639
+  },
+  {
+    "text": "Insiders they're getting out but the",
+    "start": 442.639,
+    "duration": 6.641
+  },
+  {
+    "text": "normal guy he's staying in she's getting",
+    "start": 445.599,
+    "duration": 4.481
+  },
+  {
+    "text": "in",
+    "start": 449.28,
+    "duration": 2.359
+  },
+  {
+    "text": "and",
+    "start": 450.08,
+    "duration": 4.32
+  },
+  {
+    "text": "stop stop and just use the brain that",
+    "start": 451.639,
+    "duration": 5.161
+  },
+  {
+    "text": "you have and look at things because we",
+    "start": 454.4,
+    "duration": 5.44
+  },
+  {
+    "text": "are fast running out of time you know",
+    "start": 456.8,
+    "duration": 4.76
+  },
+  {
+    "text": "you have to look at your personal",
+    "start": 459.84,
+    "duration": 3.799
+  },
+  {
+    "text": "circumstance and what you have the",
+    "start": 461.56,
+    "duration": 4.96
+  },
+  {
+    "text": "ability to do don't procrastinate get",
+    "start": 463.639,
+    "duration": 5.601
+  },
+  {
+    "text": "your gold and silver now get your food",
+    "start": 466.52,
+    "duration": 7.16
+  },
+  {
+    "text": "secure your water energy barter ability",
+    "start": 469.24,
+    "duration": 7.079
+  },
+  {
+    "text": "wealth preservation come together in",
+    "start": 473.68,
+    "duration": 4.56
+  },
+  {
+    "text": "community it's really the only chance",
+    "start": 476.319,
+    "duration": 4.88
+  },
+  {
+    "text": "that we have to have a more fair system",
+    "start": 478.24,
+    "duration": 5.639
+  },
+  {
+    "text": "on the other side of this and shelter",
+    "start": 481.199,
+    "duration": 4.361
+  },
+  {
+    "text": "those are all the things that we need no",
+    "start": 483.879,
+    "duration": 3.081
+  },
+  {
+    "text": "matter what's going on to have a",
+    "start": 485.56,
+    "duration": 5.039
+  },
+  {
+    "text": "reasonable standard of living",
+    "start": 486.96,
+    "duration": 3.639
+  }
+]

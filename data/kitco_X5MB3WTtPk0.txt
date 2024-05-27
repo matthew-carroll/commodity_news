@@ -1,0 +1,1477 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.17,
+    "duration": 5.47
+  },
+  {
+    "text": "so let's get your outlook on gold now",
+    "start": 3.879,
+    "duration": 2.52
+  },
+  {
+    "text": "because that's certainly what our",
+    "start": 5.64,
+    "duration": 3.039
+  },
+  {
+    "text": "viewers always interested in uh we had",
+    "start": 6.399,
+    "duration": 4.681
+  },
+  {
+    "text": "gold setting new record highs of above",
+    "start": 8.679,
+    "duration": 5.12
+  },
+  {
+    "text": "$2,400 an ounce it sort of settled into",
+    "start": 11.08,
+    "duration": 7.199
+  },
+  {
+    "text": "the 2,300 range do you have uh a gold",
+    "start": 13.799,
+    "duration": 7.161
+  },
+  {
+    "text": "outlook for",
+    "start": 18.279,
+    "duration": 2.681
+  },
+  {
+    "text": "2024 I think for 2425 I see you know",
+    "start": 21.64,
+    "duration": 7.6
+  },
+  {
+    "text": "3,000 in the cards for sure um near term",
+    "start": 25.279,
+    "duration": 5.92
+  },
+  {
+    "text": "if you look at the G and the percentage",
+    "start": 29.24,
+    "duration": 4.88
+  },
+  {
+    "text": "of the GLD is above which is a gold yeah",
+    "start": 31.199,
+    "duration": 4.721
+  },
+  {
+    "text": "the percentage of the GLD is above the",
+    "start": 34.12,
+    "duration": 5.439
+  },
+  {
+    "text": "200 day moving average is pretty great",
+    "start": 35.92,
+    "duration": 6.28
+  },
+  {
+    "text": "um and so I just think near term you've",
+    "start": 39.559,
+    "duration": 5.601
+  },
+  {
+    "text": "had such a move that you're you're more",
+    "start": 42.2,
+    "duration": 5.039
+  },
+  {
+    "text": "likely to have a bit of a decline but",
+    "start": 45.16,
+    "duration": 6.8
+  },
+  {
+    "text": "over say the next year year and a half",
+    "start": 47.239,
+    "duration": 8.281
+  },
+  {
+    "text": "33500 I I think it's it's it's it's it's",
+    "start": 51.96,
+    "duration": 5.399
+  },
+  {
+    "text": "a very high high",
+    "start": 55.52,
+    "duration": 5.719
+  },
+  {
+    "text": "probability 3500 gold a high probability",
+    "start": 57.359,
+    "duration": 6.601
+  },
+  {
+    "text": "by mid",
+    "start": 61.239,
+    "duration": 7.001
+  },
+  {
+    "text": "2025 yes but remember your better bet",
+    "start": 63.96,
+    "duration": 6.24
+  },
+  {
+    "text": "would be in the the commodity Market's",
+    "start": 68.24,
+    "duration": 4.919
+  },
+  {
+    "text": "going to broaden out so if you're at",
+    "start": 70.2,
+    "duration": 6.04
+  },
+  {
+    "text": "$3,500 gold you probably you're probably",
+    "start": 73.159,
+    "duration": 6.561
+  },
+  {
+    "text": "close to 50 50 to $55 silver so your",
+    "start": 76.24,
+    "duration": 5.76
+  },
+  {
+    "text": "upside from Silver is is is a lot",
+    "start": 79.72,
+    "duration": 4.28
+  },
+  {
+    "text": "greater than gold that's exactly where I",
+    "start": 82.0,
+    "duration": 3.6
+  },
+  {
+    "text": "was going with this Larry because you",
+    "start": 84.0,
+    "duration": 3.56
+  },
+  {
+    "text": "are saying that silver is is the place",
+    "start": 85.6,
+    "duration": 3.72
+  },
+  {
+    "text": "to be you wrote in your latest report",
+    "start": 87.56,
+    "duration": 4.0
+  },
+  {
+    "text": "that the gold is silver ratio is",
+    "start": 89.32,
+    "duration": 4.72
+  },
+  {
+    "text": "breaking out in favor of silver which is",
+    "start": 91.56,
+    "duration": 4.48
+  },
+  {
+    "text": "a very bullish setup for Silvera so",
+    "start": 94.04,
+    "duration": 4.6
+  },
+  {
+    "text": "elaborate on that for us",
+    "start": 96.04,
+    "duration": 5.88
+  },
+  {
+    "text": "please well you know we know about we",
+    "start": 98.64,
+    "duration": 5.159
+  },
+  {
+    "text": "know about this solar demand for silver",
+    "start": 101.92,
+    "duration": 3.839
+  },
+  {
+    "text": "we know about all the industrial",
+    "start": 103.799,
+    "duration": 5.761
+  },
+  {
+    "text": "demand but central banks and investors",
+    "start": 105.759,
+    "duration": 5.521
+  },
+  {
+    "text": "around the world the first thing they do",
+    "start": 109.56,
+    "duration": 3.28
+  },
+  {
+    "text": "is move into the mothership they move",
+    "start": 111.28,
+    "duration": 4.08
+  },
+  {
+    "text": "into gold but the higher the gold price",
+    "start": 112.84,
+    "duration": 4.04
+  },
+  {
+    "text": "goes the",
+    "start": 115.36,
+    "duration": 3.64
+  },
+  {
+    "text": "cheaper the cheaper the more more",
+    "start": 116.88,
+    "duration": 4.559
+  },
+  {
+    "text": "attractive silver gets on a price basis",
+    "start": 119.0,
+    "duration": 5.32
+  },
+  {
+    "text": "so historically these types of big moves",
+    "start": 121.439,
+    "duration": 6.161
+  },
+  {
+    "text": "in Gold bring lots of global retail",
+    "start": 124.32,
+    "duration": 5.68
+  },
+  {
+    "text": "investors into silver and so that's one",
+    "start": 127.6,
+    "duration": 4.52
+  },
+  {
+    "text": "of the first things that that happens",
+    "start": 130.0,
+    "duration": 3.64
+  },
+  {
+    "text": "and we think that's that's about to",
+    "start": 132.12,
+    "duration": 6.04
+  },
+  {
+    "text": "happen um the the next part of it is",
+    "start": 133.64,
+    "duration": 7.92
+  },
+  {
+    "text": "once once the market knows that the FED",
+    "start": 138.16,
+    "duration": 7.28
+  },
+  {
+    "text": "is committed toward an official easing",
+    "start": 141.56,
+    "duration": 6.28
+  },
+  {
+    "text": "cycle that's where the money really",
+    "start": 145.44,
+    "duration": 6.0
+  },
+  {
+    "text": "starts to move into uh silver and so in",
+    "start": 147.84,
+    "duration": 4.92
+  },
+  {
+    "text": "other words if you look at",
+    "start": 151.44,
+    "duration": 4.0
+  },
+  {
+    "text": "2016 where the FED made a really big",
+    "start": 152.76,
+    "duration": 4.92
+  },
+  {
+    "text": "shift uh even though we hiked that year",
+    "start": 155.44,
+    "duration": 5.32
+  },
+  {
+    "text": "they were promising uh seven or eight",
+    "start": 157.68,
+    "duration": 5.8
+  },
+  {
+    "text": "they're pricing like in 2016 15 16 they",
+    "start": 160.76,
+    "duration": 4.32
+  },
+  {
+    "text": "were promising like eight rate rate",
+    "start": 163.48,
+    "duration": 3.0
+  },
+  {
+    "text": "hikes and they hiped once since they",
+    "start": 165.08,
+    "duration": 5.04
+  },
+  {
+    "text": "made this huge shift in the silver",
+    "start": 166.48,
+    "duration": 6.32
+  },
+  {
+    "text": "miners dramatic and the silver itself",
+    "start": 170.12,
+    "duration": 4.52
+  },
+  {
+    "text": "dramatically out ofform gold in that",
+    "start": 172.8,
+    "duration": 3.76
+  },
+  {
+    "text": "kind of regime it's the same thing",
+    "start": 174.64,
+    "duration": 4.519
+  },
+  {
+    "text": "historically in the 70s and 80s so once",
+    "start": 176.56,
+    "duration": 5.92
+  },
+  {
+    "text": "the FED makes makes a strategic shift in",
+    "start": 179.159,
+    "duration": 6.0
+  },
+  {
+    "text": "where all the FED Governors are in",
+    "start": 182.48,
+    "duration": 5.64
+  },
+  {
+    "text": "unison talking about soft path that's",
+    "start": 185.159,
+    "duration": 5.64
+  },
+  {
+    "text": "where silver dramatically up up for gold",
+    "start": 188.12,
+    "duration": 5.08
+  },
+  {
+    "text": "and that's where this gold silver ratio",
+    "start": 190.799,
+    "duration": 5.16
+  },
+  {
+    "text": "is like an 84 85 handle it should be at",
+    "start": 193.2,
+    "duration": 4.8
+  },
+  {
+    "text": "a normal mature commodity Market it",
+    "start": 195.959,
+    "duration": 5.481
+  },
+  {
+    "text": "should be in the 60s to maybe mid vifs",
+    "start": 198.0,
+    "duration": 5.36
+  },
+  {
+    "text": "so what does that mean in terms of price",
+    "start": 201.44,
+    "duration": 4.28
+  },
+  {
+    "text": "for silver we had silver approach $30 an",
+    "start": 203.36,
+    "duration": 5.36
+  },
+  {
+    "text": "ounce in April back down to the $27",
+    "start": 205.72,
+    "duration": 6.64
+  },
+  {
+    "text": "range uh keeping in mind that uh you",
+    "start": 208.72,
+    "duration": 5.56
+  },
+  {
+    "text": "know gold has hit new record highs this",
+    "start": 212.36,
+    "duration": 3.64
+  },
+  {
+    "text": "year several times silver is still very",
+    "start": 214.28,
+    "duration": 4.159
+  },
+  {
+    "text": "far off from its own all-time highs",
+    "start": 216.0,
+    "duration": 5.4
+  },
+  {
+    "text": "where do you see Silva going price-wise",
+    "start": 218.439,
+    "duration": 5.481
+  },
+  {
+    "text": "by the end of",
+    "start": 221.4,
+    "duration": 5.0
+  },
+  {
+    "text": "2024 well I think by the end of 24 you",
+    "start": 223.92,
+    "duration": 5.519
+  },
+  {
+    "text": "get a good shot at 30 32 you know",
+    "start": 226.4,
+    "duration": 5.96
+  },
+  {
+    "text": "breakout we had this big draw down",
+    "start": 229.439,
+    "duration": 5.52
+  },
+  {
+    "text": "within the last month or so we look back",
+    "start": 232.36,
+    "duration": 4.159
+  },
+  {
+    "text": "at the beer traps at for we look back",
+    "start": 234.959,
+    "duration": 3.92
+  },
+  {
+    "text": "the last you know 20 30 years and at the",
+    "start": 236.519,
+    "duration": 4.321
+  },
+  {
+    "text": "beginning of these great bull runs in",
+    "start": 238.879,
+    "duration": 3.801
+  },
+  {
+    "text": "silver you typically have these",
+    "start": 240.84,
+    "duration": 5.039
+  },
+  {
+    "text": "beautiful candle tops uh many of them in",
+    "start": 242.68,
+    "duration": 5.52
+  },
+  {
+    "text": "other words it's the side of kind of",
+    "start": 245.879,
+    "duration": 5.161
+  },
+  {
+    "text": "like a lot of hot money as as the",
+    "start": 248.2,
+    "duration": 5.039
+  },
+  {
+    "text": "commodity Market broadens out the hot",
+    "start": 251.04,
+    "duration": 4.8
+  },
+  {
+    "text": "money moves from the capital moves from",
+    "start": 253.239,
+    "duration": 4.921
+  },
+  {
+    "text": "from gold and and other Commodities into",
+    "start": 255.84,
+    "duration": 5.799
+  },
+  {
+    "text": "silver and you get these kind of bursts",
+    "start": 258.16,
+    "duration": 6.8
+  },
+  {
+    "text": "up spectacular draw downs and then",
+    "start": 261.639,
+    "duration": 6.241
+  },
+  {
+    "text": "higher highs and U so that's that's I",
+    "start": 264.96,
+    "duration": 4.84
+  },
+  {
+    "text": "think and then we saw this like in early",
+    "start": 267.88,
+    "duration": 7.68
+  },
+  {
+    "text": "2010 not 20 late 2010 early 2011 and so",
+    "start": 269.8,
+    "duration": 8.76
+  },
+  {
+    "text": "we think we're that kind of like 2010",
+    "start": 275.56,
+    "duration": 5.88
+  },
+  {
+    "text": "late 2010 environment where silver has a",
+    "start": 278.56,
+    "duration": 4.639
+  },
+  {
+    "text": "long way to go on the",
+    "start": 281.44,
+    "duration": 4.96
+  },
+  {
+    "text": "upside do you have a price Target",
+    "start": 283.199,
+    "duration": 6.321
+  },
+  {
+    "text": "then well I mean I think within",
+    "start": 286.4,
+    "duration": 7.44
+  },
+  {
+    "text": "within say between now and 2025 26 you",
+    "start": 289.52,
+    "duration": 7.56
+  },
+  {
+    "text": "know $40 to $50 is is on is is on the",
+    "start": 293.84,
+    "duration": 5.88
+  },
+  {
+    "text": "table for us I mean just the supply",
+    "start": 297.08,
+    "duration": 6.119
+  },
+  {
+    "text": "silver relative to Gold um globally and",
+    "start": 299.72,
+    "duration": 6.4
+  },
+  {
+    "text": "and just the the cheapness as a",
+    "start": 303.199,
+    "duration": 4.72
+  },
+  {
+    "text": "percentage of in ter of global the",
+    "start": 306.12,
+    "duration": 4.48
+  },
+  {
+    "text": "amount of global wealth that's in $16",
+    "start": 307.919,
+    "duration": 5.521
+  },
+  {
+    "text": "trillion dollar in gold right silver is",
+    "start": 310.6,
+    "duration": 4.599
+  },
+  {
+    "text": "a fraction of that and so all it takes",
+    "start": 313.44,
+    "duration": 4.8
+  },
+  {
+    "text": "is a trillion dollars to go from gold",
+    "start": 315.199,
+    "duration": 5.28
+  },
+  {
+    "text": "and silver and you've got there there's",
+    "start": 318.24,
+    "duration": 4.92
+  },
+  {
+    "text": "your there's your move from $10 to $40",
+    "start": 320.479,
+    "duration": 5.361
+  },
+  {
+    "text": "pretty fast and Larry what is the best",
+    "start": 323.16,
+    "duration": 5.4
+  },
+  {
+    "text": "way for investors to get exposure to",
+    "start": 325.84,
+    "duration": 6.72
+  },
+  {
+    "text": "that silver uptrend that you're",
+    "start": 328.56,
+    "duration": 6.079
+  },
+  {
+    "text": "forecasting well the most conservative",
+    "start": 332.56,
+    "duration": 3.72
+  },
+  {
+    "text": "way would be like the",
+    "start": 334.639,
+    "duration": 5.321
+  },
+  {
+    "text": "SLV uh and then I think at the early",
+    "start": 336.28,
+    "duration": 5.8
+  },
+  {
+    "text": "stage of a buera you want to move into",
+    "start": 339.96,
+    "duration": 6.72
+  },
+  {
+    "text": "the Juniors so your SJ which is your s i",
+    "start": 342.08,
+    "duration": 6.8
+  },
+  {
+    "text": "LJ which is your Junior minors in the",
+    "start": 346.68,
+    "duration": 5.44
+  },
+  {
+    "text": "silver space well your panamerican your",
+    "start": 348.88,
+    "duration": 6.36
+  },
+  {
+    "text": "P your heck that those are your more",
+    "start": 352.12,
+    "duration": 6.72
+  },
+  {
+    "text": "speculative plays uh and then your s is",
+    "start": 355.24,
+    "duration": 6.239
+  },
+  {
+    "text": "a little bit larger silver companies so",
+    "start": 358.84,
+    "duration": 4.359
+  },
+  {
+    "text": "more conservative way to play it is is",
+    "start": 361.479,
+    "duration": 4.0
+  },
+  {
+    "text": "through the ETFs for sure and then you",
+    "start": 363.199,
+    "duration": 3.801
+  },
+  {
+    "text": "know if you're a professional investor",
+    "start": 365.479,
+    "duration": 4.12
+  },
+  {
+    "text": "you look at Silver Futures in the in the",
+    "start": 367.0,
+    "duration": 5.319
+  },
+  {
+    "text": "Futures Market or you know you look at",
+    "start": 369.599,
+    "duration": 4.361
+  },
+  {
+    "text": "funds like green light capital and let",
+    "start": 372.319,
+    "duration": 3.801
+  },
+  {
+    "text": "David Einhorn you know buy the",
+    "start": 373.96,
+    "duration": 4.28
+  },
+  {
+    "text": "commodities for you all right so you're",
+    "start": 376.12,
+    "duration": 5.12
+  },
+  {
+    "text": "very long silver you're also long gold",
+    "start": 378.24,
+    "duration": 4.519
+  },
+  {
+    "text": "but I want to bring it back to what you",
+    "start": 381.24,
+    "duration": 4.84
+  },
+  {
+    "text": "said at the top and that is platinum",
+    "start": 382.759,
+    "duration": 5.44
+  },
+  {
+    "text": "because in your latest report you wrote",
+    "start": 386.08,
+    "duration": 4.679
+  },
+  {
+    "text": "take down your GLD old long exposure and",
+    "start": 388.199,
+    "duration": 6.641
+  },
+  {
+    "text": "buy Platinum uh tell us why you're so",
+    "start": 390.759,
+    "duration": 7.201
+  },
+  {
+    "text": "confident that the Platinum versus gold",
+    "start": 394.84,
+    "duration": 5.4
+  },
+  {
+    "text": "trade is is where to",
+    "start": 397.96,
+    "duration": 5.639
+  },
+  {
+    "text": "go well that ratio the go this is the",
+    "start": 400.24,
+    "duration": 5.16
+  },
+  {
+    "text": "classic people moving it to the mother",
+    "start": 403.599,
+    "duration": 4.561
+  },
+  {
+    "text": "ship all the central Bankers have P",
+    "start": 405.4,
+    "duration": 5.12
+  },
+  {
+    "text": "piled in the gold because that term",
+    "start": 408.16,
+    "duration": 4.8
+  },
+  {
+    "text": "premium on Treasury that's the ter all",
+    "start": 410.52,
+    "duration": 4.56
+  },
+  {
+    "text": "term premium means is that when people",
+    "start": 412.96,
+    "duration": 5.239
+  },
+  {
+    "text": "trust longer dated treasuries less when",
+    "start": 415.08,
+    "duration": 6.119
+  },
+  {
+    "text": "the United States becomes just a tiny",
+    "start": 418.199,
+    "duration": 5.68
+  },
+  {
+    "text": "tiny bit like an Emerging Market country",
+    "start": 421.199,
+    "duration": 4.601
+  },
+  {
+    "text": "in terms of people are looking what's",
+    "start": 423.879,
+    "duration": 4.241
+  },
+  {
+    "text": "happening in Washington and they trust",
+    "start": 425.8,
+    "duration": 5.04
+  },
+  {
+    "text": "Washington just a little bit less that a",
+    "start": 428.12,
+    "duration": 4.96
+  },
+  {
+    "text": "term premium expansion which was seen",
+    "start": 430.84,
+    "duration": 6.72
+  },
+  {
+    "text": "term premium U will move money into um",
+    "start": 433.08,
+    "duration": 7.48
+  },
+  {
+    "text": "into into the medals and so that that's",
+    "start": 437.56,
+    "duration": 7.16
+  },
+  {
+    "text": "what that's what kicks it off and and so",
+    "start": 440.56,
+    "duration": 7.96
+  },
+  {
+    "text": "the the the the the Platinum space is so",
+    "start": 444.72,
+    "duration": 7.319
+  },
+  {
+    "text": "small relative to Gold we're talking",
+    "start": 448.52,
+    "duration": 6.2
+  },
+  {
+    "text": "about a lipic size swimming pool that's",
+    "start": 452.039,
+    "duration": 5.081
+  },
+  {
+    "text": "the equivalent of all the gold that's",
+    "start": 454.72,
+    "duration": 4.96
+  },
+  {
+    "text": "ever been mind in the world Platinum you",
+    "start": 457.12,
+    "duration": 4.6
+  },
+  {
+    "text": "can sit you can stand in that pool only",
+    "start": 459.68,
+    "duration": 4.519
+  },
+  {
+    "text": "up to your ankles as I mentioned before",
+    "start": 461.72,
+    "duration": 7.64
+  },
+  {
+    "text": "but also the last 18 to 24 months we saw",
+    "start": 464.199,
+    "duration": 7.361
+  },
+  {
+    "text": "this big huge",
+    "start": 469.36,
+    "duration": 4.44
+  },
+  {
+    "text": "high-profile uh sales pitch about",
+    "start": 471.56,
+    "duration": 5.44
+  },
+  {
+    "text": "electric vehicles and what's starting to",
+    "start": 473.8,
+    "duration": 5.679
+  },
+  {
+    "text": "happen now is the repair cost on",
+    "start": 477.0,
+    "duration": 4.879
+  },
+  {
+    "text": "electric vehicles the operational cost",
+    "start": 479.479,
+    "duration": 4.4
+  },
+  {
+    "text": "the reality of owning electric vehicle",
+    "start": 481.879,
+    "duration": 5.361
+  },
+  {
+    "text": "versus a hybrid that's now becoming much",
+    "start": 483.879,
+    "duration": 7.121
+  },
+  {
+    "text": "more well the awareness around that pain",
+    "start": 487.24,
+    "duration": 6.32
+  },
+  {
+    "text": "for the consumer is much higher now",
+    "start": 491.0,
+    "duration": 5.24
+  },
+  {
+    "text": "extremely sort like an explosion of",
+    "start": 493.56,
+    "duration": 5.4
+  },
+  {
+    "text": "hybrid awareness Rel relative to",
+    "start": 496.24,
+    "duration": 4.32
+  },
+  {
+    "text": "electric vehicles that's why we're",
+    "start": 498.96,
+    "duration": 4.04
+  },
+  {
+    "text": "seeing the performance of of Tesla is",
+    "start": 500.56,
+    "duration": 5.039
+  },
+  {
+    "text": "suffered and so what that means is if",
+    "start": 503.0,
+    "duration": 5.639
+  },
+  {
+    "text": "that whole life cycle that rush into",
+    "start": 505.599,
+    "duration": 4.401
+  },
+  {
+    "text": "electric vehicles",
+    "start": 508.639,
+    "duration": 4.481
+  },
+  {
+    "text": "if that is delayed by 10 years into a",
+    "start": 510.0,
+    "duration": 4.919
+  },
+  {
+    "text": "move into hybrids and we're seeing this",
+    "start": 513.12,
+    "duration": 4.359
+  },
+  {
+    "text": "in some of the Japanese car makers that",
+    "start": 514.919,
+    "duration": 5.521
+  },
+  {
+    "text": "means that your catalytic converters and",
+    "start": 517.479,
+    "duration": 4.8
+  },
+  {
+    "text": "and your truly I said before your",
+    "start": 520.44,
+    "duration": 3.8
+  },
+  {
+    "text": "industrial demand for platinum and",
+    "start": 522.279,
+    "duration": 4.841
+  },
+  {
+    "text": "padium is going to be around a lot",
+    "start": 524.24,
+    "duration": 5.68
+  },
+  {
+    "text": "longer as the market kind of picks up on",
+    "start": 527.12,
+    "duration": 5.88
+  },
+  {
+    "text": "this trend your upside for platinum and",
+    "start": 529.92,
+    "duration": 6.68
+  },
+  {
+    "text": "padium is spectacular and your gold",
+    "start": 533.0,
+    "duration": 5.64
+  },
+  {
+    "text": "versus silver I'm sorry your gold versus",
+    "start": 536.6,
+    "duration": 3.44
+  },
+  {
+    "text": "platinum ratio",
+    "start": 538.64,
+    "duration": 6.48
+  },
+  {
+    "text": "is at a examing bip plaum cell Sil gold",
+    "start": 540.04,
+    "duration": 7.239
+  },
+  {
+    "text": "range right now it's EXT the most",
+    "start": 545.12,
+    "duration": 4.32
+  },
+  {
+    "text": "stretch we've ever seen in the history",
+    "start": 547.279,
+    "duration": 3.521
+  },
+  {
+    "text": "of the",
+    "start": 549.44,
+    "duration": 4.16
+  },
+  {
+    "text": "relationship but that's a near-term play",
+    "start": 550.8,
+    "duration": 5.599
+  },
+  {
+    "text": "Larry right as I you're saying we are",
+    "start": 553.6,
+    "duration": 4.84
+  },
+  {
+    "text": "seeing some disenchantment with electric",
+    "start": 556.399,
+    "duration": 3.921
+  },
+  {
+    "text": "vehicles and more hybrid vehicles and",
+    "start": 558.44,
+    "duration": 3.639
+  },
+  {
+    "text": "bringing in more industrial uses for",
+    "start": 560.32,
+    "duration": 4.639
+  },
+  {
+    "text": "platinum but then you know a big picture",
+    "start": 562.079,
+    "duration": 4.161
+  },
+  {
+    "text": "one of the cases that you make for",
+    "start": 564.959,
+    "duration": 4.681
+  },
+  {
+    "text": "silver and copper is this whole uh de",
+    "start": 566.24,
+    "duration": 5.68
+  },
+  {
+    "text": "carbonization Trend so how does you know",
+    "start": 569.64,
+    "duration": 4.12
+  },
+  {
+    "text": "Platinum fit into that thesis a couple",
+    "start": 571.92,
+    "duration": 3.599
+  },
+  {
+    "text": "of years down the line",
+    "start": 573.76,
+    "duration": 4.36
+  },
+  {
+    "text": "then yeah that's that that is a problem",
+    "start": 575.519,
+    "duration": 5.041
+  },
+  {
+    "text": "for platinum and people say you know",
+    "start": 578.12,
+    "duration": 6.04
+  },
+  {
+    "text": "hydrogen um in the case of aluminum",
+    "start": 580.56,
+    "duration": 7.04
+  },
+  {
+    "text": "aluminum will truly be uh a cost",
+    "start": 584.16,
+    "duration": 6.799
+  },
+  {
+    "text": "replacement for uh for for copper and so",
+    "start": 587.6,
+    "duration": 4.799
+  },
+  {
+    "text": "that's where you your bull case for",
+    "start": 590.959,
+    "duration": 4.401
+  },
+  {
+    "text": "Alcoa is is pretty interesting but but",
+    "start": 592.399,
+    "duration": 7.641
+  },
+  {
+    "text": "you're right that that whole EV risk",
+    "start": 595.36,
+    "duration": 6.8
+  },
+  {
+    "text": "if if electric if electric vehicle",
+    "start": 600.04,
+    "duration": 6.12
+  },
+  {
+    "text": "demand truly explodes and hybrid hybrids",
+    "start": 602.16,
+    "duration": 6.359
+  },
+  {
+    "text": "Fall by the wayside that's a big problem",
+    "start": 606.16,
+    "duration": 4.96
+  },
+  {
+    "text": "in terms of catalytic convert demand So",
+    "start": 608.519,
+    "duration": 4.801
+  },
+  {
+    "text": "eventually things like green hydrogen",
+    "start": 611.12,
+    "duration": 4.279
+  },
+  {
+    "text": "and other Technologies are going to come",
+    "start": 613.32,
+    "duration": 4.92
+  },
+  {
+    "text": "on and that's your your your your your",
+    "start": 615.399,
+    "duration": 6.721
+  },
+  {
+    "text": "platinum demand platinum's a very heat",
+    "start": 618.24,
+    "duration": 7.0
+  },
+  {
+    "text": "resistant metal so that's why with",
+    "start": 622.12,
+    "duration": 5.399
+  },
+  {
+    "text": "catalytic inverters uh there's there's",
+    "start": 625.24,
+    "duration": 4.719
+  },
+  {
+    "text": "such a tremendous demand for platinum",
+    "start": 627.519,
+    "duration": 5.161
+  },
+  {
+    "text": "padium and with green hydrogen if you",
+    "start": 629.959,
+    "duration": 4.681
+  },
+  {
+    "text": "think of like if you think of like",
+    "start": 632.68,
+    "duration": 4.0
+  },
+  {
+    "text": "Caterpillar you think of like all of",
+    "start": 634.64,
+    "duration": 4.639
+  },
+  {
+    "text": "these enormous pieces of equipment",
+    "start": 636.68,
+    "duration": 5.08
+  },
+  {
+    "text": "globally that are run on diesel fuel you",
+    "start": 639.279,
+    "duration": 4.041
+  },
+  {
+    "text": "think about 20 years from now 10 years",
+    "start": 641.76,
+    "duration": 3.759
+  },
+  {
+    "text": "from now those being potentially",
+    "start": 643.32,
+    "duration": 5.24
+  },
+  {
+    "text": "hydrogen powered uh vehicles and or big",
+    "start": 645.519,
+    "duration": 5.281
+  },
+  {
+    "text": "huge Earth moving machines that move",
+    "start": 648.56,
+    "duration": 4.92
+  },
+  {
+    "text": "from diesel to hydrogen that or big",
+    "start": 650.8,
+    "duration": 4.68
+  },
+  {
+    "text": "buses this is going to create a whole",
+    "start": 653.48,
+    "duration": 5.039
+  },
+  {
+    "text": "new demand set for platinum plaum that",
+    "start": 655.48,
+    "duration": 5.599
+  },
+  {
+    "text": "is uh that will be factored in over the",
+    "start": 658.519,
+    "duration": 5.44
+  },
+  {
+    "text": "law so given all of this and given the",
+    "start": 661.079,
+    "duration": 5.961
+  },
+  {
+    "text": "thesis that you've laid out for us Larry",
+    "start": 663.959,
+    "duration": 7.721
+  },
+  {
+    "text": "how should a portfolio be structured now",
+    "start": 667.04,
+    "duration": 7.4
+  },
+  {
+    "text": "in terms of percentage allocations what",
+    "start": 671.68,
+    "duration": 5.56
+  },
+  {
+    "text": "what are you looking at and for which",
+    "start": 674.44,
+    "duration": 5.12
+  },
+  {
+    "text": "timeline well one of the things we talk",
+    "start": 677.24,
+    "duration": 3.76
+  },
+  {
+    "text": "talked about in the book when Market",
+    "start": 679.56,
+    "duration": 5.519
+  },
+  {
+    "text": "speak is that uh your 640 portfolio of",
+    "start": 681.0,
+    "duration": 8.0
+  },
+  {
+    "text": "traditional stocks versus bonds is is is",
+    "start": 685.079,
+    "duration": 7.161
+  },
+  {
+    "text": "basic basically de and so that's from",
+    "start": 689.0,
+    "duration": 5.2
+  },
+  {
+    "text": "that's a 2010 to",
+    "start": 692.24,
+    "duration": 6.279
+  },
+  {
+    "text": "2020 deflationary regime portfolio um",
+    "start": 694.2,
+    "duration": 6.96
+  },
+  {
+    "text": "now we're in a 40",
+    "start": 698.519,
+    "duration": 5.041
+  },
+  {
+    "text": "4020 uh portfolio where you want to be",
+    "start": 701.16,
+    "duration": 7.04
+  },
+  {
+    "text": "40% stocks 40% bonds 20% Commodities",
+    "start": 703.56,
+    "duration": 6.92
+  },
+  {
+    "text": "within that commodity bucket you want to",
+    "start": 708.2,
+    "duration": 4.04
+  },
+  {
+    "text": "be in right at this stage you want be",
+    "start": 710.48,
+    "duration": 4.84
+  },
+  {
+    "text": "pretty heavy in uh in what we call",
+    "start": 712.24,
+    "duration": 8.399
+  },
+  {
+    "text": "Precious Metals and pgms um and as The",
+    "start": 715.32,
+    "duration": 7.959
+  },
+  {
+    "text": "Cutting cycle starts to take hold and",
+    "start": 720.639,
+    "duration": 5.241
+  },
+  {
+    "text": "where we kind of go into a economic",
+    "start": 723.279,
+    "duration": 4.721
+  },
+  {
+    "text": "slowdown then start to come out then you",
+    "start": 725.88,
+    "duration": 4.56
+  },
+  {
+    "text": "want to start to be uh really over",
+    "start": 728.0,
+    "duration": 7.24
+  },
+  {
+    "text": "allocating toward oil uh gas and copper",
+    "start": 730.44,
+    "duration": 5.759
+  },
+  {
+    "text": "and that's where you're going to get the",
+    "start": 735.24,
+    "duration": 4.12
+  },
+  {
+    "text": "real economic upside in terms of in",
+    "start": 736.199,
+    "duration": 7.361
+  },
+  {
+    "text": "terms of like your your S&P 500 remember",
+    "start": 739.36,
+    "duration": 7.159
+  },
+  {
+    "text": "1980 the last commodity bull market with",
+    "start": 743.56,
+    "duration": 7.04
+  },
+  {
+    "text": "a multi-polar world 49% of the P was in",
+    "start": 746.519,
+    "duration": 7.12
+  },
+  {
+    "text": "Industrials oil and gas and materials",
+    "start": 750.6,
+    "duration": 6.599
+  },
+  {
+    "text": "49% today that's close to 12 13 maybe",
+    "start": 753.639,
+    "duration": 6.801
+  },
+  {
+    "text": "14% the last six months so we see that",
+    "start": 757.199,
+    "duration": 8.64
+  },
+  {
+    "text": "growing from say say 13 to 14% up to 30%",
+    "start": 760.44,
+    "duration": 6.92
+  },
+  {
+    "text": "so we're going to see within the next",
+    "start": 765.839,
+    "duration": 4.961
+  },
+  {
+    "text": "five or 10 years your bhps your Rio",
+    "start": 767.36,
+    "duration": 6.68
+  },
+  {
+    "text": "tinos Your Valet are going to be a much",
+    "start": 770.8,
+    "duration": 5.88
+  },
+  {
+    "text": "larger percentage of the market you know",
+    "start": 774.04,
+    "duration": 6.08
+  },
+  {
+    "text": "your Chevrons your exons your is your",
+    "start": 776.68,
+    "duration": 6.399
+  },
+  {
+    "text": "Marathon petroleums so you're looking",
+    "start": 780.12,
+    "duration": 6.0
+  },
+  {
+    "text": "for those parts of the market are going",
+    "start": 783.079,
+    "duration": 4.921
+  },
+  {
+    "text": "to that part of the market probably at",
+    "start": 786.12,
+    "duration": 5.2
+  },
+  {
+    "text": "least double in terms of its composition",
+    "start": 788.0,
+    "duration": 6.48
+  },
+  {
+    "text": "component of the of the S&P 500 that's",
+    "start": 791.32,
+    "duration": 6.12
+  },
+  {
+    "text": "an Industrials oil and gas metals and",
+    "start": 794.48,
+    "duration": 5.96
+  },
+  {
+    "text": "materials",
+    "start": 797.44,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 801.88,
+    "duration": 7.87
+  }
+]

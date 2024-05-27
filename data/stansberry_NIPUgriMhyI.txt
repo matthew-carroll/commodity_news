@@ -1,0 +1,4977 @@
+[
+  {
+    "text": "the 2024 stanbury research conference",
+    "start": 0.08,
+    "duration": 5.279
+  },
+  {
+    "text": "and Alliance meeting is back this fall",
+    "start": 2.76,
+    "duration": 5.959
+  },
+  {
+    "text": "in Las Vegas and for the first time ever",
+    "start": 5.359,
+    "duration": 5.4
+  },
+  {
+    "text": "they've extended their early bird",
+    "start": 8.719,
+    "duration": 5.601
+  },
+  {
+    "text": "discounted ticket pricing which means if",
+    "start": 10.759,
+    "duration": 6.881
+  },
+  {
+    "text": "you reserve your seat today you can save",
+    "start": 14.32,
+    "duration": 8.32
+  },
+  {
+    "text": "$450 off your ticket head over to www.",
+    "start": 17.64,
+    "duration": 8.76
+  },
+  {
+    "text": "Vegas early bird.com to find all the",
+    "start": 22.64,
+    "duration": 6.0
+  },
+  {
+    "text": "details and get your discounted ticket",
+    "start": 26.4,
+    "duration": 5.119
+  },
+  {
+    "text": "the stanbury conference is is truly one",
+    "start": 28.64,
+    "duration": 6.12
+  },
+  {
+    "text": "of the best business mixed with pleasure",
+    "start": 31.519,
+    "duration": 5.761
+  },
+  {
+    "text": "industry events out there past speakers",
+    "start": 34.76,
+    "duration": 5.799
+  },
+  {
+    "text": "have included shark tanks Kevin o Dennis",
+    "start": 37.28,
+    "duration": 6.08
+  },
+  {
+    "text": "Miller and Steve Forbes and of course",
+    "start": 40.559,
+    "duration": 4.921
+  },
+  {
+    "text": "all your favorite stanbury editors will",
+    "start": 43.36,
+    "duration": 4.44
+  },
+  {
+    "text": "be there too including yours truly I",
+    "start": 45.48,
+    "duration": 4.16
+  },
+  {
+    "text": "mean I hope I'm one of your",
+    "start": 47.8,
+    "duration": 4.079
+  },
+  {
+    "text": "favorites I look forward to this event",
+    "start": 49.64,
+    "duration": 5.2
+  },
+  {
+    "text": "every year it's great getting the chance",
+    "start": 51.879,
+    "duration": 5.441
+  },
+  {
+    "text": "to meet our listeners from the show",
+    "start": 54.84,
+    "duration": 5.16
+  },
+  {
+    "text": "whether it's chatting during a break or",
+    "start": 57.32,
+    "duration": 4.64
+  },
+  {
+    "text": "or grabbing a beer at the end of the day",
+    "start": 60.0,
+    "duration": 4.36
+  },
+  {
+    "text": "or whatever so I hope you're planning to",
+    "start": 61.96,
+    "duration": 6.04
+  },
+  {
+    "text": "join us it's a great event go to www.",
+    "start": 64.36,
+    "duration": 7.24
+  },
+  {
+    "text": "vasly bird.com to get your discounted",
+    "start": 68.0,
+    "duration": 6.72
+  },
+  {
+    "text": "ticket before prices increase that's",
+    "start": 71.6,
+    "duration": 7.519
+  },
+  {
+    "text": "www. vasly bird.com so come on out and",
+    "start": 74.72,
+    "duration": 7.6
+  },
+  {
+    "text": "find me in Vegas and say",
+    "start": 79.119,
+    "duration": 3.201
+  },
+  {
+    "text": "[Applause]",
+    "start": 83.93,
+    "duration": 3.129
+  },
+  {
+    "text": "hello cactus welcome to the show it's",
+    "start": 88.4,
+    "duration": 5.28
+  },
+  {
+    "text": "always a pleasure to see you you too Dan",
+    "start": 90.72,
+    "duration": 5.2
+  },
+  {
+    "text": "it's been too long looking forward to uh",
+    "start": 93.68,
+    "duration": 5.04
+  },
+  {
+    "text": "revisiting with",
+    "start": 95.92,
+    "duration": 2.8
+  },
+  {
+    "text": "you yeah so um actually I think the last",
+    "start": 99.079,
+    "duration": 6.0
+  },
+  {
+    "text": "time we ran into each other might have",
+    "start": 102.479,
+    "duration": 5.32
+  },
+  {
+    "text": "even been the I feel like it was at some",
+    "start": 105.079,
+    "duration": 5.64
+  },
+  {
+    "text": "conference or other maybe in Las Vegas",
+    "start": 107.799,
+    "duration": 6.96
+  },
+  {
+    "text": "at the stanbury conference right right",
+    "start": 110.719,
+    "duration": 7.601
+  },
+  {
+    "text": "so yeah been been a while",
+    "start": 114.759,
+    "duration": 6.64
+  },
+  {
+    "text": "um and if you been on the show before it",
+    "start": 118.32,
+    "duration": 4.96
+  },
+  {
+    "text": "was before my time because I went and",
+    "start": 121.399,
+    "duration": 4.961
+  },
+  {
+    "text": "looked through the archives so um so",
+    "start": 123.28,
+    "duration": 4.92
+  },
+  {
+    "text": "you're effectively a new guest to the",
+    "start": 126.36,
+    "duration": 5.44
+  },
+  {
+    "text": "show um so we should tell our listeners",
+    "start": 128.2,
+    "duration": 5.319
+  },
+  {
+    "text": "um who haven't heard from me in some",
+    "start": 131.8,
+    "duration": 5.159
+  },
+  {
+    "text": "time um who you are and what you do and",
+    "start": 133.519,
+    "duration": 6.321
+  },
+  {
+    "text": "uh and to me like if I if somebody said",
+    "start": 136.959,
+    "duration": 5.28
+  },
+  {
+    "text": "who's Cactus I'm like he's a real honest",
+    "start": 139.84,
+    "duration": 5.8
+  },
+  {
+    "text": "to goodness Texas Oil Man period that's",
+    "start": 142.239,
+    "duration": 5.681
+  },
+  {
+    "text": "like the full description right I mean",
+    "start": 145.64,
+    "duration": 6.12
+  },
+  {
+    "text": "exactly that that fits me to",
+    "start": 147.92,
+    "duration": 5.319
+  },
+  {
+    "text": "yep",
+    "start": 151.76,
+    "duration": 4.4
+  },
+  {
+    "text": "so and you know who better to talk to",
+    "start": 153.239,
+    "duration": 5.121
+  },
+  {
+    "text": "about about that business that somebody",
+    "start": 156.16,
+    "duration": 4.079
+  },
+  {
+    "text": "than someone who actually does it right",
+    "start": 158.36,
+    "duration": 4.12
+  },
+  {
+    "text": "so the first thing I guess I want to",
+    "start": 160.239,
+    "duration": 4.28
+  },
+  {
+    "text": "talk about is I'm sitting here in front",
+    "start": 162.48,
+    "duration": 6.36
+  },
+  {
+    "text": "of my computer and I'm looking at 78",
+    "start": 164.519,
+    "duration": 6.601
+  },
+  {
+    "text": "bucks or so for WTI",
+    "start": 168.84,
+    "duration": 6.039
+  },
+  {
+    "text": "Crude um folks can make money at 78",
+    "start": 171.12,
+    "duration": 8.52
+  },
+  {
+    "text": "bucks can't they no doubt yes it's uh",
+    "start": 174.879,
+    "duration": 6.44
+  },
+  {
+    "text": "the they're getting to where they're",
+    "start": 179.64,
+    "duration": 5.599
+  },
+  {
+    "text": "drilling a lot longer laterals uh they",
+    "start": 181.319,
+    "duration": 6.48
+  },
+  {
+    "text": "the economics are looking better between",
+    "start": 185.239,
+    "duration": 7.041
+  },
+  {
+    "text": "the higher oil prices and and uh people",
+    "start": 187.799,
+    "duration": 6.0
+  },
+  {
+    "text": "look at the rig counts and the rig",
+    "start": 192.28,
+    "duration": 3.92
+  },
+  {
+    "text": "counts are going down however what",
+    "start": 193.799,
+    "duration": 4.281
+  },
+  {
+    "text": "they're not seeing is that instead of",
+    "start": 196.2,
+    "duration": 4.92
+  },
+  {
+    "text": "drilling one mile long laterals like we",
+    "start": 198.08,
+    "duration": 6.28
+  },
+  {
+    "text": "used to now we're drilling Three Mile",
+    "start": 201.12,
+    "duration": 5.679
+  },
+  {
+    "text": "laterals and so those three mile",
+    "start": 204.36,
+    "duration": 4.879
+  },
+  {
+    "text": "laterals that that one rig is drilling",
+    "start": 206.799,
+    "duration": 5.481
+  },
+  {
+    "text": "the equivalent of three Wells five years",
+    "start": 209.239,
+    "duration": 8.521
+  },
+  {
+    "text": "ago so it's uh R count a little bit",
+    "start": 212.28,
+    "duration": 5.48
+  },
+  {
+    "text": "deceptive yeah that's definitely",
+    "start": 220.92,
+    "duration": 3.92
+  },
+  {
+    "text": "something you don't hear from uh Wall",
+    "start": 222.599,
+    "duration": 3.681
+  },
+  {
+    "text": "Street people okay these days when",
+    "start": 224.84,
+    "duration": 3.759
+  },
+  {
+    "text": "they're talking about what's going on",
+    "start": 226.28,
+    "duration": 5.36
+  },
+  {
+    "text": "with oil yes and the other thing that",
+    "start": 228.599,
+    "duration": 4.601
+  },
+  {
+    "text": "that's going to be interesting in the",
+    "start": 231.64,
+    "duration": 4.48
+  },
+  {
+    "text": "future is these horizont Wells are only",
+    "start": 233.2,
+    "duration": 7.16
+  },
+  {
+    "text": "have like a 5% recovery factor and so",
+    "start": 236.12,
+    "duration": 6.88
+  },
+  {
+    "text": "95% of the oil is",
+    "start": 240.36,
+    "duration": 5.959
+  },
+  {
+    "text": "unrecoverable with today's technology",
+    "start": 243.0,
+    "duration": 6.2
+  },
+  {
+    "text": "you know 5 10 years from now we'll be",
+    "start": 246.319,
+    "duration": 5.28
+  },
+  {
+    "text": "able to go back and hopefully Harvest",
+    "start": 249.2,
+    "duration": 6.72
+  },
+  {
+    "text": "another 5 10 15% from these",
+    "start": 251.599,
+    "duration": 4.321
+  },
+  {
+    "text": "Wells wow did not know it was that low I",
+    "start": 256.959,
+    "duration": 4.721
+  },
+  {
+    "text": "knew it wasn't particularly high but I",
+    "start": 259.88,
+    "duration": 5.12
+  },
+  {
+    "text": "didn't know it was that low um so that's",
+    "start": 261.68,
+    "duration": 5.4
+  },
+  {
+    "text": "very interesting like Cactus what's your",
+    "start": 265.0,
+    "duration": 5.36
+  },
+  {
+    "text": "history in like gasier plays",
+    "start": 267.08,
+    "duration": 5.399
+  },
+  {
+    "text": "any most of what I've been doing has",
+    "start": 270.36,
+    "duration": 4.8
+  },
+  {
+    "text": "been in the oil plays I've been you know",
+    "start": 272.479,
+    "duration": 5.401
+  },
+  {
+    "text": "looking at at hanesville",
+    "start": 275.16,
+    "duration": 6.0
+  },
+  {
+    "text": "marcelus uh I have a good friend that",
+    "start": 277.88,
+    "duration": 6.96
+  },
+  {
+    "text": "just sold out to Tokyo gas uh in the",
+    "start": 281.16,
+    "duration": 6.52
+  },
+  {
+    "text": "hfield he's been there for probably five",
+    "start": 284.84,
+    "duration": 5.44
+  },
+  {
+    "text": "or six years and was back by Quan which",
+    "start": 287.68,
+    "duration": 3.84
+  },
+  {
+    "text": "is",
+    "start": 290.28,
+    "duration": 5.04
+  },
+  {
+    "text": "a local firm around here they actually",
+    "start": 291.52,
+    "duration": 5.64
+  },
+  {
+    "text": "may offices are in Houston but they",
+    "start": 295.32,
+    "duration": 3.719
+  },
+  {
+    "text": "originated at a little town outside of",
+    "start": 297.16,
+    "duration": 3.0
+  },
+  {
+    "text": "avalin called",
+    "start": 299.039,
+    "duration": 5.921
+  },
+  {
+    "text": "Albany and anyway they gave him I think",
+    "start": 300.16,
+    "duration": 7.759
+  },
+  {
+    "text": "like $800 million and he turned it into",
+    "start": 304.96,
+    "duration": 6.88
+  },
+  {
+    "text": "2.7 billion and so he they just closed",
+    "start": 307.919,
+    "duration": 7.321
+  },
+  {
+    "text": "that deal like a month or two ago uh so",
+    "start": 311.84,
+    "duration": 5.919
+  },
+  {
+    "text": "I I keep my eye on it but um it's a",
+    "start": 315.24,
+    "duration": 4.6
+  },
+  {
+    "text": "little far away from me that's far east",
+    "start": 317.759,
+    "duration": 4.28
+  },
+  {
+    "text": "Texas right along the Louisiana line and",
+    "start": 319.84,
+    "duration": 4.079
+  },
+  {
+    "text": "of course the marcelis is is up in",
+    "start": 322.039,
+    "duration": 3.921
+  },
+  {
+    "text": "Pennsylvania but I've been trying to",
+    "start": 323.919,
+    "duration": 4.201
+  },
+  {
+    "text": "follow that through Porter because he's",
+    "start": 325.96,
+    "duration": 4.32
+  },
+  {
+    "text": "done such a good job with with the",
+    "start": 328.12,
+    "duration": 4.32
+  },
+  {
+    "text": "investigating eqt and everything that",
+    "start": 330.28,
+    "duration": 5.56
+  },
+  {
+    "text": "they've done and so uh those two areas",
+    "start": 332.44,
+    "duration": 5.24
+  },
+  {
+    "text": "are probably going to be supplying the",
+    "start": 335.84,
+    "duration": 3.88
+  },
+  {
+    "text": "majority of the United States gas for a",
+    "start": 337.68,
+    "duration": 4.44
+  },
+  {
+    "text": "long",
+    "start": 339.72,
+    "duration": 2.4
+  },
+  {
+    "text": "time right and I find gas really",
+    "start": 342.56,
+    "duration": 7.56
+  },
+  {
+    "text": "interesting now because um it's just",
+    "start": 346.4,
+    "duration": 7.2
+  },
+  {
+    "text": "been obliterated I it's just uh you know",
+    "start": 350.12,
+    "duration": 5.799
+  },
+  {
+    "text": "the price pricing has just been",
+    "start": 353.6,
+    "duration": 5.719
+  },
+  {
+    "text": "obliterated and you know unless you're",
+    "start": 355.919,
+    "duration": 4.601
+  },
+  {
+    "text": "in",
+    "start": 359.319,
+    "duration": 3.241
+  },
+  {
+    "text": "um you know like perian with like",
+    "start": 360.52,
+    "duration": 5.519
+  },
+  {
+    "text": "essentially negative break evens um not",
+    "start": 362.56,
+    "duration": 5.479
+  },
+  {
+    "text": "a lot of folks are making a huge amount",
+    "start": 366.039,
+    "duration": 5.681
+  },
+  {
+    "text": "of money with gas right now which is for",
+    "start": 368.039,
+    "duration": 5.0
+  },
+  {
+    "text": "investors you know that could be an",
+    "start": 371.72,
+    "duration": 4.52
+  },
+  {
+    "text": "ideal entry point right exactly I mean",
+    "start": 373.039,
+    "duration": 6.481
+  },
+  {
+    "text": "there's so much more upside natural gas",
+    "start": 376.24,
+    "duration": 5.2
+  },
+  {
+    "text": "than there is downside they've already",
+    "start": 379.52,
+    "duration": 4.72
+  },
+  {
+    "text": "got it so low at a buck and a half",
+    "start": 381.44,
+    "duration": 5.52
+  },
+  {
+    "text": "that's just you're barely able to even",
+    "start": 384.24,
+    "duration": 6.84
+  },
+  {
+    "text": "break even and so I think that that is",
+    "start": 386.96,
+    "duration": 7.519
+  },
+  {
+    "text": "probably going to change once we're able",
+    "start": 391.08,
+    "duration": 8.76
+  },
+  {
+    "text": "to get uh once the marcelis is able to",
+    "start": 394.479,
+    "duration": 8.361
+  },
+  {
+    "text": "be able put in an LG facility and ship",
+    "start": 399.84,
+    "duration": 5.96
+  },
+  {
+    "text": "to Europe I think that's going to have a",
+    "start": 402.84,
+    "duration": 5.44
+  },
+  {
+    "text": "big effect on the prices and then also",
+    "start": 405.8,
+    "duration": 4.2
+  },
+  {
+    "text": "they're they're currently building a",
+    "start": 408.28,
+    "duration": 5.52
+  },
+  {
+    "text": "pipeline in the peran through Mexico to",
+    "start": 410.0,
+    "duration": 6.879
+  },
+  {
+    "text": "the uh West Coast and that will have a",
+    "start": 413.8,
+    "duration": 5.119
+  },
+  {
+    "text": "big effect the thing that I worry about",
+    "start": 416.879,
+    "duration": 4.081
+  },
+  {
+    "text": "there is you know the cartels are",
+    "start": 418.919,
+    "duration": 5.56
+  },
+  {
+    "text": "essentially going to you have to be paid",
+    "start": 420.96,
+    "duration": 6.0
+  },
+  {
+    "text": "off I don't know exactly how that's all",
+    "start": 424.479,
+    "duration": 5.481
+  },
+  {
+    "text": "going to work in Mexico you never know",
+    "start": 426.96,
+    "duration": 5.72
+  },
+  {
+    "text": "but uh I do know that they've got it you",
+    "start": 429.96,
+    "duration": 4.04
+  },
+  {
+    "text": "know all the money raised for it and",
+    "start": 432.68,
+    "duration": 3.799
+  },
+  {
+    "text": "they're starting construction on it so",
+    "start": 434.0,
+    "duration": 4.599
+  },
+  {
+    "text": "uh that's going to be very interesting",
+    "start": 436.479,
+    "duration": 4.361
+  },
+  {
+    "text": "to see how that plays out that that will",
+    "start": 438.599,
+    "duration": 6.16
+  },
+  {
+    "text": "get her in gas going to the Orient and",
+    "start": 440.84,
+    "duration": 7.039
+  },
+  {
+    "text": "we'll give the marcelus gas one to",
+    "start": 444.759,
+    "duration": 5.641
+  },
+  {
+    "text": "Europe yeah and just for The Listener",
+    "start": 447.879,
+    "duration": 5.401
+  },
+  {
+    "text": "sake when you say affects the price gas",
+    "start": 450.4,
+    "duration": 5.4
+  },
+  {
+    "text": "is a little bit more expensive in those",
+    "start": 453.28,
+    "duration": 4.62
+  },
+  {
+    "text": "places",
+    "start": 455.8,
+    "duration": 4.399
+  },
+  {
+    "text": "[Laughter]",
+    "start": 457.9,
+    "duration": 4.78
+  },
+  {
+    "text": "Europe and a half I think down the",
+    "start": 460.199,
+    "duration": 3.84
+  },
+  {
+    "text": "winter it's in some of those European",
+    "start": 462.68,
+    "duration": 4.079
+  },
+  {
+    "text": "Winters it gets up 25 $30 you know so",
+    "start": 464.039,
+    "duration": 5.081
+  },
+  {
+    "text": "you're talking about multiple that's",
+    "start": 466.759,
+    "duration": 5.28
+  },
+  {
+    "text": "huge yep and",
+    "start": 469.12,
+    "duration": 5.479
+  },
+  {
+    "text": "obviously you know there's an Arbitrage",
+    "start": 472.039,
+    "duration": 4.84
+  },
+  {
+    "text": "Factor but you know that that that will",
+    "start": 474.599,
+    "duration": 6.241
+  },
+  {
+    "text": "take a little time to kick in um",
+    "start": 476.879,
+    "duration": 7.641
+  },
+  {
+    "text": "exactly yeah so it's uh potentially",
+    "start": 480.84,
+    "duration": 6.28
+  },
+  {
+    "text": "really an interesting uh development",
+    "start": 484.52,
+    "duration": 4.359
+  },
+  {
+    "text": "here and not one that's going to happen",
+    "start": 487.12,
+    "duration": 4.24
+  },
+  {
+    "text": "in five minutes either right it's not",
+    "start": 488.879,
+    "duration": 4.72
+  },
+  {
+    "text": "something it's not like we're waiting",
+    "start": 491.36,
+    "duration": 3.519
+  },
+  {
+    "text": "for next",
+    "start": 493.599,
+    "duration": 6.88
+  },
+  {
+    "text": "month well yeah that's true um",
+    "start": 494.879,
+    "duration": 8.241
+  },
+  {
+    "text": "the but they it's getting closer and",
+    "start": 500.479,
+    "duration": 4.761
+  },
+  {
+    "text": "closer all the time I have doubts about",
+    "start": 503.12,
+    "duration": 4.12
+  },
+  {
+    "text": "that PP planine on the west coast but",
+    "start": 505.24,
+    "duration": 4.519
+  },
+  {
+    "text": "just as soon as you know if Trump does",
+    "start": 507.24,
+    "duration": 4.84
+  },
+  {
+    "text": "get elected and allows the pons to be",
+    "start": 509.759,
+    "duration": 4.561
+  },
+  {
+    "text": "built you know out where we can put it",
+    "start": 512.08,
+    "duration": 5.519
+  },
+  {
+    "text": "on an lngg facility in the water and",
+    "start": 514.32,
+    "duration": 5.399
+  },
+  {
+    "text": "start shipping it out I don't think",
+    "start": 517.599,
+    "duration": 3.841
+  },
+  {
+    "text": "that's going to take a terribly long",
+    "start": 519.719,
+    "duration": 3.44
+  },
+  {
+    "text": "time but you're going it's not going to",
+    "start": 521.44,
+    "duration": 4.519
+  },
+  {
+    "text": "be next month or next year it's going to",
+    "start": 523.159,
+    "duration": 4.601
+  },
+  {
+    "text": "take a couple of years to get it done",
+    "start": 525.959,
+    "duration": 3.641
+  },
+  {
+    "text": "but I think it's it's you know they've",
+    "start": 527.76,
+    "duration": 5.84
+  },
+  {
+    "text": "got everything all lined out to get it",
+    "start": 529.6,
+    "duration": 7.56
+  },
+  {
+    "text": "done and we also make eqt you know a",
+    "start": 533.6,
+    "duration": 7.76
+  },
+  {
+    "text": "vertically integrated uh mhm gas major",
+    "start": 537.16,
+    "duration": 7.16
+  },
+  {
+    "text": "gas company and so that's that's going",
+    "start": 541.36,
+    "duration": 5.0
+  },
+  {
+    "text": "to be very interesting to see how they",
+    "start": 544.32,
+    "duration": 4.68
+  },
+  {
+    "text": "handle all of",
+    "start": 546.36,
+    "duration": 8.719
+  },
+  {
+    "text": "that yeah yep uh and I find gas also",
+    "start": 549.0,
+    "duration": 8.04
+  },
+  {
+    "text": "interesting um for the reason that I",
+    "start": 555.079,
+    "duration": 5.44
+  },
+  {
+    "text": "find you know things like copper um and",
+    "start": 557.04,
+    "duration": 5.6
+  },
+  {
+    "text": "even to an extent like",
+    "start": 560.519,
+    "duration": 5.76
+  },
+  {
+    "text": "uranium um and frankly oil interesting",
+    "start": 562.64,
+    "duration": 6.8
+  },
+  {
+    "text": "because you can buy an eqt or you know",
+    "start": 566.279,
+    "duration": 5.721
+  },
+  {
+    "text": "couple other kind of big cap well-run",
+    "start": 569.44,
+    "duration": 7.76
+  },
+  {
+    "text": "companies and expect um a really awesome",
+    "start": 572.0,
+    "duration": 8.2
+  },
+  {
+    "text": "return over the ne you know the next I",
+    "start": 577.2,
+    "duration": 5.36
+  },
+  {
+    "text": "don't know just say few years to several",
+    "start": 580.2,
+    "duration": 5.0
+  },
+  {
+    "text": "years um with in other words you don't",
+    "start": 582.56,
+    "duration": 4.36
+  },
+  {
+    "text": "have to take a lot of risk buying a lot",
+    "start": 585.2,
+    "duration": 4.04
+  },
+  {
+    "text": "of you know garbagey little companies",
+    "start": 586.92,
+    "duration": 3.72
+  },
+  {
+    "text": "that you don't know what's going on in",
+    "start": 589.24,
+    "duration": 4.52
+  },
+  {
+    "text": "them um you can buy the sort of Blue",
+    "start": 590.64,
+    "duration": 6.68
+  },
+  {
+    "text": "Chip natural gas producers and expect to",
+    "start": 593.76,
+    "duration": 6.44
+  },
+  {
+    "text": "do really well right I mean exactly I",
+    "start": 597.32,
+    "duration": 5.519
+  },
+  {
+    "text": "think that's a wonderful",
+    "start": 600.2,
+    "duration": 6.96
+  },
+  {
+    "text": "strategy yeah um and it's it's exciting",
+    "start": 602.839,
+    "duration": 7.201
+  },
+  {
+    "text": "because let's face it um you know",
+    "start": 607.16,
+    "duration": 5.799
+  },
+  {
+    "text": "natural gas is not exactly known to be",
+    "start": 610.04,
+    "duration": 4.28
+  },
+  {
+    "text": "you know it's known to be a pretty",
+    "start": 612.959,
+    "duration": 4.32
+  },
+  {
+    "text": "volatile commodity right um I mean we're",
+    "start": 614.32,
+    "duration": 4.4
+  },
+  {
+    "text": "sitting here talking about how the",
+    "start": 617.279,
+    "duration": 4.401
+  },
+  {
+    "text": "pricing has been just obliterated and",
+    "start": 618.72,
+    "duration": 4.72
+  },
+  {
+    "text": "and that happens with gas it's",
+    "start": 621.68,
+    "duration": 3.32
+  },
+  {
+    "text": "obliterated and it sores and it's",
+    "start": 623.44,
+    "duration": 5.92
+  },
+  {
+    "text": "obliterated and it sores um and and yet",
+    "start": 625.0,
+    "duration": 6.8
+  },
+  {
+    "text": "yet here we are I mean it's really kind",
+    "start": 629.36,
+    "duration": 5.52
+  },
+  {
+    "text": "of calmed down and just settled in you",
+    "start": 631.8,
+    "duration": 8.039
+  },
+  {
+    "text": "know way under two bucks here and uh yet",
+    "start": 634.88,
+    "duration": 8.04
+  },
+  {
+    "text": "an eqt is still making money I just",
+    "start": 639.839,
+    "duration": 6.921
+  },
+  {
+    "text": "think it's um as an investor few things",
+    "start": 642.92,
+    "duration": 6.08
+  },
+  {
+    "text": "are more exciting than this to me",
+    "start": 646.76,
+    "duration": 5.96
+  },
+  {
+    "text": "because of the just the risk reward",
+    "start": 649.0,
+    "duration": 6.279
+  },
+  {
+    "text": "proposition um what's the risk reward",
+    "start": 652.72,
+    "duration": 5.96
+  },
+  {
+    "text": "proposition that you face uh in your",
+    "start": 655.279,
+    "duration": 6.0
+  },
+  {
+    "text": "business when you go directly at it you",
+    "start": 658.68,
+    "duration": 4.8
+  },
+  {
+    "text": "know you get the financing you drill the",
+    "start": 661.279,
+    "duration": 6.68
+  },
+  {
+    "text": "holes um what's that like it you know",
+    "start": 663.48,
+    "duration": 6.08
+  },
+  {
+    "text": "mine is",
+    "start": 667.959,
+    "duration": 5.361
+  },
+  {
+    "text": "more of wild catting",
+    "start": 669.56,
+    "duration": 6.839
+  },
+  {
+    "text": "exploration where I'm trying to find new",
+    "start": 673.32,
+    "duration": 6.759
+  },
+  {
+    "text": "smaller traps of oil whereas theirs is",
+    "start": 676.399,
+    "duration": 6.281
+  },
+  {
+    "text": "more of a mining operation they knowly",
+    "start": 680.079,
+    "duration": 5.401
+  },
+  {
+    "text": "what they've got they their biggest",
+    "start": 682.68,
+    "duration": 5.279
+  },
+  {
+    "text": "hurdles are pipelines and and the",
+    "start": 685.48,
+    "duration": 5.12
+  },
+  {
+    "text": "technology to drill long laterals and",
+    "start": 687.959,
+    "duration": 5.521
+  },
+  {
+    "text": "and Recovery factors and and those type",
+    "start": 690.6,
+    "duration": 5.679
+  },
+  {
+    "text": "of things so you know our whereas these",
+    "start": 693.48,
+    "duration": 5.44
+  },
+  {
+    "text": "major oil companies used to be you know",
+    "start": 696.279,
+    "duration": 6.321
+  },
+  {
+    "text": "more into exploration now it's more I",
+    "start": 698.92,
+    "duration": 5.76
+  },
+  {
+    "text": "call it mining because it they know",
+    "start": 702.6,
+    "duration": 3.919
+  },
+  {
+    "text": "what's there they got to decide how",
+    "start": 704.68,
+    "duration": 3.159
+  },
+  {
+    "text": "they're going to get it out how they're",
+    "start": 706.519,
+    "duration": 3.841
+  },
+  {
+    "text": "going to get it you know to the end user",
+    "start": 707.839,
+    "duration": 4.56
+  },
+  {
+    "text": "you know what regulatory problems they",
+    "start": 710.36,
+    "duration": 5.64
+  },
+  {
+    "text": "have what uh you know and also",
+    "start": 712.399,
+    "duration": 7.0
+  },
+  {
+    "text": "furthering their technology on it uh I'm",
+    "start": 716.0,
+    "duration": 5.48
+  },
+  {
+    "text": "not sure about the recovery factors on",
+    "start": 719.399,
+    "duration": 3.68
+  },
+  {
+    "text": "natural gas I'm sure they're a little",
+    "start": 721.48,
+    "duration": 4.799
+  },
+  {
+    "text": "higher than the oil recovery factors but",
+    "start": 723.079,
+    "duration": 5.521
+  },
+  {
+    "text": "I haven't seen any official figures out",
+    "start": 726.279,
+    "duration": 4.24
+  },
+  {
+    "text": "on that I have to dive into that a",
+    "start": 728.6,
+    "duration": 4.84
+  },
+  {
+    "text": "little deeper but you know what I try to",
+    "start": 730.519,
+    "duration": 7.041
+  },
+  {
+    "text": "do in my business is if if I can find a",
+    "start": 733.44,
+    "duration": 7.199
+  },
+  {
+    "text": "it's much smaller scale you know I try",
+    "start": 737.56,
+    "duration": 5.959
+  },
+  {
+    "text": "to find a a prospect that would give",
+    "start": 740.639,
+    "duration": 6.041
+  },
+  {
+    "text": "somebody uh 10 or 15 to one return on",
+    "start": 743.519,
+    "duration": 6.241
+  },
+  {
+    "text": "their money however I've got the risk of",
+    "start": 746.68,
+    "duration": 5.64
+  },
+  {
+    "text": "dry holes whereas the majors you know",
+    "start": 749.76,
+    "duration": 3.879
+  },
+  {
+    "text": "that's more of a mining operation",
+    "start": 752.32,
+    "duration": 2.319
+  },
+  {
+    "text": "they're going to make them well every",
+    "start": 753.639,
+    "duration": 4.0
+  },
+  {
+    "text": "time they grow so mindes you know have",
+    "start": 754.639,
+    "duration": 5.56
+  },
+  {
+    "text": "comes with inherently more risk but it",
+    "start": 757.639,
+    "duration": 5.56
+  },
+  {
+    "text": "also comes with more reward as well uh",
+    "start": 760.199,
+    "duration": 4.721
+  },
+  {
+    "text": "you know when you do find those those",
+    "start": 763.199,
+    "duration": 3.76
+  },
+  {
+    "text": "good fields that can give you 10 to one",
+    "start": 764.92,
+    "duration": 4.64
+  },
+  {
+    "text": "retiring your money then it's",
+    "start": 766.959,
+    "duration": 6.641
+  },
+  {
+    "text": "uh it it makes it more like a business",
+    "start": 769.56,
+    "duration": 7.079
+  },
+  {
+    "text": "that a that a crap sheet at the",
+    "start": 773.6,
+    "duration": 6.919
+  },
+  {
+    "text": "casino right so you exploration is is an",
+    "start": 776.639,
+    "duration": 7.521
+  },
+  {
+    "text": "interesting topic um because again in um",
+    "start": 780.519,
+    "duration": 5.401
+  },
+  {
+    "text": "in those other you know actual mining",
+    "start": 784.16,
+    "duration": 6.039
+  },
+  {
+    "text": "industry like you know um just pick on",
+    "start": 785.92,
+    "duration": 6.96
+  },
+  {
+    "text": "copper uh what what you see is you know",
+    "start": 790.199,
+    "duration": 5.401
+  },
+  {
+    "text": "before about 2005 or six or so the peak",
+    "start": 792.88,
+    "duration": 5.12
+  },
+  {
+    "text": "of the housing bubble lots of new",
+    "start": 795.6,
+    "duration": 4.799
+  },
+  {
+    "text": "discoveries made every year then after",
+    "start": 798.0,
+    "duration": 5.8
+  },
+  {
+    "text": "that date after about 2006 there are I",
+    "start": 800.399,
+    "duration": 5.521
+  },
+  {
+    "text": "think four years where no new",
+    "start": 803.8,
+    "duration": 5.399
+  },
+  {
+    "text": "discoveries were made and now just for",
+    "start": 805.92,
+    "duration": 7.32
+  },
+  {
+    "text": "regular sort of GDP growth globally um",
+    "start": 809.199,
+    "duration": 6.281
+  },
+  {
+    "text": "Robert Friedland one of the big U",
+    "start": 813.24,
+    "duration": 5.2
+  },
+  {
+    "text": "entrepreneurs in the space um says we",
+    "start": 815.48,
+    "duration": 5.599
+  },
+  {
+    "text": "need eight escanda mines eight of the",
+    "start": 818.44,
+    "duration": 5.839
+  },
+  {
+    "text": "largest copper mine in the world just to",
+    "start": 821.079,
+    "duration": 6.32
+  },
+  {
+    "text": "keep the economy you know humming along",
+    "start": 824.279,
+    "duration": 5.841
+  },
+  {
+    "text": "the global economy going and they don't",
+    "start": 827.399,
+    "duration": 7.56
+  },
+  {
+    "text": "exist so what what's the situation in um",
+    "start": 830.12,
+    "duration": 7.2
+  },
+  {
+    "text": "in in",
+    "start": 834.959,
+    "duration": 5.56
+  },
+  {
+    "text": "oil are we you know is there a dur of",
+    "start": 837.32,
+    "duration": 5.36
+  },
+  {
+    "text": "exploration are there enough guys like",
+    "start": 840.519,
+    "duration": 4.24
+  },
+  {
+    "text": "you out there wild",
+    "start": 842.68,
+    "duration": 4.8
+  },
+  {
+    "text": "catting um I missed a little bit there",
+    "start": 844.759,
+    "duration": 7.0
+  },
+  {
+    "text": "was a gap in your your oh",
+    "start": 847.48,
+    "duration": 4.279
+  },
+  {
+    "text": "sorry audio but anyway are there enough",
+    "start": 851.839,
+    "duration": 7.961
+  },
+  {
+    "text": "guys now yeah yes and no uh I'm a Dying",
+    "start": 854.92,
+    "duration": 7.56
+  },
+  {
+    "text": "Breed I'm a I'm a mom and Shop or Mom",
+    "start": 859.8,
+    "duration": 5.399
+  },
+  {
+    "text": "and Pop type shop you know I'm very",
+    "start": 862.48,
+    "duration": 5.279
+  },
+  {
+    "text": "small I've got two or three employees",
+    "start": 865.199,
+    "duration": 4.241
+  },
+  {
+    "text": "and and but I've got a group group of",
+    "start": 867.759,
+    "duration": 3.281
+  },
+  {
+    "text": "people when I get ready to drill well",
+    "start": 869.44,
+    "duration": 4.24
+  },
+  {
+    "text": "I've got my drilling contractors my",
+    "start": 871.04,
+    "duration": 5.64
+  },
+  {
+    "text": "loggers my my dirt people the people",
+    "start": 873.68,
+    "duration": 5.32
+  },
+  {
+    "text": "with the doers that build a location you",
+    "start": 876.68,
+    "duration": 5.92
+  },
+  {
+    "text": "know all these different people that I",
+    "start": 879.0,
+    "duration": 5.88
+  },
+  {
+    "text": "contract with to drill my",
+    "start": 882.6,
+    "duration": 4.84
+  },
+  {
+    "text": "Wells uh the one thing that I do see",
+    "start": 884.88,
+    "duration": 4.16
+  },
+  {
+    "text": "particularly in the Perman Basin which",
+    "start": 887.44,
+    "duration": 4.68
+  },
+  {
+    "text": "is the most important Basin in the",
+    "start": 889.04,
+    "duration": 8.68
+  },
+  {
+    "text": "United States it basically uh deliv 50%",
+    "start": 892.12,
+    "duration": 8.399
+  },
+  {
+    "text": "of our well output and United States so",
+    "start": 897.72,
+    "duration": 4.52
+  },
+  {
+    "text": "all the others Alaska Oklahoma",
+    "start": 900.519,
+    "duration": 4.801
+  },
+  {
+    "text": "California you know Louisiana they they",
+    "start": 902.24,
+    "duration": 7.039
+  },
+  {
+    "text": "all together combine about 50% heran",
+    "start": 905.32,
+    "duration": 7.0
+  },
+  {
+    "text": "provides 50% of the oil but what I see",
+    "start": 909.279,
+    "duration": 5.68
+  },
+  {
+    "text": "there is it's such a",
+    "start": 912.32,
+    "duration": 6.36
+  },
+  {
+    "text": "consolidation really five companies now",
+    "start": 914.959,
+    "duration": 6.721
+  },
+  {
+    "text": "control about 80% of the ear you know",
+    "start": 918.68,
+    "duration": 6.24
+  },
+  {
+    "text": "you've got Chevron and Exon and Diving",
+    "start": 921.68,
+    "duration": 6.719
+  },
+  {
+    "text": "back and oxy and kico and those those",
+    "start": 924.92,
+    "duration": 6.0
+  },
+  {
+    "text": "five companies control about 80% of it",
+    "start": 928.399,
+    "duration": 5.161
+  },
+  {
+    "text": "so there's not really room for any",
+    "start": 930.92,
+    "duration": 5.159
+  },
+  {
+    "text": "little guy anymore or very seldom is",
+    "start": 933.56,
+    "duration": 5.24
+  },
+  {
+    "text": "there room for little guy I'm where I",
+    "start": 936.079,
+    "duration": 4.401
+  },
+  {
+    "text": "drill is on they call it the Eastern",
+    "start": 938.8,
+    "duration": 3.8
+  },
+  {
+    "text": "shelf which is the eastern part of the",
+    "start": 940.48,
+    "duration": 6.52
+  },
+  {
+    "text": "peran Basin and it's much show you know",
+    "start": 942.6,
+    "duration": 6.239
+  },
+  {
+    "text": "my Wells that I drill are anywhere from",
+    "start": 947.0,
+    "duration": 5.279
+  },
+  {
+    "text": "3,000 to 6,000 ft deep whereas when",
+    "start": 948.839,
+    "duration": 5.401
+  },
+  {
+    "text": "they're out in the Basin you know",
+    "start": 952.279,
+    "duration": 4.321
+  },
+  {
+    "text": "they've gone out there and they're",
+    "start": 954.24,
+    "duration": 4.44
+  },
+  {
+    "text": "basically at four different benches of",
+    "start": 956.6,
+    "duration": 4.599
+  },
+  {
+    "text": "the wolf camp and those Wells are",
+    "start": 958.68,
+    "duration": 5.639
+  },
+  {
+    "text": "typically anywhere from 7,000 10,000 ft",
+    "start": 961.199,
+    "duration": 7.32
+  },
+  {
+    "text": "deep and then they'll drill three mile l",
+    "start": 964.319,
+    "duration": 6.121
+  },
+  {
+    "text": "so uh",
+    "start": 968.519,
+    "duration": 5.081
+  },
+  {
+    "text": "now the new play out there is and I",
+    "start": 970.44,
+    "duration": 5.24
+  },
+  {
+    "text": "think the reason that these these buy up",
+    "start": 973.6,
+    "duration": 3.919
+  },
+  {
+    "text": "everybody is there's a new play called",
+    "start": 975.68,
+    "duration": 4.599
+  },
+  {
+    "text": "the Barnett well the Barnett Shad play",
+    "start": 977.519,
+    "duration": 5.281
+  },
+  {
+    "text": "was the first waron play you know Fort",
+    "start": 980.279,
+    "duration": 5.201
+  },
+  {
+    "text": "Worth Basin it was in the Fort Worth",
+    "start": 982.8,
+    "duration": 5.8
+  },
+  {
+    "text": "area and so now all these companies",
+    "start": 985.48,
+    "duration": 4.68
+  },
+  {
+    "text": "going back back deeper Drilling in the",
+    "start": 988.6,
+    "duration": 4.359
+  },
+  {
+    "text": "Barnett and having a good bit of success",
+    "start": 990.16,
+    "duration": 5.799
+  },
+  {
+    "text": "and so they'll be able to control that",
+    "start": 992.959,
+    "duration": 4.921
+  },
+  {
+    "text": "they also can control the oil prices to",
+    "start": 995.959,
+    "duration": 5.68
+  },
+  {
+    "text": "a certain extent between OPAC and those",
+    "start": 997.88,
+    "duration": 6.36
+  },
+  {
+    "text": "companies you know they're not going to",
+    "start": 1001.639,
+    "duration": 4.961
+  },
+  {
+    "text": "go crazy like an independent does you",
+    "start": 1004.24,
+    "duration": 4.76
+  },
+  {
+    "text": "know like when oil prices you know back",
+    "start": 1006.6,
+    "duration": 6.12
+  },
+  {
+    "text": "in 15 16 17 they were $30 $40 a barrel",
+    "start": 1009.0,
+    "duration": 6.839
+  },
+  {
+    "text": "you had companies like pioneer and and",
+    "start": 1012.72,
+    "duration": 5.239
+  },
+  {
+    "text": "or the equivalent thereof and they were",
+    "start": 1015.839,
+    "duration": 4.12
+  },
+  {
+    "text": "they just kept r on drilling but they",
+    "start": 1017.959,
+    "duration": 4.56
+  },
+  {
+    "text": "were drilling all of the best locations",
+    "start": 1019.959,
+    "duration": 6.401
+  },
+  {
+    "text": "first that that could make money at $30",
+    "start": 1022.519,
+    "duration": 7.16
+  },
+  {
+    "text": "oil now there's not a whole lot of",
+    "start": 1026.36,
+    "duration": 5.199
+  },
+  {
+    "text": "production left out there that you can",
+    "start": 1029.679,
+    "duration": 5.441
+  },
+  {
+    "text": "make money at $30 it needs to be $40 or",
+    "start": 1031.559,
+    "duration": 6.88
+  },
+  {
+    "text": "$50 and so now that they come back and",
+    "start": 1035.12,
+    "duration": 4.959
+  },
+  {
+    "text": "they've secured all this acreage and",
+    "start": 1038.439,
+    "duration": 3.36
+  },
+  {
+    "text": "they've got all their infrastructure in",
+    "start": 1040.079,
+    "duration": 5.96
+  },
+  {
+    "text": "place pipelines refineries the the you",
+    "start": 1041.799,
+    "duration": 7.721
+  },
+  {
+    "text": "know Electrical uh the Water",
+    "start": 1046.039,
+    "duration": 5.88
+  },
+  {
+    "text": "uh all of that is in place then they can",
+    "start": 1049.52,
+    "duration": 5.0
+  },
+  {
+    "text": "go back and drill that Barnett shell and",
+    "start": 1051.919,
+    "duration": 4.441
+  },
+  {
+    "text": "and probably their other zones deeper",
+    "start": 1054.52,
+    "duration": 4.96
+  },
+  {
+    "text": "than that that they can go into and tap",
+    "start": 1056.36,
+    "duration": 7.24
+  },
+  {
+    "text": "into the W reserves there as",
+    "start": 1059.48,
+    "duration": 9.079
+  },
+  {
+    "text": "well right Cactus are we running out of",
+    "start": 1063.6,
+    "duration": 7.959
+  },
+  {
+    "text": "oil",
+    "start": 1068.559,
+    "duration": 3.0
+  },
+  {
+    "text": "no you know it was kind of interesting",
+    "start": 1074.4,
+    "duration": 3.96
+  },
+  {
+    "text": "one time decoil and you kind of",
+    "start": 1076.679,
+    "duration": 3.561
+  },
+  {
+    "text": "scratched your head a little",
+    "start": 1078.36,
+    "duration": 5.559
+  },
+  {
+    "text": "bit yeah I know I know the over fields",
+    "start": 1080.24,
+    "duration": 5.36
+  },
+  {
+    "text": "are going to eventually play out to a",
+    "start": 1083.919,
+    "duration": 3.681
+  },
+  {
+    "text": "certain inad you look at what they're",
+    "start": 1085.6,
+    "duration": 4.439
+  },
+  {
+    "text": "doing in Saudi",
+    "start": 1087.6,
+    "duration": 5.4
+  },
+  {
+    "text": "Arabia garar you know that's the",
+    "start": 1090.039,
+    "duration": 6.961
+  },
+  {
+    "text": "ultimate oil field but uh if you look at",
+    "start": 1093.0,
+    "duration": 6.24
+  },
+  {
+    "text": "what's in the peran Basin I mean you",
+    "start": 1097.0,
+    "duration": 5.36
+  },
+  {
+    "text": "have oil fields that are the wolf camp",
+    "start": 1099.24,
+    "duration": 6.72
+  },
+  {
+    "text": "that cover literal whole entire counties",
+    "start": 1102.36,
+    "duration": 7.0
+  },
+  {
+    "text": "and so from an herial aspect expect it",
+    "start": 1105.96,
+    "duration": 6.76
+  },
+  {
+    "text": "probably is on the same level as garir",
+    "start": 1109.36,
+    "duration": 6.84
+  },
+  {
+    "text": "and but this is at the very early stages",
+    "start": 1112.72,
+    "duration": 6.48
+  },
+  {
+    "text": "of exploration whereas garare was",
+    "start": 1116.2,
+    "duration": 4.839
+  },
+  {
+    "text": "discovered I think in the 40s or 50s I",
+    "start": 1119.2,
+    "duration": 3.64
+  },
+  {
+    "text": "mean at some",
+    "start": 1121.039,
+    "duration": 4.961
+  },
+  {
+    "text": "point uh that field is going to become",
+    "start": 1122.84,
+    "duration": 6.28
+  },
+  {
+    "text": "noncommercial but what I question is you",
+    "start": 1126.0,
+    "duration": 4.44
+  },
+  {
+    "text": "know that's",
+    "start": 1129.12,
+    "duration": 3.919
+  },
+  {
+    "text": "conventional what about the sh going to",
+    "start": 1130.44,
+    "duration": 4.88
+  },
+  {
+    "text": "ask yeah you know they haven't even",
+    "start": 1133.039,
+    "duration": 4.52
+  },
+  {
+    "text": "tapped into the shells they you know",
+    "start": 1135.32,
+    "duration": 6.04
+  },
+  {
+    "text": "that's you we we're not going any be",
+    "start": 1137.559,
+    "duration": 5.881
+  },
+  {
+    "text": "having any peak oil any time in our",
+    "start": 1141.36,
+    "duration": 4.0
+  },
+  {
+    "text": "lifetimes that we're our kids or",
+    "start": 1143.44,
+    "duration": 4.8
+  },
+  {
+    "text": "grandkids most",
+    "start": 1145.36,
+    "duration": 2.88
+  },
+  {
+    "text": "likely I",
+    "start": 1148.44,
+    "duration": 4.4
+  },
+  {
+    "text": "see um yeah that was but as soon as you",
+    "start": 1150.32,
+    "duration": 5.44
+  },
+  {
+    "text": "mentioned gu I was like well you know",
+    "start": 1152.84,
+    "duration": 5.319
+  },
+  {
+    "text": "it's it's still conventional which is",
+    "start": 1155.76,
+    "duration": 4.88
+  },
+  {
+    "text": "amazing um considering how long it's",
+    "start": 1158.159,
+    "duration": 4.76
+  },
+  {
+    "text": "been",
+    "start": 1160.64,
+    "duration": 2.279
+  },
+  {
+    "text": "going",
+    "start": 1164.36,
+    "duration": 4.52
+  },
+  {
+    "text": "so you like oil you're not that much",
+    "start": 1165.88,
+    "duration": 5.44
+  },
+  {
+    "text": "into gas but you admit gas has you know",
+    "start": 1168.88,
+    "duration": 4.52
+  },
+  {
+    "text": "got a lot more upside than downside",
+    "start": 1171.32,
+    "duration": 6.839
+  },
+  {
+    "text": "right now um is that just um is it just",
+    "start": 1173.4,
+    "duration": 7.159
+  },
+  {
+    "text": "too different like technically or like",
+    "start": 1178.159,
+    "duration": 4.321
+  },
+  {
+    "text": "you're an oil wild cater and that's who",
+    "start": 1180.559,
+    "duration": 3.12
+  },
+  {
+    "text": "you are and that's what you do and",
+    "start": 1182.48,
+    "duration": 2.48
+  },
+  {
+    "text": "that's all there is to it like you're",
+    "start": 1183.679,
+    "duration": 2.961
+  },
+  {
+    "text": "you're just not going after the gasier",
+    "start": 1184.96,
+    "duration": 3.24
+  },
+  {
+    "text": "stuff because it's just not what you do",
+    "start": 1186.64,
+    "duration": 4.72
+  },
+  {
+    "text": "is that correct well in the production",
+    "start": 1188.2,
+    "duration": 5.08
+  },
+  {
+    "text": "on the Eastern shelf where I am is",
+    "start": 1191.36,
+    "duration": 3.84
+  },
+  {
+    "text": "primarily oil we have a little bit of",
+    "start": 1193.28,
+    "duration": 5.48
+  },
+  {
+    "text": "associated natural gas but I see gas",
+    "start": 1195.2,
+    "duration": 7.08
+  },
+  {
+    "text": "that I produce is is you know maybe a",
+    "start": 1198.76,
+    "duration": 6.399
+  },
+  {
+    "text": "tenth or a 20th of the income that I get",
+    "start": 1202.28,
+    "duration": 6.12
+  },
+  {
+    "text": "from oil whereas in the peran Basin it's",
+    "start": 1205.159,
+    "duration": 5.52
+  },
+  {
+    "text": "it it's a bigger percentage you know",
+    "start": 1208.4,
+    "duration": 5.44
+  },
+  {
+    "text": "even though they're it's oil fields they",
+    "start": 1210.679,
+    "duration": 7.321
+  },
+  {
+    "text": "have a higher the Go gas oil ratio and",
+    "start": 1213.84,
+    "duration": 6.959
+  },
+  {
+    "text": "so they have to go places with their gas",
+    "start": 1218.0,
+    "duration": 5.2
+  },
+  {
+    "text": "because they can't produce just the oil",
+    "start": 1220.799,
+    "duration": 5.641
+  },
+  {
+    "text": "without the gas with it so as you're",
+    "start": 1223.2,
+    "duration": 5.599
+  },
+  {
+    "text": "bringing that up from the ground you",
+    "start": 1226.44,
+    "duration": 5.239
+  },
+  {
+    "text": "have a conglomeration of of water oil",
+    "start": 1228.799,
+    "duration": 5.0
+  },
+  {
+    "text": "and natural gas and then once it gets on",
+    "start": 1231.679,
+    "duration": 5.36
+  },
+  {
+    "text": "the surface we separate out the water",
+    "start": 1233.799,
+    "duration": 5.161
+  },
+  {
+    "text": "the gas and the oil put the gas in the",
+    "start": 1237.039,
+    "duration": 4.441
+  },
+  {
+    "text": "pipelines the oil oil tanks and the",
+    "start": 1238.96,
+    "duration": 5.92
+  },
+  {
+    "text": "water we we uh inject back into disposal",
+    "start": 1241.48,
+    "duration": 6.04
+  },
+  {
+    "text": "well so and that's that's another thing",
+    "start": 1244.88,
+    "duration": 4.039
+  },
+  {
+    "text": "that's a little shaky out there right",
+    "start": 1247.52,
+    "duration": 3.76
+  },
+  {
+    "text": "now is these we've been putting all this",
+    "start": 1248.919,
+    "duration": 5.521
+  },
+  {
+    "text": "water into these uh different",
+    "start": 1251.28,
+    "duration": 6.279
+  },
+  {
+    "text": "zones uh putting water back and you",
+    "start": 1254.44,
+    "duration": 4.92
+  },
+  {
+    "text": "would think that the pressure would",
+    "start": 1257.559,
+    "duration": 3.681
+  },
+  {
+    "text": "equalize but it's doesn't really work",
+    "start": 1259.36,
+    "duration": 3.439
+  },
+  {
+    "text": "that way and now it's causing some",
+    "start": 1261.24,
+    "duration": 3.96
+  },
+  {
+    "text": "earthquakes and",
+    "start": 1262.799,
+    "duration": 6.24
+  },
+  {
+    "text": "there but there I was in my very first",
+    "start": 1265.2,
+    "duration": 6.64
+  },
+  {
+    "text": "earthquake in Leck Texas about a year",
+    "start": 1269.039,
+    "duration": 7.24
+  },
+  {
+    "text": "ago and I was in like the eighth floor",
+    "start": 1271.84,
+    "duration": 6.04
+  },
+  {
+    "text": "of a of a nice",
+    "start": 1276.279,
+    "duration": 4.28
+  },
+  {
+    "text": "hotel and with my family and all of a",
+    "start": 1277.88,
+    "duration": 4.799
+  },
+  {
+    "text": "sudden our cocktail table starts shaking",
+    "start": 1280.559,
+    "duration": 3.641
+  },
+  {
+    "text": "and I and they were like well what's",
+    "start": 1282.679,
+    "duration": 3.801
+  },
+  {
+    "text": "going on I said that's an",
+    "start": 1284.2,
+    "duration": 4.68
+  },
+  {
+    "text": "earthquake but uh that's first one have",
+    "start": 1286.48,
+    "duration": 4.4
+  },
+  {
+    "text": "experience and and they haven't done any",
+    "start": 1288.88,
+    "duration": 4.08
+  },
+  {
+    "text": "damage but uh the Railroad Commission",
+    "start": 1290.88,
+    "duration": 5.12
+  },
+  {
+    "text": "which governs all that o of gas in Texas",
+    "start": 1292.96,
+    "duration": 5.92
+  },
+  {
+    "text": "uh they're looking into it and and",
+    "start": 1296.0,
+    "duration": 4.96
+  },
+  {
+    "text": "there's got to be some other places to",
+    "start": 1298.88,
+    "duration": 5.0
+  },
+  {
+    "text": "dispose of water or another way in which",
+    "start": 1300.96,
+    "duration": 5.8
+  },
+  {
+    "text": "to dispose water in order to to keep",
+    "start": 1303.88,
+    "duration": 5.88
+  },
+  {
+    "text": "these earthquakes from",
+    "start": 1306.76,
+    "duration": 3.0
+  },
+  {
+    "text": "happening earthquakes in",
+    "start": 1310.679,
+    "duration": 5.761
+  },
+  {
+    "text": "Texas hey we had one here not too long",
+    "start": 1314.12,
+    "duration": 5.24
+  },
+  {
+    "text": "ago either over in in Baltimore or New",
+    "start": 1316.44,
+    "duration": 7.64
+  },
+  {
+    "text": "Jersey at least um but Cactus I it kind",
+    "start": 1319.36,
+    "duration": 7.319
+  },
+  {
+    "text": "of brings me to a question I had for you",
+    "start": 1324.08,
+    "duration": 7.0
+  },
+  {
+    "text": "about regulation legislation um you know",
+    "start": 1326.679,
+    "duration": 6.48
+  },
+  {
+    "text": "it's always kind of in the news I mean",
+    "start": 1331.08,
+    "duration": 6.28
+  },
+  {
+    "text": "what What legislation is kind of uh I",
+    "start": 1333.159,
+    "duration": 6.441
+  },
+  {
+    "text": "don't know either making life hard or",
+    "start": 1337.36,
+    "duration": 6.08
+  },
+  {
+    "text": "influencing things you know too much or",
+    "start": 1339.6,
+    "duration": 7.199
+  },
+  {
+    "text": "or you know significantly in your in",
+    "start": 1343.44,
+    "duration": 5.239
+  },
+  {
+    "text": "your view you know we talking about the",
+    "start": 1346.799,
+    "duration": 5.201
+  },
+  {
+    "text": "natural gas export you know uh decision",
+    "start": 1348.679,
+    "duration": 5.48
+  },
+  {
+    "text": "a couple months ago um just wondering",
+    "start": 1352.0,
+    "duration": 4.679
+  },
+  {
+    "text": "what like when you think of legislation",
+    "start": 1354.159,
+    "duration": 3.64
+  },
+  {
+    "text": "what do you think",
+    "start": 1356.679,
+    "duration": 5.48
+  },
+  {
+    "text": "about well Texas is a very friendly oil",
+    "start": 1357.799,
+    "duration": 8.641
+  },
+  {
+    "text": "and gas environment and so when you're",
+    "start": 1362.159,
+    "duration": 7.041
+  },
+  {
+    "text": "building pipelines or or you know",
+    "start": 1366.44,
+    "duration": 5.04
+  },
+  {
+    "text": "wanting to build an LNG facility out on",
+    "start": 1369.2,
+    "duration": 4.68
+  },
+  {
+    "text": "the water at Gulf Coast it's a lot",
+    "start": 1371.48,
+    "duration": 4.48
+  },
+  {
+    "text": "easier to get things done but when you",
+    "start": 1373.88,
+    "duration": 5.0
+  },
+  {
+    "text": "look at what bid has done like he shut",
+    "start": 1375.96,
+    "duration": 7.52
+  },
+  {
+    "text": "down um the Wilderness Area in Alaska so",
+    "start": 1378.88,
+    "duration": 7.96
+  },
+  {
+    "text": "that exploration has been shut down uh",
+    "start": 1383.48,
+    "duration": 6.28
+  },
+  {
+    "text": "he shut down pipelines that they want to",
+    "start": 1386.84,
+    "duration": 5.0
+  },
+  {
+    "text": "try to take gas you know from",
+    "start": 1389.76,
+    "duration": 4.159
+  },
+  {
+    "text": "Pennsylvania out to the water where they",
+    "start": 1391.84,
+    "duration": 4.8
+  },
+  {
+    "text": "could put it in these LG facilities and",
+    "start": 1393.919,
+    "duration": 6.161
+  },
+  {
+    "text": "and ship it all over the world so you",
+    "start": 1396.64,
+    "duration": 5.6
+  },
+  {
+    "text": "know he shut down a lot of those areas",
+    "start": 1400.08,
+    "duration": 4.04
+  },
+  {
+    "text": "but I I don't think you can shut down",
+    "start": 1402.24,
+    "duration": 5.319
+  },
+  {
+    "text": "Texas but uh the the two biggest gas",
+    "start": 1404.12,
+    "duration": 6.12
+  },
+  {
+    "text": "areas are and the hanesville and",
+    "start": 1407.559,
+    "duration": 5.961
+  },
+  {
+    "text": "hanesville is closer to the Gul Coast a",
+    "start": 1410.24,
+    "duration": 6.24
+  },
+  {
+    "text": "lot easier environment there's probably",
+    "start": 1413.52,
+    "duration": 5.6
+  },
+  {
+    "text": "I'm going to guess close to 10 different",
+    "start": 1416.48,
+    "duration": 5.319
+  },
+  {
+    "text": "uh LNG facilities where they're freezing",
+    "start": 1419.12,
+    "duration": 4.799
+  },
+  {
+    "text": "the natural gas and shipping all over",
+    "start": 1421.799,
+    "duration": 5.36
+  },
+  {
+    "text": "the world but you know mercelis is",
+    "start": 1423.919,
+    "duration": 5.841
+  },
+  {
+    "text": "basically supplying the East Coast by",
+    "start": 1427.159,
+    "duration": 4.961
+  },
+  {
+    "text": "the Northeast with gas for their you",
+    "start": 1429.76,
+    "duration": 5.159
+  },
+  {
+    "text": "know their winterers and and heating and",
+    "start": 1432.12,
+    "duration": 5.48
+  },
+  {
+    "text": "cooping and and so the other regulatory",
+    "start": 1434.919,
+    "duration": 4.76
+  },
+  {
+    "text": "thing that I see that doing is they're",
+    "start": 1437.6,
+    "duration": 6.16
+  },
+  {
+    "text": "they're trying to shut down gas stoves",
+    "start": 1439.679,
+    "duration": 7.24
+  },
+  {
+    "text": "in all the chefs across the Northeast",
+    "start": 1443.76,
+    "duration": 6.399
+  },
+  {
+    "text": "are going nuts because all chefs want to",
+    "start": 1446.919,
+    "duration": 5.521
+  },
+  {
+    "text": "cook with gas it's much easier to",
+    "start": 1450.159,
+    "duration": 4.041
+  },
+  {
+    "text": "control the",
+    "start": 1452.44,
+    "duration": 5.599
+  },
+  {
+    "text": "heat gas- wise than electric wise so I",
+    "start": 1454.2,
+    "duration": 6.4
+  },
+  {
+    "text": "mean my wife loves these cooking shows",
+    "start": 1458.039,
+    "duration": 4.561
+  },
+  {
+    "text": "and they're all up and upheaval over",
+    "start": 1460.6,
+    "duration": 3.4
+  },
+  {
+    "text": "that and they're they're a little bit",
+    "start": 1462.6,
+    "duration": 3.36
+  },
+  {
+    "text": "more on the liberal side being you know",
+    "start": 1464.0,
+    "duration": 4.48
+  },
+  {
+    "text": "really creative chefs but they if",
+    "start": 1465.96,
+    "duration": 3.719
+  },
+  {
+    "text": "they're you're going to take away their",
+    "start": 1468.48,
+    "duration": 4.76
+  },
+  {
+    "text": "gas they're going to be very",
+    "start": 1469.679,
+    "duration": 3.561
+  },
+  {
+    "text": "unhappy",
+    "start": 1473.279,
+    "duration": 3.921
+  },
+  {
+    "text": "yeah that's insane I feel like that's",
+    "start": 1474.88,
+    "duration": 4.279
+  },
+  {
+    "text": "one of the things that they kind of talk",
+    "start": 1477.2,
+    "duration": 4.479
+  },
+  {
+    "text": "about and talk about and talk about and",
+    "start": 1479.159,
+    "duration": 5.081
+  },
+  {
+    "text": "then they'll go do something else well",
+    "start": 1481.679,
+    "duration": 3.801
+  },
+  {
+    "text": "we're not going to take away your gas",
+    "start": 1484.24,
+    "duration": 3.36
+  },
+  {
+    "text": "stoves but we will do whatever else they",
+    "start": 1485.48,
+    "duration": 6.04
+  },
+  {
+    "text": "want to do um but as we were talking a",
+    "start": 1487.6,
+    "duration": 5.079
+  },
+  {
+    "text": "minute ago you were talking you",
+    "start": 1491.52,
+    "duration": 4.879
+  },
+  {
+    "text": "mentioned Pioneer and um the I I just",
+    "start": 1492.679,
+    "duration": 6.041
+  },
+  {
+    "text": "happened to be on oilprice.com",
+    "start": 1496.399,
+    "duration": 4.681
+  },
+  {
+    "text": "and I see this headline in front of me",
+    "start": 1498.72,
+    "duration": 5.559
+  },
+  {
+    "text": "um Exon 60 billion Pioneer deal set to",
+    "start": 1501.08,
+    "duration": 6.599
+  },
+  {
+    "text": "create energy super giant",
+    "start": 1504.279,
+    "duration": 8.561
+  },
+  {
+    "text": "so does do do you you mentioned how for",
+    "start": 1507.679,
+    "duration": 8.161
+  },
+  {
+    "text": "example you know five Majors control 80%",
+    "start": 1512.84,
+    "duration": 5.439
+  },
+  {
+    "text": "of the perian when you see a deal like",
+    "start": 1515.84,
+    "duration": 4.92
+  },
+  {
+    "text": "this does it have anything to do with",
+    "start": 1518.279,
+    "duration": 5.28
+  },
+  {
+    "text": "what you do do you care about it at",
+    "start": 1520.76,
+    "duration": 6.639
+  },
+  {
+    "text": "all uh of course I follow it and but",
+    "start": 1523.559,
+    "duration": 6.36
+  },
+  {
+    "text": "they yeah they're in such the big",
+    "start": 1527.399,
+    "duration": 6.081
+  },
+  {
+    "text": "leagues I mean if I'm going to go out",
+    "start": 1529.919,
+    "duration": 6.041
+  },
+  {
+    "text": "and drill well you know it's going to",
+    "start": 1533.48,
+    "duration": 4.96
+  },
+  {
+    "text": "cost me less than a million dollars the",
+    "start": 1535.96,
+    "duration": 4.88
+  },
+  {
+    "text": "Wells they're drilling are generally 10",
+    "start": 1538.44,
+    "duration": 6.44
+  },
+  {
+    "text": "to 12 million Wells and so they they",
+    "start": 1540.84,
+    "duration": 6.839
+  },
+  {
+    "text": "require 10 times the capital that I do",
+    "start": 1544.88,
+    "duration": 7.36
+  },
+  {
+    "text": "and I'm I'm 69 years old uh none of my",
+    "start": 1547.679,
+    "duration": 6.641
+  },
+  {
+    "text": "kids want to take over my oil company so",
+    "start": 1552.24,
+    "duration": 3.84
+  },
+  {
+    "text": "I'm I'm kind of slowing down a little",
+    "start": 1554.32,
+    "duration": 4.44
+  },
+  {
+    "text": "bit I'm still drilling some but uh you",
+    "start": 1556.08,
+    "duration": 5.76
+  },
+  {
+    "text": "know I'm uh as much as i' like to follow",
+    "start": 1558.76,
+    "duration": 6.159
+  },
+  {
+    "text": "it I'm too at my age I don't really want",
+    "start": 1561.84,
+    "duration": 4.559
+  },
+  {
+    "text": "to go to Wall Street and raise a bunch",
+    "start": 1564.919,
+    "duration": 3.681
+  },
+  {
+    "text": "money and say hey look I want to F we",
+    "start": 1566.399,
+    "duration": 4.361
+  },
+  {
+    "text": "want to try to buy some properties and",
+    "start": 1568.6,
+    "duration": 4.959
+  },
+  {
+    "text": "you know because really every acre of",
+    "start": 1570.76,
+    "duration": 5.039
+  },
+  {
+    "text": "land on the peran is leased it is all",
+    "start": 1573.559,
+    "duration": 5.321
+  },
+  {
+    "text": "held by production leases so you're not",
+    "start": 1575.799,
+    "duration": 5.6
+  },
+  {
+    "text": "going to go find a prospect over there",
+    "start": 1578.88,
+    "duration": 4.799
+  },
+  {
+    "text": "and go up to a land owner and say hey I",
+    "start": 1581.399,
+    "duration": 5.28
+  },
+  {
+    "text": "want to lease your land uh that's just",
+    "start": 1583.679,
+    "duration": 7.0
+  },
+  {
+    "text": "you know it they all bit tied up to",
+    "start": 1586.679,
+    "duration": 5.961
+  },
+  {
+    "text": "right and you're not bumping up against",
+    "start": 1590.679,
+    "duration": 3.441
+  },
+  {
+    "text": "these guys in the Eastern",
+    "start": 1592.64,
+    "duration": 3.96
+  },
+  {
+    "text": "shelf uh what's interesting is some of",
+    "start": 1594.12,
+    "duration": 4.72
+  },
+  {
+    "text": "the small guys that have been at midlin",
+    "start": 1596.6,
+    "duration": 4.04
+  },
+  {
+    "text": "you know that have kind of sold out and",
+    "start": 1598.84,
+    "duration": 3.76
+  },
+  {
+    "text": "they they",
+    "start": 1600.64,
+    "duration": 3.84
+  },
+  {
+    "text": "recapitalized they're actually coming",
+    "start": 1602.6,
+    "duration": 4.16
+  },
+  {
+    "text": "over here in the Eastern shelf biran Bas",
+    "start": 1604.48,
+    "duration": 5.48
+  },
+  {
+    "text": "we're starting we started about I'm",
+    "start": 1606.76,
+    "duration": 5.279
+  },
+  {
+    "text": "going to say five or six years ago",
+    "start": 1609.96,
+    "duration": 6.16
+  },
+  {
+    "text": "drawing horizontal wells in conventional",
+    "start": 1612.039,
+    "duration": 6.841
+  },
+  {
+    "text": "zones in Sandstone reservoirs",
+    "start": 1616.12,
+    "duration": 4.76
+  },
+  {
+    "text": "and we've had some luck with it but",
+    "start": 1618.88,
+    "duration": 4.76
+  },
+  {
+    "text": "we're still on the learning curve we",
+    "start": 1620.88,
+    "duration": 5.44
+  },
+  {
+    "text": "we've found some really good Wells and",
+    "start": 1623.64,
+    "duration": 4.919
+  },
+  {
+    "text": "we've drilled some really bad Wells and",
+    "start": 1626.32,
+    "duration": 5.16
+  },
+  {
+    "text": "we don't know why the bad ones are bad",
+    "start": 1628.559,
+    "duration": 4.72
+  },
+  {
+    "text": "or the good ones are good we've got",
+    "start": 1631.48,
+    "duration": 4.64
+  },
+  {
+    "text": "ideas about it and we're still working",
+    "start": 1633.279,
+    "duration": 6.041
+  },
+  {
+    "text": "on it but it these things evolve over",
+    "start": 1636.12,
+    "duration": 4.919
+  },
+  {
+    "text": "time and trying different things",
+    "start": 1639.32,
+    "duration": 4.28
+  },
+  {
+    "text": "different Frack jobs different lateral",
+    "start": 1641.039,
+    "duration": 6.52
+  },
+  {
+    "text": "lengths different well you know we were",
+    "start": 1643.6,
+    "duration": 5.959
+  },
+  {
+    "text": "trying all kinds of different things and",
+    "start": 1647.559,
+    "duration": 4.401
+  },
+  {
+    "text": "you know we we made a lot of progress",
+    "start": 1649.559,
+    "duration": 4.12
+  },
+  {
+    "text": "but we're still not where we would like",
+    "start": 1651.96,
+    "duration": 5.76
+  },
+  {
+    "text": "to be uh in those instances what I try",
+    "start": 1653.679,
+    "duration": 6.681
+  },
+  {
+    "text": "to do is I try to get in front of these",
+    "start": 1657.72,
+    "duration": 5.48
+  },
+  {
+    "text": "plays and put together blocks of acreage",
+    "start": 1660.36,
+    "duration": 6.439
+  },
+  {
+    "text": "and DET somebody that's capitalized and",
+    "start": 1663.2,
+    "duration": 4.8
+  },
+  {
+    "text": "and I don't have to worry about the",
+    "start": 1666.799,
+    "duration": 4.041
+  },
+  {
+    "text": "day-to-day operation uh I just take a",
+    "start": 1668.0,
+    "duration": 6.36
+  },
+  {
+    "text": "royalty interest and let them have at",
+    "start": 1670.84,
+    "duration": 4.24
+  },
+  {
+    "text": "and",
+    "start": 1674.36,
+    "duration": 4.24
+  },
+  {
+    "text": "so uh for instance there's a put",
+    "start": 1675.08,
+    "duration": 7.76
+  },
+  {
+    "text": "together back in 2011 12 I put together",
+    "start": 1678.6,
+    "duration": 5.84
+  },
+  {
+    "text": "loocks of acreage in",
+    "start": 1682.84,
+    "duration": 4.079
+  },
+  {
+    "text": "eagleford and we came to there and we",
+    "start": 1684.44,
+    "duration": 4.2
+  },
+  {
+    "text": "drilled the",
+    "start": 1686.919,
+    "duration": 5.961
+  },
+  {
+    "text": "the the eagleford and then now uh",
+    "start": 1688.64,
+    "duration": 6.0
+  },
+  {
+    "text": "there's another Zone that they're going",
+    "start": 1692.88,
+    "duration": 4.279
+  },
+  {
+    "text": "back into I just got some new division",
+    "start": 1694.64,
+    "duration": 5.039
+  },
+  {
+    "text": "orders where they're going back redring",
+    "start": 1697.159,
+    "duration": 7.721
+  },
+  {
+    "text": "an area I drilled up 1015 years ago so",
+    "start": 1699.679,
+    "duration": 7.761
+  },
+  {
+    "text": "uh once again the new technology new",
+    "start": 1704.88,
+    "duration": 7.56
+  },
+  {
+    "text": "payo have have uh enabled us to to keep",
+    "start": 1707.44,
+    "duration": 9.959
+  },
+  {
+    "text": "on producing and doing new things out",
+    "start": 1712.44,
+    "duration": 4.959
+  },
+  {
+    "text": "there I'm curious of those majors of the",
+    "start": 1717.679,
+    "duration": 5.72
+  },
+  {
+    "text": "majors that you that you mentioned and",
+    "start": 1721.279,
+    "duration": 5.441
+  },
+  {
+    "text": "and talked about um and technology which",
+    "start": 1723.399,
+    "duration": 5.88
+  },
+  {
+    "text": "ones might be like the most Forward",
+    "start": 1726.72,
+    "duration": 5.559
+  },
+  {
+    "text": "Thinking as in terms of or or putting",
+    "start": 1729.279,
+    "duration": 5.921
+  },
+  {
+    "text": "the most energy or investment into",
+    "start": 1732.279,
+    "duration": 7.201
+  },
+  {
+    "text": "that you know you take a step back and",
+    "start": 1735.2,
+    "duration": 6.959
+  },
+  {
+    "text": "and look at them I think exxon's one one",
+    "start": 1739.48,
+    "duration": 4.28
+  },
+  {
+    "text": "of the best brother corporations in the",
+    "start": 1742.159,
+    "duration": 4.081
+  },
+  {
+    "text": "world you know I think they're just",
+    "start": 1743.76,
+    "duration": 5.24
+  },
+  {
+    "text": "amazing at what they do how methodical",
+    "start": 1746.24,
+    "duration": 5.72
+  },
+  {
+    "text": "they are at it and they they they look",
+    "start": 1749.0,
+    "duration": 5.559
+  },
+  {
+    "text": "out five 10 15 years of what they want",
+    "start": 1751.96,
+    "duration": 5.0
+  },
+  {
+    "text": "to do the ones that I kind of think",
+    "start": 1754.559,
+    "duration": 4.681
+  },
+  {
+    "text": "might be interesting because they're F",
+    "start": 1756.96,
+    "duration": 4.319
+  },
+  {
+    "text": "finally changing their tune are like",
+    "start": 1759.24,
+    "duration": 5.159
+  },
+  {
+    "text": "shell and BP that were you know going",
+    "start": 1761.279,
+    "duration": 5.24
+  },
+  {
+    "text": "all in for this green stuff and then",
+    "start": 1764.399,
+    "duration": 3.721
+  },
+  {
+    "text": "they can see that they're not making",
+    "start": 1766.519,
+    "duration": 3.961
+  },
+  {
+    "text": "Penny on it and so they're changing",
+    "start": 1768.12,
+    "duration": 5.24
+  },
+  {
+    "text": "their their business plan and to go back",
+    "start": 1770.48,
+    "duration": 5.52
+  },
+  {
+    "text": "after oil and I think well maybe those",
+    "start": 1773.36,
+    "duration": 5.039
+  },
+  {
+    "text": "companies have more upside than a Exxon",
+    "start": 1776.0,
+    "duration": 3.559
+  },
+  {
+    "text": "or a",
+    "start": 1778.399,
+    "duration": 3.561
+  },
+  {
+    "text": "Chevron uh I'd have to look at it a",
+    "start": 1779.559,
+    "duration": 4.72
+  },
+  {
+    "text": "little closer before I I recommended it",
+    "start": 1781.96,
+    "duration": 6.64
+  },
+  {
+    "text": "that's just my initial perspective of it",
+    "start": 1784.279,
+    "duration": 6.681
+  },
+  {
+    "text": "yeah yeah no it's something we've I mean",
+    "start": 1788.6,
+    "duration": 4.64
+  },
+  {
+    "text": "we've talked about here with",
+    "start": 1790.96,
+    "duration": 5.079
+  },
+  {
+    "text": "um you know just the whole green energy",
+    "start": 1793.24,
+    "duration": 4.96
+  },
+  {
+    "text": "push and what influence that is is",
+    "start": 1796.039,
+    "duration": 6.281
+  },
+  {
+    "text": "having on everything else um you know",
+    "start": 1798.2,
+    "duration": 6.64
+  },
+  {
+    "text": "pick whatever you want to talk about um",
+    "start": 1802.32,
+    "duration": 4.76
+  },
+  {
+    "text": "it's just it's interesting that",
+    "start": 1804.84,
+    "duration": 4.92
+  },
+  {
+    "text": "conversation and it does I don't know I",
+    "start": 1807.08,
+    "duration": 4.199
+  },
+  {
+    "text": "guess I'm just curious your thoughts on",
+    "start": 1809.76,
+    "duration": 2.36
+  },
+  {
+    "text": "that",
+    "start": 1811.279,
+    "duration": 3.76
+  },
+  {
+    "text": "too well there's there was so much money",
+    "start": 1812.12,
+    "duration": 7.159
+  },
+  {
+    "text": "thrown at Green energy that and and it's",
+    "start": 1815.039,
+    "duration": 7.801
+  },
+  {
+    "text": "all flopping and so those people are not",
+    "start": 1819.279,
+    "duration": 5.841
+  },
+  {
+    "text": "going to continue putting money into",
+    "start": 1822.84,
+    "duration": 4.079
+  },
+  {
+    "text": "things that aren't making money you know",
+    "start": 1825.12,
+    "duration": 4.24
+  },
+  {
+    "text": "Black Rock was set a big deal you know",
+    "start": 1826.919,
+    "duration": 3.841
+  },
+  {
+    "text": "with their",
+    "start": 1829.36,
+    "duration": 5.24
+  },
+  {
+    "text": "EFG whatever their deal is and you know",
+    "start": 1830.76,
+    "duration": 5.919
+  },
+  {
+    "text": "they're finally having us take a step",
+    "start": 1834.6,
+    "duration": 3.919
+  },
+  {
+    "text": "back and say Hey you know we're all make",
+    "start": 1836.679,
+    "duration": 5.561
+  },
+  {
+    "text": "any money and because they put all those",
+    "start": 1838.519,
+    "duration": 5.481
+  },
+  {
+    "text": "regulations because there are so many",
+    "start": 1842.24,
+    "duration": 5.0
+  },
+  {
+    "text": "different boards state of Texas and said",
+    "start": 1844.0,
+    "duration": 5.72
+  },
+  {
+    "text": "by we're not doing business with you",
+    "start": 1847.24,
+    "duration": 5.12
+  },
+  {
+    "text": "anymore they sold all their black rot St",
+    "start": 1849.72,
+    "duration": 4.12
+  },
+  {
+    "text": "and I think Louisiana's getting ready to",
+    "start": 1852.36,
+    "duration": 4.439
+  },
+  {
+    "text": "do that as well or may have already and",
+    "start": 1853.84,
+    "duration": 5.199
+  },
+  {
+    "text": "so some those companies are they're",
+    "start": 1856.799,
+    "duration": 4.041
+  },
+  {
+    "text": "going to have to change what they're",
+    "start": 1859.039,
+    "duration": 5.24
+  },
+  {
+    "text": "doing or they're going to suffer the",
+    "start": 1860.84,
+    "duration": 3.439
+  },
+  {
+    "text": "consequences yeah it's just another it's",
+    "start": 1864.519,
+    "duration": 5.801
+  },
+  {
+    "text": "another version of go woke and go",
+    "start": 1866.919,
+    "duration": 5.921
+  },
+  {
+    "text": "broke I do like that",
+    "start": 1870.32,
+    "duration": 5.56
+  },
+  {
+    "text": "say yeah I mean it's you know anheiser",
+    "start": 1872.84,
+    "duration": 7.52
+  },
+  {
+    "text": "Bush Disney um now actually you uh",
+    "start": 1875.88,
+    "duration": 6.44
+  },
+  {
+    "text": "Porter argues that maybe Starbucks is",
+    "start": 1880.36,
+    "duration": 3.72
+  },
+  {
+    "text": "one of these right because they started",
+    "start": 1882.32,
+    "duration": 3.959
+  },
+  {
+    "text": "letting homeless people come in and use",
+    "start": 1884.08,
+    "duration": 4.04
+  },
+  {
+    "text": "the bathroom and he said it CH it turned",
+    "start": 1886.279,
+    "duration": 4.201
+  },
+  {
+    "text": "them from a business into a charity and",
+    "start": 1888.12,
+    "duration": 4.439
+  },
+  {
+    "text": "now their results are sucking wind",
+    "start": 1890.48,
+    "duration": 5.559
+  },
+  {
+    "text": "they're doing terribly so um you know",
+    "start": 1892.559,
+    "duration": 6.801
+  },
+  {
+    "text": "it's it's uh at some point reality does",
+    "start": 1896.039,
+    "duration": 5.961
+  },
+  {
+    "text": "kick in reality kicks in and we all want",
+    "start": 1899.36,
+    "duration": 4.559
+  },
+  {
+    "text": "our standard of living so we know it's",
+    "start": 1902.0,
+    "duration": 4.2
+  },
+  {
+    "text": "based on oil and gas and it's not based",
+    "start": 1903.919,
+    "duration": 4.12
+  },
+  {
+    "text": "on a whole lot else you know maybe we'll",
+    "start": 1906.2,
+    "duration": 3.719
+  },
+  {
+    "text": "see more nuclear or something that's",
+    "start": 1908.039,
+    "duration": 3.88
+  },
+  {
+    "text": "that's growing around the world although",
+    "start": 1909.919,
+    "duration": 4.961
+  },
+  {
+    "text": "not in the United States so much but",
+    "start": 1911.919,
+    "duration": 5.201
+  },
+  {
+    "text": "yeah you know what though Cactus I'm",
+    "start": 1914.88,
+    "duration": 5.24
+  },
+  {
+    "text": "grateful to the climate people because",
+    "start": 1917.12,
+    "duration": 4.96
+  },
+  {
+    "text": "they kind of turned oil and gas into a",
+    "start": 1920.12,
+    "duration": 4.24
+  },
+  {
+    "text": "better bet for",
+    "start": 1922.08,
+    "duration": 5.28
+  },
+  {
+    "text": "me",
+    "start": 1924.36,
+    "duration": 3.0
+  },
+  {
+    "text": "I got a glass of wine I would uh cheers",
+    "start": 1928.32,
+    "duration": 5.239
+  },
+  {
+    "text": "you",
+    "start": 1931.919,
+    "duration": 5.201
+  },
+  {
+    "text": "there yeah thank you thank you climate",
+    "start": 1933.559,
+    "duration": 5.96
+  },
+  {
+    "text": "scam",
+    "start": 1937.12,
+    "duration": 2.399
+  },
+  {
+    "text": "nuts oh",
+    "start": 1939.639,
+    "duration": 7.321
+  },
+  {
+    "text": "man yeah so but dayto day like day to",
+    "start": 1942.919,
+    "duration": 6.64
+  },
+  {
+    "text": "day um you and your friends aren't",
+    "start": 1946.96,
+    "duration": 4.28
+  },
+  {
+    "text": "ringing your hands about these people",
+    "start": 1949.559,
+    "duration": 4.08
+  },
+  {
+    "text": "though right you're as you as you go",
+    "start": 1951.24,
+    "duration": 5.0
+  },
+  {
+    "text": "about your business right yeah we we're",
+    "start": 1953.639,
+    "duration": 5.28
+  },
+  {
+    "text": "just go about our business and our",
+    "start": 1956.24,
+    "duration": 4.439
+  },
+  {
+    "text": "business has always been terribly",
+    "start": 1958.919,
+    "duration": 6.64
+  },
+  {
+    "text": "cynical and uh I I don't know what's",
+    "start": 1960.679,
+    "duration": 9.441
+  },
+  {
+    "text": "driving uh Saudi Arabia to I mean they",
+    "start": 1965.559,
+    "duration": 7.321
+  },
+  {
+    "text": "really pulled their prod production back",
+    "start": 1970.12,
+    "duration": 4.439
+  },
+  {
+    "text": "and you know they really want to fight",
+    "start": 1972.88,
+    "duration": 3.36
+  },
+  {
+    "text": "for that $ 80 to",
+    "start": 1974.559,
+    "duration": 5.84
+  },
+  {
+    "text": "$100 price per barrel and so uh I think",
+    "start": 1976.24,
+    "duration": 6.919
+  },
+  {
+    "text": "that's done somewhat artificially and",
+    "start": 1980.399,
+    "duration": 4.0
+  },
+  {
+    "text": "you know what's going to change their",
+    "start": 1983.159,
+    "duration": 3.681
+  },
+  {
+    "text": "mind I don't know I I don't know if",
+    "start": 1984.399,
+    "duration": 5.081
+  },
+  {
+    "text": "they're in Russia I know Biden has tried",
+    "start": 1986.84,
+    "duration": 5.319
+  },
+  {
+    "text": "to put pressure on them to you know so",
+    "start": 1989.48,
+    "duration": 4.159
+  },
+  {
+    "text": "that the oil price will go down and",
+    "start": 1992.159,
+    "duration": 4.921
+  },
+  {
+    "text": "they're not they're just not caving in",
+    "start": 1993.639,
+    "duration": 6.121
+  },
+  {
+    "text": "uh the next thing I see on the horizon",
+    "start": 1997.08,
+    "duration": 6.12
+  },
+  {
+    "text": "that you know when when Israel goes",
+    "start": 1999.76,
+    "duration": 6.08
+  },
+  {
+    "text": "ahead and invades Southern Lebanon or",
+    "start": 2003.2,
+    "duration": 5.12
+  },
+  {
+    "text": "Southern Gaza",
+    "start": 2005.84,
+    "duration": 6.36
+  },
+  {
+    "text": "uh I don't know and they essentially",
+    "start": 2008.32,
+    "duration": 6.12
+  },
+  {
+    "text": "annihilate the rest of the loss what is",
+    "start": 2012.2,
+    "duration": 5.16
+  },
+  {
+    "text": "the rest of the Arab world going to do",
+    "start": 2014.44,
+    "duration": 5.56
+  },
+  {
+    "text": "you know with that going down I've seen",
+    "start": 2017.36,
+    "duration": 6.84
+  },
+  {
+    "text": "some predictions of you know $100 oil or",
+    "start": 2020.0,
+    "duration": 7.0
+  },
+  {
+    "text": "you know hell who knows but uh I don't",
+    "start": 2024.2,
+    "duration": 6.56
+  },
+  {
+    "text": "think Biden have a big effect on on what",
+    "start": 2027.0,
+    "duration": 6.559
+  },
+  {
+    "text": "Israel is going to do over there but uh",
+    "start": 2030.76,
+    "duration": 4.48
+  },
+  {
+    "text": "the Middle East things are in constant",
+    "start": 2033.559,
+    "duration": 4.24
+  },
+  {
+    "text": "turmoil in constant change and then",
+    "start": 2035.24,
+    "duration": 3.84
+  },
+  {
+    "text": "there's no way to predict what's going",
+    "start": 2037.799,
+    "duration": 2.36
+  },
+  {
+    "text": "to happen",
+    "start": 2039.08,
+    "duration": 4.12
+  },
+  {
+    "text": "next right and Brent crude is already 83",
+    "start": 2040.159,
+    "duration": 6.321
+  },
+  {
+    "text": "today as we speak so 100 isn't that far",
+    "start": 2043.2,
+    "duration": 8.8
+  },
+  {
+    "text": "off well well it's not but yeah well um",
+    "start": 2046.48,
+    "duration": 9.28
+  },
+  {
+    "text": "as it climbs to that price range is",
+    "start": 2052.0,
+    "duration": 5.28
+  },
+  {
+    "text": "Saudi going to go ahead and put more of",
+    "start": 2055.76,
+    "duration": 3.399
+  },
+  {
+    "text": "those bar barrels on the market are they",
+    "start": 2057.28,
+    "duration": 5.28
+  },
+  {
+    "text": "going to uh still defend that particular",
+    "start": 2059.159,
+    "duration": 4.92
+  },
+  {
+    "text": "price",
+    "start": 2062.56,
+    "duration": 6.319
+  },
+  {
+    "text": "point right and uh you know and and OPEC",
+    "start": 2064.079,
+    "duration": 7.08
+  },
+  {
+    "text": "is not just Middle East right it's a",
+    "start": 2068.879,
+    "duration": 4.401
+  },
+  {
+    "text": "there's other other countries that",
+    "start": 2071.159,
+    "duration": 4.52
+  },
+  {
+    "text": "probably I would imagine that you know",
+    "start": 2073.28,
+    "duration": 4.24
+  },
+  {
+    "text": "you have a harder time if you're if",
+    "start": 2075.679,
+    "duration": 3.44
+  },
+  {
+    "text": "you're OPEC you probably have a harder",
+    "start": 2077.52,
+    "duration": 4.48
+  },
+  {
+    "text": "time keeping track of whoever Venezuela",
+    "start": 2079.119,
+    "duration": 6.04
+  },
+  {
+    "text": "or Nigeria or somebody right the other",
+    "start": 2082.0,
+    "duration": 6.0
+  },
+  {
+    "text": "thing that I worry about is we've had 10",
+    "start": 2085.159,
+    "duration": 5.0
+  },
+  {
+    "text": "million people come across our border",
+    "start": 2088.0,
+    "duration": 4.599
+  },
+  {
+    "text": "and and the majority of them are not our",
+    "start": 2090.159,
+    "duration": 5.321
+  },
+  {
+    "text": "friends and yeah you know terrorist",
+    "start": 2092.599,
+    "duration": 5.321
+  },
+  {
+    "text": "events are going to become more wh",
+    "start": 2095.48,
+    "duration": 5.24
+  },
+  {
+    "text": "spread and are they going to be more at",
+    "start": 2097.92,
+    "duration": 5.24
+  },
+  {
+    "text": "trying to kill as many American people",
+    "start": 2100.72,
+    "duration": 4.44
+  },
+  {
+    "text": "as they can or are they going to try to",
+    "start": 2103.16,
+    "duration": 4.76
+  },
+  {
+    "text": "attack our infrastructure our electrical",
+    "start": 2105.16,
+    "duration": 5.64
+  },
+  {
+    "text": "grid the Texas monthly wrote a big",
+    "start": 2107.92,
+    "duration": 5.439
+  },
+  {
+    "text": "article on the Houston Ship Channel",
+    "start": 2110.8,
+    "duration": 5.279
+  },
+  {
+    "text": "about 15 years ago and I'm going boy",
+    "start": 2113.359,
+    "duration": 4.24
+  },
+  {
+    "text": "that was irresponsible journalism",
+    "start": 2116.079,
+    "duration": 2.921
+  },
+  {
+    "text": "because all they did was say they",
+    "start": 2117.599,
+    "duration": 3.281
+  },
+  {
+    "text": "painted out a plan for a terrorist to",
+    "start": 2119.0,
+    "duration": 3.52
+  },
+  {
+    "text": "take out all of our",
+    "start": 2120.88,
+    "duration": 4.479
+  },
+  {
+    "text": "energy if you have some kind of",
+    "start": 2122.52,
+    "duration": 5.24
+  },
+  {
+    "text": "terrorist event the Houston Ship Channel",
+    "start": 2125.359,
+    "duration": 4.521
+  },
+  {
+    "text": "I mean that that would be catastrophic",
+    "start": 2127.76,
+    "duration": 5.64
+  },
+  {
+    "text": "for us so anyway I I don't know what all",
+    "start": 2129.88,
+    "duration": 5.4
+  },
+  {
+    "text": "they've got going on but you know",
+    "start": 2133.4,
+    "duration": 3.52
+  },
+  {
+    "text": "whatever it is it's not going to be good",
+    "start": 2135.28,
+    "duration": 4.2
+  },
+  {
+    "text": "for any of",
+    "start": 2136.92,
+    "duration": 6.4
+  },
+  {
+    "text": "us well I would imagine that um",
+    "start": 2139.48,
+    "duration": 7.56
+  },
+  {
+    "text": "immigration is a more urgent concern for",
+    "start": 2143.32,
+    "duration": 5.84
+  },
+  {
+    "text": "folks who live in say oh I don't know",
+    "start": 2147.04,
+    "duration": 4.0
+  },
+  {
+    "text": "abalene than for me I live in the",
+    "start": 2149.16,
+    "duration": 4.12
+  },
+  {
+    "text": "Northwest you know we never think about",
+    "start": 2151.04,
+    "duration": 4.76
+  },
+  {
+    "text": "it yeah you're you're basically not",
+    "start": 2153.28,
+    "duration": 6.319
+  },
+  {
+    "text": "affected and so but it they're going to",
+    "start": 2155.8,
+    "duration": 6.64
+  },
+  {
+    "text": "be spreading their tentacles all across",
+    "start": 2159.599,
+    "duration": 5.601
+  },
+  {
+    "text": "the land and I mean who would have",
+    "start": 2162.44,
+    "duration": 4.28
+  },
+  {
+    "text": "thought there would be an immigrant",
+    "start": 2165.2,
+    "duration": 3.76
+  },
+  {
+    "text": "problem in Chicago and New York and",
+    "start": 2166.72,
+    "duration": 7.16
+  },
+  {
+    "text": "Philadelphia and DC and Boston I",
+    "start": 2168.96,
+    "duration": 7.32
+  },
+  {
+    "text": "mean a lot of people you know really",
+    "start": 2173.88,
+    "duration": 4.12
+  },
+  {
+    "text": "look down to our governor because he",
+    "start": 2176.28,
+    "duration": 3.799
+  },
+  {
+    "text": "shipped all these immigrants You Know",
+    "start": 2178.0,
+    "duration": 4.0
+  },
+  {
+    "text": "Places across the United States so they",
+    "start": 2180.079,
+    "duration": 4.361
+  },
+  {
+    "text": "could get a taste of what we're having",
+    "start": 2182.0,
+    "duration": 6.0
+  },
+  {
+    "text": "and we're not even shipping you know",
+    "start": 2184.44,
+    "duration": 5.679
+  },
+  {
+    "text": "three or 4% of what's coming across the",
+    "start": 2188.0,
+    "duration": 5.28
+  },
+  {
+    "text": "border out across the United States but",
+    "start": 2190.119,
+    "duration": 5.96
+  },
+  {
+    "text": "you know we got a lot of Mayor",
+    "start": 2193.28,
+    "duration": 4.36
+  },
+  {
+    "text": "squealing",
+    "start": 2196.079,
+    "duration": 3.721
+  },
+  {
+    "text": "yeah so",
+    "start": 2197.64,
+    "duration": 5.52
+  },
+  {
+    "text": "uh let's getting returning to the topic",
+    "start": 2199.8,
+    "duration": 5.0
+  },
+  {
+    "text": "of oiling assas",
+    "start": 2203.16,
+    "duration": 5.0
+  },
+  {
+    "text": "um you mentioned that you're",
+    "start": 2204.8,
+    "duration": 6.039
+  },
+  {
+    "text": "69 and your kids don't want to take over",
+    "start": 2208.16,
+    "duration": 6.28
+  },
+  {
+    "text": "the business but you're still doing it",
+    "start": 2210.839,
+    "duration": 5.921
+  },
+  {
+    "text": "you just you can't stop yourself you're",
+    "start": 2214.44,
+    "duration": 4.84
+  },
+  {
+    "text": "69 man and you you've made a you you're",
+    "start": 2216.76,
+    "duration": 4.88
+  },
+  {
+    "text": "a resounding success shouldn't you be on",
+    "start": 2219.28,
+    "duration": 4.839
+  },
+  {
+    "text": "the beach somewhere well actually I just",
+    "start": 2221.64,
+    "duration": 5.12
+  },
+  {
+    "text": "got back from Florida so that wasn't too",
+    "start": 2224.119,
+    "duration": 4.401
+  },
+  {
+    "text": "bad",
+    "start": 2226.76,
+    "duration": 5.359
+  },
+  {
+    "text": "okay it's in my blood I I enjoy doing it",
+    "start": 2228.52,
+    "duration": 6.12
+  },
+  {
+    "text": "I will continue to do it not at the pace",
+    "start": 2232.119,
+    "duration": 5.24
+  },
+  {
+    "text": "that I used to do it but uh the good",
+    "start": 2234.64,
+    "duration": 5.959
+  },
+  {
+    "text": "thing about what I do is I can do it at",
+    "start": 2237.359,
+    "duration": 5.841
+  },
+  {
+    "text": "my own pace I'm not I don't have to meet",
+    "start": 2240.599,
+    "duration": 5.641
+  },
+  {
+    "text": "a budget every month I don't have to you",
+    "start": 2243.2,
+    "duration": 5.48
+  },
+  {
+    "text": "know fight another barrel of oil to keep",
+    "start": 2246.24,
+    "duration": 6.68
+  },
+  {
+    "text": "my doors open uh I I've got",
+    "start": 2248.68,
+    "duration": 10.08
+  },
+  {
+    "text": "to I Love The the risk reward in the uh",
+    "start": 2252.92,
+    "duration": 8.399
+  },
+  {
+    "text": "you know whenever you find a nice well",
+    "start": 2258.76,
+    "duration": 4.72
+  },
+  {
+    "text": "or oil field you're going oh yeah this",
+    "start": 2261.319,
+    "duration": 4.321
+  },
+  {
+    "text": "is great you know then it's kind of a",
+    "start": 2263.48,
+    "duration": 6.119
+  },
+  {
+    "text": "drillin rush and uh so that's that's",
+    "start": 2265.64,
+    "duration": 7.4
+  },
+  {
+    "text": "part of it that I do like uh I guess the",
+    "start": 2269.599,
+    "duration": 6.201
+  },
+  {
+    "text": "part that I don't like is the Regulatory",
+    "start": 2273.04,
+    "duration": 5.68
+  },
+  {
+    "text": "and now so many land owners are very",
+    "start": 2275.8,
+    "duration": 6.08
+  },
+  {
+    "text": "honorous because Through The Years",
+    "start": 2278.72,
+    "duration": 6.0
+  },
+  {
+    "text": "people in Texas that have been big",
+    "start": 2281.88,
+    "duration": 5.84
+  },
+  {
+    "text": "ranches and and own land everywhere they",
+    "start": 2284.72,
+    "duration": 4.72
+  },
+  {
+    "text": "they'll sell the land but they'll keep",
+    "start": 2287.72,
+    "duration": 4.32
+  },
+  {
+    "text": "the mineralized well the the guy that",
+    "start": 2289.44,
+    "duration": 5.919
+  },
+  {
+    "text": "owns the has bought the surface doesn't",
+    "start": 2292.04,
+    "duration": 7.44
+  },
+  {
+    "text": "want anybody to come on his land well",
+    "start": 2295.359,
+    "duration": 6.801
+  },
+  {
+    "text": "right the Min in Texans the dominant",
+    "start": 2299.48,
+    "duration": 6.04
+  },
+  {
+    "text": "state is the mineral estate so if I have",
+    "start": 2302.16,
+    "duration": 5.4
+  },
+  {
+    "text": "leased minerals under a piece of land",
+    "start": 2305.52,
+    "duration": 4.96
+  },
+  {
+    "text": "that land owner cannot keep me out and",
+    "start": 2307.56,
+    "duration": 6.72
+  },
+  {
+    "text": "so that has created problems and I I",
+    "start": 2310.48,
+    "duration": 5.96
+  },
+  {
+    "text": "understand their problem but they have",
+    "start": 2314.28,
+    "duration": 5.12
+  },
+  {
+    "text": "to understand my problem as well and",
+    "start": 2316.44,
+    "duration": 5.32
+  },
+  {
+    "text": "that you know I've purchased these",
+    "start": 2319.4,
+    "duration": 4.76
+  },
+  {
+    "text": "rights and i' I've got to go to make any",
+    "start": 2321.76,
+    "duration": 4.839
+  },
+  {
+    "text": "money I've got to go drill these Wells",
+    "start": 2324.16,
+    "duration": 6.159
+  },
+  {
+    "text": "and so it it's created a a good bit of",
+    "start": 2326.599,
+    "duration": 6.0
+  },
+  {
+    "text": "tension not very often but occasionally",
+    "start": 2330.319,
+    "duration": 5.481
+  },
+  {
+    "text": "it'll end up the courthouse and uh you",
+    "start": 2332.599,
+    "duration": 5.201
+  },
+  {
+    "text": "know they always lose because it's it's",
+    "start": 2335.8,
+    "duration": 3.12
+  },
+  {
+    "text": "all cut and",
+    "start": 2337.8,
+    "duration": 4.44
+  },
+  {
+    "text": "dried uh as far as the the do of state",
+    "start": 2338.92,
+    "duration": 5.0
+  },
+  {
+    "text": "law of Texas but you know different",
+    "start": 2342.24,
+    "duration": 4.16
+  },
+  {
+    "text": "states are different ways there I think",
+    "start": 2343.92,
+    "duration": 4.72
+  },
+  {
+    "text": "in Colorado at one time they were want",
+    "start": 2346.4,
+    "duration": 4.64
+  },
+  {
+    "text": "to pass legislation where if you were",
+    "start": 2348.64,
+    "duration": 4.4
+  },
+  {
+    "text": "drilling a o you couldn't you had to be",
+    "start": 2351.04,
+    "duration": 4.92
+  },
+  {
+    "text": "like 2,000 ft away from any structure on",
+    "start": 2353.04,
+    "duration": 4.96
+  },
+  {
+    "text": "that land",
+    "start": 2355.96,
+    "duration": 5.68
+  },
+  {
+    "text": "well what's the structure a barn house",
+    "start": 2358.0,
+    "duration": 6.0
+  },
+  {
+    "text": "you know and that didn't pass but it",
+    "start": 2361.64,
+    "duration": 5.24
+  },
+  {
+    "text": "came real close to passing and and I can",
+    "start": 2364.0,
+    "duration": 4.56
+  },
+  {
+    "text": "understand that to a certain extent from",
+    "start": 2366.88,
+    "duration": 5.64
+  },
+  {
+    "text": "some people I mean you you uh when the",
+    "start": 2368.56,
+    "duration": 5.84
+  },
+  {
+    "text": "sho's on the other foot you get a",
+    "start": 2372.52,
+    "duration": 4.88
+  },
+  {
+    "text": "different perspective and so I I don't",
+    "start": 2374.4,
+    "duration": 5.36
+  },
+  {
+    "text": "try to run over anybody I just try to",
+    "start": 2377.4,
+    "duration": 5.24
+  },
+  {
+    "text": "explain to things and these folks and",
+    "start": 2379.76,
+    "duration": 5.359
+  },
+  {
+    "text": "anybody that buys a big tract of land",
+    "start": 2382.64,
+    "duration": 6.32
+  },
+  {
+    "text": "let say they buy a th acre ranch okay",
+    "start": 2385.119,
+    "duration": 5.841
+  },
+  {
+    "text": "they've paid millions of dollars for",
+    "start": 2388.96,
+    "duration": 5.48
+  },
+  {
+    "text": "that ranch they should be Savvy enough",
+    "start": 2390.96,
+    "duration": 6.08
+  },
+  {
+    "text": "to know to consult with an attorney if",
+    "start": 2394.44,
+    "duration": 5.44
+  },
+  {
+    "text": "they don't know about and also real EST",
+    "start": 2397.04,
+    "duration": 5.48
+  },
+  {
+    "text": "estate agents what the the laws are and",
+    "start": 2399.88,
+    "duration": 4.56
+  },
+  {
+    "text": "if they got any mineral rights now",
+    "start": 2402.52,
+    "duration": 3.52
+  },
+  {
+    "text": "they're not only trading mineral rights",
+    "start": 2404.44,
+    "duration": 4.76
+  },
+  {
+    "text": "are trading uh wind turbine rights solar",
+    "start": 2406.04,
+    "duration": 5.84
+  },
+  {
+    "text": "rights so you can retain those if you",
+    "start": 2409.2,
+    "duration": 6.28
+  },
+  {
+    "text": "sell attractive land uh or you can",
+    "start": 2411.88,
+    "duration": 7.16
+  },
+  {
+    "text": "retain a certain percentage of them uh",
+    "start": 2415.48,
+    "duration": 7.32
+  },
+  {
+    "text": "so it's Texas laws being Rewritten as",
+    "start": 2419.04,
+    "duration": 6.96
+  },
+  {
+    "text": "far as wind turbs and solar panels and",
+    "start": 2422.8,
+    "duration": 5.519
+  },
+  {
+    "text": "going as well",
+    "start": 2426.0,
+    "duration": 5.119
+  },
+  {
+    "text": "right so after you know the marcelis",
+    "start": 2428.319,
+    "duration": 5.081
+  },
+  {
+    "text": "just kind of blew up and became a big",
+    "start": 2431.119,
+    "duration": 5.24
+  },
+  {
+    "text": "play I remember all the articles about",
+    "start": 2433.4,
+    "duration": 5.28
+  },
+  {
+    "text": "people um I'm pretty sure it was",
+    "start": 2436.359,
+    "duration": 4.801
+  },
+  {
+    "text": "marcelus because I want to say that I",
+    "start": 2438.68,
+    "duration": 5.56
+  },
+  {
+    "text": "just remember the folks you know in the",
+    "start": 2441.16,
+    "duration": 5.64
+  },
+  {
+    "text": "East they just kind of didn't get it",
+    "start": 2444.24,
+    "duration": 4.76
+  },
+  {
+    "text": "they thought well hey I'm rich I've got",
+    "start": 2446.8,
+    "duration": 3.96
+  },
+  {
+    "text": "I've got oil on my land and now I can",
+    "start": 2449.0,
+    "duration": 3.28
+  },
+  {
+    "text": "finally you know now they're they're",
+    "start": 2450.76,
+    "duration": 3.599
+  },
+  {
+    "text": "learning how to drill it and and I can",
+    "start": 2452.28,
+    "duration": 4.079
+  },
+  {
+    "text": "sell it and I can get rich and they",
+    "start": 2454.359,
+    "duration": 6.0
+  },
+  {
+    "text": "didn't know that that me like an army of",
+    "start": 2456.359,
+    "duration": 6.521
+  },
+  {
+    "text": "trucks and giant equipment on their",
+    "start": 2460.359,
+    "duration": 4.76
+  },
+  {
+    "text": "property just basically ruining it I",
+    "start": 2462.88,
+    "duration": 4.64
+  },
+  {
+    "text": "mean you know we we had a pool put in in",
+    "start": 2465.119,
+    "duration": 4.72
+  },
+  {
+    "text": "our little backyard and they ruined the",
+    "start": 2467.52,
+    "duration": 6.28
+  },
+  {
+    "text": "entire yard right so I remember articles",
+    "start": 2469.839,
+    "duration": 6.041
+  },
+  {
+    "text": "about this and that's kind of what it",
+    "start": 2473.8,
+    "duration": 3.799
+  },
+  {
+    "text": "reminds me of I understand the land",
+    "start": 2475.88,
+    "duration": 4.199
+  },
+  {
+    "text": "owners but you know especially in Texas",
+    "start": 2477.599,
+    "duration": 5.641
+  },
+  {
+    "text": "you'd think they'd get it right it the",
+    "start": 2480.079,
+    "duration": 4.641
+  },
+  {
+    "text": "the good thing about the horizontal",
+    "start": 2483.24,
+    "duration": 2.92
+  },
+  {
+    "text": "worlds is you know they're drilling",
+    "start": 2484.72,
+    "duration": 3.92
+  },
+  {
+    "text": "three miles and in underneath the ground",
+    "start": 2486.16,
+    "duration": 6.679
+  },
+  {
+    "text": "so they the the physical portion of land",
+    "start": 2488.64,
+    "duration": 6.32
+  },
+  {
+    "text": "that they're on is not too obtrusive",
+    "start": 2492.839,
+    "duration": 4.361
+  },
+  {
+    "text": "whereas when I'm drilling vertical Wells",
+    "start": 2494.96,
+    "duration": 4.2
+  },
+  {
+    "text": "I make well I'm putting a pumping unit",
+    "start": 2497.2,
+    "duration": 5.0
+  },
+  {
+    "text": "on it and it's a little bit I'm more of",
+    "start": 2499.16,
+    "duration": 5.84
+  },
+  {
+    "text": "the way than these owners but and",
+    "start": 2502.2,
+    "duration": 4.36
+  },
+  {
+    "text": "usually those big trucks and big",
+    "start": 2505.0,
+    "duration": 3.0
+  },
+  {
+    "text": "equipment and drilling rigs you know",
+    "start": 2506.56,
+    "duration": 3.88
+  },
+  {
+    "text": "they're only there for a month or two",
+    "start": 2508.0,
+    "duration": 5.72
+  },
+  {
+    "text": "and they're gone and so it's it's not",
+    "start": 2510.44,
+    "duration": 5.08
+  },
+  {
+    "text": "too terribly bad",
+    "start": 2513.72,
+    "duration": 4.96
+  },
+  {
+    "text": "but if you're not used to it it can be a",
+    "start": 2515.52,
+    "duration": 6.64
+  },
+  {
+    "text": "problem and people have to understand",
+    "start": 2518.68,
+    "duration": 5.24
+  },
+  {
+    "text": "what's going to be involved like I've",
+    "start": 2522.16,
+    "duration": 4.88
+  },
+  {
+    "text": "got a friend of mine that has a ranch in",
+    "start": 2523.92,
+    "duration": 5.439
+  },
+  {
+    "text": "fact I was there at dinner dinner last",
+    "start": 2527.04,
+    "duration": 5.92
+  },
+  {
+    "text": "night and he has all these Wing turs and",
+    "start": 2529.359,
+    "duration": 6.641
+  },
+  {
+    "text": "he gets paid I think 80 or $100,000 a",
+    "start": 2532.96,
+    "duration": 4.48
+  },
+  {
+    "text": "year for his",
+    "start": 2536.0,
+    "duration": 6.68
+  },
+  {
+    "text": "Winters and so but I find them just God",
+    "start": 2537.44,
+    "duration": 8.52
+  },
+  {
+    "text": "awful I mean I would I would not do that",
+    "start": 2542.68,
+    "duration": 5.639
+  },
+  {
+    "text": "at all however if I had a pumping unit",
+    "start": 2545.96,
+    "duration": 4.96
+  },
+  {
+    "text": "in my yard or if I even if I had some",
+    "start": 2548.319,
+    "duration": 6.401
+  },
+  {
+    "text": "sodar pants somewhere to me it it not",
+    "start": 2550.92,
+    "duration": 7.04
+  },
+  {
+    "text": "is it's not as ugly as as those giant",
+    "start": 2554.72,
+    "duration": 5.76
+  },
+  {
+    "text": "wind turbs however you know everybody's",
+    "start": 2557.96,
+    "duration": 4.599
+  },
+  {
+    "text": "different it doesn't bother him he he",
+    "start": 2560.48,
+    "duration": 4.0
+  },
+  {
+    "text": "he's perfectly happy to put that money",
+    "start": 2562.559,
+    "duration": 4.56
+  },
+  {
+    "text": "in his pocket put up with the wind tur",
+    "start": 2564.48,
+    "duration": 4.24
+  },
+  {
+    "text": "so everybody's you know looks at a",
+    "start": 2567.119,
+    "duration": 3.44
+  },
+  {
+    "text": "little",
+    "start": 2568.72,
+    "duration": 4.839
+  },
+  {
+    "text": "different yeah it's a trade-off it's",
+    "start": 2570.559,
+    "duration": 4.56
+  },
+  {
+    "text": "it's definitely a trade-off you got to",
+    "start": 2573.559,
+    "duration": 4.081
+  },
+  {
+    "text": "make a decision",
+    "start": 2575.119,
+    "duration": 5.041
+  },
+  {
+    "text": "all right um I think we",
+    "start": 2577.64,
+    "duration": 5.16
+  },
+  {
+    "text": "are at about the time when we need to",
+    "start": 2580.16,
+    "duration": 5.0
+  },
+  {
+    "text": "ask our final question which is the same",
+    "start": 2582.8,
+    "duration": 4.44
+  },
+  {
+    "text": "question for every guest no matter what",
+    "start": 2585.16,
+    "duration": 4.8
+  },
+  {
+    "text": "the topic even if it's a non-financial",
+    "start": 2587.24,
+    "duration": 4.96
+  },
+  {
+    "text": "topic exact same question and if you've",
+    "start": 2589.96,
+    "duration": 4.28
+  },
+  {
+    "text": "already stated what you would like your",
+    "start": 2592.2,
+    "duration": 3.68
+  },
+  {
+    "text": "answer to be by all means feel free to",
+    "start": 2594.24,
+    "duration": 3.24
+  },
+  {
+    "text": "repeat it that's fine and the question",
+    "start": 2595.88,
+    "duration": 3.92
+  },
+  {
+    "text": "is real simple if you could leave our",
+    "start": 2597.48,
+    "duration": 4.4
+  },
+  {
+    "text": "listeners with a single thought today",
+    "start": 2599.8,
+    "duration": 5.96
+  },
+  {
+    "text": "what would it be I think ourry is is one",
+    "start": 2601.88,
+    "duration": 5.76
+  },
+  {
+    "text": "of the most important",
+    "start": 2605.76,
+    "duration": 4.28
+  },
+  {
+    "text": "Industries the energy industry whether",
+    "start": 2607.64,
+    "duration": 4.8
+  },
+  {
+    "text": "it's oil gas wind electrical or whatever",
+    "start": 2610.04,
+    "duration": 4.84
+  },
+  {
+    "text": "and it it you use it every day of your",
+    "start": 2612.44,
+    "duration": 5.399
+  },
+  {
+    "text": "life and you need to understand a little",
+    "start": 2614.88,
+    "duration": 5.439
+  },
+  {
+    "text": "bit more about it and I think not only",
+    "start": 2617.839,
+    "duration": 4.28
+  },
+  {
+    "text": "is it a good investment particularly at",
+    "start": 2620.319,
+    "duration": 5.0
+  },
+  {
+    "text": "this time but it's also a hedge",
+    "start": 2622.119,
+    "duration": 6.641
+  },
+  {
+    "text": "against uh if oil prices go to $200 a",
+    "start": 2625.319,
+    "duration": 6.681
+  },
+  {
+    "text": "barrel or if natural gas prices go to",
+    "start": 2628.76,
+    "duration": 6.52
+  },
+  {
+    "text": "$10 if you own some of this stock you",
+    "start": 2632.0,
+    "duration": 5.52
+  },
+  {
+    "text": "have it's a hedge against what going to",
+    "start": 2635.28,
+    "duration": 5.12
+  },
+  {
+    "text": "happen to you as these prices",
+    "start": 2637.52,
+    "duration": 6.44
+  },
+  {
+    "text": "fluctuate and that's uh I'm proud of the",
+    "start": 2640.4,
+    "duration": 4.919
+  },
+  {
+    "text": "business that I'm",
+    "start": 2643.96,
+    "duration": 4.56
+  },
+  {
+    "text": "in I've always done uh as much as I",
+    "start": 2645.319,
+    "duration": 5.841
+  },
+  {
+    "text": "could environmentally to make",
+    "start": 2648.52,
+    "duration": 4.4
+  },
+  {
+    "text": "the",
+    "start": 2651.16,
+    "duration": 5.199
+  },
+  {
+    "text": "Surface appealing and not damage it and",
+    "start": 2652.92,
+    "duration": 7.439
+  },
+  {
+    "text": "so uh I have no problem with it although",
+    "start": 2656.359,
+    "duration": 5.96
+  },
+  {
+    "text": "some people think that if you're buying",
+    "start": 2660.359,
+    "duration": 5.2
+  },
+  {
+    "text": "into oil and gas you're you're buy",
+    "start": 2662.319,
+    "duration": 4.8
+  },
+  {
+    "text": "you're killing the environment and then",
+    "start": 2665.559,
+    "duration": 4.361
+  },
+  {
+    "text": "it's just not the",
+    "start": 2667.119,
+    "duration": 2.801
+  },
+  {
+    "text": "case no taking care of the environment",
+    "start": 2670.16,
+    "duration": 5.199
+  },
+  {
+    "text": "is an energy intensive",
+    "start": 2672.319,
+    "duration": 4.921
+  },
+  {
+    "text": "task",
+    "start": 2675.359,
+    "duration": 4.601
+  },
+  {
+    "text": "great yeah all right Cactus it's always",
+    "start": 2677.24,
+    "duration": 4.319
+  },
+  {
+    "text": "a pleasure to talk with you thanks for",
+    "start": 2679.96,
+    "duration": 3.8
+  },
+  {
+    "text": "taking time out and uh and come to talk",
+    "start": 2681.559,
+    "duration": 4.921
+  },
+  {
+    "text": "with us today mil Rob Dan great to see",
+    "start": 2683.76,
+    "duration": 6.359
+  },
+  {
+    "text": "you Corey take care hope to see you guys",
+    "start": 2686.48,
+    "duration": 7.8
+  },
+  {
+    "text": "soon thank you yeah we'll see you",
+    "start": 2690.119,
+    "duration": 4.161
+  },
+  {
+    "text": "soon opinions expressed on this program",
+    "start": 2695.68,
+    "duration": 3.679
+  },
+  {
+    "text": "are solely those of the contributor and",
+    "start": 2698.0,
+    "duration": 3.119
+  },
+  {
+    "text": "do not necessarily reflect the opinions",
+    "start": 2699.359,
+    "duration": 3.641
+  },
+  {
+    "text": "of stanbury research its parent company",
+    "start": 2701.119,
+    "duration": 5.081
+  },
+  {
+    "text": "or affiliates",
+    "start": 2703.0,
+    "duration": 3.2
+  }
+]

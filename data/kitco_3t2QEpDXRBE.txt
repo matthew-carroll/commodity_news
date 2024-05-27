@@ -1,0 +1,3862 @@
+[
+  {
+    "text": "hey everyone I'm Jeremy saffr this is",
+    "start": 0.32,
+    "duration": 3.079
+  },
+  {
+    "text": "Kiko news don't forget to hit that",
+    "start": 1.76,
+    "duration": 3.68
+  },
+  {
+    "text": "subscribe button for the latest now this",
+    "start": 3.399,
+    "duration": 3.52
+  },
+  {
+    "text": "year the gold market has been on a",
+    "start": 5.44,
+    "duration": 3.56
+  },
+  {
+    "text": "remarkable ride gold prices have hit",
+    "start": 6.919,
+    "duration": 4.8
+  },
+  {
+    "text": "record highs driven by robust demand in",
+    "start": 9.0,
+    "duration": 5.28
+  },
+  {
+    "text": "significant purchases by central banks",
+    "start": 11.719,
+    "duration": 5.161
+  },
+  {
+    "text": "now in the first quarter of 2024 gold",
+    "start": 14.28,
+    "duration": 4.839
+  },
+  {
+    "text": "demand sword marking the strongest start",
+    "start": 16.88,
+    "duration": 4.04
+  },
+  {
+    "text": "to a year since",
+    "start": 19.119,
+    "duration": 3.801
+  },
+  {
+    "text": "2016 central banks have been",
+    "start": 20.92,
+    "duration": 4.04
+  },
+  {
+    "text": "particularly active using gold to",
+    "start": 22.92,
+    "duration": 4.24
+  },
+  {
+    "text": "diversify their reserves of course this",
+    "start": 24.96,
+    "duration": 4.559
+  },
+  {
+    "text": "reflecting economic uncertainties and",
+    "start": 27.16,
+    "duration": 5.239
+  },
+  {
+    "text": "ongoing geopolitical uncertainties as",
+    "start": 29.519,
+    "duration": 5.401
+  },
+  {
+    "text": "well recent economic data also plays a",
+    "start": 32.399,
+    "duration": 5.0
+  },
+  {
+    "text": "crucial role here April's headline CPI",
+    "start": 34.92,
+    "duration": 6.04
+  },
+  {
+    "text": "Rose just 3% month over Monon which was",
+    "start": 37.399,
+    "duration": 5.84
+  },
+  {
+    "text": "lower than expected this of course",
+    "start": 40.96,
+    "duration": 4.599
+  },
+  {
+    "text": "boosting investors confidence now the",
+    "start": 43.239,
+    "duration": 3.921
+  },
+  {
+    "text": "key question now is whether interest",
+    "start": 45.559,
+    "duration": 3.801
+  },
+  {
+    "text": "rates will remain high for longer or if",
+    "start": 47.16,
+    "duration": 4.399
+  },
+  {
+    "text": "we'll start to see a rate cut soon lower",
+    "start": 49.36,
+    "duration": 4.4
+  },
+  {
+    "text": "rate Cuts reduce the opportunity cost of",
+    "start": 51.559,
+    "duration": 4.64
+  },
+  {
+    "text": "holding gold as gold does not yield",
+    "start": 53.76,
+    "duration": 4.56
+  },
+  {
+    "text": "interest this making it more attractive",
+    "start": 56.199,
+    "duration": 4.801
+  },
+  {
+    "text": "to investors and additional a weakened",
+    "start": 58.32,
+    "duration": 5.399
+  },
+  {
+    "text": "US dollar with the dxy index dropping",
+    "start": 61.0,
+    "duration": 5.56
+  },
+  {
+    "text": "below 105 has further supported gold",
+    "start": 63.719,
+    "duration": 4.961
+  },
+  {
+    "text": "prices when the dollar weekend gold",
+    "start": 66.56,
+    "duration": 3.72
+  },
+  {
+    "text": "becomes cheaper for holders of other",
+    "start": 68.68,
+    "duration": 4.28
+  },
+  {
+    "text": "currencies increasing demand and then we",
+    "start": 70.28,
+    "duration": 4.4
+  },
+  {
+    "text": "look over to the Emerging Markets",
+    "start": 72.96,
+    "duration": 3.88
+  },
+  {
+    "text": "especially bricks countries and they've",
+    "start": 74.68,
+    "duration": 4.16
+  },
+  {
+    "text": "also been increasing their gold Reserve",
+    "start": 76.84,
+    "duration": 4.4
+  },
+  {
+    "text": "signaling a strategic shift to diversify",
+    "start": 78.84,
+    "duration": 5.279
+  },
+  {
+    "text": "away from Fiat currencies and hedge",
+    "start": 81.24,
+    "duration": 5.239
+  },
+  {
+    "text": "against global economic instability now",
+    "start": 84.119,
+    "duration": 4.201
+  },
+  {
+    "text": "today we're thrilled to have Joe cavaton",
+    "start": 86.479,
+    "duration": 3.481
+  },
+  {
+    "text": "he's the market strategist for the",
+    "start": 88.32,
+    "duration": 4.04
+  },
+  {
+    "text": "Americas at the world gold Council and",
+    "start": 89.96,
+    "duration": 4.64
+  },
+  {
+    "text": "he joins us in studio here in Vancouver",
+    "start": 92.36,
+    "duration": 4.24
+  },
+  {
+    "text": "Joe welcome to the show thanks for being",
+    "start": 94.6,
+    "duration": 3.96
+  },
+  {
+    "text": "in here man great to be here I I",
+    "start": 96.6,
+    "duration": 3.799
+  },
+  {
+    "text": "appreciate this I'm excited because",
+    "start": 98.56,
+    "duration": 3.64
+  },
+  {
+    "text": "there's so much to get to let's first",
+    "start": 100.399,
+    "duration": 3.76
+  },
+  {
+    "text": "start with why you're in town I mean you",
+    "start": 102.2,
+    "duration": 3.68
+  },
+  {
+    "text": "got beautiful weather on the west coast",
+    "start": 104.159,
+    "duration": 4.6
+  },
+  {
+    "text": "finally coming from the cim the Canadian",
+    "start": 105.88,
+    "duration": 4.48
+  },
+  {
+    "text": "Institute of mining conference correct",
+    "start": 108.759,
+    "duration": 3.121
+  },
+  {
+    "text": "that's right that's right I have an",
+    "start": 110.36,
+    "duration": 3.28
+  },
+  {
+    "text": "opportunity to speak at the at the event",
+    "start": 111.88,
+    "duration": 3.879
+  },
+  {
+    "text": "this week here in Vancouver aside from",
+    "start": 113.64,
+    "duration": 4.399
+  },
+  {
+    "text": "the wonderful weather the the events",
+    "start": 115.759,
+    "duration": 4.28
+  },
+  {
+    "text": "been fantastic I had an opportunity to w",
+    "start": 118.039,
+    "duration": 3.68
+  },
+  {
+    "text": "the floor see all the different displays",
+    "start": 120.039,
+    "duration": 3.801
+  },
+  {
+    "text": "of some of the traditional Technologies",
+    "start": 121.719,
+    "duration": 3.72
+  },
+  {
+    "text": "but even some of the newer technologies",
+    "start": 123.84,
+    "duration": 3.16
+  },
+  {
+    "text": "that the mining industry is talking",
+    "start": 125.439,
+    "duration": 3.32
+  },
+  {
+    "text": "about and then feature on a panel with",
+    "start": 127.0,
+    "duration": 3.879
+  },
+  {
+    "text": "some really Dynamic people and uh",
+    "start": 128.759,
+    "duration": 3.441
+  },
+  {
+    "text": "present some of the things that the",
+    "start": 130.879,
+    "duration": 2.761
+  },
+  {
+    "text": "world gold council is doing including",
+    "start": 132.2,
+    "duration": 2.92
+  },
+  {
+    "text": "our gold bar Integrity program which is",
+    "start": 133.64,
+    "duration": 3.36
+  },
+  {
+    "text": "kind of bringing technology and the",
+    "start": 135.12,
+    "duration": 3.88
+  },
+  {
+    "text": "industry forward in that regard so",
+    "start": 137.0,
+    "duration": 4.28
+  },
+  {
+    "text": "really exciting conference well attended",
+    "start": 139.0,
+    "duration": 3.76
+  },
+  {
+    "text": "and happy to be out here yeah I'm",
+    "start": 141.28,
+    "duration": 2.88
+  },
+  {
+    "text": "excited I mean there's so much to get",
+    "start": 142.76,
+    "duration": 3.199
+  },
+  {
+    "text": "into there uh I want to stick to Gold",
+    "start": 144.16,
+    "duration": 3.439
+  },
+  {
+    "text": "but before we do I'm just curious on the",
+    "start": 145.959,
+    "duration": 4.0
+  },
+  {
+    "text": "mining side is there any Technologies",
+    "start": 147.599,
+    "duration": 4.36
+  },
+  {
+    "text": "that maybe you saw that got you really",
+    "start": 149.959,
+    "duration": 4.36
+  },
+  {
+    "text": "really excited here there's two I think",
+    "start": 151.959,
+    "duration": 3.92
+  },
+  {
+    "text": "that I want to highlight the first is",
+    "start": 154.319,
+    "duration": 3.2
+  },
+  {
+    "text": "one that we're involved in and that's",
+    "start": 155.879,
+    "duration": 3.801
+  },
+  {
+    "text": "actually using technology blockchain",
+    "start": 157.519,
+    "duration": 5.121
+  },
+  {
+    "text": "technology to track and Trace gold from",
+    "start": 159.68,
+    "duration": 5.199
+  },
+  {
+    "text": "its source through the entire supply",
+    "start": 162.64,
+    "duration": 3.959
+  },
+  {
+    "text": "chain all the way out to the consumption",
+    "start": 164.879,
+    "duration": 4.121
+  },
+  {
+    "text": "side now the lbma and the world gold",
+    "start": 166.599,
+    "duration": 3.601
+  },
+  {
+    "text": "Council are working on Gold Bar",
+    "start": 169.0,
+    "duration": 3.72
+  },
+  {
+    "text": "Integrity as a program and we've both",
+    "start": 170.2,
+    "duration": 4.2
+  },
+  {
+    "text": "committed to working with exadrus which",
+    "start": 172.72,
+    "duration": 3.439
+  },
+  {
+    "text": "is a platform that's going to bring",
+    "start": 174.4,
+    "duration": 3.559
+  },
+  {
+    "text": "mining companies many of our members",
+    "start": 176.159,
+    "duration": 4.041
+  },
+  {
+    "text": "have signed to put their gold onto it",
+    "start": 177.959,
+    "duration": 4.801
+  },
+  {
+    "text": "but also all aspects of that industry",
+    "start": 180.2,
+    "duration": 4.679
+  },
+  {
+    "text": "onto a tracking and tracing technology",
+    "start": 182.76,
+    "duration": 4.24
+  },
+  {
+    "text": "so really cool technology that's going",
+    "start": 184.879,
+    "duration": 4.72
+  },
+  {
+    "text": "to help blockchain at the consumption",
+    "start": 187.0,
+    "duration": 4.959
+  },
+  {
+    "text": "level be more efficient when it comes to",
+    "start": 189.599,
+    "duration": 4.321
+  },
+  {
+    "text": "understanding gold and then the second",
+    "start": 191.959,
+    "duration": 3.92
+  },
+  {
+    "text": "is really a lot of Technology that's",
+    "start": 193.92,
+    "duration": 4.16
+  },
+  {
+    "text": "around being smart about where they're",
+    "start": 195.879,
+    "duration": 3.961
+  },
+  {
+    "text": "targeting the digging and and and",
+    "start": 198.08,
+    "duration": 4.2
+  },
+  {
+    "text": "sourcing mine right sites and and using",
+    "start": 199.84,
+    "duration": 5.319
+  },
+  {
+    "text": "that kind of that this the ability to to",
+    "start": 202.28,
+    "duration": 4.519
+  },
+  {
+    "text": "kind of say say this is the track of",
+    "start": 205.159,
+    "duration": 3.681
+  },
+  {
+    "text": "land that we need to get into and this",
+    "start": 206.799,
+    "duration": 3.44
+  },
+  {
+    "text": "is where we should be digging so being",
+    "start": 208.84,
+    "duration": 2.399
+  },
+  {
+    "text": "more efficient around where they're",
+    "start": 210.239,
+    "duration": 2.121
+  },
+  {
+    "text": "digging so lots of different",
+    "start": 211.239,
+    "duration": 3.121
+  },
+  {
+    "text": "Technologies but those are two that are",
+    "start": 212.36,
+    "duration": 3.4
+  },
+  {
+    "text": "really worth highlighting interesting",
+    "start": 214.36,
+    "duration": 2.4
+  },
+  {
+    "text": "you know it's always interesting for",
+    "start": 215.76,
+    "duration": 2.36
+  },
+  {
+    "text": "gold bugs because when we talk about the",
+    "start": 216.76,
+    "duration": 3.6
+  },
+  {
+    "text": "digitization of gold you have some in",
+    "start": 218.12,
+    "duration": 4.119
+  },
+  {
+    "text": "the corner of excitement right we're",
+    "start": 220.36,
+    "duration": 3.28
+  },
+  {
+    "text": "going to mature the industry and then",
+    "start": 222.239,
+    "duration": 3.121
+  },
+  {
+    "text": "you have others that go wait I don't",
+    "start": 223.64,
+    "duration": 4.12
+  },
+  {
+    "text": "want anyone to know that I have gold so",
+    "start": 225.36,
+    "duration": 4.04
+  },
+  {
+    "text": "how do you bridge the two in this",
+    "start": 227.76,
+    "duration": 3.6
+  },
+  {
+    "text": "industry it's pretty simple stuff and I",
+    "start": 229.4,
+    "duration": 3.759
+  },
+  {
+    "text": "think where we're spending a lot of the",
+    "start": 231.36,
+    "duration": 4.4
+  },
+  {
+    "text": "energy rightfully so is around tracking",
+    "start": 233.159,
+    "duration": 4.321
+  },
+  {
+    "text": "and tracing I've used that expression a",
+    "start": 235.76,
+    "duration": 4.36
+  },
+  {
+    "text": "couple times but I can't use it enough",
+    "start": 237.48,
+    "duration": 6.24
+  },
+  {
+    "text": "in order for Access and efficiency at",
+    "start": 240.12,
+    "duration": 5.479
+  },
+  {
+    "text": "that access level to work you need to",
+    "start": 243.72,
+    "duration": 3.719
+  },
+  {
+    "text": "know what you're getting your hands on",
+    "start": 245.599,
+    "duration": 3.2
+  },
+  {
+    "text": "and that you're getting it at a fair and",
+    "start": 247.439,
+    "duration": 3.44
+  },
+  {
+    "text": "reasonable price and that you can trust",
+    "start": 248.799,
+    "duration": 4.681
+  },
+  {
+    "text": "it so when it comes to ESG standards",
+    "start": 250.879,
+    "duration": 5.121
+  },
+  {
+    "text": "when it comes to movement of the gold",
+    "start": 253.48,
+    "duration": 4.64
+  },
+  {
+    "text": "all of these things are enhanced by a a",
+    "start": 256.0,
+    "duration": 4.6
+  },
+  {
+    "text": "clean carefully crafted and efficient",
+    "start": 258.12,
+    "duration": 5.4
+  },
+  {
+    "text": "database simply simplifying the",
+    "start": 260.6,
+    "duration": 5.56
+  },
+  {
+    "text": "ownership of gold at the source and then",
+    "start": 263.52,
+    "duration": 5.16
+  },
+  {
+    "text": "ultimately it gets into the world of how",
+    "start": 266.16,
+    "duration": 4.12
+  },
+  {
+    "text": "and when do you use use modern",
+    "start": 268.68,
+    "duration": 3.72
+  },
+  {
+    "text": "Technologies to give better access and",
+    "start": 270.28,
+    "duration": 3.359
+  },
+  {
+    "text": "there in the permissioned or the",
+    "start": 272.4,
+    "duration": 3.079
+  },
+  {
+    "text": "permissionless environments we can have",
+    "start": 273.639,
+    "duration": 3.601
+  },
+  {
+    "text": "a debate on exactly what's the best way",
+    "start": 275.479,
+    "duration": 4.121
+  },
+  {
+    "text": "to get to gold but this basic database",
+    "start": 277.24,
+    "duration": 5.04
+  },
+  {
+    "text": "will allow us to move the gold through",
+    "start": 279.6,
+    "duration": 4.72
+  },
+  {
+    "text": "the system know where it's coming from",
+    "start": 282.28,
+    "duration": 3.56
+  },
+  {
+    "text": "know the standards applied to it and",
+    "start": 284.32,
+    "duration": 3.56
+  },
+  {
+    "text": "then ultimately get it into a world",
+    "start": 285.84,
+    "duration": 4.24
+  },
+  {
+    "text": "where you can now package it differently",
+    "start": 287.88,
+    "duration": 4.72
+  },
+  {
+    "text": "right whether it's known telling people",
+    "start": 290.08,
+    "duration": 4.04
+  },
+  {
+    "text": "you own it or actually not telling",
+    "start": 292.6,
+    "duration": 2.92
+  },
+  {
+    "text": "people that you own it or however you",
+    "start": 294.12,
+    "duration": 2.76
+  },
+  {
+    "text": "want to deal with it but it'll make",
+    "start": 295.52,
+    "duration": 3.32
+  },
+  {
+    "text": "these efficiencies come to life and it's",
+    "start": 296.88,
+    "duration": 3.56
+  },
+  {
+    "text": "really an exciting opportunity yeah",
+    "start": 298.84,
+    "duration": 3.4
+  },
+  {
+    "text": "that's fascinating okay let's let's talk",
+    "start": 300.44,
+    "duration": 3.199
+  },
+  {
+    "text": "a little bit about the gold market I",
+    "start": 302.24,
+    "duration": 3.799
+  },
+  {
+    "text": "mean what a year I mean we've seen as I",
+    "start": 303.639,
+    "duration": 4.361
+  },
+  {
+    "text": "mentioned off the top we've seen record",
+    "start": 306.039,
+    "duration": 4.641
+  },
+  {
+    "text": "highs we've seen central banks demand",
+    "start": 308.0,
+    "duration": 4.8
+  },
+  {
+    "text": "through the roof talk to me a little bit",
+    "start": 310.68,
+    "duration": 3.799
+  },
+  {
+    "text": "about these emerging Trends what you're",
+    "start": 312.8,
+    "duration": 4.0
+  },
+  {
+    "text": "seeing why we're here what got us here",
+    "start": 314.479,
+    "duration": 3.84
+  },
+  {
+    "text": "give us a lay the L so we've had a",
+    "start": 316.8,
+    "duration": 3.64
+  },
+  {
+    "text": "couple of good years so from a demand",
+    "start": 318.319,
+    "duration": 6.401
+  },
+  {
+    "text": "perspective we have 22 and 23 being",
+    "start": 320.44,
+    "duration": 6.4
+  },
+  {
+    "text": "record setting years for gold demand",
+    "start": 324.72,
+    "duration": 4.4
+  },
+  {
+    "text": "first quarter again very very strong",
+    "start": 326.84,
+    "duration": 4.76
+  },
+  {
+    "text": "first quarter demand and a lot of what's",
+    "start": 329.12,
+    "duration": 4.96
+  },
+  {
+    "text": "happening is the consumption of gold in",
+    "start": 331.6,
+    "duration": 3.719
+  },
+  {
+    "text": "all the different areas that we",
+    "start": 334.08,
+    "duration": 4.119
+  },
+  {
+    "text": "regularly talk about are really shining",
+    "start": 335.319,
+    "duration": 4.921
+  },
+  {
+    "text": "and that use case is coming to life you",
+    "start": 338.199,
+    "duration": 3.681
+  },
+  {
+    "text": "highlighted central banks the case for",
+    "start": 340.24,
+    "duration": 3.679
+  },
+  {
+    "text": "central banks diversifying your reserve",
+    "start": 341.88,
+    "duration": 4.52
+  },
+  {
+    "text": "portfolio adding an allocation of gold",
+    "start": 343.919,
+    "duration": 5.161
+  },
+  {
+    "text": "increasing those allocations 14-year",
+    "start": 346.4,
+    "duration": 4.72
+  },
+  {
+    "text": "Trend and really picked up over the last",
+    "start": 349.08,
+    "duration": 3.76
+  },
+  {
+    "text": "five particularly in the Emerging",
+    "start": 351.12,
+    "duration": 3.72
+  },
+  {
+    "text": "Markets which I think we'll talk about",
+    "start": 352.84,
+    "duration": 3.72
+  },
+  {
+    "text": "but secondly the really interesting",
+    "start": 354.84,
+    "duration": 3.479
+  },
+  {
+    "text": "Dynamic shift that's played out is kind",
+    "start": 356.56,
+    "duration": 4.52
+  },
+  {
+    "text": "of a pause by Western investors and the",
+    "start": 358.319,
+    "duration": 6.201
+  },
+  {
+    "text": "Eastern investment taking off so when",
+    "start": 361.08,
+    "duration": 5.44
+  },
+  {
+    "text": "you think about a market like China",
+    "start": 364.52,
+    "duration": 3.2
+  },
+  {
+    "text": "where the central bank has been an",
+    "start": 366.52,
+    "duration": 3.48
+  },
+  {
+    "text": "active and the largest buyer of gold",
+    "start": 367.72,
+    "duration": 4.12
+  },
+  {
+    "text": "it's also the consumer that's actually",
+    "start": 370.0,
+    "duration": 3.84
+  },
+  {
+    "text": "been moving not only from jewelry but",
+    "start": 371.84,
+    "duration": 3.919
+  },
+  {
+    "text": "into investment gold so we've see",
+    "start": 373.84,
+    "duration": 3.96
+  },
+  {
+    "text": "increases in physical gold withdrawals",
+    "start": 375.759,
+    "duration": 4.16
+  },
+  {
+    "text": "from the Shanghai Gold Exchange we see",
+    "start": 377.8,
+    "duration": 4.2
+  },
+  {
+    "text": "increases in uses of the exchange traded",
+    "start": 379.919,
+    "duration": 4.481
+  },
+  {
+    "text": "fund products and overall demand",
+    "start": 382.0,
+    "duration": 4.56
+  },
+  {
+    "text": "increasing there that'll probably slow a",
+    "start": 384.4,
+    "duration": 4.12
+  },
+  {
+    "text": "bit right but ultimately you're looking",
+    "start": 386.56,
+    "duration": 4.28
+  },
+  {
+    "text": "at an economic envir on Shore in China",
+    "start": 388.52,
+    "duration": 3.6
+  },
+  {
+    "text": "that's going to continue to strengthen",
+    "start": 390.84,
+    "duration": 3.12
+  },
+  {
+    "text": "the case there throughout the rest of",
+    "start": 392.12,
+    "duration": 4.28
+  },
+  {
+    "text": "Asia and in the East what we see are bar",
+    "start": 393.96,
+    "duration": 4.679
+  },
+  {
+    "text": "and coin demand levels still continuing",
+    "start": 396.4,
+    "duration": 4.72
+  },
+  {
+    "text": "to be very strong so again this Dynamic",
+    "start": 398.639,
+    "duration": 5.361
+  },
+  {
+    "text": "of their homegrown economic situation",
+    "start": 401.12,
+    "duration": 5.24
+  },
+  {
+    "text": "causing for them to look at diversifiers",
+    "start": 404.0,
+    "duration": 4.039
+  },
+  {
+    "text": "into their own investment portfolios",
+    "start": 406.36,
+    "duration": 4.36
+  },
+  {
+    "text": "really working to bring gold into the",
+    "start": 408.039,
+    "duration": 4.28
+  },
+  {
+    "text": "into The Fray and then again on the",
+    "start": 410.72,
+    "duration": 4.64
+  },
+  {
+    "text": "western investor side a pause a pause",
+    "start": 412.319,
+    "duration": 5.44
+  },
+  {
+    "text": "around holding my allocations but not",
+    "start": 415.36,
+    "duration": 4.399
+  },
+  {
+    "text": "increasing just yet right okay let's",
+    "start": 417.759,
+    "duration": 3.0
+  },
+  {
+    "text": "talk a little bit about that because",
+    "start": 419.759,
+    "duration": 3.241
+  },
+  {
+    "text": "obviously US dollar is weakening we're",
+    "start": 420.759,
+    "duration": 4.84
+  },
+  {
+    "text": "seeing gold demand go up but is it",
+    "start": 423.0,
+    "duration": 4.759
+  },
+  {
+    "text": "really a East versus West kind of a",
+    "start": 425.599,
+    "duration": 4.0
+  },
+  {
+    "text": "story here I mean the West has paused",
+    "start": 427.759,
+    "duration": 3.44
+  },
+  {
+    "text": "because obviously we have meme STS all",
+    "start": 429.599,
+    "duration": 3.481
+  },
+  {
+    "text": "these trendy things that people can get",
+    "start": 431.199,
+    "duration": 3.68
+  },
+  {
+    "text": "involved in but when it comes to the",
+    "start": 433.08,
+    "duration": 4.6
+  },
+  {
+    "text": "actual economic figures are we seeing",
+    "start": 434.879,
+    "duration": 5.641
+  },
+  {
+    "text": "China mask anything here I mean they're",
+    "start": 437.68,
+    "duration": 4.519
+  },
+  {
+    "text": "not saying to their people go pick up",
+    "start": 440.52,
+    "duration": 3.64
+  },
+  {
+    "text": "gold but that's what's happening so",
+    "start": 442.199,
+    "duration": 3.601
+  },
+  {
+    "text": "what's the telling picture here the",
+    "start": 444.16,
+    "duration": 4.039
+  },
+  {
+    "text": "telling picture is that the driving",
+    "start": 445.8,
+    "duration": 4.16
+  },
+  {
+    "text": "factors that everybody wants to think",
+    "start": 448.199,
+    "duration": 4.641
+  },
+  {
+    "text": "are the only thing that move gold aren't",
+    "start": 449.96,
+    "duration": 5.44
+  },
+  {
+    "text": "so if you think just about the dollar or",
+    "start": 452.84,
+    "duration": 4.28
+  },
+  {
+    "text": "just about us rates or those two",
+    "start": 455.4,
+    "duration": 4.32
+  },
+  {
+    "text": "together it is a driving Factor we drive",
+    "start": 457.12,
+    "duration": 4.96
+  },
+  {
+    "text": "this point home a lot you have to",
+    "start": 459.72,
+    "duration": 4.4
+  },
+  {
+    "text": "understand the global consumption and",
+    "start": 462.08,
+    "duration": 4.04
+  },
+  {
+    "text": "the localization of some of the demand",
+    "start": 464.12,
+    "duration": 3.24
+  },
+  {
+    "text": "trends that are playing out in",
+    "start": 466.12,
+    "duration": 3.759
+  },
+  {
+    "text": "particular that need for investor",
+    "start": 467.36,
+    "duration": 4.36
+  },
+  {
+    "text": "diversification in the East and now it's",
+    "start": 469.879,
+    "duration": 3.961
+  },
+  {
+    "text": "not only just China it's India it's the",
+    "start": 471.72,
+    "duration": 4.879
+  },
+  {
+    "text": "rest of Southeast Asia it's turkey but",
+    "start": 473.84,
+    "duration": 5.68
+  },
+  {
+    "text": "basically in the west the driving Factor",
+    "start": 476.599,
+    "duration": 5.121
+  },
+  {
+    "text": "for investor sentiment towards gold has",
+    "start": 479.52,
+    "duration": 4.44
+  },
+  {
+    "text": "been twofold number one it will be D",
+    "start": 481.72,
+    "duration": 3.879
+  },
+  {
+    "text": "rate driven in the US and the strength",
+    "start": 483.96,
+    "duration": 3.56
+  },
+  {
+    "text": "or weakness of the dollar but it's also",
+    "start": 485.599,
+    "duration": 3.28
+  },
+  {
+    "text": "a bit speculative they're trying to get",
+    "start": 487.52,
+    "duration": 3.76
+  },
+  {
+    "text": "ahead of that move so we might see some",
+    "start": 488.879,
+    "duration": 4.961
+  },
+  {
+    "text": "flows change and some push on the price",
+    "start": 491.28,
+    "duration": 4.319
+  },
+  {
+    "text": "but then that quickly adjusts when we",
+    "start": 493.84,
+    "duration": 4.0
+  },
+  {
+    "text": "hear from the fed and from pal around",
+    "start": 495.599,
+    "duration": 4.16
+  },
+  {
+    "text": "that timeline to see that Catalyst for",
+    "start": 497.84,
+    "duration": 4.0
+  },
+  {
+    "text": "when investor dollars will go back right",
+    "start": 499.759,
+    "duration": 3.961
+  },
+  {
+    "text": "you mentioned exciting stocks around",
+    "start": 501.84,
+    "duration": 4.68
+  },
+  {
+    "text": "risk assets even lower risk type",
+    "start": 503.72,
+    "duration": 5.84
+  },
+  {
+    "text": "Investments higher sustained rates more",
+    "start": 506.52,
+    "duration": 5.68
+  },
+  {
+    "text": "money on Savings in your money fund",
+    "start": 509.56,
+    "duration": 4.719
+  },
+  {
+    "text": "these are usually impediments to people",
+    "start": 512.2,
+    "duration": 3.519
+  },
+  {
+    "text": "allocating more to Gold because you can",
+    "start": 514.279,
+    "duration": 2.841
+  },
+  {
+    "text": "get certainty around what your cash can",
+    "start": 515.719,
+    "duration": 3.041
+  },
+  {
+    "text": "earn for you even with a weakening",
+    "start": 517.12,
+    "duration": 3.599
+  },
+  {
+    "text": "dollar they're getting five six% on cash",
+    "start": 518.76,
+    "duration": 4.56
+  },
+  {
+    "text": "deposits so that's holding them away",
+    "start": 520.719,
+    "duration": 4.961
+  },
+  {
+    "text": "from gold on the more strategic",
+    "start": 523.32,
+    "duration": 4.12
+  },
+  {
+    "text": "allocation side but again I think what's",
+    "start": 525.68,
+    "duration": 3.24
+  },
+  {
+    "text": "interesting if you look at the ETF",
+    "start": 527.44,
+    "duration": 4.28
+  },
+  {
+    "text": "Market the actual value of the ETF",
+    "start": 528.92,
+    "duration": 4.28
+  },
+  {
+    "text": "Holdings has increased with the price",
+    "start": 531.72,
+    "duration": 4.64
+  },
+  {
+    "text": "increase the overall tonnage has been",
+    "start": 533.2,
+    "duration": 4.48
+  },
+  {
+    "text": "outflows and that's what we've been",
+    "start": 536.36,
+    "duration": 3.599
+  },
+  {
+    "text": "seeing in terms of units redeemed but",
+    "start": 537.68,
+    "duration": 3.52
+  },
+  {
+    "text": "think about what's happening to an",
+    "start": 539.959,
+    "duration": 2.921
+  },
+  {
+    "text": "Investor's portfolio with the increase",
+    "start": 541.2,
+    "duration": 3.24
+  },
+  {
+    "text": "of price you're still seeing a pretty",
+    "start": 542.88,
+    "duration": 3.88
+  },
+  {
+    "text": "level allocation as part of their",
+    "start": 544.44,
+    "duration": 3.839
+  },
+  {
+    "text": "overall portfolio holding they're so",
+    "start": 546.76,
+    "duration": 3.639
+  },
+  {
+    "text": "they're holding they're not dumping it",
+    "start": 548.279,
+    "duration": 4.12
+  },
+  {
+    "text": "in mess and by the way the last point to",
+    "start": 550.399,
+    "duration": 5.041
+  },
+  {
+    "text": "really highlight here even with the West",
+    "start": 552.399,
+    "duration": 5.601
+  },
+  {
+    "text": "somewhat paused on an holding and gold",
+    "start": 555.44,
+    "duration": 5.04
+  },
+  {
+    "text": "it's not moving the price negative it's",
+    "start": 558.0,
+    "duration": 4.36
+  },
+  {
+    "text": "actually not having an impact on the",
+    "start": 560.48,
+    "duration": 3.32
+  },
+  {
+    "text": "price we're seeing the East Drive the",
+    "start": 562.36,
+    "duration": 3.4
+  },
+  {
+    "text": "price more interesting okay well I mean",
+    "start": 563.8,
+    "duration": 3.4
+  },
+  {
+    "text": "obviously you have a lot of insight into",
+    "start": 565.76,
+    "duration": 3.16
+  },
+  {
+    "text": "this sitting in a boardroom at the world",
+    "start": 567.2,
+    "duration": 3.28
+  },
+  {
+    "text": "gold camp so you're looking to the",
+    "start": 568.92,
+    "duration": 3.08
+  },
+  {
+    "text": "Future you're trying to analyze what's",
+    "start": 570.48,
+    "duration": 3.2
+  },
+  {
+    "text": "going to take place what are some of",
+    "start": 572.0,
+    "duration": 3.24
+  },
+  {
+    "text": "these Trends I mean talk to me about",
+    "start": 573.68,
+    "duration": 3.52
+  },
+  {
+    "text": "bricks talk to me about the fact that",
+    "start": 575.24,
+    "duration": 3.64
+  },
+  {
+    "text": "these central banks are wanting to get",
+    "start": 577.2,
+    "duration": 3.879
+  },
+  {
+    "text": "away from the US Fiat dollar and they",
+    "start": 578.88,
+    "duration": 3.92
+  },
+  {
+    "text": "want to start to have some skin in the",
+    "start": 581.079,
+    "duration": 3.32
+  },
+  {
+    "text": "game somewhere else that they feel is",
+    "start": 582.8,
+    "duration": 4.2
+  },
+  {
+    "text": "more secure did that start with Russia",
+    "start": 584.399,
+    "duration": 4.321
+  },
+  {
+    "text": "where did that start and and where are",
+    "start": 587.0,
+    "duration": 4.079
+  },
+  {
+    "text": "we going that's a 14-year Trend yeah",
+    "start": 588.72,
+    "duration": 4.64
+  },
+  {
+    "text": "exactly that's a 14-year Trend but I",
+    "start": 591.079,
+    "duration": 4.041
+  },
+  {
+    "text": "think what's played out over the last",
+    "start": 593.36,
+    "duration": 5.159
+  },
+  {
+    "text": "four to five has been a real emergence",
+    "start": 595.12,
+    "duration": 5.44
+  },
+  {
+    "text": "of Central Bank in the developing",
+    "start": 598.519,
+    "duration": 4.681
+  },
+  {
+    "text": "economies and the Emerging Markets so",
+    "start": 600.56,
+    "duration": 4.959
+  },
+  {
+    "text": "what you're seeing there is a",
+    "start": 603.2,
+    "duration": 4.56
+  },
+  {
+    "text": "perspective on the significance of US",
+    "start": 605.519,
+    "duration": 5.32
+  },
+  {
+    "text": "dollar US dollar assets the Euro and no",
+    "start": 607.76,
+    "duration": 5.6
+  },
+  {
+    "text": "real Euro Assets in those portfolios and",
+    "start": 610.839,
+    "duration": 5.44
+  },
+  {
+    "text": "a need for these central banks to find",
+    "start": 613.36,
+    "duration": 6.039
+  },
+  {
+    "text": "that efficient liquid shock absorber in",
+    "start": 616.279,
+    "duration": 5.521
+  },
+  {
+    "text": "their portfolio against risks that come",
+    "start": 619.399,
+    "duration": 3.88
+  },
+  {
+    "text": "withh holding those",
+    "start": 621.8,
+    "duration": 4.2
+  },
+  {
+    "text": "assets that plus their own homegrown",
+    "start": 623.279,
+    "duration": 4.481
+  },
+  {
+    "text": "challenges around their economies China",
+    "start": 626.0,
+    "duration": 3.92
+  },
+  {
+    "text": "as an example turkey as as an example",
+    "start": 627.76,
+    "duration": 3.92
+  },
+  {
+    "text": "where you can see factors at play",
+    "start": 629.92,
+    "duration": 3.88
+  },
+  {
+    "text": "whether they're you know real investment",
+    "start": 631.68,
+    "duration": 4.839
+  },
+  {
+    "text": "driven issues around China or you know",
+    "start": 633.8,
+    "duration": 4.0
+  },
+  {
+    "text": "systemic moments like an election",
+    "start": 636.519,
+    "duration": 3.041
+  },
+  {
+    "text": "outcome in Turkey where the Central Bank",
+    "start": 637.8,
+    "duration": 4.64
+  },
+  {
+    "text": "knows it needs to have that goal to hand",
+    "start": 639.56,
+    "duration": 4.2
+  },
+  {
+    "text": "and I think that that's actually been a",
+    "start": 642.44,
+    "duration": 2.959
+  },
+  {
+    "text": "big driver of their behavior but then",
+    "start": 643.76,
+    "duration": 4.36
+  },
+  {
+    "text": "lastly if you look at the election year",
+    "start": 645.399,
+    "duration": 5.601
+  },
+  {
+    "text": "in the US and the potential for outcome",
+    "start": 648.12,
+    "duration": 6.279
+  },
+  {
+    "text": "the local Politics the local election",
+    "start": 651.0,
+    "duration": 5.32
+  },
+  {
+    "text": "the playbooks that we've seen from both",
+    "start": 654.399,
+    "duration": 3.721
+  },
+  {
+    "text": "candidates potential candidates I should",
+    "start": 656.32,
+    "duration": 4.639
+  },
+  {
+    "text": "say is they're they're looking like it's",
+    "start": 658.12,
+    "duration": 4.719
+  },
+  {
+    "text": "going to be a challenging environment",
+    "start": 660.959,
+    "duration": 3.761
+  },
+  {
+    "text": "for the US to to tackle down a lot of",
+    "start": 662.839,
+    "duration": 4.721
+  },
+  {
+    "text": "its fiscal issues so it's level of debt",
+    "start": 664.72,
+    "duration": 5.52
+  },
+  {
+    "text": "its ability to sustain the debt levels",
+    "start": 667.56,
+    "duration": 3.959
+  },
+  {
+    "text": "and I think that that's playing into the",
+    "start": 670.24,
+    "duration": 2.96
+  },
+  {
+    "text": "minds of these Central Bankers so you",
+    "start": 671.519,
+    "duration": 2.961
+  },
+  {
+    "text": "know we're at the cusp of about",
+    "start": 673.2,
+    "duration": 3.56
+  },
+  {
+    "text": "releasing our our our annual survey",
+    "start": 674.48,
+    "duration": 3.64
+  },
+  {
+    "text": "there's a lot more to come on the back",
+    "start": 676.76,
+    "duration": 3.72
+  },
+  {
+    "text": "of that but over the last several years",
+    "start": 678.12,
+    "duration": 4.159
+  },
+  {
+    "text": "what we have heard from them",
+    "start": 680.48,
+    "duration": 3.96
+  },
+  {
+    "text": "consistently has been a less of a",
+    "start": 682.279,
+    "duration": 3.721
+  },
+  {
+    "text": "Reliance on the dollar less of a",
+    "start": 684.44,
+    "duration": 4.88
+  },
+  {
+    "text": "Reliance on the Euro not because of",
+    "start": 686.0,
+    "duration": 5.639
+  },
+  {
+    "text": "geopolitical event risks like what's",
+    "start": 689.32,
+    "duration": 4.759
+  },
+  {
+    "text": "happened with Russia and Ukraine that's",
+    "start": 691.639,
+    "duration": 4.561
+  },
+  {
+    "text": "added surely to their decision but",
+    "start": 694.079,
+    "duration": 4.121
+  },
+  {
+    "text": "ultimately it's just a less of a",
+    "start": 696.2,
+    "duration": 3.48
+  },
+  {
+    "text": "Reliance and there's a good",
+    "start": 698.2,
+    "duration": 3.04
+  },
+  {
+    "text": "diversification benefit that comes from",
+    "start": 699.68,
+    "duration": 4.08
+  },
+  {
+    "text": "gold particularly around its liquidity",
+    "start": 701.24,
+    "duration": 4.599
+  },
+  {
+    "text": "they access it in the physical Market",
+    "start": 703.76,
+    "duration": 3.639
+  },
+  {
+    "text": "they're part of what's going on in that",
+    "start": 705.839,
+    "duration": 3.601
+  },
+  {
+    "text": "OTC flow that you see in our numbers",
+    "start": 707.399,
+    "duration": 4.24
+  },
+  {
+    "text": "right okay talk to me about the politics",
+    "start": 709.44,
+    "duration": 3.839
+  },
+  {
+    "text": "behind it I mean you know we start to",
+    "start": 711.639,
+    "duration": 3.561
+  },
+  {
+    "text": "look into the United States going",
+    "start": 713.279,
+    "duration": 3.641
+  },
+  {
+    "text": "through an election we start to look at",
+    "start": 715.2,
+    "duration": 4.319
+  },
+  {
+    "text": "their economy today we saw CPI numbers",
+    "start": 716.92,
+    "duration": 4.24
+  },
+  {
+    "text": "come in a little bit cooler than",
+    "start": 719.519,
+    "duration": 3.76
+  },
+  {
+    "text": "expected meaning or at least hinting",
+    "start": 721.16,
+    "duration": 3.76
+  },
+  {
+    "text": "that possible rate cuts are on the",
+    "start": 723.279,
+    "duration": 3.761
+  },
+  {
+    "text": "horizon at some point but how much of",
+    "start": 724.92,
+    "duration": 4.44
+  },
+  {
+    "text": "these economic data points are you",
+    "start": 727.04,
+    "duration": 3.96
+  },
+  {
+    "text": "looking at when you're looking at the",
+    "start": 729.36,
+    "duration": 3.039
+  },
+  {
+    "text": "gold market are you even paying",
+    "start": 731.0,
+    "duration": 3.92
+  },
+  {
+    "text": "attention to this or is it all pages out",
+    "start": 732.399,
+    "duration": 3.721
+  },
+  {
+    "text": "the window it doesn't even make sense",
+    "start": 734.92,
+    "duration": 3.719
+  },
+  {
+    "text": "anymore I think it does pay that does",
+    "start": 736.12,
+    "duration": 4.56
+  },
+  {
+    "text": "make sense to pay attention to it but I",
+    "start": 738.639,
+    "duration": 4.64
+  },
+  {
+    "text": "I I can't emphasize enough that gold is",
+    "start": 740.68,
+    "duration": 4.68
+  },
+  {
+    "text": "a global asset and the global factors",
+    "start": 743.279,
+    "duration": 3.68
+  },
+  {
+    "text": "that will drive its consumption and Its",
+    "start": 745.36,
+    "duration": 3.599
+  },
+  {
+    "text": "Behavior around the world matter more",
+    "start": 746.959,
+    "duration": 4.44
+  },
+  {
+    "text": "than just one individual component you",
+    "start": 748.959,
+    "duration": 4.88
+  },
+  {
+    "text": "have to understand that so we keep an",
+    "start": 751.399,
+    "duration": 5.161
+  },
+  {
+    "text": "eye on the rates in the US and we keep",
+    "start": 753.839,
+    "duration": 4.721
+  },
+  {
+    "text": "an eye on the fed and the numbers but",
+    "start": 756.56,
+    "duration": 3.519
+  },
+  {
+    "text": "like everybody our crystal ball is not",
+    "start": 758.56,
+    "duration": 3.399
+  },
+  {
+    "text": "giving us an answer yeah and we're not",
+    "start": 760.079,
+    "duration": 4.161
+  },
+  {
+    "text": "going to wait for it we understand and",
+    "start": 761.959,
+    "duration": 4.44
+  },
+  {
+    "text": "watch the other aspects and give people",
+    "start": 764.24,
+    "duration": 4.039
+  },
+  {
+    "text": "that data to make a better and educated",
+    "start": 766.399,
+    "duration": 3.721
+  },
+  {
+    "text": "decision on it if you were waiting for a",
+    "start": 768.279,
+    "duration": 3.521
+  },
+  {
+    "text": "rate cut to see the price of gold move",
+    "start": 770.12,
+    "duration": 3.2
+  },
+  {
+    "text": "then you would have missed a transaction",
+    "start": 771.8,
+    "duration": 2.8
+  },
+  {
+    "text": "you would have missed the trade right",
+    "start": 773.32,
+    "duration": 3.16
+  },
+  {
+    "text": "and I think at this stage it's an",
+    "start": 774.6,
+    "duration": 4.239
+  },
+  {
+    "text": "important element but it isn't going to",
+    "start": 776.48,
+    "duration": 3.88
+  },
+  {
+    "text": "be the only element that's going to",
+    "start": 778.839,
+    "duration": 3.36
+  },
+  {
+    "text": "continue to move the price of gold and I",
+    "start": 780.36,
+    "duration": 4.32
+  },
+  {
+    "text": "think more importantly you know we we",
+    "start": 782.199,
+    "duration": 5.041
+  },
+  {
+    "text": "talked earlier about the fact that it's",
+    "start": 784.68,
+    "duration": 4.36
+  },
+  {
+    "text": "not going to be the only element that",
+    "start": 787.24,
+    "duration": 4.36
+  },
+  {
+    "text": "will keep the price of gold where it is",
+    "start": 789.04,
+    "duration": 4.76
+  },
+  {
+    "text": "I think that these sustained sources of",
+    "start": 791.6,
+    "duration": 4.479
+  },
+  {
+    "text": "demand from other parts of the globe are",
+    "start": 793.8,
+    "duration": 4.479
+  },
+  {
+    "text": "keeping us at higher levels on average",
+    "start": 796.079,
+    "duration": 5.161
+  },
+  {
+    "text": "first quarter 2070 was the average price",
+    "start": 798.279,
+    "duration": 4.041
+  },
+  {
+    "text": "we saw over first quarter that was a",
+    "start": 801.24,
+    "duration": 2.8
+  },
+  {
+    "text": "record high for gold on average over a",
+    "start": 802.32,
+    "duration": 4.199
+  },
+  {
+    "text": "quarter now we're trending towards 23",
+    "start": 804.04,
+    "duration": 5.28
+  },
+  {
+    "text": "2400 but that level's been higher and",
+    "start": 806.519,
+    "duration": 5.44
+  },
+  {
+    "text": "we're higher to stay for a while because",
+    "start": 809.32,
+    "duration": 4.24
+  },
+  {
+    "text": "the case for central banks the case for",
+    "start": 811.959,
+    "duration": 3.641
+  },
+  {
+    "text": "Eastern investors still very strong",
+    "start": 813.56,
+    "duration": 3.399
+  },
+  {
+    "text": "might slow again we'll have some",
+    "start": 815.6,
+    "duration": 4.4
+  },
+  {
+    "text": "seasonality to it all um jewelry another",
+    "start": 816.959,
+    "duration": 5.081
+  },
+  {
+    "text": "area where we're going to see big demand",
+    "start": 820.0,
+    "duration": 4.12
+  },
+  {
+    "text": "but it'll also slow with higher prices",
+    "start": 822.04,
+    "duration": 4.159
+  },
+  {
+    "text": "until people settle in on those but",
+    "start": 824.12,
+    "duration": 3.519
+  },
+  {
+    "text": "again I think that if you think about",
+    "start": 826.199,
+    "duration": 2.801
+  },
+  {
+    "text": "that back to your original question on",
+    "start": 827.639,
+    "duration": 4.0
+  },
+  {
+    "text": "politics in the US you know it may have",
+    "start": 829.0,
+    "duration": 4.199
+  },
+  {
+    "text": "an impact but I think it's going to have",
+    "start": 831.639,
+    "duration": 3.361
+  },
+  {
+    "text": "more of an impact outside of the US",
+    "start": 833.199,
+    "duration": 2.841
+  },
+  {
+    "text": "because you're going to look at whether",
+    "start": 835.0,
+    "duration": 2.16
+  },
+  {
+    "text": "or not the us is going to be able to",
+    "start": 836.04,
+    "duration": 3.4
+  },
+  {
+    "text": "handle its fiscal challenges right um",
+    "start": 837.16,
+    "duration": 4.039
+  },
+  {
+    "text": "shortterm we've done a lot of analysis",
+    "start": 839.44,
+    "duration": 3.36
+  },
+  {
+    "text": "around the impact of an election outcome",
+    "start": 841.199,
+    "duration": 4.281
+  },
+  {
+    "text": "on gold shortterm it might have impact",
+    "start": 842.8,
+    "duration": 5.399
+  },
+  {
+    "text": "for bar coin demand but it doesn't have",
+    "start": 845.48,
+    "duration": 4.88
+  },
+  {
+    "text": "much of an impact on price it's overtime",
+    "start": 848.199,
+    "duration": 4.241
+  },
+  {
+    "text": "when election outcome leads to policy",
+    "start": 850.36,
+    "duration": 5.159
+  },
+  {
+    "text": "shift that it'll over time impact policy",
+    "start": 852.44,
+    "duration": 4.839
+  },
+  {
+    "text": "and then foreign policy and that's where",
+    "start": 855.519,
+    "duration": 3.401
+  },
+  {
+    "text": "you'll start to see the demand kick in",
+    "start": 857.279,
+    "duration": 3.401
+  },
+  {
+    "text": "on the back of an election outcome okay",
+    "start": 858.92,
+    "duration": 3.56
+  },
+  {
+    "text": "so how Divergent has the US dollar been",
+    "start": 860.68,
+    "duration": 3.36
+  },
+  {
+    "text": "to gold prices I mean has this been",
+    "start": 862.48,
+    "duration": 3.919
+  },
+  {
+    "text": "surprising we're seeing obviously it's",
+    "start": 864.04,
+    "duration": 4.44
+  },
+  {
+    "text": "not really it's not about the US dollar",
+    "start": 866.399,
+    "duration": 4.56
+  },
+  {
+    "text": "anymore but typically in in its",
+    "start": 868.48,
+    "duration": 4.08
+  },
+  {
+    "text": "traditional fashion I think it's about",
+    "start": 870.959,
+    "duration": 3.601
+  },
+  {
+    "text": "the US dollar as a component on a more",
+    "start": 872.56,
+    "duration": 3.76
+  },
+  {
+    "text": "global scale right but I think again it",
+    "start": 874.56,
+    "duration": 3.92
+  },
+  {
+    "text": "comes back to how does the Dollar fit",
+    "start": 876.32,
+    "duration": 4.4
+  },
+  {
+    "text": "into diverse portfolios on a global",
+    "start": 878.48,
+    "duration": 5.159
+  },
+  {
+    "text": "scale and I think that you know whether",
+    "start": 880.72,
+    "duration": 4.799
+  },
+  {
+    "text": "the dollar strengthens or weakens again",
+    "start": 883.639,
+    "duration": 3.241
+  },
+  {
+    "text": "an element of what's going to move the",
+    "start": 885.519,
+    "duration": 2.801
+  },
+  {
+    "text": "price but at the end of the day you need",
+    "start": 886.88,
+    "duration": 4.519
+  },
+  {
+    "text": "to understand that retail investors",
+    "start": 888.32,
+    "duration": 5.519
+  },
+  {
+    "text": "institutional adoption of gold outside",
+    "start": 891.399,
+    "duration": 5.041
+  },
+  {
+    "text": "of the US it's still very strong and and",
+    "start": 893.839,
+    "duration": 4.641
+  },
+  {
+    "text": "actually coming back to the Western",
+    "start": 896.44,
+    "duration": 3.16
+  },
+  {
+    "text": "investor",
+    "start": 898.48,
+    "duration": 3.96
+  },
+  {
+    "text": "again there hasn't been the wholesale",
+    "start": 899.6,
+    "duration": 4.84
+  },
+  {
+    "text": "unwind of gold Investments that we may",
+    "start": 902.44,
+    "duration": 4.079
+  },
+  {
+    "text": "have seen in the past with a stre weaker",
+    "start": 904.44,
+    "duration": 4.28
+  },
+  {
+    "text": "or stronger dollar what you're seeing is",
+    "start": 906.519,
+    "duration": 5.401
+  },
+  {
+    "text": "people holding because again you have",
+    "start": 908.72,
+    "duration": 6.0
+  },
+  {
+    "text": "the Strategic drivers of gold and then",
+    "start": 911.92,
+    "duration": 4.359
+  },
+  {
+    "text": "you have tactical drivers of gold so",
+    "start": 914.72,
+    "duration": 4.2
+  },
+  {
+    "text": "when you have these moments of risk and",
+    "start": 916.279,
+    "duration": 3.961
+  },
+  {
+    "text": "you know every day I wake up and I see",
+    "start": 918.92,
+    "duration": 2.76
+  },
+  {
+    "text": "some piece of news that makes me think",
+    "start": 920.24,
+    "duration": 2.519
+  },
+  {
+    "text": "that there's something else on the",
+    "start": 921.68,
+    "duration": 3.0
+  },
+  {
+    "text": "horizon right you we had a banking",
+    "start": 922.759,
+    "duration": 3.721
+  },
+  {
+    "text": "crisis we had a conflict flare up in the",
+    "start": 924.68,
+    "duration": 3.48
+  },
+  {
+    "text": "Middle East which is still not resolved",
+    "start": 926.48,
+    "duration": 4.24
+  },
+  {
+    "text": "we had the Ukraine crisis those moments",
+    "start": 928.16,
+    "duration": 4.679
+  },
+  {
+    "text": "of shocks to portfolio you want the kind",
+    "start": 930.72,
+    "duration": 5.28
+  },
+  {
+    "text": "of diversification you get with the gold",
+    "start": 932.839,
+    "duration": 5.201
+  },
+  {
+    "text": "in your in your allocation I think that",
+    "start": 936.0,
+    "duration": 3.88
+  },
+  {
+    "text": "that's going to keep gold as a component",
+    "start": 938.04,
+    "duration": 4.159
+  },
+  {
+    "text": "of portfolios again on hold for an",
+    "start": 939.88,
+    "duration": 3.879
+  },
+  {
+    "text": "increase but right now I think it's",
+    "start": 942.199,
+    "duration": 3.721
+  },
+  {
+    "text": "staying firm in the portfolio Okay I",
+    "start": 943.759,
+    "duration": 4.241
+  },
+  {
+    "text": "also think correlations of bonds and",
+    "start": 945.92,
+    "duration": 3.719
+  },
+  {
+    "text": "equities when we have higher more",
+    "start": 948.0,
+    "duration": 3.56
+  },
+  {
+    "text": "sustained inflation they tend to",
+    "start": 949.639,
+    "duration": 4.521
+  },
+  {
+    "text": "correlate more together and actually",
+    "start": 951.56,
+    "duration": 4.399
+  },
+  {
+    "text": "that removes them as being the good",
+    "start": 954.16,
+    "duration": 3.679
+  },
+  {
+    "text": "diversifier in your portfolio so that's",
+    "start": 955.959,
+    "duration": 3.481
+  },
+  {
+    "text": "where I think we're getting a lot of",
+    "start": 957.839,
+    "duration": 3.081
+  },
+  {
+    "text": "dialogue going with our investors and",
+    "start": 959.44,
+    "duration": 2.759
+  },
+  {
+    "text": "people are talking to us about it in",
+    "start": 960.92,
+    "duration": 3.56
+  },
+  {
+    "text": "that context so on the US dollar front",
+    "start": 962.199,
+    "duration": 3.921
+  },
+  {
+    "text": "though have you seen because we have",
+    "start": 964.48,
+    "duration": 4.279
+  },
+  {
+    "text": "been seeing a decrease in that US dollar",
+    "start": 966.12,
+    "duration": 4.6
+  },
+  {
+    "text": "have you been seeing other jurisdictions",
+    "start": 968.759,
+    "duration": 3.721
+  },
+  {
+    "text": "where the conversion rates are just",
+    "start": 970.72,
+    "duration": 3.44
+  },
+  {
+    "text": "crazy and gold prices are different",
+    "start": 972.48,
+    "duration": 3.76
+  },
+  {
+    "text": "watching investors and consumers Pile in",
+    "start": 974.16,
+    "duration": 4.2
+  },
+  {
+    "text": "and take advantage of this low dollar",
+    "start": 976.24,
+    "duration": 4.44
+  },
+  {
+    "text": "well I think it it's probably played out",
+    "start": 978.36,
+    "duration": 4.0
+  },
+  {
+    "text": "I've said it a couple of times around",
+    "start": 980.68,
+    "duration": 3.88
+  },
+  {
+    "text": "the East I think there might be more",
+    "start": 982.36,
+    "duration": 3.88
+  },
+  {
+    "text": "going to China than maybe we would have",
+    "start": 984.56,
+    "duration": 3.519
+  },
+  {
+    "text": "expected I think that's probably what",
+    "start": 986.24,
+    "duration": 4.56
+  },
+  {
+    "text": "the case may be and is it a really a a",
+    "start": 988.079,
+    "duration": 4.44
+  },
+  {
+    "text": "dollar transaction or is it more of a",
+    "start": 990.8,
+    "duration": 3.159
+  },
+  {
+    "text": "rem andb transaction I think it's",
+    "start": 992.519,
+    "duration": 3.361
+  },
+  {
+    "text": "probably more of a what can I do with my",
+    "start": 993.959,
+    "duration": 3.761
+  },
+  {
+    "text": "REM andb without an ability to freely",
+    "start": 995.88,
+    "duration": 3.959
+  },
+  {
+    "text": "convert it and get it out of assets on",
+    "start": 997.72,
+    "duration": 3.599
+  },
+  {
+    "text": "Shore and I think that that's been more",
+    "start": 999.839,
+    "duration": 4.12
+  },
+  {
+    "text": "of a factor than than than what the US",
+    "start": 1001.319,
+    "duration": 3.841
+  },
+  {
+    "text": "dollar is doing to some of these other",
+    "start": 1003.959,
+    "duration": 3.0
+  },
+  {
+    "text": "foreign currencies I mean we mentioned a",
+    "start": 1005.16,
+    "duration": 3.119
+  },
+  {
+    "text": "little bit about the election year going",
+    "start": 1006.959,
+    "duration": 3.281
+  },
+  {
+    "text": "into it I mean a lot of G7 Nations going",
+    "start": 1008.279,
+    "duration": 4.081
+  },
+  {
+    "text": "into an election year this year too uh",
+    "start": 1010.24,
+    "duration": 4.079
+  },
+  {
+    "text": "talk to me a little bit about bricks",
+    "start": 1012.36,
+    "duration": 3.959
+  },
+  {
+    "text": "talk to me about you know these",
+    "start": 1014.319,
+    "duration": 4.601
+  },
+  {
+    "text": "countries coming together and trying to",
+    "start": 1016.319,
+    "duration": 5.361
+  },
+  {
+    "text": "put us behind is this isn't a new trend",
+    "start": 1018.92,
+    "duration": 4.599
+  },
+  {
+    "text": "this has happened but how important is",
+    "start": 1021.68,
+    "duration": 3.56
+  },
+  {
+    "text": "it to be paying attention to things like",
+    "start": 1023.519,
+    "duration": 5.121
+  },
+  {
+    "text": "this specifically on the policy side I",
+    "start": 1025.24,
+    "duration": 6.28
+  },
+  {
+    "text": "think it's an interesting concept that's",
+    "start": 1028.64,
+    "duration": 5.08
+  },
+  {
+    "text": "been talked about I think that uh the",
+    "start": 1031.52,
+    "duration": 4.12
+  },
+  {
+    "text": "bricks Community met I think it was late",
+    "start": 1033.72,
+    "duration": 4.119
+  },
+  {
+    "text": "last year they talked about the fact",
+    "start": 1035.64,
+    "duration": 4.08
+  },
+  {
+    "text": "that they were looking at a number of",
+    "start": 1037.839,
+    "duration": 3.521
+  },
+  {
+    "text": "really creative and interesting ideas",
+    "start": 1039.72,
+    "duration": 3.079
+  },
+  {
+    "text": "and I just think practically speaking",
+    "start": 1041.36,
+    "duration": 2.64
+  },
+  {
+    "text": "it's not something that's going to come",
+    "start": 1042.799,
+    "duration": 3.561
+  },
+  {
+    "text": "to light anytime soon and I think it's",
+    "start": 1044.0,
+    "duration": 4.28
+  },
+  {
+    "text": "more than just bricks I think it's",
+    "start": 1046.36,
+    "duration": 5.8
+  },
+  {
+    "text": "really at how the global economies come",
+    "start": 1048.28,
+    "duration": 5.36
+  },
+  {
+    "text": "together and work together and the",
+    "start": 1052.16,
+    "duration": 3.519
+  },
+  {
+    "text": "significance of the dollar and dollar",
+    "start": 1053.64,
+    "duration": 4.399
+  },
+  {
+    "text": "payment systems so when we hear this",
+    "start": 1055.679,
+    "duration": 4.0
+  },
+  {
+    "text": "noise around bricks displacing the",
+    "start": 1058.039,
+    "duration": 3.801
+  },
+  {
+    "text": "dollar or alienating the dollar away",
+    "start": 1059.679,
+    "duration": 4.761
+  },
+  {
+    "text": "from what they need to rely on I don't",
+    "start": 1061.84,
+    "duration": 4.52
+  },
+  {
+    "text": "think it's any more of a an appropriate",
+    "start": 1064.44,
+    "duration": 5.119
+  },
+  {
+    "text": "label than any other just perspective on",
+    "start": 1066.36,
+    "duration": 5.04
+  },
+  {
+    "text": "saying how does globalization play out I",
+    "start": 1069.559,
+    "duration": 3.081
+  },
+  {
+    "text": "I really don't think it needs to be kind",
+    "start": 1071.4,
+    "duration": 3.56
+  },
+  {
+    "text": "of categorized and say there's like this",
+    "start": 1072.64,
+    "duration": 4.08
+  },
+  {
+    "text": "you know this weaponized kind of attack",
+    "start": 1074.96,
+    "duration": 3.959
+  },
+  {
+    "text": "on the dollar I think it's it's it's",
+    "start": 1076.72,
+    "duration": 3.88
+  },
+  {
+    "text": "misleading in many ways I think it makes",
+    "start": 1078.919,
+    "duration": 3.401
+  },
+  {
+    "text": "for good headline yeah but honestly",
+    "start": 1080.6,
+    "duration": 3.64
+  },
+  {
+    "text": "speaking I think the important thing to",
+    "start": 1082.32,
+    "duration": 3.719
+  },
+  {
+    "text": "understand is look at a homegrown",
+    "start": 1084.24,
+    "duration": 3.88
+  },
+  {
+    "text": "economy look at how Central bank's",
+    "start": 1086.039,
+    "duration": 3.481
+  },
+  {
+    "text": "dealing with what they're facing and",
+    "start": 1088.12,
+    "duration": 3.4
+  },
+  {
+    "text": "challenged on that whether it's part of",
+    "start": 1089.52,
+    "duration": 4.639
+  },
+  {
+    "text": "bricks or not I think you can look at a",
+    "start": 1091.52,
+    "duration": 4.48
+  },
+  {
+    "text": "market like turkey or Poland I think",
+    "start": 1094.159,
+    "duration": 3.081
+  },
+  {
+    "text": "you're looking at those countries and",
+    "start": 1096.0,
+    "duration": 3.12
+  },
+  {
+    "text": "you're simply seeing cold consumption by",
+    "start": 1097.24,
+    "duration": 4.36
+  },
+  {
+    "text": "those central banks large consumption",
+    "start": 1099.12,
+    "duration": 3.96
+  },
+  {
+    "text": "you know I don't think it's being driven",
+    "start": 1101.6,
+    "duration": 3.72
+  },
+  {
+    "text": "by uh you know uh wanting to be a part",
+    "start": 1103.08,
+    "duration": 4.44
+  },
+  {
+    "text": "of bricks and wanting to peel away or",
+    "start": 1105.32,
+    "duration": 4.599
+  },
+  {
+    "text": "like I said weaponize the dollar it away",
+    "start": 1107.52,
+    "duration": 4.96
+  },
+  {
+    "text": "um so I I'd say interesting but I",
+    "start": 1109.919,
+    "duration": 4.361
+  },
+  {
+    "text": "wouldn't necessarily put a package on it",
+    "start": 1112.48,
+    "duration": 3.24
+  },
+  {
+    "text": "and say it's something that's going to",
+    "start": 1114.28,
+    "duration": 3.2
+  },
+  {
+    "text": "displace the dollar for now right let's",
+    "start": 1115.72,
+    "duration": 3.28
+  },
+  {
+    "text": "talk a little bit about the mining side",
+    "start": 1117.48,
+    "duration": 2.76
+  },
+  {
+    "text": "uh because that's a conference you just",
+    "start": 1119.0,
+    "duration": 3.36
+  },
+  {
+    "text": "came from I'm curious you know you sit",
+    "start": 1120.24,
+    "duration": 4.0
+  },
+  {
+    "text": "we sit and talk to CEOs all the time and",
+    "start": 1122.36,
+    "duration": 4.12
+  },
+  {
+    "text": "as we discuss the Divergence of these",
+    "start": 1124.24,
+    "duration": 4.84
+  },
+  {
+    "text": "metal prices to the equity prices they",
+    "start": 1126.48,
+    "duration": 4.679
+  },
+  {
+    "text": "really haven't caught up but I'm more",
+    "start": 1129.08,
+    "duration": 4.04
+  },
+  {
+    "text": "curious about whether we're going to",
+    "start": 1131.159,
+    "duration": 4.88
+  },
+  {
+    "text": "have a supply issue here I mean we",
+    "start": 1133.12,
+    "duration": 5.16
+  },
+  {
+    "text": "haven't had a lot of capital coming into",
+    "start": 1136.039,
+    "duration": 4.76
+  },
+  {
+    "text": "the mining side for a very long time to",
+    "start": 1138.28,
+    "duration": 4.32
+  },
+  {
+    "text": "a point where people are worried is the",
+    "start": 1140.799,
+    "duration": 3.801
+  },
+  {
+    "text": "world gold Council concerned I don't",
+    "start": 1142.6,
+    "duration": 3.76
+  },
+  {
+    "text": "think we're worried but what I would say",
+    "start": 1144.6,
+    "duration": 4.4
+  },
+  {
+    "text": "is that actually um the mining sector is",
+    "start": 1146.36,
+    "duration": 4.6
+  },
+  {
+    "text": "taking great advantage of the prices",
+    "start": 1149.0,
+    "duration": 3.44
+  },
+  {
+    "text": "that we're at right now and I think that",
+    "start": 1150.96,
+    "duration": 3.28
+  },
+  {
+    "text": "they're actually seeing that in terms of",
+    "start": 1152.44,
+    "duration": 3.599
+  },
+  {
+    "text": "the level of production uh I think we",
+    "start": 1154.24,
+    "duration": 3.24
+  },
+  {
+    "text": "had a record first quarter in terms of",
+    "start": 1156.039,
+    "duration": 3.561
+  },
+  {
+    "text": "the overall production that came through",
+    "start": 1157.48,
+    "duration": 5.319
+  },
+  {
+    "text": "for 2024 so what I would say is that",
+    "start": 1159.6,
+    "duration": 5.16
+  },
+  {
+    "text": "when you look out long term there's",
+    "start": 1162.799,
+    "duration": 4.12
+  },
+  {
+    "text": "definitely a need for us to continue to",
+    "start": 1164.76,
+    "duration": 3.56
+  },
+  {
+    "text": "find new ways to bring more Supply",
+    "start": 1166.919,
+    "duration": 2.361
+  },
+  {
+    "text": "online",
+    "start": 1168.32,
+    "duration": 3.52
+  },
+  {
+    "text": "uh I think that 24 and 25 look to be",
+    "start": 1169.28,
+    "duration": 4.399
+  },
+  {
+    "text": "very strong years for production it's",
+    "start": 1171.84,
+    "duration": 3.76
+  },
+  {
+    "text": "beyond 25 that we should be paying",
+    "start": 1173.679,
+    "duration": 4.0
+  },
+  {
+    "text": "attention to how the capital that's in",
+    "start": 1175.6,
+    "duration": 3.68
+  },
+  {
+    "text": "the system could meet through the new",
+    "start": 1177.679,
+    "duration": 3.441
+  },
+  {
+    "text": "projects could actually bring more",
+    "start": 1179.28,
+    "duration": 4.16
+  },
+  {
+    "text": "Supply online and I think it's important",
+    "start": 1181.12,
+    "duration": 3.72
+  },
+  {
+    "text": "for us to kind of highlight the fact",
+    "start": 1183.44,
+    "duration": 3.68
+  },
+  {
+    "text": "that that was a big discussion here at",
+    "start": 1184.84,
+    "duration": 5.079
+  },
+  {
+    "text": "cim this week which was talking about",
+    "start": 1187.12,
+    "duration": 4.12
+  },
+  {
+    "text": "whether or not the right capital is",
+    "start": 1189.919,
+    "duration": 3.201
+  },
+  {
+    "text": "coming to the industry well whether or",
+    "start": 1191.24,
+    "duration": 4.439
+  },
+  {
+    "text": "not it's bringing it to um the industry",
+    "start": 1193.12,
+    "duration": 4.52
+  },
+  {
+    "text": "at the right in the right ways and and I",
+    "start": 1195.679,
+    "duration": 3.841
+  },
+  {
+    "text": "think there's a lot of work to do there",
+    "start": 1197.64,
+    "duration": 3.36
+  },
+  {
+    "text": "but right now I think we look at the",
+    "start": 1199.52,
+    "duration": 3.2
+  },
+  {
+    "text": "mining sector I think there's a lot of",
+    "start": 1201.0,
+    "duration": 3.88
+  },
+  {
+    "text": "good work that it's doing around uh",
+    "start": 1202.72,
+    "duration": 4.12
+  },
+  {
+    "text": "improving efficiency the consolidation",
+    "start": 1204.88,
+    "duration": 5.0
+  },
+  {
+    "text": "has been an obvious area of um a lot of",
+    "start": 1206.84,
+    "duration": 6.76
+  },
+  {
+    "text": "attention but ultimately 24 and 25 we",
+    "start": 1209.88,
+    "duration": 5.48
+  },
+  {
+    "text": "could see record years in terms of the",
+    "start": 1213.6,
+    "duration": 3.559
+  },
+  {
+    "text": "production Beyond 25 there that's where",
+    "start": 1215.36,
+    "duration": 4.48
+  },
+  {
+    "text": "it starts to be um you know something we",
+    "start": 1217.159,
+    "duration": 4.281
+  },
+  {
+    "text": "should keep an eye on right when you",
+    "start": 1219.84,
+    "duration": 2.839
+  },
+  {
+    "text": "let's go back there for a second when",
+    "start": 1221.44,
+    "duration": 2.239
+  },
+  {
+    "text": "you talk about the investment",
+    "start": 1222.679,
+    "duration": 2.841
+  },
+  {
+    "text": "opportunities are you referring to you",
+    "start": 1223.679,
+    "duration": 3.36
+  },
+  {
+    "text": "know funds coming in a little bit more",
+    "start": 1225.52,
+    "duration": 3.32
+  },
+  {
+    "text": "of the mature money some institutional",
+    "start": 1227.039,
+    "duration": 4.481
+  },
+  {
+    "text": "money that kind of thing I mean you know",
+    "start": 1228.84,
+    "duration": 4.92
+  },
+  {
+    "text": "we've had segments on our show about the",
+    "start": 1231.52,
+    "duration": 3.92
+  },
+  {
+    "text": "Canadian pension plans not even getting",
+    "start": 1233.76,
+    "duration": 4.36
+  },
+  {
+    "text": "involved in our own sector so how do we",
+    "start": 1235.44,
+    "duration": 4.08
+  },
+  {
+    "text": "influence this how do we make it a",
+    "start": 1238.12,
+    "duration": 3.4
+  },
+  {
+    "text": "little bit more approachable this",
+    "start": 1239.52,
+    "duration": 5.44
+  },
+  {
+    "text": "industry uh has a lot of very exciting",
+    "start": 1241.52,
+    "duration": 5.92
+  },
+  {
+    "text": "uh Dynamic things that are happening you",
+    "start": 1244.96,
+    "duration": 4.599
+  },
+  {
+    "text": "know I can highlight one around sourcing",
+    "start": 1247.44,
+    "duration": 4.44
+  },
+  {
+    "text": "tracking and tracing gold from its site",
+    "start": 1249.559,
+    "duration": 3.961
+  },
+  {
+    "text": "that's amazing work and that's actually",
+    "start": 1251.88,
+    "duration": 4.2
+  },
+  {
+    "text": "a really exciting opportunity what the",
+    "start": 1253.52,
+    "duration": 4.36
+  },
+  {
+    "text": "industry needs to keep doing is",
+    "start": 1256.08,
+    "duration": 3.52
+  },
+  {
+    "text": "promoting that information getting that",
+    "start": 1257.88,
+    "duration": 3.36
+  },
+  {
+    "text": "message out to say this is not your",
+    "start": 1259.6,
+    "duration": 3.84
+  },
+  {
+    "text": "sleepy old mining industry this is an",
+    "start": 1261.24,
+    "duration": 4.679
+  },
+  {
+    "text": "industry that's embraced ESG that's",
+    "start": 1263.44,
+    "duration": 4.2
+  },
+  {
+    "text": "actually working on consolidating those",
+    "start": 1265.919,
+    "duration": 2.801
+  },
+  {
+    "text": "standards amongst a number of",
+    "start": 1267.64,
+    "duration": 3.399
+  },
+  {
+    "text": "organizations including our own to bring",
+    "start": 1268.72,
+    "duration": 4.52
+  },
+  {
+    "text": "the most wholesome ESG framework",
+    "start": 1271.039,
+    "duration": 3.64
+  },
+  {
+    "text": "together for an industry that can cost",
+    "start": 1273.24,
+    "duration": 3.76
+  },
+  {
+    "text": "efficiently run to these standards",
+    "start": 1274.679,
+    "duration": 4.12
+  },
+  {
+    "text": "they're using technology there's",
+    "start": 1277.0,
+    "duration": 3.72
+  },
+  {
+    "text": "technological advances in terms of M",
+    "start": 1278.799,
+    "duration": 5.321
+  },
+  {
+    "text": "exploration and and M in mind um the",
+    "start": 1280.72,
+    "duration": 4.8
+  },
+  {
+    "text": "development and I just feel like it",
+    "start": 1284.12,
+    "duration": 3.679
+  },
+  {
+    "text": "needs to do a lot more of talking about",
+    "start": 1285.52,
+    "duration": 4.48
+  },
+  {
+    "text": "how it fits in into the value chain of",
+    "start": 1287.799,
+    "duration": 3.801
+  },
+  {
+    "text": "something that ultimately gets onto a",
+    "start": 1290.0,
+    "duration": 3.679
+  },
+  {
+    "text": "critical minerals list at the end or",
+    "start": 1291.6,
+    "duration": 4.28
+  },
+  {
+    "text": "becomes vital to the way we all live and",
+    "start": 1293.679,
+    "duration": 3.801
+  },
+  {
+    "text": "I think that being part of the value",
+    "start": 1295.88,
+    "duration": 3.44
+  },
+  {
+    "text": "chain as opposed to just the mining",
+    "start": 1297.48,
+    "duration": 3.84
+  },
+  {
+    "text": "sector is a really powerful message for",
+    "start": 1299.32,
+    "duration": 3.64
+  },
+  {
+    "text": "the mining industry to adopt which is to",
+    "start": 1301.32,
+    "duration": 3.599
+  },
+  {
+    "text": "Simply say we're part of your lives and",
+    "start": 1302.96,
+    "duration": 3.48
+  },
+  {
+    "text": "I think that that was a big topic of",
+    "start": 1304.919,
+    "duration": 3.201
+  },
+  {
+    "text": "discussion this week which is how do we",
+    "start": 1306.44,
+    "duration": 3.64
+  },
+  {
+    "text": "fit in yeah how do we become part of the",
+    "start": 1308.12,
+    "duration": 3.88
+  },
+  {
+    "text": "bigger discussion and on the money side",
+    "start": 1310.08,
+    "duration": 3.68
+  },
+  {
+    "text": "I think it's interesting because you",
+    "start": 1312.0,
+    "duration": 3.76
+  },
+  {
+    "text": "know there's there's a a wealth of money",
+    "start": 1313.76,
+    "duration": 3.56
+  },
+  {
+    "text": "that's floating around in a high rate",
+    "start": 1315.76,
+    "duration": 2.519
+  },
+  {
+    "text": "environment you know it might be a",
+    "start": 1317.32,
+    "duration": 2.8
+  },
+  {
+    "text": "little challenging to get access to it",
+    "start": 1318.279,
+    "duration": 4.321
+  },
+  {
+    "text": "but I think this is an industry that's",
+    "start": 1320.12,
+    "duration": 4.48
+  },
+  {
+    "text": "actually really an interesting one to",
+    "start": 1322.6,
+    "duration": 4.84
+  },
+  {
+    "text": "watch about how technology meets mining",
+    "start": 1324.6,
+    "duration": 5.8
+  },
+  {
+    "text": "meets you know vital components of a of",
+    "start": 1327.44,
+    "duration": 4.2
+  },
+  {
+    "text": "a supply chain that's actually going to",
+    "start": 1330.4,
+    "duration": 2.8
+  },
+  {
+    "text": "be pretty important for all the things",
+    "start": 1331.64,
+    "duration": 3.159
+  },
+  {
+    "text": "that are on our desktop yeah well let's",
+    "start": 1333.2,
+    "duration": 3.64
+  },
+  {
+    "text": "talk about the grownup uh industry of",
+    "start": 1334.799,
+    "duration": 3.921
+  },
+  {
+    "text": "gold I mean it doesn't seem as though",
+    "start": 1336.84,
+    "duration": 3.56
+  },
+  {
+    "text": "it's just a hedge anymore we've seen a",
+    "start": 1338.72,
+    "duration": 4.12
+  },
+  {
+    "text": "lot of inflows from even investors into",
+    "start": 1340.4,
+    "duration": 4.159
+  },
+  {
+    "text": "Bitcoin understanding really what that",
+    "start": 1342.84,
+    "duration": 3.68
+  },
+  {
+    "text": "means for them I can see younger",
+    "start": 1344.559,
+    "duration": 3.961
+  },
+  {
+    "text": "generations starting to hold gold",
+    "start": 1346.52,
+    "duration": 3.44
+  },
+  {
+    "text": "they're starting to buy you know gold",
+    "start": 1348.52,
+    "duration": 4.159
+  },
+  {
+    "text": "ETFs so has that helped and give us your",
+    "start": 1349.96,
+    "duration": 4.319
+  },
+  {
+    "text": "forecast this year where where are we",
+    "start": 1352.679,
+    "duration": 4.48
+  },
+  {
+    "text": "going is this sustainable yeah so",
+    "start": 1354.279,
+    "duration": 4.52
+  },
+  {
+    "text": "there's a couple of things to unpack",
+    "start": 1357.159,
+    "duration": 3.481
+  },
+  {
+    "text": "there let me start by unpacking a little",
+    "start": 1358.799,
+    "duration": 4.161
+  },
+  {
+    "text": "bit around uh cryptocurrency in the",
+    "start": 1360.64,
+    "duration": 4.399
+  },
+  {
+    "text": "Bitcoin space you know there's been a",
+    "start": 1362.96,
+    "duration": 4.0
+  },
+  {
+    "text": "very high-profile launch of exchange",
+    "start": 1365.039,
+    "duration": 4.0
+  },
+  {
+    "text": "traded funds in the US we attract they",
+    "start": 1366.96,
+    "duration": 4.24
+  },
+  {
+    "text": "they attracted and we saw what we were",
+    "start": 1369.039,
+    "duration": 4.64
+  },
+  {
+    "text": "expecting which is a large inflow and",
+    "start": 1371.2,
+    "duration": 4.24
+  },
+  {
+    "text": "kind of a bit of a stall in terms of the",
+    "start": 1373.679,
+    "duration": 4.24
+  },
+  {
+    "text": "overall AUM at this point that's really",
+    "start": 1375.44,
+    "duration": 5.2
+  },
+  {
+    "text": "giving a certain Community who may have",
+    "start": 1377.919,
+    "duration": 5.721
+  },
+  {
+    "text": "already held it in one form or another",
+    "start": 1380.64,
+    "duration": 4.84
+  },
+  {
+    "text": "certainty around a regulated Financial",
+    "start": 1383.64,
+    "duration": 3.6
+  },
+  {
+    "text": "instrument so you're probably around 50",
+    "start": 1385.48,
+    "duration": 3.04
+  },
+  {
+    "text": "billion in terms of the AUM that's",
+    "start": 1387.24,
+    "duration": 3.439
+  },
+  {
+    "text": "sitting in that right now but again it's",
+    "start": 1388.52,
+    "duration": 3.759
+  },
+  {
+    "text": "actually concentrated amongst a few of",
+    "start": 1390.679,
+    "duration": 4.841
+  },
+  {
+    "text": "the big players it's actually expensive",
+    "start": 1392.279,
+    "duration": 4.961
+  },
+  {
+    "text": "and uh nothing's really changed",
+    "start": 1395.52,
+    "duration": 3.36
+  },
+  {
+    "text": "fundamentally to the underlying asset",
+    "start": 1397.24,
+    "duration": 3.64
+  },
+  {
+    "text": "it's still very volatile still a risk",
+    "start": 1398.88,
+    "duration": 4.48
+  },
+  {
+    "text": "asset but it's given people that better",
+    "start": 1400.88,
+    "duration": 4.64
+  },
+  {
+    "text": "rapper um but what we're seeing with",
+    "start": 1403.36,
+    "duration": 4.08
+  },
+  {
+    "text": "gold and what I think is actually quite",
+    "start": 1405.52,
+    "duration": 4.159
+  },
+  {
+    "text": "interesting about where the landscape is",
+    "start": 1407.44,
+    "duration": 3.76
+  },
+  {
+    "text": "right now again I'm going to reemphasize",
+    "start": 1409.679,
+    "duration": 3.201
+  },
+  {
+    "text": "the fact that we have seen outflows in",
+    "start": 1411.2,
+    "duration": 4.359
+  },
+  {
+    "text": "ETF which is about 6% of the overall",
+    "start": 1412.88,
+    "duration": 4.84
+  },
+  {
+    "text": "investment Market worldwide bars and",
+    "start": 1415.559,
+    "duration": 4.681
+  },
+  {
+    "text": "coins investments in the East still",
+    "start": 1417.72,
+    "duration": 5.72
+  },
+  {
+    "text": "driving the value a hold kind of a hold",
+    "start": 1420.24,
+    "duration": 5.64
+  },
+  {
+    "text": "mentality on the west so I think overall",
+    "start": 1423.44,
+    "duration": 4.08
+  },
+  {
+    "text": "what you're going to see is that a bit",
+    "start": 1425.88,
+    "duration": 4.24
+  },
+  {
+    "text": "of a hold there until we start to see",
+    "start": 1427.52,
+    "duration": 5.56
+  },
+  {
+    "text": "the opportunity cost improve for gold in",
+    "start": 1430.12,
+    "duration": 5.039
+  },
+  {
+    "text": "the US in particular and that's going to",
+    "start": 1433.08,
+    "duration": 3.839
+  },
+  {
+    "text": "be on the back of some form of movement",
+    "start": 1435.159,
+    "duration": 4.801
+  },
+  {
+    "text": "on rates right and I I think uh or the",
+    "start": 1436.919,
+    "duration": 4.801
+  },
+  {
+    "text": "rates sustain themselves for longer so",
+    "start": 1439.96,
+    "duration": 3.4
+  },
+  {
+    "text": "that higher inflation environment which",
+    "start": 1441.72,
+    "duration": 4.439
+  },
+  {
+    "text": "might move us back to uh that factor of",
+    "start": 1443.36,
+    "duration": 4.919
+  },
+  {
+    "text": "driving investment dollars into gold so",
+    "start": 1446.159,
+    "duration": 4.4
+  },
+  {
+    "text": "so we like the fact that the environment",
+    "start": 1448.279,
+    "duration": 4.601
+  },
+  {
+    "text": "is right for consumption to improve in",
+    "start": 1450.559,
+    "duration": 4.921
+  },
+  {
+    "text": "the western markets uh we see that the",
+    "start": 1452.88,
+    "duration": 5.2
+  },
+  {
+    "text": "sustained case for gold in the East",
+    "start": 1455.48,
+    "duration": 5.04
+  },
+  {
+    "text": "being very strong so that gives us",
+    "start": 1458.08,
+    "duration": 4.079
+  },
+  {
+    "text": "comfort that these new higher levels",
+    "start": 1460.52,
+    "duration": 3.84
+  },
+  {
+    "text": "that we're seeing look likely to be",
+    "start": 1462.159,
+    "duration": 5.281
+  },
+  {
+    "text": "sustained so um our outlook for the year",
+    "start": 1464.36,
+    "duration": 5.0
+  },
+  {
+    "text": "is continuing to a strong level of",
+    "start": 1467.44,
+    "duration": 5.16
+  },
+  {
+    "text": "demand from central banks uh I think on",
+    "start": 1469.36,
+    "duration": 4.64
+  },
+  {
+    "text": "the fabrication side the jewelry side",
+    "start": 1472.6,
+    "duration": 2.559
+  },
+  {
+    "text": "with the higher prices probably a little",
+    "start": 1474.0,
+    "duration": 3.52
+  },
+  {
+    "text": "bit slower a little bit less um but",
+    "start": 1475.159,
+    "duration": 4.321
+  },
+  {
+    "text": "Western investors and investment demand",
+    "start": 1477.52,
+    "duration": 3.84
+  },
+  {
+    "text": "to remain high and then overall in",
+    "start": 1479.48,
+    "duration": 3.199
+  },
+  {
+    "text": "technology which is something we really",
+    "start": 1481.36,
+    "duration": 2.52
+  },
+  {
+    "text": "haven't touched upon but with the",
+    "start": 1482.679,
+    "duration": 4.36
+  },
+  {
+    "text": "introduction of more supercomputing AI",
+    "start": 1483.88,
+    "duration": 4.679
+  },
+  {
+    "text": "different Technologies coming online we",
+    "start": 1487.039,
+    "duration": 3.441
+  },
+  {
+    "text": "saw a big increase in demand 10%",
+    "start": 1488.559,
+    "duration": 3.801
+  },
+  {
+    "text": "increase in demand for the technology",
+    "start": 1490.48,
+    "duration": 4.6
+  },
+  {
+    "text": "space in first quarter of 24 so a small",
+    "start": 1492.36,
+    "duration": 4.76
+  },
+  {
+    "text": "component but just uh an interesting",
+    "start": 1495.08,
+    "duration": 3.839
+  },
+  {
+    "text": "little corner of the Market to keep an",
+    "start": 1497.12,
+    "duration": 4.24
+  },
+  {
+    "text": "eye on as it matures correct okay uh",
+    "start": 1498.919,
+    "duration": 4.24
+  },
+  {
+    "text": "talk to me a little bit before I let you",
+    "start": 1501.36,
+    "duration": 4.199
+  },
+  {
+    "text": "go just about if we start to see some of",
+    "start": 1503.159,
+    "duration": 4.961
+  },
+  {
+    "text": "this economic data play out you know",
+    "start": 1505.559,
+    "duration": 4.401
+  },
+  {
+    "text": "again there's a lot of narrative rates",
+    "start": 1508.12,
+    "duration": 4.159
+  },
+  {
+    "text": "going to be cut I was reporting on six",
+    "start": 1509.96,
+    "duration": 3.92
+  },
+  {
+    "text": "of them back in January for goodness",
+    "start": 1512.279,
+    "duration": 3.64
+  },
+  {
+    "text": "sake so there is a lot of narrative here",
+    "start": 1513.88,
+    "duration": 4.2
+  },
+  {
+    "text": "but if we cut through the noise we see",
+    "start": 1515.919,
+    "duration": 4.601
+  },
+  {
+    "text": "you know consumers buying buying buying",
+    "start": 1518.08,
+    "duration": 5.28
+  },
+  {
+    "text": "at places like Costco if we start to see",
+    "start": 1520.52,
+    "duration": 4.68
+  },
+  {
+    "text": "the economy do what it's meant to do",
+    "start": 1523.36,
+    "duration": 3.439
+  },
+  {
+    "text": "here nobody's going to be selling that",
+    "start": 1525.2,
+    "duration": 3.44
+  },
+  {
+    "text": "off is this here to stay yeah I think it",
+    "start": 1526.799,
+    "duration": 3.401
+  },
+  {
+    "text": "is I think that it's making a strong",
+    "start": 1528.64,
+    "duration": 4.36
+  },
+  {
+    "text": "case for it look I can't give good",
+    "start": 1530.2,
+    "duration": 3.92
+  },
+  {
+    "text": "reasons",
+    "start": 1533.0,
+    "duration": 4.84
+  },
+  {
+    "text": "for uh a large selloff in the gold price",
+    "start": 1534.12,
+    "duration": 5.919
+  },
+  {
+    "text": "I think ultimately what you have again",
+    "start": 1537.84,
+    "duration": 4.48
+  },
+  {
+    "text": "if you look at the global demand and you",
+    "start": 1540.039,
+    "duration": 5.281
+  },
+  {
+    "text": "look at the global mechanisms for which",
+    "start": 1542.32,
+    "duration": 4.719
+  },
+  {
+    "text": "people consume gold there's a strong",
+    "start": 1545.32,
+    "duration": 3.8
+  },
+  {
+    "text": "case in each and I think the",
+    "start": 1547.039,
+    "duration": 4.36
+  },
+  {
+    "text": "concentrations that I think even others",
+    "start": 1549.12,
+    "duration": 4.36
+  },
+  {
+    "text": "have talked about on your program around",
+    "start": 1551.399,
+    "duration": 4.64
+  },
+  {
+    "text": "the Reliance on China yes that's that's",
+    "start": 1553.48,
+    "duration": 4.439
+  },
+  {
+    "text": "a concern but a Slowdown is a more",
+    "start": 1556.039,
+    "duration": 4.441
+  },
+  {
+    "text": "likely outcome than a wholesale unwind",
+    "start": 1557.919,
+    "duration": 4.321
+  },
+  {
+    "text": "of gold remember this is going to be",
+    "start": 1560.48,
+    "duration": 4.319
+  },
+  {
+    "text": "slowing of Demand versus unwinding of",
+    "start": 1562.24,
+    "duration": 4.24
+  },
+  {
+    "text": "demand yeah and I think that that",
+    "start": 1564.799,
+    "duration": 3.721
+  },
+  {
+    "text": "continues to give us a strong case for",
+    "start": 1566.48,
+    "duration": 4.52
+  },
+  {
+    "text": "the price to be supported Joe cavaton",
+    "start": 1568.52,
+    "duration": 3.96
+  },
+  {
+    "text": "from the world gold Council of course",
+    "start": 1571.0,
+    "duration": 3.36
+  },
+  {
+    "text": "he's a senior market strategist for the",
+    "start": 1572.48,
+    "duration": 4.04
+  },
+  {
+    "text": "americaas there joining us in studio",
+    "start": 1574.36,
+    "duration": 4.12
+  },
+  {
+    "text": "thanks again for coming in we appreciate",
+    "start": 1576.52,
+    "duration": 3.96
+  },
+  {
+    "text": "the time and thank you for watching I'm",
+    "start": 1578.48,
+    "duration": 3.88
+  },
+  {
+    "text": "Jerry saffer for all of us here at Kito",
+    "start": 1580.48,
+    "duration": 4.16
+  },
+  {
+    "text": "news don't forget to subscribe like that",
+    "start": 1582.36,
+    "duration": 4.28
+  },
+  {
+    "text": "video and heck even comment who you'd",
+    "start": 1584.64,
+    "duration": 3.84
+  },
+  {
+    "text": "like to see on the show next we see you",
+    "start": 1586.64,
+    "duration": 5.039
+  },
+  {
+    "text": "next time",
+    "start": 1588.48,
+    "duration": 3.199
+  },
+  {
+    "text": "[Music]",
+    "start": 1595.21,
+    "duration": 5.079
+  }
+]

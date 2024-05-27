@@ -1,0 +1,2747 @@
+[
+  {
+    "text": "hey everyone I'm Jeremy saffron this is",
+    "start": 0.28,
+    "duration": 3.399
+  },
+  {
+    "text": "kod news don't forget to subscribe for",
+    "start": 1.68,
+    "duration": 4.199
+  },
+  {
+    "text": "the latest market analysis well today on",
+    "start": 3.679,
+    "duration": 4.041
+  },
+  {
+    "text": "the show silver is making headlines",
+    "start": 5.879,
+    "duration": 3.68
+  },
+  {
+    "text": "again recently reaching its highest",
+    "start": 7.72,
+    "duration": 4.999
+  },
+  {
+    "text": "level since December 2012 at around",
+    "start": 9.559,
+    "duration": 6.441
+  },
+  {
+    "text": "$31.50 us now the surge is driven by",
+    "start": 12.719,
+    "duration": 5.521
+  },
+  {
+    "text": "robust industrial demand particularly",
+    "start": 16.0,
+    "duration": 4.199
+  },
+  {
+    "text": "from green technologies and the",
+    "start": 18.24,
+    "duration": 4.32
+  },
+  {
+    "text": "expectations of the FED to cut interest",
+    "start": 20.199,
+    "duration": 5.201
+  },
+  {
+    "text": "rates later this year analysts from JP",
+    "start": 22.56,
+    "duration": 5.0
+  },
+  {
+    "text": "Morgan and predict silver could",
+    "start": 25.4,
+    "duration": 5.6
+  },
+  {
+    "text": "potentially reach $35 us per ounce by",
+    "start": 27.56,
+    "duration": 5.92
+  },
+  {
+    "text": "the end of 2024 highlighting a bullish",
+    "start": 31.0,
+    "duration": 4.76
+  },
+  {
+    "text": "outlook for the metal even though today",
+    "start": 33.48,
+    "duration": 3.8
+  },
+  {
+    "text": "we're seeing a little bit of profit",
+    "start": 35.76,
+    "duration": 4.08
+  },
+  {
+    "text": "taking in the resistance around the $32",
+    "start": 37.28,
+    "duration": 4.599
+  },
+  {
+    "text": "level so why does this matter well",
+    "start": 39.84,
+    "duration": 4.12
+  },
+  {
+    "text": "Silver's rise isn't just a market",
+    "start": 41.879,
+    "duration": 3.961
+  },
+  {
+    "text": "anomaly Global silver demand is",
+    "start": 43.96,
+    "duration": 5.079
+  },
+  {
+    "text": "forecasted to hit 1.2 billion ounces in",
+    "start": 45.84,
+    "duration": 5.8
+  },
+  {
+    "text": "2024 alone and that would be the second",
+    "start": 49.039,
+    "duration": 4.84
+  },
+  {
+    "text": "highest level on record indicating",
+    "start": 51.64,
+    "duration": 4.52
+  },
+  {
+    "text": "strong and sustained demand and on the",
+    "start": 53.879,
+    "duration": 4.32
+  },
+  {
+    "text": "supply side the market is expected to",
+    "start": 56.16,
+    "duration": 3.96
+  },
+  {
+    "text": "remain in deficit for the four",
+    "start": 58.199,
+    "duration": 4.281
+  },
+  {
+    "text": "consecutive year despite a projected 4%",
+    "start": 60.12,
+    "duration": 5.56
+  },
+  {
+    "text": "increase in mine output and this ongoing",
+    "start": 62.48,
+    "duration": 5.319
+  },
+  {
+    "text": "supply and demand imbalance is creating",
+    "start": 65.68,
+    "duration": 4.64
+  },
+  {
+    "text": "a very supportive environment for higher",
+    "start": 67.799,
+    "duration": 4.68
+  },
+  {
+    "text": "silver prices let's break it all down",
+    "start": 70.32,
+    "duration": 4.04
+  },
+  {
+    "text": "and welcome back our friend Bill baroo",
+    "start": 72.479,
+    "duration": 4.161
+  },
+  {
+    "text": "he's the president of Blue Line Futures",
+    "start": 74.36,
+    "duration": 4.28
+  },
+  {
+    "text": "and his season technical Trader renowned",
+    "start": 76.64,
+    "duration": 4.32
+  },
+  {
+    "text": "for his expertise in Commodities and the",
+    "start": 78.64,
+    "duration": 4.24
+  },
+  {
+    "text": "precious metals Market hey Bill welcome",
+    "start": 80.96,
+    "duration": 3.88
+  },
+  {
+    "text": "back on the show thank you for that",
+    "start": 82.88,
+    "duration": 4.16
+  },
+  {
+    "text": "introduction it's a pleasure to join you",
+    "start": 84.84,
+    "duration": 4.08
+  },
+  {
+    "text": "so Bill Let's uh let's rewind here I",
+    "start": 87.04,
+    "duration": 3.039
+  },
+  {
+    "text": "just talked a little bit about the those",
+    "start": 88.92,
+    "duration": 3.479
+  },
+  {
+    "text": "silver prices they recently reached",
+    "start": 90.079,
+    "duration": 5.281
+  },
+  {
+    "text": "their highest level since December 2012",
+    "start": 92.399,
+    "duration": 4.76
+  },
+  {
+    "text": "you know given this Surge and given what",
+    "start": 95.36,
+    "duration": 4.28
+  },
+  {
+    "text": "we're seeing today help us make sense of",
+    "start": 97.159,
+    "duration": 4.121
+  },
+  {
+    "text": "it and and give us your short-term and",
+    "start": 99.64,
+    "duration": 3.64
+  },
+  {
+    "text": "long-term forecast on silver prices if",
+    "start": 101.28,
+    "duration": 5.199
+  },
+  {
+    "text": "you could the fact alone that that",
+    "start": 103.28,
+    "duration": 5.799
+  },
+  {
+    "text": "silver has gotten above $30 a ceiling",
+    "start": 106.479,
+    "duration": 5.561
+  },
+  {
+    "text": "that we've seen you know amid exuberance",
+    "start": 109.079,
+    "duration": 5.36
+  },
+  {
+    "text": "um go back to the to the pandemic I mean",
+    "start": 112.04,
+    "duration": 5.16
+  },
+  {
+    "text": "it's uh seeing it above $30 I think is a",
+    "start": 114.439,
+    "duration": 5.0
+  },
+  {
+    "text": "big feat and now we just got to hold it",
+    "start": 117.2,
+    "duration": 3.44
+  },
+  {
+    "text": "I think there's as you mentioned",
+    "start": 119.439,
+    "duration": 2.68
+  },
+  {
+    "text": "Commodities are under a little bit of",
+    "start": 120.64,
+    "duration": 4.0
+  },
+  {
+    "text": "pressure here today um what really",
+    "start": 122.119,
+    "duration": 4.481
+  },
+  {
+    "text": "matters is a constructive path I mean",
+    "start": 124.64,
+    "duration": 3.44
+  },
+  {
+    "text": "there's going to be profit taking and",
+    "start": 126.6,
+    "duration": 2.92
+  },
+  {
+    "text": "there's going to be swings lower there's",
+    "start": 128.08,
+    "duration": 2.879
+  },
+  {
+    "text": "going to be news headlines and there's",
+    "start": 129.52,
+    "duration": 3.52
+  },
+  {
+    "text": "going to be different things that that",
+    "start": 130.959,
+    "duration": 4.681
+  },
+  {
+    "text": "uh become headwinds uh as this journey",
+    "start": 133.04,
+    "duration": 4.72
+  },
+  {
+    "text": "continues for silver but as long as it",
+    "start": 135.64,
+    "duration": 4.319
+  },
+  {
+    "text": "it stays above $30 I we what we want to",
+    "start": 137.76,
+    "duration": 4.68
+  },
+  {
+    "text": "see is it build a new base and then use",
+    "start": 139.959,
+    "duration": 4.801
+  },
+  {
+    "text": "that base you mentioned some have a",
+    "start": 142.44,
+    "duration": 4.159
+  },
+  {
+    "text": "target of $35 out there and that is a",
+    "start": 144.76,
+    "duration": 3.72
+  },
+  {
+    "text": "big technical Target if we could base",
+    "start": 146.599,
+    "duration": 4.041
+  },
+  {
+    "text": "out above 30 broadly speaking I I think",
+    "start": 148.48,
+    "duration": 5.0
+  },
+  {
+    "text": "$35 should be in the cards yeah well",
+    "start": 150.64,
+    "duration": 4.12
+  },
+  {
+    "text": "let's talk let's unpack that a little",
+    "start": 153.48,
+    "duration": 2.68
+  },
+  {
+    "text": "bit I mean those are the analysts from",
+    "start": 154.76,
+    "duration": 3.6
+  },
+  {
+    "text": "JP Morgan I think they came out they",
+    "start": 156.16,
+    "duration": 3.999
+  },
+  {
+    "text": "said hey this could potentially reach",
+    "start": 158.36,
+    "duration": 4.92
+  },
+  {
+    "text": "$35 per ounce by the end of the year you",
+    "start": 160.159,
+    "duration": 4.72
+  },
+  {
+    "text": "you look at the markets today I know we",
+    "start": 163.28,
+    "duration": 3.36
+  },
+  {
+    "text": "can't push quite past that resistance",
+    "start": 164.879,
+    "duration": 3.481
+  },
+  {
+    "text": "level but is this a lowball number or",
+    "start": 166.64,
+    "duration": 3.48
+  },
+  {
+    "text": "are we going to is this could this be",
+    "start": 168.36,
+    "duration": 3.44
+  },
+  {
+    "text": "even higher than that",
+    "start": 170.12,
+    "duration": 4.119
+  },
+  {
+    "text": "35 listen if you if you really back out",
+    "start": 171.8,
+    "duration": 4.519
+  },
+  {
+    "text": "the truck and you look at what you know",
+    "start": 174.239,
+    "duration": 3.881
+  },
+  {
+    "text": "some of these different Commodities have",
+    "start": 176.319,
+    "duration": 4.92
+  },
+  {
+    "text": "done Coco for for instance I mean you",
+    "start": 178.12,
+    "duration": 5.16
+  },
+  {
+    "text": "gold has had had an incredible move as",
+    "start": 181.239,
+    "duration": 4.041
+  },
+  {
+    "text": "well uh and and silver is known to have",
+    "start": 183.28,
+    "duration": 3.44
+  },
+  {
+    "text": "more volatility than gold but if you",
+    "start": 185.28,
+    "duration": 2.44
+  },
+  {
+    "text": "look at some what some of these",
+    "start": 186.72,
+    "duration": 3.92
+  },
+  {
+    "text": "Commodities have done and how suppressed",
+    "start": 187.72,
+    "duration": 5.239
+  },
+  {
+    "text": "for for since the 2011 High I mean it's",
+    "start": 190.64,
+    "duration": 4.04
+  },
+  {
+    "text": "been this is this move has been a decade",
+    "start": 192.959,
+    "duration": 4.761
+  },
+  {
+    "text": "in the making um I mean yeah we should",
+    "start": 194.68,
+    "duration": 5.24
+  },
+  {
+    "text": "we should be able to move out above 35",
+    "start": 197.72,
+    "duration": 3.879
+  },
+  {
+    "text": "what what would say we can't get to 40",
+    "start": 199.92,
+    "duration": 3.44
+  },
+  {
+    "text": "what would say we can't get to 50 and",
+    "start": 201.599,
+    "duration": 3.801
+  },
+  {
+    "text": "what would say I mean with with growing",
+    "start": 203.36,
+    "duration": 4.599
+  },
+  {
+    "text": "demand growing narrative and this",
+    "start": 205.4,
+    "duration": 4.039
+  },
+  {
+    "text": "becoming a mainstream move what's it say",
+    "start": 207.959,
+    "duration": 4.0
+  },
+  {
+    "text": "that we couldn't get to $70 listen I I",
+    "start": 209.439,
+    "duration": 3.88
+  },
+  {
+    "text": "think anything is really in the cards",
+    "start": 211.959,
+    "duration": 3.761
+  },
+  {
+    "text": "here and you know we we work with a wide",
+    "start": 213.319,
+    "duration": 4.401
+  },
+  {
+    "text": "range of clients I me our team at Blue",
+    "start": 215.72,
+    "duration": 3.599
+  },
+  {
+    "text": "Line Futures know some people just want",
+    "start": 217.72,
+    "duration": 3.4
+  },
+  {
+    "text": "to have silver exposure and if that's",
+    "start": 219.319,
+    "duration": 3.801
+  },
+  {
+    "text": "you out there silver exposure you know",
+    "start": 221.12,
+    "duration": 3.119
+  },
+  {
+    "text": "there there's a that's where you're",
+    "start": 223.12,
+    "duration": 2.839
+  },
+  {
+    "text": "looking at it staying above $30 in the",
+    "start": 224.239,
+    "duration": 3.441
+  },
+  {
+    "text": "near term others want to trade it when",
+    "start": 225.959,
+    "duration": 3.2
+  },
+  {
+    "text": "I'm doing at Blue Creek capital my",
+    "start": 227.68,
+    "duration": 4.04
+  },
+  {
+    "text": "commodity fund um you know I'm trying to",
+    "start": 229.159,
+    "duration": 4.601
+  },
+  {
+    "text": "manage my downside here and and capture",
+    "start": 231.72,
+    "duration": 4.079
+  },
+  {
+    "text": "all the upside uh and and I'm more",
+    "start": 233.76,
+    "duration": 4.24
+  },
+  {
+    "text": "active in trading this I'm looking at",
+    "start": 235.799,
+    "duration": 4.08
+  },
+  {
+    "text": "more shorter term targets and saying",
+    "start": 238.0,
+    "duration": 4.439
+  },
+  {
+    "text": "okay now 3275 is a bit of a resistance",
+    "start": 239.879,
+    "duration": 4.72
+  },
+  {
+    "text": "level that we've tested a couple times",
+    "start": 242.439,
+    "duration": 3.481
+  },
+  {
+    "text": "and if we don't get out above it looking",
+    "start": 244.599,
+    "duration": 2.64
+  },
+  {
+    "text": "at yesterday if we didn't get out above",
+    "start": 245.92,
+    "duration": 2.92
+  },
+  {
+    "text": "it now you know we're likely to get away",
+    "start": 247.239,
+    "duration": 3.161
+  },
+  {
+    "text": "for profit taking so you prepare for",
+    "start": 248.84,
+    "duration": 3.52
+  },
+  {
+    "text": "some of these more little little moves",
+    "start": 250.4,
+    "duration": 3.72
+  },
+  {
+    "text": "these micro moves within the within the",
+    "start": 252.36,
+    "duration": 4.04
+  },
+  {
+    "text": "market yeah it's an interesting trade",
+    "start": 254.12,
+    "duration": 3.799
+  },
+  {
+    "text": "and and you know as you mentioned",
+    "start": 256.4,
+    "duration": 2.92
+  },
+  {
+    "text": "Silver's been testing support around",
+    "start": 257.919,
+    "duration": 4.04
+  },
+  {
+    "text": "that $30 Mark resistance around 32 maybe",
+    "start": 259.32,
+    "duration": 4.439
+  },
+  {
+    "text": "just past it but you know you're a",
+    "start": 261.959,
+    "duration": 3.601
+  },
+  {
+    "text": "technical traders so I'm curious with",
+    "start": 263.759,
+    "duration": 4.041
+  },
+  {
+    "text": "technical indicators such as the RSI you",
+    "start": 265.56,
+    "duration": 3.72
+  },
+  {
+    "text": "know the relative strength index the",
+    "start": 267.8,
+    "duration": 3.76
+  },
+  {
+    "text": "moving averages it seems that we're",
+    "start": 269.28,
+    "duration": 4.199
+  },
+  {
+    "text": "seeing some bullish Trends here how",
+    "start": 271.56,
+    "duration": 4.84
+  },
+  {
+    "text": "confident are you in a breakout above",
+    "start": 273.479,
+    "duration": 5.201
+  },
+  {
+    "text": "these levels and and what indicators do",
+    "start": 276.4,
+    "duration": 3.92
+  },
+  {
+    "text": "you consider most reliable when you're",
+    "start": 278.68,
+    "duration": 3.0
+  },
+  {
+    "text": "looking at your",
+    "start": 280.32,
+    "duration": 4.159
+  },
+  {
+    "text": "trades listen silver I've always looked",
+    "start": 281.68,
+    "duration": 5.48
+  },
+  {
+    "text": "at as the higher volatility of the",
+    "start": 284.479,
+    "duration": 5.321
+  },
+  {
+    "text": "metals complex as well the one that",
+    "start": 287.16,
+    "duration": 4.72
+  },
+  {
+    "text": "becomes a follower of sorts before it",
+    "start": 289.8,
+    "duration": 4.88
+  },
+  {
+    "text": "finally takes the lead and you look at",
+    "start": 291.88,
+    "duration": 4.8
+  },
+  {
+    "text": "gold you have to talk about gold if",
+    "start": 294.68,
+    "duration": 3.72
+  },
+  {
+    "text": "you're talking about silver and some of",
+    "start": 296.68,
+    "duration": 3.16
+  },
+  {
+    "text": "the projections I have for gold would",
+    "start": 298.4,
+    "duration": 3.68
+  },
+  {
+    "text": "say gold can get the 2790 now we haven't",
+    "start": 299.84,
+    "duration": 4.359
+  },
+  {
+    "text": "even had the First Fed rate cut this",
+    "start": 302.08,
+    "duration": 5.32
+  },
+  {
+    "text": "year but on average within 30 days or 60",
+    "start": 304.199,
+    "duration": 5.241
+  },
+  {
+    "text": "sorry 30 maybe 60 days within the F",
+    "start": 307.4,
+    "duration": 4.48
+  },
+  {
+    "text": "fed's First Rate cut gold is averaged a",
+    "start": 309.44,
+    "duration": 5.479
+  },
+  {
+    "text": "6% gain so I I mean gold maybe is front",
+    "start": 311.88,
+    "duration": 4.759
+  },
+  {
+    "text": "running a little bit but we're seeing",
+    "start": 314.919,
+    "duration": 3.801
+  },
+  {
+    "text": "rate Cuts as the year evolves kind of",
+    "start": 316.639,
+    "duration": 4.84
+  },
+  {
+    "text": "fall off a bit and um gold is Contin to",
+    "start": 318.72,
+    "duration": 5.44
+  },
+  {
+    "text": "do very well due to fiscal policy due to",
+    "start": 321.479,
+    "duration": 5.16
+  },
+  {
+    "text": "geopolitical uh as well as demand from",
+    "start": 324.16,
+    "duration": 6.08
+  },
+  {
+    "text": "the bricks Brazil Russia India China of",
+    "start": 326.639,
+    "duration": 5.321
+  },
+  {
+    "text": "course which has just hit their 18th",
+    "start": 330.24,
+    "duration": 3.48
+  },
+  {
+    "text": "straight month of expanding their gold",
+    "start": 331.96,
+    "duration": 4.079
+  },
+  {
+    "text": "reserves although at a lower Pace uh in",
+    "start": 333.72,
+    "duration": 4.479
+  },
+  {
+    "text": "South Africa so I mean I think there's a",
+    "start": 336.039,
+    "duration": 3.521
+  },
+  {
+    "text": "tremendous amount of gold demand out",
+    "start": 338.199,
+    "duration": 3.201
+  },
+  {
+    "text": "there uh and then you have copper which",
+    "start": 339.56,
+    "duration": 4.12
+  },
+  {
+    "text": "just set a record high and I mean there",
+    "start": 341.4,
+    "duration": 5.0
+  },
+  {
+    "text": "there are commodity Traders commodity",
+    "start": 343.68,
+    "duration": 4.6
+  },
+  {
+    "text": "investors that that I I've looked up to",
+    "start": 346.4,
+    "duration": 3.84
+  },
+  {
+    "text": "for many years that have put out targets",
+    "start": 348.28,
+    "duration": 5.479
+  },
+  {
+    "text": "with copper with two digits above $10 so",
+    "start": 350.24,
+    "duration": 5.2
+  },
+  {
+    "text": "when you look at the expanding",
+    "start": 353.759,
+    "duration": 3.0
+  },
+  {
+    "text": "industrial cases that you've talked",
+    "start": 355.44,
+    "duration": 3.44
+  },
+  {
+    "text": "about with silver you look at what's",
+    "start": 356.759,
+    "duration": 4.241
+  },
+  {
+    "text": "driving gold then you look at further",
+    "start": 358.88,
+    "duration": 3.439
+  },
+  {
+    "text": "with copper what's going on with data",
+    "start": 361.0,
+    "duration": 3.36
+  },
+  {
+    "text": "centers um and and then maybe China",
+    "start": 362.319,
+    "duration": 3.361
+  },
+  {
+    "text": "coming back online and being a big",
+    "start": 364.36,
+    "duration": 3.839
+  },
+  {
+    "text": "Catalyst as well um they're improving",
+    "start": 365.68,
+    "duration": 4.6
+  },
+  {
+    "text": "economy you know silver I I think has",
+    "start": 368.199,
+    "duration": 4.4
+  },
+  {
+    "text": "two major Tailwinds here and I think",
+    "start": 370.28,
+    "duration": 3.72
+  },
+  {
+    "text": "that's that's really why when I take a",
+    "start": 372.599,
+    "duration": 3.32
+  },
+  {
+    "text": "step back and I look at it I'm not not",
+    "start": 374.0,
+    "duration": 4.72
+  },
+  {
+    "text": "so just trading and and trying to manage",
+    "start": 375.919,
+    "duration": 4.801
+  },
+  {
+    "text": "my my risk and and my in my commodity",
+    "start": 378.72,
+    "duration": 3.879
+  },
+  {
+    "text": "fund but saying okay if you are if you",
+    "start": 380.72,
+    "duration": 3.84
+  },
+  {
+    "text": "want to be long silver this breakout",
+    "start": 382.599,
+    "duration": 4.521
+  },
+  {
+    "text": "above 30s is extremely significant",
+    "start": 384.56,
+    "duration": 4.12
+  },
+  {
+    "text": "because of all these Tailwinds that are",
+    "start": 387.12,
+    "duration": 3.6
+  },
+  {
+    "text": "still here to play out out and as long",
+    "start": 388.68,
+    "duration": 4.04
+  },
+  {
+    "text": "as it can say above 30 from a technical",
+    "start": 390.72,
+    "duration": 4.16
+  },
+  {
+    "text": "basis this is a breakout this is a a",
+    "start": 392.72,
+    "duration": 4.56
+  },
+  {
+    "text": "decade long breakout that has played out",
+    "start": 394.88,
+    "duration": 4.319
+  },
+  {
+    "text": "and is playing out now and as long as it",
+    "start": 397.28,
+    "duration": 4.56
+  },
+  {
+    "text": "hold above 30 um I think the the path",
+    "start": 399.199,
+    "duration": 4.72
+  },
+  {
+    "text": "lease resistance remains higher to 35 to",
+    "start": 401.84,
+    "duration": 4.72
+  },
+  {
+    "text": "40 to $50 or more maybe yeah a lot of",
+    "start": 403.919,
+    "duration": 4.321
+  },
+  {
+    "text": "people would be very very happy to see a",
+    "start": 406.56,
+    "duration": 3.8
+  },
+  {
+    "text": "$50 silver let's talk about those",
+    "start": 408.24,
+    "duration": 3.92
+  },
+  {
+    "text": "Tailwinds a little bit Bill break them",
+    "start": 410.36,
+    "duration": 3.04
+  },
+  {
+    "text": "down a little bit for the audience",
+    "start": 412.16,
+    "duration": 2.96
+  },
+  {
+    "text": "because you know you mentioned gold and",
+    "start": 413.4,
+    "duration": 3.44
+  },
+  {
+    "text": "we'll get to gold in a second but you",
+    "start": 415.12,
+    "duration": 3.639
+  },
+  {
+    "text": "know ETFs on the silver side are seeing",
+    "start": 416.84,
+    "duration": 3.919
+  },
+  {
+    "text": "similar inflow and there's strong demand",
+    "start": 418.759,
+    "duration": 3.88
+  },
+  {
+    "text": "for the retail investors obviously it's",
+    "start": 420.759,
+    "duration": 4.961
+  },
+  {
+    "text": "less costs than than silver what's the",
+    "start": 422.639,
+    "duration": 5.081
+  },
+  {
+    "text": "impact here and and how long are we",
+    "start": 425.72,
+    "duration": 4.12
+  },
+  {
+    "text": "going to see this",
+    "start": 427.72,
+    "duration": 4.199
+  },
+  {
+    "text": "sustained I mean this could be a new",
+    "start": 429.84,
+    "duration": 3.84
+  },
+  {
+    "text": "regime I mean it's it's a it's a",
+    "start": 431.919,
+    "duration": 3.68
+  },
+  {
+    "text": "commodity super cycle and as I mentioned",
+    "start": 433.68,
+    "duration": 4.12
+  },
+  {
+    "text": "it's not just gold and silver and and",
+    "start": 435.599,
+    "duration": 4.28
+  },
+  {
+    "text": "copper I mean there's you look at cocoa",
+    "start": 437.8,
+    "duration": 3.519
+  },
+  {
+    "text": "and and some movies we've seen in coffee",
+    "start": 439.879,
+    "duration": 3.921
+  },
+  {
+    "text": "and other Commodities out there has have",
+    "start": 441.319,
+    "duration": 4.481
+  },
+  {
+    "text": "been really tremendous I think we are in",
+    "start": 443.8,
+    "duration": 3.679
+  },
+  {
+    "text": "a commodity super cycle and this is the",
+    "start": 445.8,
+    "duration": 3.959
+  },
+  {
+    "text": "aftermath of of you know if you look at",
+    "start": 447.479,
+    "duration": 4.241
+  },
+  {
+    "text": "Commodities the the the demand that's",
+    "start": 449.759,
+    "duration": 3.72
+  },
+  {
+    "text": "coming out of the pandemic um different",
+    "start": 451.72,
+    "duration": 3.759
+  },
+  {
+    "text": "different supply chain disruptions I",
+    "start": 453.479,
+    "duration": 3.4
+  },
+  {
+    "text": "others that are affected geopolitical",
+    "start": 455.479,
+    "duration": 4.16
+  },
+  {
+    "text": "issues that and and local uh political",
+    "start": 456.879,
+    "duration": 4.361
+  },
+  {
+    "text": "issues that affect some of these",
+    "start": 459.639,
+    "duration": 4.201
+  },
+  {
+    "text": "Commodities as well um so when you take",
+    "start": 461.24,
+    "duration": 4.76
+  },
+  {
+    "text": "a look at I I think you have to look at",
+    "start": 463.84,
+    "duration": 3.72
+  },
+  {
+    "text": "Silver I mean just narrowing it down",
+    "start": 466.0,
+    "duration": 4.08
+  },
+  {
+    "text": "looking at Gold um as I mentioned the",
+    "start": 467.56,
+    "duration": 5.0
+  },
+  {
+    "text": "the bricks the which is Brazil Russia",
+    "start": 470.08,
+    "duration": 5.64
+  },
+  {
+    "text": "India China in South Africa um I mean",
+    "start": 472.56,
+    "duration": 4.96
+  },
+  {
+    "text": "they there is a new geopolitical regime",
+    "start": 475.72,
+    "duration": 3.039
+  },
+  {
+    "text": "that's being developed I mean you're",
+    "start": 477.52,
+    "duration": 3.84
+  },
+  {
+    "text": "seeing with with the War Russia the",
+    "start": 478.759,
+    "duration": 4.0
+  },
+  {
+    "text": "Russian war in Ukraine I mean what's",
+    "start": 481.36,
+    "duration": 2.92
+  },
+  {
+    "text": "taking place there the geopolitics that",
+    "start": 482.759,
+    "duration": 3.481
+  },
+  {
+    "text": "have taken place uh with with Israel",
+    "start": 484.28,
+    "duration": 3.72
+  },
+  {
+    "text": "surrounding surrounding with Gaza",
+    "start": 486.24,
+    "duration": 3.16
+  },
+  {
+    "text": "surrounding with with with what's going",
+    "start": 488.0,
+    "duration": 3.52
+  },
+  {
+    "text": "with Iran I mean there there is an",
+    "start": 489.4,
+    "duration": 4.359
+  },
+  {
+    "text": "everpresent heightened uh geopolitical",
+    "start": 491.52,
+    "duration": 4.519
+  },
+  {
+    "text": "tension that's continuing to go and uh",
+    "start": 493.759,
+    "duration": 4.081
+  },
+  {
+    "text": "and as I mentioned with China's China's",
+    "start": 496.039,
+    "duration": 5.0
+  },
+  {
+    "text": "Central Bank buying tied to that China's",
+    "start": 497.84,
+    "duration": 5.0
+  },
+  {
+    "text": "they're they are allies of China when",
+    "start": 501.039,
+    "duration": 3.521
+  },
+  {
+    "text": "you're looking at Iran you're looking at",
+    "start": 502.84,
+    "duration": 4.079
+  },
+  {
+    "text": "at Russia and um so the regime that's",
+    "start": 504.56,
+    "duration": 4.44
+  },
+  {
+    "text": "being developed here is is attempting to",
+    "start": 506.919,
+    "duration": 4.641
+  },
+  {
+    "text": "move away from the US dollar um so I",
+    "start": 509.0,
+    "duration": 4.0
+  },
+  {
+    "text": "think that that's the importance here as",
+    "start": 511.56,
+    "duration": 3.88
+  },
+  {
+    "text": "they as they expand their gold reserves",
+    "start": 513.0,
+    "duration": 4.56
+  },
+  {
+    "text": "this is potentially just the beginning",
+    "start": 515.44,
+    "duration": 3.599
+  },
+  {
+    "text": "and so if you take that Tailwind you",
+    "start": 517.56,
+    "duration": 2.839
+  },
+  {
+    "text": "look at what's taking place as well in",
+    "start": 519.039,
+    "duration": 4.081
+  },
+  {
+    "text": "the industrial side um the onshoring you",
+    "start": 520.399,
+    "duration": 4.401
+  },
+  {
+    "text": "know we're investing into semiconductors",
+    "start": 523.12,
+    "duration": 4.6
+  },
+  {
+    "text": "and and uh being able to uh build those",
+    "start": 524.8,
+    "duration": 4.64
+  },
+  {
+    "text": "domestically I mean the amount of money",
+    "start": 527.72,
+    "duration": 3.32
+  },
+  {
+    "text": "that's being put put into that I mean",
+    "start": 529.44,
+    "duration": 3.04
+  },
+  {
+    "text": "not only that that's that's fiscal",
+    "start": 531.04,
+    "duration": 3.16
+  },
+  {
+    "text": "policy printing more money degrading the",
+    "start": 532.48,
+    "duration": 4.16
+  },
+  {
+    "text": "dollar there is a lot of Tailwinds that",
+    "start": 534.2,
+    "duration": 4.16
+  },
+  {
+    "text": "are developing here if you just sort of",
+    "start": 536.64,
+    "duration": 4.319
+  },
+  {
+    "text": "just got of you pick your poison what is",
+    "start": 538.36,
+    "duration": 4.2
+  },
+  {
+    "text": "the Catalyst what is the Tailwind here",
+    "start": 540.959,
+    "duration": 3.641
+  },
+  {
+    "text": "so my my only question is you know why",
+    "start": 542.56,
+    "duration": 4.279
+  },
+  {
+    "text": "did it take so long for silver and I I",
+    "start": 544.6,
+    "duration": 3.919
+  },
+  {
+    "text": "think it's uh and that's the fact that",
+    "start": 546.839,
+    "duration": 4.12
+  },
+  {
+    "text": "it has taken so long is is why this is",
+    "start": 548.519,
+    "duration": 4.161
+  },
+  {
+    "text": "such a big feat and why it's so critical",
+    "start": 550.959,
+    "duration": 4.161
+  },
+  {
+    "text": "for it to stay above $30 yeah I mean",
+    "start": 552.68,
+    "duration": 3.76
+  },
+  {
+    "text": "some keep people calling it The Perfect",
+    "start": 555.12,
+    "duration": 3.08
+  },
+  {
+    "text": "Storm I mean let's talk about the supply",
+    "start": 556.44,
+    "duration": 3.36
+  },
+  {
+    "text": "side issues here the silver markets",
+    "start": 558.2,
+    "duration": 3.6
+  },
+  {
+    "text": "faced Supply deficits for four",
+    "start": 559.8,
+    "duration": 4.159
+  },
+  {
+    "text": "consecutive years obviously supporting",
+    "start": 561.8,
+    "duration": 4.24
+  },
+  {
+    "text": "higher prices despite that varied",
+    "start": 563.959,
+    "duration": 4.12
+  },
+  {
+    "text": "investment demand but you know major",
+    "start": 566.04,
+    "duration": 4.039
+  },
+  {
+    "text": "producers like Mexico per they face",
+    "start": 568.079,
+    "duration": 4.2
+  },
+  {
+    "text": "potential disruptions when you look at",
+    "start": 570.079,
+    "duration": 3.76
+  },
+  {
+    "text": "these Investments when you're looking at",
+    "start": 572.279,
+    "duration": 3.881
+  },
+  {
+    "text": "the market how do you mitigate risk what",
+    "start": 573.839,
+    "duration": 5.12
+  },
+  {
+    "text": "are you monitoring in terms of that risk",
+    "start": 576.16,
+    "duration": 5.52
+  },
+  {
+    "text": "here listen I mean there there has been",
+    "start": 578.959,
+    "duration": 4.56
+  },
+  {
+    "text": "uh production disruptions that have",
+    "start": 581.68,
+    "duration": 3.839
+  },
+  {
+    "text": "taken place in Mexico and in South South",
+    "start": 583.519,
+    "duration": 3.681
+  },
+  {
+    "text": "America and I think that that is",
+    "start": 585.519,
+    "duration": 3.081
+  },
+  {
+    "text": "something that has been a catalyst and",
+    "start": 587.2,
+    "duration": 4.04
+  },
+  {
+    "text": "you've look at U copper specifically I",
+    "start": 588.6,
+    "duration": 5.32
+  },
+  {
+    "text": "mean they they can and again you're not",
+    "start": 591.24,
+    "duration": 5.0
+  },
+  {
+    "text": "to not to move away from Silver but",
+    "start": 593.92,
+    "duration": 4.479
+  },
+  {
+    "text": "these are Tailwinds that are pulling",
+    "start": 596.24,
+    "duration": 3.599
+  },
+  {
+    "text": "silver as well when when copper is",
+    "start": 598.399,
+    "duration": 3.12
+  },
+  {
+    "text": "performing sort of silver you look at",
+    "start": 599.839,
+    "duration": 3.56
+  },
+  {
+    "text": "Copper the the issue I mean the smelters",
+    "start": 601.519,
+    "duration": 3.961
+  },
+  {
+    "text": "have have cut down U actually creating",
+    "start": 603.399,
+    "duration": 3.56
+  },
+  {
+    "text": "the finished product of of copper",
+    "start": 605.48,
+    "duration": 3.12
+  },
+  {
+    "text": "because they couldn't get the the raw",
+    "start": 606.959,
+    "duration": 3.801
+  },
+  {
+    "text": "material and then basically the the CP",
+    "start": 608.6,
+    "duration": 3.84
+  },
+  {
+    "text": "the premium the refin which is",
+    "start": 610.76,
+    "duration": 3.16
+  },
+  {
+    "text": "essentially sort of what goes into",
+    "start": 612.44,
+    "duration": 3.6
+  },
+  {
+    "text": "refining copper traded at negative so",
+    "start": 613.92,
+    "duration": 4.8
+  },
+  {
+    "text": "these these uh smelters I mean they're",
+    "start": 616.04,
+    "duration": 4.28
+  },
+  {
+    "text": "they are potentially losing money I you",
+    "start": 618.72,
+    "duration": 3.28
+  },
+  {
+    "text": "would think that mining would bring back",
+    "start": 620.32,
+    "duration": 4.72
+  },
+  {
+    "text": "on more more supply of of copper maybe",
+    "start": 622.0,
+    "duration": 4.959
+  },
+  {
+    "text": "it's it's bit more scarce maybe the",
+    "start": 625.04,
+    "duration": 3.88
+  },
+  {
+    "text": "input costs of these mining companies",
+    "start": 626.959,
+    "duration": 4.32
+  },
+  {
+    "text": "making more difficult at the same time",
+    "start": 628.92,
+    "duration": 5.32
+  },
+  {
+    "text": "these mining companies have had uh have",
+    "start": 631.279,
+    "duration": 4.721
+  },
+  {
+    "text": "had suppressed prices suppressed",
+    "start": 634.24,
+    "duration": 3.44
+  },
+  {
+    "text": "earnings have carried a ton of debt for",
+    "start": 636.0,
+    "duration": 3.72
+  },
+  {
+    "text": "many years so as interest rate Rose",
+    "start": 637.68,
+    "duration": 3.48
+  },
+  {
+    "text": "these mining companies they didn't",
+    "start": 639.72,
+    "duration": 3.88
+  },
+  {
+    "text": "follow um even the small improvements",
+    "start": 641.16,
+    "duration": 4.679
+  },
+  {
+    "text": "you saw in in the the underlying price",
+    "start": 643.6,
+    "duration": 3.76
+  },
+  {
+    "text": "as well as just the broader Market over",
+    "start": 645.839,
+    "duration": 3.12
+  },
+  {
+    "text": "the last couple of years this is their",
+    "start": 647.36,
+    "duration": 3.68
+  },
+  {
+    "text": "time to shine so I mean ultimately I I",
+    "start": 648.959,
+    "duration": 3.68
+  },
+  {
+    "text": "don't the same way you look at the the",
+    "start": 651.04,
+    "duration": 4.4
+  },
+  {
+    "text": "energy companies um that in",
+    "start": 652.639,
+    "duration": 5.401
+  },
+  {
+    "text": "2021 um these energy companies in 2021",
+    "start": 655.44,
+    "duration": 4.92
+  },
+  {
+    "text": "would crude oil finally got above $70",
+    "start": 658.04,
+    "duration": 3.68
+  },
+  {
+    "text": "they were still underperforming",
+    "start": 660.36,
+    "duration": 3.919
+  },
+  {
+    "text": "significantly it took it took a bit of",
+    "start": 661.72,
+    "duration": 5.2
+  },
+  {
+    "text": "time for at all to be baked in so you",
+    "start": 664.279,
+    "duration": 3.881
+  },
+  {
+    "text": "know I I think there's just again a",
+    "start": 666.92,
+    "duration": 3.719
+  },
+  {
+    "text": "number of Tailwinds here in the industry",
+    "start": 668.16,
+    "duration": 4.44
+  },
+  {
+    "text": "uh that has just has had a lot of",
+    "start": 670.639,
+    "duration": 3.281
+  },
+  {
+    "text": "headwinds and has been suppressed for",
+    "start": 672.6,
+    "duration": 3.76
+  },
+  {
+    "text": "for quite a while so um this is again I",
+    "start": 673.92,
+    "duration": 3.56
+  },
+  {
+    "text": "just keep coming back how exciting this",
+    "start": 676.36,
+    "duration": 3.64
+  },
+  {
+    "text": "is to finally see yeah no it's exciting",
+    "start": 677.48,
+    "duration": 4.0
+  },
+  {
+    "text": "I mean we keep watching it I mean go",
+    "start": 680.0,
+    "duration": 3.48
+  },
+  {
+    "text": "back to Gold for a second it's obviously",
+    "start": 681.48,
+    "duration": 4.599
+  },
+  {
+    "text": "set several new all-time highs this year",
+    "start": 683.48,
+    "duration": 4.4
+  },
+  {
+    "text": "but Silver's record highs are still far",
+    "start": 686.079,
+    "duration": 3.721
+  },
+  {
+    "text": "off so I mean you know",
+    "start": 687.88,
+    "duration": 3.639
+  },
+  {
+    "text": "there's a Divergent here but how soon",
+    "start": 689.8,
+    "duration": 4.4
+  },
+  {
+    "text": "could we maybe see new record highs in",
+    "start": 691.519,
+    "duration": 4.481
+  },
+  {
+    "text": "silver and what kind of environment is",
+    "start": 694.2,
+    "duration": 2.84
+  },
+  {
+    "text": "it going to",
+    "start": 696.0,
+    "duration": 3.12
+  },
+  {
+    "text": "take yeah what we're actually seeing",
+    "start": 697.04,
+    "duration": 4.479
+  },
+  {
+    "text": "from relative to Gold um if you go back",
+    "start": 699.12,
+    "duration": 4.88
+  },
+  {
+    "text": "you know the the gold silver ratio if",
+    "start": 701.519,
+    "duration": 5.0
+  },
+  {
+    "text": "you go back to the the strength that we",
+    "start": 704.0,
+    "duration": 5.36
+  },
+  {
+    "text": "saw coming out of the pandemic uh and",
+    "start": 706.519,
+    "duration": 5.88
+  },
+  {
+    "text": "and in some of the Commodities silver um",
+    "start": 709.36,
+    "duration": 4.64
+  },
+  {
+    "text": "outperformed gold for a period of time",
+    "start": 712.399,
+    "duration": 3.88
+  },
+  {
+    "text": "and that would put a low essentially in",
+    "start": 714.0,
+    "duration": 4.639
+  },
+  {
+    "text": "that ratio and that ratio has had higher",
+    "start": 716.279,
+    "duration": 5.68
+  },
+  {
+    "text": "lows since that 2021 bottom meaning gold",
+    "start": 718.639,
+    "duration": 5.44
+  },
+  {
+    "text": "has outperformed silver continuously I",
+    "start": 721.959,
+    "duration": 4.081
+  },
+  {
+    "text": "mean of course there was spurts of of",
+    "start": 724.079,
+    "duration": 4.521
+  },
+  {
+    "text": "movement in and silver that that may",
+    "start": 726.04,
+    "duration": 3.88
+  },
+  {
+    "text": "have highlighted our performance for a",
+    "start": 728.6,
+    "duration": 2.84
+  },
+  {
+    "text": "small period of time but broadly",
+    "start": 729.92,
+    "duration": 4.12
+  },
+  {
+    "text": "speaking this was a very well-defined",
+    "start": 731.44,
+    "duration": 4.399
+  },
+  {
+    "text": "uptrend meaning gold continued to",
+    "start": 734.04,
+    "duration": 3.96
+  },
+  {
+    "text": "outperform Silver a very well- defined",
+    "start": 735.839,
+    "duration": 4.881
+  },
+  {
+    "text": "trend line and in this past week it",
+    "start": 738.0,
+    "duration": 4.959
+  },
+  {
+    "text": "finally broke this it it the the moveing",
+    "start": 740.72,
+    "duration": 5.119
+  },
+  {
+    "text": "silver finally broke this uptrend now",
+    "start": 742.959,
+    "duration": 4.601
+  },
+  {
+    "text": "it's it is breaking down meaning silver",
+    "start": 745.839,
+    "duration": 4.36
+  },
+  {
+    "text": "is now outperforming gold uh and they",
+    "start": 747.56,
+    "duration": 4.6
+  },
+  {
+    "text": "that trend line was broken at 82 at a",
+    "start": 750.199,
+    "duration": 4.721
+  },
+  {
+    "text": "ratio and and it's now at 70 so what you",
+    "start": 752.16,
+    "duration": 5.2
+  },
+  {
+    "text": "know sort of once once the lid comes off",
+    "start": 754.92,
+    "duration": 3.76
+  },
+  {
+    "text": "I mean that that's kind of what we're",
+    "start": 757.36,
+    "duration": 2.599
+  },
+  {
+    "text": "we're hoping for here I mean managing",
+    "start": 758.68,
+    "duration": 3.24
+  },
+  {
+    "text": "your risk and that's why you know as a",
+    "start": 759.959,
+    "duration": 3.801
+  },
+  {
+    "text": "as you know I managed my fund at Blue",
+    "start": 761.92,
+    "duration": 3.8
+  },
+  {
+    "text": "Creek Capital Management it's it's",
+    "start": 763.76,
+    "duration": 3.639
+  },
+  {
+    "text": "managing this risk ever presently I mean",
+    "start": 765.72,
+    "duration": 4.04
+  },
+  {
+    "text": "there's continuous different news flows",
+    "start": 767.399,
+    "duration": 3.961
+  },
+  {
+    "text": "that could be headwinds and just just",
+    "start": 769.76,
+    "duration": 3.68
+  },
+  {
+    "text": "last night we had news that China is is",
+    "start": 771.36,
+    "duration": 5.159
+  },
+  {
+    "text": "going to uh potentially increase tariffs",
+    "start": 773.44,
+    "duration": 7.16
+  },
+  {
+    "text": "uh on Imports of us and EU cars to 25%",
+    "start": 776.519,
+    "duration": 5.961
+  },
+  {
+    "text": "you know copper has been pummeled here",
+    "start": 780.6,
+    "duration": 4.08
+  },
+  {
+    "text": "here on on this Wednesday Wednesday it's",
+    "start": 782.48,
+    "duration": 3.76
+  },
+  {
+    "text": "been it's been a brutal day for copper",
+    "start": 784.68,
+    "duration": 2.92
+  },
+  {
+    "text": "so there are always going to be",
+    "start": 786.24,
+    "duration": 3.44
+  },
+  {
+    "text": "surprises so so when I manage my risk",
+    "start": 787.6,
+    "duration": 4.52
+  },
+  {
+    "text": "when I manage things I I I utilize put",
+    "start": 789.68,
+    "duration": 5.599
+  },
+  {
+    "text": "spreads and puts I utilize stops I I try",
+    "start": 792.12,
+    "duration": 4.6
+  },
+  {
+    "text": "to you know look for well- defined",
+    "start": 795.279,
+    "duration": 2.881
+  },
+  {
+    "text": "technical entry points take on a little",
+    "start": 796.72,
+    "duration": 3.52
+  },
+  {
+    "text": "more risk that I can keep tight leash on",
+    "start": 798.16,
+    "duration": 3.72
+  },
+  {
+    "text": "while all trading and keeping around a",
+    "start": 800.24,
+    "duration": 3.839
+  },
+  {
+    "text": "core position of of silver and gold and",
+    "start": 801.88,
+    "duration": 4.199
+  },
+  {
+    "text": "other medals that keep in the portfolio",
+    "start": 804.079,
+    "duration": 3.161
+  },
+  {
+    "text": "yeah talk to me a little bit about",
+    "start": 806.079,
+    "duration": 2.361
+  },
+  {
+    "text": "copper here bill because as you",
+    "start": 807.24,
+    "duration": 3.399
+  },
+  {
+    "text": "mentioned we seen a little bit of a uh a",
+    "start": 808.44,
+    "duration": 4.8
+  },
+  {
+    "text": "kick in the butt on prices today but",
+    "start": 810.639,
+    "duration": 4.481
+  },
+  {
+    "text": "other medals are moving here so when you",
+    "start": 813.24,
+    "duration": 3.08
+  },
+  {
+    "text": "look at something like this are you",
+    "start": 815.12,
+    "duration": 2.76
+  },
+  {
+    "text": "looking long-term or you looking for a",
+    "start": 816.32,
+    "duration": 3.4
+  },
+  {
+    "text": "short short",
+    "start": 817.88,
+    "duration": 4.48
+  },
+  {
+    "text": "trade you know I I I think this downside",
+    "start": 819.72,
+    "duration": 5.2
+  },
+  {
+    "text": "is is definitely a a big ShakeOut and I",
+    "start": 822.36,
+    "duration": 4.479
+  },
+  {
+    "text": "mean it could last longer than than you",
+    "start": 824.92,
+    "duration": 3.159
+  },
+  {
+    "text": "know the Bulls are comfortable and",
+    "start": 826.839,
+    "duration": 2.601
+  },
+  {
+    "text": "that's what I'm being prepared for right",
+    "start": 828.079,
+    "duration": 3.841
+  },
+  {
+    "text": "now um but I I think again this is a",
+    "start": 829.44,
+    "duration": 4.48
+  },
+  {
+    "text": "commodity super cycle and and it's",
+    "start": 831.92,
+    "duration": 5.08
+  },
+  {
+    "text": "really been sort of a Domino's fall",
+    "start": 833.92,
+    "duration": 5.479
+  },
+  {
+    "text": "falling uh you got gold made the move",
+    "start": 837.0,
+    "duration": 4.48
+  },
+  {
+    "text": "copper made the move silver made the",
+    "start": 839.399,
+    "duration": 4.601
+  },
+  {
+    "text": "move and you know platinum and padium",
+    "start": 841.48,
+    "duration": 4.4
+  },
+  {
+    "text": "which which are also significantly under",
+    "start": 844.0,
+    "duration": 3.079
+  },
+  {
+    "text": "supplied and they're going to get",
+    "start": 845.88,
+    "duration": 2.44
+  },
+  {
+    "text": "Tighter and Tighter here in the coming",
+    "start": 847.079,
+    "duration": 3.601
+  },
+  {
+    "text": "year or two um have have really",
+    "start": 848.32,
+    "duration": 4.56
+  },
+  {
+    "text": "underperformed in in the in the recent",
+    "start": 850.68,
+    "duration": 4.56
+  },
+  {
+    "text": "uh recent move so I would I would think",
+    "start": 852.88,
+    "duration": 4.28
+  },
+  {
+    "text": "that we could see something from from uh",
+    "start": 855.24,
+    "duration": 3.719
+  },
+  {
+    "text": "platinum and plaum in the you know the",
+    "start": 857.16,
+    "duration": 3.479
+  },
+  {
+    "text": "next few months before this end of the",
+    "start": 858.959,
+    "duration": 3.761
+  },
+  {
+    "text": "year I'm I'm also involved in in",
+    "start": 860.639,
+    "duration": 3.481
+  },
+  {
+    "text": "aluminum I mean when you when you hear",
+    "start": 862.72,
+    "duration": 3.08
+  },
+  {
+    "text": "about copper involved in data centers",
+    "start": 864.12,
+    "duration": 3.8
+  },
+  {
+    "text": "aluminum is also a Catal you know data",
+    "start": 865.8,
+    "duration": 5.0
+  },
+  {
+    "text": "centers are also utilize aluminum too",
+    "start": 867.92,
+    "duration": 4.08
+  },
+  {
+    "text": "and aluminum's performed a bit better",
+    "start": 870.8,
+    "duration": 2.839
+  },
+  {
+    "text": "than platinum and plaum and has had",
+    "start": 872.0,
+    "duration": 3.8
+  },
+  {
+    "text": "quite a bit of a move of late but it's",
+    "start": 873.639,
+    "duration": 4.56
+  },
+  {
+    "text": "still it's still under undervalued",
+    "start": 875.8,
+    "duration": 3.64
+  },
+  {
+    "text": "relative to the some of the all-time",
+    "start": 878.199,
+    "duration": 3.241
+  },
+  {
+    "text": "highs that had seen right and you know",
+    "start": 879.44,
+    "duration": 4.0
+  },
+  {
+    "text": "we've seen that volatility even within",
+    "start": 881.44,
+    "duration": 3.8
+  },
+  {
+    "text": "the silver space and the EV Market",
+    "start": 883.44,
+    "duration": 3.639
+  },
+  {
+    "text": "talking a little bit about those Metals",
+    "start": 885.24,
+    "duration": 4.2
+  },
+  {
+    "text": "we see ev demand go down and of course",
+    "start": 887.079,
+    "duration": 4.56
+  },
+  {
+    "text": "copper gets hit a little bit talk to me",
+    "start": 889.44,
+    "duration": 4.199
+  },
+  {
+    "text": "though about platinum and padium because",
+    "start": 891.639,
+    "duration": 3.401
+  },
+  {
+    "text": "the catalytic converters when we talk",
+    "start": 893.639,
+    "duration": 2.961
+  },
+  {
+    "text": "about hybrid cards they're really not",
+    "start": 895.04,
+    "duration": 5.799
+  },
+  {
+    "text": "going away so is this one",
+    "start": 896.6,
+    "duration": 8.039
+  },
+  {
+    "text": "next yeah I mean I I am a believer in uh",
+    "start": 900.839,
+    "duration": 5.321
+  },
+  {
+    "text": "you know in the hybrid as as something",
+    "start": 904.639,
+    "duration": 3.241
+  },
+  {
+    "text": "that's going to be continued to um you",
+    "start": 906.16,
+    "duration": 4.359
+  },
+  {
+    "text": "know be more dominant you know listen I",
+    "start": 907.88,
+    "duration": 4.28
+  },
+  {
+    "text": "run a registered investment adviser run",
+    "start": 910.519,
+    "duration": 4.12
+  },
+  {
+    "text": "a run a wealth portfolio um company as",
+    "start": 912.16,
+    "duration": 4.16
+  },
+  {
+    "text": "well called Blue Line capital and yet we",
+    "start": 914.639,
+    "duration": 3.44
+  },
+  {
+    "text": "own Tesla in there it's not a major",
+    "start": 916.32,
+    "duration": 3.84
+  },
+  {
+    "text": "position but you know people ask me you",
+    "start": 918.079,
+    "duration": 4.44
+  },
+  {
+    "text": "know are you a believer in and uh you",
+    "start": 920.16,
+    "duration": 5.96
+  },
+  {
+    "text": "know full fley EV um you know and you",
+    "start": 922.519,
+    "duration": 6.56
+  },
+  {
+    "text": "know so overall um I'm not I mean I'm",
+    "start": 926.12,
+    "duration": 4.92
+  },
+  {
+    "text": "not somebody that thinks that 20 to 30",
+    "start": 929.079,
+    "duration": 4.0
+  },
+  {
+    "text": "years from now that that we're going to",
+    "start": 931.04,
+    "duration": 4.599
+  },
+  {
+    "text": "go all EV every car you drive out there",
+    "start": 933.079,
+    "duration": 4.641
+  },
+  {
+    "text": "is going to be EV that that's not what I",
+    "start": 935.639,
+    "duration": 3.721
+  },
+  {
+    "text": "believe and I do believe that hybrids G",
+    "start": 937.72,
+    "duration": 4.119
+  },
+  {
+    "text": "become more more more prominent um you",
+    "start": 939.36,
+    "duration": 3.919
+  },
+  {
+    "text": "know I think it's G to take a while I",
+    "start": 941.839,
+    "duration": 3.44
+  },
+  {
+    "text": "think petroleum you know runs the world",
+    "start": 943.279,
+    "duration": 4.281
+  },
+  {
+    "text": "and you know if we're not going to move",
+    "start": 945.279,
+    "duration": 4.36
+  },
+  {
+    "text": "away from petroleum and that's that's",
+    "start": 947.56,
+    "duration": 3.24
+  },
+  {
+    "text": "something that people have to come to",
+    "start": 949.639,
+    "duration": 3.161
+  },
+  {
+    "text": "terms with um you know at the end of the",
+    "start": 950.8,
+    "duration": 4.12
+  },
+  {
+    "text": "day though you know I think the fact",
+    "start": 952.8,
+    "duration": 3.56
+  },
+  {
+    "text": "that hybrids are going to be more",
+    "start": 954.92,
+    "duration": 3.68
+  },
+  {
+    "text": "relevant than forecasted a year ago and",
+    "start": 956.36,
+    "duration": 3.919
+  },
+  {
+    "text": "two years ago because of the because of",
+    "start": 958.6,
+    "duration": 3.679
+  },
+  {
+    "text": "the projections of governments using uh",
+    "start": 960.279,
+    "duration": 3.841
+  },
+  {
+    "text": "pushing towards EVS that could be a",
+    "start": 962.279,
+    "duration": 4.201
+  },
+  {
+    "text": "catalyst and it takes time for bigger or",
+    "start": 964.12,
+    "duration": 4.44
+  },
+  {
+    "text": "larger narratives to to play out so it",
+    "start": 966.48,
+    "duration": 3.64
+  },
+  {
+    "text": "does get me excited for platinum and",
+    "start": 968.56,
+    "duration": 3.32
+  },
+  {
+    "text": "plaum in in the coming months the coming",
+    "start": 970.12,
+    "duration": 3.76
+  },
+  {
+    "text": "year or two yeah bill you talked a",
+    "start": 971.88,
+    "duration": 3.6
+  },
+  {
+    "text": "little bit about Tesla when you talk",
+    "start": 973.88,
+    "duration": 3.92
+  },
+  {
+    "text": "about your fund before I let you go here",
+    "start": 975.48,
+    "duration": 4.32
+  },
+  {
+    "text": "I give our audience maybe a couple of",
+    "start": 977.8,
+    "duration": 3.519
+  },
+  {
+    "text": "takes on the equity side is there",
+    "start": 979.8,
+    "duration": 2.959
+  },
+  {
+    "text": "anything you're watching in this market",
+    "start": 981.319,
+    "duration": 3.041
+  },
+  {
+    "text": "that might be a really good trade here",
+    "start": 982.759,
+    "duration": 4.2
+  },
+  {
+    "text": "in the next while well it's really tough",
+    "start": 984.36,
+    "duration": 4.2
+  },
+  {
+    "text": "to say I mean so so we're recording this",
+    "start": 986.959,
+    "duration": 2.8
+  },
+  {
+    "text": "uh Wednesday Wednesday afternoon we set",
+    "start": 988.56,
+    "duration": 3.079
+  },
+  {
+    "text": "the FED minutes out and in about two",
+    "start": 989.759,
+    "duration": 3.56
+  },
+  {
+    "text": "hours we're going to have uh Nvidia it's",
+    "start": 991.639,
+    "duration": 3.76
+  },
+  {
+    "text": "going to report now I'm a Believer all",
+    "start": 993.319,
+    "duration": 4.44
+  },
+  {
+    "text": "all roads lead to envidia you you look",
+    "start": 995.399,
+    "duration": 4.961
+  },
+  {
+    "text": "at the uh it's one of our top Holdings",
+    "start": 997.759,
+    "duration": 4.121
+  },
+  {
+    "text": "and uh but you know you never know what",
+    "start": 1000.36,
+    "duration": 2.64
+  },
+  {
+    "text": "you get from this earnings report",
+    "start": 1001.88,
+    "duration": 3.439
+  },
+  {
+    "text": "although I'm pretty optimistic about it",
+    "start": 1003.0,
+    "duration": 5.04
+  },
+  {
+    "text": "um at the end of the day uh you see",
+    "start": 1005.319,
+    "duration": 4.161
+  },
+  {
+    "text": "these hyperscalers you know they're",
+    "start": 1008.04,
+    "duration": 4.12
+  },
+  {
+    "text": "spending you know a ton of money uh on",
+    "start": 1009.48,
+    "duration": 5.32
+  },
+  {
+    "text": "investing in AI um one of the ones that",
+    "start": 1012.16,
+    "duration": 4.359
+  },
+  {
+    "text": "I I love that hasn't spent a lot and",
+    "start": 1014.8,
+    "duration": 3.159
+  },
+  {
+    "text": "hasn't come out with with a ton on the",
+    "start": 1016.519,
+    "duration": 3.56
+  },
+  {
+    "text": "AI side just is Apple we're starting to",
+    "start": 1017.959,
+    "duration": 3.961
+  },
+  {
+    "text": "see some some news trickle out but the",
+    "start": 1020.079,
+    "duration": 3.841
+  },
+  {
+    "text": "spending is continuing to increase and",
+    "start": 1021.92,
+    "duration": 3.399
+  },
+  {
+    "text": "and it's going to Nvidia so that's",
+    "start": 1023.92,
+    "duration": 3.36
+  },
+  {
+    "text": "something to keep it keep an eye on uh",
+    "start": 1025.319,
+    "duration": 4.921
+  },
+  {
+    "text": "as they need more gpus and as as AI",
+    "start": 1027.28,
+    "duration": 5.559
+  },
+  {
+    "text": "becomes more relevant that leads back to",
+    "start": 1030.24,
+    "duration": 4.28
+  },
+  {
+    "text": "Copper leads back to Copper leads back",
+    "start": 1032.839,
+    "duration": 3.08
+  },
+  {
+    "text": "to aluminum those are Tailwinds for",
+    "start": 1034.52,
+    "duration": 3.519
+  },
+  {
+    "text": "silver so it's just one big circle it",
+    "start": 1035.919,
+    "duration": 4.081
+  },
+  {
+    "text": "really is and uh you know I think that's",
+    "start": 1038.039,
+    "duration": 3.081
+  },
+  {
+    "text": "that's the way got to look at it there's",
+    "start": 1040.0,
+    "duration": 3.12
+  },
+  {
+    "text": "so much you know rather than giving",
+    "start": 1041.12,
+    "duration": 3.839
+  },
+  {
+    "text": "giving you a trade Right Here Right Now",
+    "start": 1043.12,
+    "duration": 5.079
+  },
+  {
+    "text": "the the idea is is it's uh this world",
+    "start": 1044.959,
+    "duration": 4.441
+  },
+  {
+    "text": "and the demand",
+    "start": 1048.199,
+    "duration": 3.681
+  },
+  {
+    "text": "that we see of Commodities and what",
+    "start": 1049.4,
+    "duration": 4.12
+  },
+  {
+    "text": "these what these companies are doing",
+    "start": 1051.88,
+    "duration": 3.88
+  },
+  {
+    "text": "it's much more intertwined than you may",
+    "start": 1053.52,
+    "duration": 4.24
+  },
+  {
+    "text": "think yeah it almost feels like people",
+    "start": 1055.76,
+    "duration": 3.68
+  },
+  {
+    "text": "are just now getting educated on the",
+    "start": 1057.76,
+    "duration": 3.76
+  },
+  {
+    "text": "energy front when it comes to EVS things",
+    "start": 1059.44,
+    "duration": 3.64
+  },
+  {
+    "text": "like this that you know we're not",
+    "start": 1061.52,
+    "duration": 3.44
+  },
+  {
+    "text": "transitioning that quick and there's",
+    "start": 1063.08,
+    "duration": 4.92
+  },
+  {
+    "text": "still a long ways to go with this this",
+    "start": 1064.96,
+    "duration": 5.16
+  },
+  {
+    "text": "transition yeah yeah I I mean I think",
+    "start": 1068.0,
+    "duration": 4.32
+  },
+  {
+    "text": "it's it's quite a it's the transition's",
+    "start": 1070.12,
+    "duration": 3.6
+  },
+  {
+    "text": "taking place a bit I mean I think",
+    "start": 1072.32,
+    "duration": 2.359
+  },
+  {
+    "text": "there's there's going to be a lot of",
+    "start": 1073.72,
+    "duration": 2.68
+  },
+  {
+    "text": "hurdles like I said I I don't think",
+    "start": 1074.679,
+    "duration": 4.24
+  },
+  {
+    "text": "we're going to see a a transition to the",
+    "start": 1076.4,
+    "duration": 4.08
+  },
+  {
+    "text": "degree that that people people are",
+    "start": 1078.919,
+    "duration": 2.76
+  },
+  {
+    "text": "expecting it's going to be now it's",
+    "start": 1080.48,
+    "duration": 3.439
+  },
+  {
+    "text": "going to be a a hybrid transition that",
+    "start": 1081.679,
+    "duration": 4.401
+  },
+  {
+    "text": "that that's what we're looking for uh",
+    "start": 1083.919,
+    "duration": 3.841
+  },
+  {
+    "text": "and you know it's G to take a lot longer",
+    "start": 1086.08,
+    "duration": 4.0
+  },
+  {
+    "text": "than people expect a lot longer",
+    "start": 1087.76,
+    "duration": 4.279
+  },
+  {
+    "text": "hopefully good for plat too hey thanks",
+    "start": 1090.08,
+    "duration": 3.959
+  },
+  {
+    "text": "bud uh Bill baroo coming on president of",
+    "start": 1092.039,
+    "duration": 3.76
+  },
+  {
+    "text": "Blue Line Futures joining us today I",
+    "start": 1094.039,
+    "duration": 3.601
+  },
+  {
+    "text": "appreciate your Insight onto this uh",
+    "start": 1095.799,
+    "duration": 4.041
+  },
+  {
+    "text": "best of luck hopefully tomorrow's a good",
+    "start": 1097.64,
+    "duration": 4.919
+  },
+  {
+    "text": "day yeah yeah hope you finish the this",
+    "start": 1099.84,
+    "duration": 4.16
+  },
+  {
+    "text": "is just a little ShakeOut the medals",
+    "start": 1102.559,
+    "duration": 3.321
+  },
+  {
+    "text": "love to do it manage your risk if you're",
+    "start": 1104.0,
+    "duration": 4.08
+  },
+  {
+    "text": "involved um you know at the Futures",
+    "start": 1105.88,
+    "duration": 4.24
+  },
+  {
+    "text": "that's what we help clients do yeah and",
+    "start": 1108.08,
+    "duration": 3.4
+  },
+  {
+    "text": "Everyone likes to take a little profit",
+    "start": 1110.12,
+    "duration": 4.24
+  },
+  {
+    "text": "it's healthy yeah it's true I appreciate",
+    "start": 1111.48,
+    "duration": 4.96
+  },
+  {
+    "text": "it thanks so much I'm jery saffron for",
+    "start": 1114.36,
+    "duration": 3.72
+  },
+  {
+    "text": "all of us here at kcko news thank you",
+    "start": 1116.44,
+    "duration": 3.32
+  },
+  {
+    "text": "for watching we've got lots of great",
+    "start": 1118.08,
+    "duration": 3.68
+  },
+  {
+    "text": "content to come so be sure to hit that",
+    "start": 1119.76,
+    "duration": 3.56
+  },
+  {
+    "text": "notify button and we'll see you next",
+    "start": 1121.76,
+    "duration": 4.56
+  },
+  {
+    "text": "time",
+    "start": 1123.32,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 1130.51,
+    "duration": 5.049
+  }
+]

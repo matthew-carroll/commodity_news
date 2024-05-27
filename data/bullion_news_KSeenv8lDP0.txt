@@ -1,0 +1,1062 @@
+[
+  {
+    "text": "I've honored my promise to my dad and I",
+    "start": 0.24,
+    "duration": 4.44
+  },
+  {
+    "text": "buy something every two weeks I have for",
+    "start": 3.04,
+    "duration": 4.52
+  },
+  {
+    "text": "33 years I have never not once missed a",
+    "start": 4.68,
+    "duration": 5.08
+  },
+  {
+    "text": "two-e period ever where I didn't",
+    "start": 7.56,
+    "duration": 4.239
+  },
+  {
+    "text": "accumulate some gold or silver when we",
+    "start": 9.76,
+    "duration": 4.759
+  },
+  {
+    "text": "got paid and to me I have always looked",
+    "start": 11.799,
+    "duration": 5.841
+  },
+  {
+    "text": "at it as wealth it's not an investment",
+    "start": 14.519,
+    "duration": 4.881
+  },
+  {
+    "text": "to me and it's it's wealth that has",
+    "start": 17.64,
+    "duration": 3.559
+  },
+  {
+    "text": "outlived two world wars German",
+    "start": 19.4,
+    "duration": 3.84
+  },
+  {
+    "text": "hyperinflation the Great Depression",
+    "start": 21.199,
+    "duration": 3.721
+  },
+  {
+    "text": "every pandemic anything the world has",
+    "start": 23.24,
+    "duration": 3.879
+  },
+  {
+    "text": "ever thrown at it frankly which leads us",
+    "start": 24.92,
+    "duration": 5.119
+  },
+  {
+    "text": "to today where over the last 18 months",
+    "start": 27.119,
+    "duration": 4.801
+  },
+  {
+    "text": "the central banks the most well-funded",
+    "start": 30.039,
+    "duration": 4.641
+  },
+  {
+    "text": "and well informed Traders on the planet",
+    "start": 31.92,
+    "duration": 4.68
+  },
+  {
+    "text": "have bought more than they ever have in",
+    "start": 34.68,
+    "duration": 5.44
+  },
+  {
+    "text": "history and so they find it to be",
+    "start": 36.6,
+    "duration": 6.72
+  },
+  {
+    "text": "significant but what opened up my eyes",
+    "start": 40.12,
+    "duration": 8.119
+  },
+  {
+    "text": "is an event that happened in 2019 and it",
+    "start": 43.32,
+    "duration": 7.64
+  },
+  {
+    "text": "really started opening my eyes in 2017",
+    "start": 48.239,
+    "duration": 4.921
+  },
+  {
+    "text": "and in all of the public speaking I was",
+    "start": 50.96,
+    "duration": 5.36
+  },
+  {
+    "text": "doing I would talk about what started to",
+    "start": 53.16,
+    "duration": 7.32
+  },
+  {
+    "text": "happen in 2017 in 2017 we had witnessed",
+    "start": 56.32,
+    "duration": 6.559
+  },
+  {
+    "text": "6 years of a downd drafting Market where",
+    "start": 60.48,
+    "duration": 4.6
+  },
+  {
+    "text": "the price of gold and silver from its",
+    "start": 62.879,
+    "duration": 3.321
+  },
+  {
+    "text": "high",
+    "start": 65.08,
+    "duration": 3.8
+  },
+  {
+    "text": "$1,915 in gold and just about 50 bucks",
+    "start": 66.2,
+    "duration": 4.88
+  },
+  {
+    "text": "in silver in 2011 from that point",
+    "start": 68.88,
+    "duration": 3.8
+  },
+  {
+    "text": "forward for the next six years it",
+    "start": 71.08,
+    "duration": 4.28
+  },
+  {
+    "text": "drafted downwards and by 2017 I wanted",
+    "start": 72.68,
+    "duration": 4.4
+  },
+  {
+    "text": "to hide under my desk but just not come",
+    "start": 75.36,
+    "duration": 3.96
+  },
+  {
+    "text": "into the office because For the first",
+    "start": 77.08,
+    "duration": 5.24
+  },
+  {
+    "text": "time in my career everyone was selling",
+    "start": 79.32,
+    "duration": 5.36
+  },
+  {
+    "text": "what was typically one out of a 100",
+    "start": 82.32,
+    "duration": 5.56
+  },
+  {
+    "text": "transactions was now 65% of everyone's",
+    "start": 84.68,
+    "duration": 5.399
+  },
+  {
+    "text": "business in this industry where people",
+    "start": 87.88,
+    "duration": 5.199
+  },
+  {
+    "text": "selling aggravated that gold didn't live",
+    "start": 90.079,
+    "duration": 6.841
+  },
+  {
+    "text": "up to its reputation as a cut from the",
+    "start": 93.079,
+    "duration": 6.04
+  },
+  {
+    "text": "same cloth as Bitcoin as Bitcoin soared",
+    "start": 96.92,
+    "duration": 4.4
+  },
+  {
+    "text": "to the heavens and the the stock market",
+    "start": 99.119,
+    "duration": 4.881
+  },
+  {
+    "text": "having no gravitational pull continued",
+    "start": 101.32,
+    "duration": 5.68
+  },
+  {
+    "text": "to move higher and people capitulated",
+    "start": 104.0,
+    "duration": 5.759
+  },
+  {
+    "text": "yet in 20 uh 2017 something very",
+    "start": 107.0,
+    "duration": 4.88
+  },
+  {
+    "text": "interesting happened as all of this",
+    "start": 109.759,
+    "duration": 5.121
+  },
+  {
+    "text": "anti-gold rhetoric was was fluttering",
+    "start": 111.88,
+    "duration": 5.919
+  },
+  {
+    "text": "Around The Ether the German bundis Bank",
+    "start": 114.88,
+    "duration": 5.44
+  },
+  {
+    "text": "who had tried for 3 years to get a gold",
+    "start": 117.799,
+    "duration": 6.0
+  },
+  {
+    "text": "back made a very public disclosure",
+    "start": 120.32,
+    "duration": 5.64
+  },
+  {
+    "text": "demanding that the FED send it back its",
+    "start": 123.799,
+    "duration": 5.041
+  },
+  {
+    "text": "gold now I this caught my attention why",
+    "start": 125.96,
+    "duration": 4.88
+  },
+  {
+    "text": "is the bundas bank repatriating their",
+    "start": 128.84,
+    "duration": 4.8
+  },
+  {
+    "text": "gold when all central banks have been",
+    "start": 130.84,
+    "duration": 5.16
+  },
+  {
+    "text": "selling gold the last several years and",
+    "start": 133.64,
+    "duration": 4.0
+  },
+  {
+    "text": "what really caught my eye is that within",
+    "start": 136.0,
+    "duration": 3.239
+  },
+  {
+    "text": "a few months of that happening the bank",
+    "start": 137.64,
+    "duration": 3.76
+  },
+  {
+    "text": "of Austria Poland Hungary the Czech",
+    "start": 139.239,
+    "duration": 4.241
+  },
+  {
+    "text": "National Bank the Dutch National Bank",
+    "start": 141.4,
+    "duration": 3.919
+  },
+  {
+    "text": "all of these Eastern European Banks did",
+    "start": 143.48,
+    "duration": 3.88
+  },
+  {
+    "text": "the same thing they requested their gold",
+    "start": 145.319,
+    "duration": 3.56
+  },
+  {
+    "text": "back from the New York fed and the bank",
+    "start": 147.36,
+    "duration": 3.159
+  },
+  {
+    "text": "of England and they made it fairly",
+    "start": 148.879,
+    "duration": 4.801
+  },
+  {
+    "text": "public the following year in 2018 those",
+    "start": 150.519,
+    "duration": 5.121
+  },
+  {
+    "text": "same Banks bought more gold as a group",
+    "start": 153.68,
+    "duration": 3.839
+  },
+  {
+    "text": "than they did in the 60 years previously",
+    "start": 155.64,
+    "duration": 3.959
+  },
+  {
+    "text": "combined I'm talking about this all over",
+    "start": 157.519,
+    "duration": 4.201
+  },
+  {
+    "text": "the place uh it was 2019 when I started",
+    "start": 159.599,
+    "duration": 5.041
+  },
+  {
+    "text": "doing YouTubes and it was because here",
+    "start": 161.72,
+    "duration": 4.76
+  },
+  {
+    "text": "after this massive acquisition and",
+    "start": 164.64,
+    "duration": 3.8
+  },
+  {
+    "text": "repatriation by the most well-informed",
+    "start": 166.48,
+    "duration": 4.0
+  },
+  {
+    "text": "Traders on the planet they doubled that",
+    "start": 168.44,
+    "duration": 5.079
+  },
+  {
+    "text": "amount in 2019 and out of nowhere I'm",
+    "start": 170.48,
+    "duration": 5.36
+  },
+  {
+    "text": "sure there was no coincidence in this",
+    "start": 173.519,
+    "duration": 4.0
+  },
+  {
+    "text": "the bank of international settlements",
+    "start": 175.84,
+    "duration": 3.28
+  },
+  {
+    "text": "which is the central bank or Central",
+    "start": 177.519,
+    "duration": 3.0
+  },
+  {
+    "text": "Bank the",
+    "start": 179.12,
+    "duration": 3.839
+  },
+  {
+    "text": "the most influential Bank on the planet",
+    "start": 180.519,
+    "duration": 4.36
+  },
+  {
+    "text": "reclassify gold as the world's only",
+    "start": 182.959,
+    "duration": 5.481
+  },
+  {
+    "text": "other tier one Reserve asset in essence",
+    "start": 184.879,
+    "duration": 5.601
+  },
+  {
+    "text": "and so since the end of World War II",
+    "start": 188.44,
+    "duration": 4.719
+  },
+  {
+    "text": "there's been one tier one US Dollars and",
+    "start": 190.48,
+    "duration": 5.36
+  },
+  {
+    "text": "treasuries gold was always a tier three",
+    "start": 193.159,
+    "duration": 5.561
+  },
+  {
+    "text": "asset where only 50% was calculated on",
+    "start": 195.84,
+    "duration": 4.44
+  },
+  {
+    "text": "the balance sheet which would denigrate",
+    "start": 198.72,
+    "duration": 3.64
+  },
+  {
+    "text": "your balance sheet would inhibit the",
+    "start": 200.28,
+    "duration": 4.56
+  },
+  {
+    "text": "ability to do things with a full balance",
+    "start": 202.36,
+    "duration": 5.439
+  },
+  {
+    "text": "sheet here only 50% was was calculated",
+    "start": 204.84,
+    "duration": 5.28
+  },
+  {
+    "text": "on the balance sheet and and so Central",
+    "start": 207.799,
+    "duration": 4.16
+  },
+  {
+    "text": "Bankers you know they didn't want to own",
+    "start": 210.12,
+    "duration": 3.679
+  },
+  {
+    "text": "it it it was denigrating their balance",
+    "start": 211.959,
+    "duration": 3.601
+  },
+  {
+    "text": "sheet it cost money to store it earned",
+    "start": 213.799,
+    "duration": 3.881
+  },
+  {
+    "text": "no interest so they would sell it in",
+    "start": 215.56,
+    "duration": 4.759
+  },
+  {
+    "text": "favor of treasuries or in favor of",
+    "start": 217.68,
+    "duration": 4.88
+  },
+  {
+    "text": "equities or whatever was doing better",
+    "start": 220.319,
+    "duration": 6.12
+  },
+  {
+    "text": "and all of a sudden now it's a tier one",
+    "start": 222.56,
+    "duration": 6.319
+  },
+  {
+    "text": "and the banks had been buying it for the",
+    "start": 226.439,
+    "duration": 4.761
+  },
+  {
+    "text": "last 2 and a half years before this and",
+    "start": 228.879,
+    "duration": 5.08
+  },
+  {
+    "text": "repatriating it now something's going on",
+    "start": 231.2,
+    "duration": 5.48
+  },
+  {
+    "text": "and so there's only one other tier one",
+    "start": 233.959,
+    "duration": 4.721
+  },
+  {
+    "text": "asset according to the the most",
+    "start": 236.68,
+    "duration": 3.919
+  },
+  {
+    "text": "influential Traders on the planet other",
+    "start": 238.68,
+    "duration": 4.399
+  },
+  {
+    "text": "than us dollarss and treasuries and that",
+    "start": 240.599,
+    "duration": 4.801
+  },
+  {
+    "text": "is gold and when you look at gold that",
+    "start": 243.079,
+    "duration": 4.481
+  },
+  {
+    "text": "has been acquired by the Banks pretty",
+    "start": 245.4,
+    "duration": 5.16
+  },
+  {
+    "text": "much non-stop since 2017 there's no",
+    "start": 247.56,
+    "duration": 5.519
+  },
+  {
+    "text": "coincidence to me that last year or the",
+    "start": 250.56,
+    "duration": 4.599
+  },
+  {
+    "text": "last 15 months they've bought more than",
+    "start": 253.079,
+    "duration": 6.081
+  },
+  {
+    "text": "at any time in history this to me is the",
+    "start": 255.159,
+    "duration": 7.361
+  },
+  {
+    "text": "underlining why is that gold is wealth",
+    "start": 259.16,
+    "duration": 5.44
+  },
+  {
+    "text": "gold is money and gold is viewed that",
+    "start": 262.52,
+    "duration": 4.16
+  },
+  {
+    "text": "way by the most influential players on",
+    "start": 264.6,
+    "duration": 4.2
+  },
+  {
+    "text": "the planet they use the Western",
+    "start": 266.68,
+    "duration": 4.519
+  },
+  {
+    "text": "suppression of comx in order to run",
+    "start": 268.8,
+    "duration": 4.8
+  },
+  {
+    "text": "cover for their acquisition if I want to",
+    "start": 271.199,
+    "duration": 5.401
+  },
+  {
+    "text": "buy a comx contract which is 100 ounces",
+    "start": 273.6,
+    "duration": 5.2
+  },
+  {
+    "text": "to hedge my position in my in my",
+    "start": 276.6,
+    "duration": 4.84
+  },
+  {
+    "text": "warehouse I only need $7,000 or",
+    "start": 278.8,
+    "duration": 4.8
+  },
+  {
+    "text": "thereabouts in my margin account and I",
+    "start": 281.44,
+    "duration": 4.599
+  },
+  {
+    "text": "control nearly 200,000 worth of gold if",
+    "start": 283.6,
+    "duration": 4.439
+  },
+  {
+    "text": "I am a commercial bank or a central bank",
+    "start": 286.039,
+    "duration": 4.201
+  },
+  {
+    "text": "with 500 million in my margin account I",
+    "start": 288.039,
+    "duration": 5.641
+  },
+  {
+    "text": "control 15 billion worth of gold on comx",
+    "start": 290.24,
+    "duration": 5.92
+  },
+  {
+    "text": "I can create any perception of reality I",
+    "start": 293.68,
+    "duration": 4.12
+  },
+  {
+    "text": "want and that is exactly what has",
+    "start": 296.16,
+    "duration": 3.599
+  },
+  {
+    "text": "happened for a very long time there's a",
+    "start": 297.8,
+    "duration": 3.959
+  },
+  {
+    "text": "term in economics called Gibson's",
+    "start": 299.759,
+    "duration": 3.801
+  },
+  {
+    "text": "Paradox which which speaks to the",
+    "start": 301.759,
+    "duration": 4.16
+  },
+  {
+    "text": "inverse relationship between real",
+    "start": 303.56,
+    "duration": 4.479
+  },
+  {
+    "text": "interest rates which have been horrible",
+    "start": 305.919,
+    "duration": 3.84
+  },
+  {
+    "text": "and the price of gold and if you are",
+    "start": 308.039,
+    "duration": 4.801
+  },
+  {
+    "text": "going to maintain super low manipulated",
+    "start": 309.759,
+    "duration": 5.481
+  },
+  {
+    "text": "interest rates to create a perception or",
+    "start": 312.84,
+    "duration": 4.56
+  },
+  {
+    "text": "an illusion of prosperity that we did",
+    "start": 315.24,
+    "duration": 4.679
+  },
+  {
+    "text": "for so long then you have to step on the",
+    "start": 317.4,
+    "duration": 5.32
+  },
+  {
+    "text": "canary in the Min shaft and that was the",
+    "start": 319.919,
+    "duration": 5.481
+  },
+  {
+    "text": "price of gold and yet all of a sudden",
+    "start": 322.72,
+    "duration": 4.72
+  },
+  {
+    "text": "the most influential well-funded banks",
+    "start": 325.4,
+    "duration": 4.6
+  },
+  {
+    "text": "on the planet are not only buying it at",
+    "start": 327.44,
+    "duration": 4.64
+  },
+  {
+    "text": "levels they had never we had never seen",
+    "start": 330.0,
+    "duration": 4.52
+  },
+  {
+    "text": "before but they were repatriating it",
+    "start": 332.08,
+    "duration": 5.679
+  },
+  {
+    "text": "from the exchanges and the Western",
+    "start": 334.52,
+    "duration": 7.239
+  },
+  {
+    "text": "central banks so to me on a very very",
+    "start": 337.759,
+    "duration": 6.681
+  },
+  {
+    "text": "very basic level that's why people need",
+    "start": 341.759,
+    "duration": 5.241
+  },
+  {
+    "text": "to own it because the most influential",
+    "start": 344.44,
+    "duration": 4.52
+  },
+  {
+    "text": "well-funded well-informed Traders on the",
+    "start": 347.0,
+    "duration": 3.759
+  },
+  {
+    "text": "globe say one thing and are doing the",
+    "start": 348.96,
+    "duration": 4.0
+  },
+  {
+    "text": "other and accumulating it as if it is",
+    "start": 350.759,
+    "duration": 4.56
+  },
+  {
+    "text": "really important so on a very generic",
+    "start": 352.96,
+    "duration": 3.679
+  },
+  {
+    "text": "basic level the biggest money in the",
+    "start": 355.319,
+    "duration": 3.561
+  },
+  {
+    "text": "world says you should Own It by their",
+    "start": 356.639,
+    "duration": 4.521
+  },
+  {
+    "text": "actions less by their words and they're",
+    "start": 358.88,
+    "duration": 4.879
+  },
+  {
+    "text": "using manipulated price to run cover for",
+    "start": 361.16,
+    "duration": 4.599
+  },
+  {
+    "text": "their dollarization and their",
+    "start": 363.759,
+    "duration": 4.241
+  },
+  {
+    "text": "acquisition that's why you need to own",
+    "start": 365.759,
+    "duration": 4.16
+  },
+  {
+    "text": "if the paper Market still is the tail",
+    "start": 368.0,
+    "duration": 4.12
+  },
+  {
+    "text": "wagging the dog no question about it but",
+    "start": 369.919,
+    "duration": 5.56
+  },
+  {
+    "text": "I could argue it's losing its ability to",
+    "start": 372.12,
+    "duration": 5.32
+  },
+  {
+    "text": "continue to do this at a rapid Pace the",
+    "start": 375.479,
+    "duration": 4.361
+  },
+  {
+    "text": "London Metals exchange is a good example",
+    "start": 377.44,
+    "duration": 3.759
+  },
+  {
+    "text": "they have pretty darn close to the",
+    "start": 379.84,
+    "duration": 4.24
+  },
+  {
+    "text": "lowest amount of silver in the exchange",
+    "start": 381.199,
+    "duration": 5.361
+  },
+  {
+    "text": "that they've had in the 140e history of",
+    "start": 384.08,
+    "duration": 4.839
+  },
+  {
+    "text": "the exchange we've seen a massive bleed",
+    "start": 386.56,
+    "duration": 4.759
+  },
+  {
+    "text": "down in Golden silver off the comx",
+    "start": 388.919,
+    "duration": 6.521
+  },
+  {
+    "text": "market where in 2020 this group of of",
+    "start": 391.319,
+    "duration": 6.16
+  },
+  {
+    "text": "they're called the others on the comx",
+    "start": 395.44,
+    "duration": 4.039
+  },
+  {
+    "text": "they came out of nowhere in 2020 there",
+    "start": 397.479,
+    "duration": 3.28
+  },
+  {
+    "text": "used to only be two groups of",
+    "start": 399.479,
+    "duration": 2.84
+  },
+  {
+    "text": "reportables on what they call the",
+    "start": 400.759,
+    "duration": 3.88
+  },
+  {
+    "text": "commitment of Traders report every week",
+    "start": 402.319,
+    "duration": 4.201
+  },
+  {
+    "text": "The Exchange publishes the positioning",
+    "start": 404.639,
+    "duration": 3.601
+  },
+  {
+    "text": "of the largest Traders and it was always",
+    "start": 406.52,
+    "duration": 4.44
+  },
+  {
+    "text": "just the commercial Banks and the specs",
+    "start": 408.24,
+    "duration": 5.0
+  },
+  {
+    "text": "which would be the hedge funds that's it",
+    "start": 410.96,
+    "duration": 4.16
+  },
+  {
+    "text": "and then out of nowhere in 2020 they",
+    "start": 413.24,
+    "duration": 3.959
+  },
+  {
+    "text": "published a new group of reportables",
+    "start": 415.12,
+    "duration": 3.799
+  },
+  {
+    "text": "they call the others I believe they are",
+    "start": 417.199,
+    "duration": 3.72
+  },
+  {
+    "text": "sovereign wealthy funds and very",
+    "start": 418.919,
+    "duration": 3.96
+  },
+  {
+    "text": "well-to-do family offices who are",
+    "start": 420.919,
+    "duration": 3.801
+  },
+  {
+    "text": "draining the exchanges along with the",
+    "start": 422.879,
+    "duration": 4.681
+  },
+  {
+    "text": "central banks to the point where in one",
+    "start": 424.72,
+    "duration": 4.8
+  },
+  {
+    "text": "year in 2020 we saw more silver",
+    "start": 427.56,
+    "duration": 4.4
+  },
+  {
+    "text": "delivered than in a decade before",
+    "start": 429.52,
+    "duration": 5.16
+  },
+  {
+    "text": "combined they took more gold off in 2020",
+    "start": 431.96,
+    "duration": 4.88
+  },
+  {
+    "text": "than than the bank of Japan has in their",
+    "start": 434.68,
+    "duration": 4.639
+  },
+  {
+    "text": "official Holdings and these Trends both",
+    "start": 436.84,
+    "duration": 4.52
+  },
+  {
+    "text": "in what's called exchange for physical",
+    "start": 439.319,
+    "duration": 4.0
+  },
+  {
+    "text": "where you can buy a comx contract and",
+    "start": 441.36,
+    "duration": 4.16
+  },
+  {
+    "text": "exchange it for physical in London and",
+    "start": 443.319,
+    "duration": 5.681
+  },
+  {
+    "text": "or the bleeding down of the Comets is to",
+    "start": 445.52,
+    "duration": 5.359
+  },
+  {
+    "text": "the point where you're at the second",
+    "start": 449.0,
+    "duration": 3.72
+  },
+  {
+    "text": "lowest level of silver in the register",
+    "start": 450.879,
+    "duration": 3.76
+  },
+  {
+    "text": "category in the history of the comx and",
+    "start": 452.72,
+    "duration": 6.199
+  },
+  {
+    "text": "massive bleed Downs in Gold to in a",
+    "start": 454.639,
+    "duration": 6.641
+  },
+  {
+    "text": "market that was never designed to be a",
+    "start": 458.919,
+    "duration": 4.56
+  },
+  {
+    "text": "delivery mechanism this is why it's",
+    "start": 461.28,
+    "duration": 3.879
+  },
+  {
+    "text": "getting harder to suppress the price",
+    "start": 463.479,
+    "duration": 3.4
+  },
+  {
+    "text": "because when the price gets suppressed",
+    "start": 465.159,
+    "duration": 4.16
+  },
+  {
+    "text": "you have Sovereign Nations and Sovereign",
+    "start": 466.879,
+    "duration": 4.241
+  },
+  {
+    "text": "wealth funds that are standing there",
+    "start": 469.319,
+    "duration": 4.921
+  },
+  {
+    "text": "like okay we'll take delivery and so the",
+    "start": 471.12,
+    "duration": 6.28
+  },
+  {
+    "text": "delivery or the prospect of massive",
+    "start": 474.24,
+    "duration": 5.6
+  },
+  {
+    "text": "delivery off of the exchanges in an",
+    "start": 477.4,
+    "duration": 4.919
+  },
+  {
+    "text": "environment where the availability of",
+    "start": 479.84,
+    "duration": 5.12
+  },
+  {
+    "text": "metal is decreasing on these exchanges",
+    "start": 482.319,
+    "duration": 4.361
+  },
+  {
+    "text": "means we're getting closer and closer",
+    "start": 484.96,
+    "duration": 5.079
+  },
+  {
+    "text": "and closer to that moment look it's easy",
+    "start": 486.68,
+    "duration": 6.12
+  },
+  {
+    "text": "for these players to to manipulate a",
+    "start": 490.039,
+    "duration": 6.16
+  },
+  {
+    "text": "market by pushing it in the direction",
+    "start": 492.8,
+    "duration": 5.359
+  },
+  {
+    "text": "that it is going when nobody wanted gold",
+    "start": 496.199,
+    "duration": 4.4
+  },
+  {
+    "text": "and silver it was easy to suppress the",
+    "start": 498.159,
+    "duration": 4.201
+  },
+  {
+    "text": "price of gold now it becomes a very",
+    "start": 500.599,
+    "duration": 4.6
+  },
+  {
+    "text": "dangerous game",
+    "start": 502.36,
+    "duration": 2.839
+  }
+]
