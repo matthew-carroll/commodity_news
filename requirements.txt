@@ -1,2 +1,1 @@
 youtube-transcript-api
-googleapiclient
