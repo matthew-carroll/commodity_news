@@ -1,0 +1,1047 @@
+[
+  {
+    "text": "and I strongly urge people to listen to",
+    "start": 0.12,
+    "duration": 4.239
+  },
+  {
+    "text": "what I'm saying and to consider owning",
+    "start": 2.04,
+    "duration": 4.239
+  },
+  {
+    "text": "gold and silver as significant",
+    "start": 4.359,
+    "duration": 4.32
+  },
+  {
+    "text": "historical wealth and not rely upon a",
+    "start": 6.279,
+    "duration": 5.36
+  },
+  {
+    "text": "dollar which is at the end of its really",
+    "start": 8.679,
+    "duration": 7.0
+  },
+  {
+    "text": "its kenian Fiat experiment why are the",
+    "start": 11.639,
+    "duration": 5.64
+  },
+  {
+    "text": "super private and well-informed",
+    "start": 15.679,
+    "duration": 3.561
+  },
+  {
+    "text": "investors draining the London Metals",
+    "start": 17.279,
+    "duration": 3.801
+  },
+  {
+    "text": "exchange and comx of all its metal to",
+    "start": 19.24,
+    "duration": 3.6
+  },
+  {
+    "text": "where the London Metals exchange has the",
+    "start": 21.08,
+    "duration": 3.8
+  },
+  {
+    "text": "least amount of silver ever in the",
+    "start": 22.84,
+    "duration": 3.48
+  },
+  {
+    "text": "history of the exchange since they",
+    "start": 24.88,
+    "duration": 4.319
+  },
+  {
+    "text": "started taking records why as 70% of all",
+    "start": 26.32,
+    "duration": 5.4
+  },
+  {
+    "text": "the registered silver bin drained off of",
+    "start": 29.199,
+    "duration": 5.441
+  },
+  {
+    "text": "comx over the past 18 months why do we",
+    "start": 31.72,
+    "duration": 6.4
+  },
+  {
+    "text": "see in one day 45% of all the kilo bars",
+    "start": 34.64,
+    "duration": 7.599
+  },
+  {
+    "text": "in Gold 26 million ounces gone in one",
+    "start": 38.12,
+    "duration": 6.52
+  },
+  {
+    "text": "day delivered off of comx who's got that",
+    "start": 42.239,
+    "duration": 4.48
+  },
+  {
+    "text": "kind of bread why do we see two weeks",
+    "start": 44.64,
+    "duration": 4.52
+  },
+  {
+    "text": "after that 5% of all the 100 ooun gold",
+    "start": 46.719,
+    "duration": 5.921
+  },
+  {
+    "text": "bars on comx delivered off of comx when",
+    "start": 49.16,
+    "duration": 5.68
+  },
+  {
+    "text": "you deliver a bar off the comx exchange",
+    "start": 52.64,
+    "duration": 4.079
+  },
+  {
+    "text": "it's a one-way street because you no",
+    "start": 54.84,
+    "duration": 3.8
+  },
+  {
+    "text": "longer have the liquidity but we had",
+    "start": 56.719,
+    "duration": 3.721
+  },
+  {
+    "text": "some very large orders",
+    "start": 58.64,
+    "duration": 3.68
+  },
+  {
+    "text": "that some of them have become public",
+    "start": 60.44,
+    "duration": 4.24
+  },
+  {
+    "text": "because one of the clients that I did an",
+    "start": 62.32,
+    "duration": 3.92
+  },
+  {
+    "text": "order with wanted me to tell the world",
+    "start": 64.68,
+    "duration": 3.36
+  },
+  {
+    "text": "how difficult it was for her to get $50",
+    "start": 66.24,
+    "duration": 3.879
+  },
+  {
+    "text": "million out of the bank to place an",
+    "start": 68.04,
+    "duration": 4.119
+  },
+  {
+    "text": "order with us it took her almost 5 days",
+    "start": 70.119,
+    "duration": 4.161
+  },
+  {
+    "text": "and she wanted me to tell everyone that",
+    "start": 72.159,
+    "duration": 3.481
+  },
+  {
+    "text": "get your money out of the banks because",
+    "start": 74.28,
+    "duration": 3.56
+  },
+  {
+    "text": "it took me five days to get my money the",
+    "start": 75.64,
+    "duration": 4.08
+  },
+  {
+    "text": "threats of calling The Regulators to get",
+    "start": 77.84,
+    "duration": 4.319
+  },
+  {
+    "text": "my money out of the bank so anyone who",
+    "start": 79.72,
+    "duration": 4.8
+  },
+  {
+    "text": "pulls metal off a comx like this these",
+    "start": 82.159,
+    "duration": 4.881
+  },
+  {
+    "text": "massive deliveries we've seen where in",
+    "start": 84.52,
+    "duration": 4.279
+  },
+  {
+    "text": "one day all this stuff is disappearing",
+    "start": 87.04,
+    "duration": 4.68
+  },
+  {
+    "text": "and this bleed down of Supply normally",
+    "start": 88.799,
+    "duration": 4.761
+  },
+  {
+    "text": "they would take it out of one category",
+    "start": 91.72,
+    "duration": 3.6
+  },
+  {
+    "text": "called register those are the bars that",
+    "start": 93.56,
+    "duration": 3.64
+  },
+  {
+    "text": "can be delivered and move it into",
+    "start": 95.32,
+    "duration": 3.88
+  },
+  {
+    "text": "eligible those are bars that they're",
+    "start": 97.2,
+    "duration": 4.12
+  },
+  {
+    "text": "eligible if if I want to put them into",
+    "start": 99.2,
+    "duration": 3.4
+  },
+  {
+    "text": "register but they're not for sale",
+    "start": 101.32,
+    "duration": 3.2
+  },
+  {
+    "text": "they're mine I'm hanging on to them not",
+    "start": 102.6,
+    "duration": 4.0
+  },
+  {
+    "text": "for sale and that's what a lot of people",
+    "start": 104.52,
+    "duration": 3.919
+  },
+  {
+    "text": "would do they would just keep them in an",
+    "start": 106.6,
+    "duration": 4.0
+  },
+  {
+    "text": "eligible category well instead of doing",
+    "start": 108.439,
+    "duration": 4.121
+  },
+  {
+    "text": "that and leaving them in the safety of",
+    "start": 110.6,
+    "duration": 3.799
+  },
+  {
+    "text": "an eligible category that means if one",
+    "start": 112.56,
+    "duration": 3.68
+  },
+  {
+    "text": "of my clients who has a whole bunch of",
+    "start": 114.399,
+    "duration": 4.241
+  },
+  {
+    "text": "thousand ounce bars wants to sell them",
+    "start": 116.24,
+    "duration": 4.04
+  },
+  {
+    "text": "and take advantage of Elon musk's",
+    "start": 118.64,
+    "duration": 3.839
+  },
+  {
+    "text": "generous offer we could transfer them",
+    "start": 120.28,
+    "duration": 4.08
+  },
+  {
+    "text": "from eligible to registered and Elon",
+    "start": 122.479,
+    "duration": 3.64
+  },
+  {
+    "text": "could then take possession of them",
+    "start": 124.36,
+    "duration": 4.239
+  },
+  {
+    "text": "registered means all of the numbers are",
+    "start": 126.119,
+    "duration": 4.441
+  },
+  {
+    "text": "already validated on the bars the",
+    "start": 128.599,
+    "duration": 4.761
+  },
+  {
+    "text": "weights the bar numbers the authenticity",
+    "start": 130.56,
+    "duration": 4.6
+  },
+  {
+    "text": "goes from eligible to register it he can",
+    "start": 133.36,
+    "duration": 3.64
+  },
+  {
+    "text": "take possession of them pay me my money",
+    "start": 135.16,
+    "duration": 4.0
+  },
+  {
+    "text": "but not if they're not in the comx",
+    "start": 137.0,
+    "duration": 4.68
+  },
+  {
+    "text": "ecosystem so when all of this stuff is",
+    "start": 139.16,
+    "duration": 5.84
+  },
+  {
+    "text": "delivered off of comx it's a big deal",
+    "start": 141.68,
+    "duration": 5.839
+  },
+  {
+    "text": "where's it all going there was just an",
+    "start": 145.0,
+    "duration": 5.84
+  },
+  {
+    "text": "article by Reuters and blomberg and it",
+    "start": 147.519,
+    "duration": 5.281
+  },
+  {
+    "text": "said that the Central Bank bought a",
+    "start": 150.84,
+    "duration": 5.84
+  },
+  {
+    "text": "record 399 tons of gold uh worth over 20",
+    "start": 152.8,
+    "duration": 7.28
+  },
+  {
+    "text": "billion in the third quarter of 2022 uh",
+    "start": 156.68,
+    "duration": 7.72
+  },
+  {
+    "text": "340% higher than Q3 2021 almost double",
+    "start": 160.08,
+    "duration": 7.2
+  },
+  {
+    "text": "the previous record of 241 tons in Q3",
+    "start": 164.4,
+    "duration": 6.44
+  },
+  {
+    "text": "2018 but Bloomberg called the buyers of",
+    "start": 167.28,
+    "duration": 5.319
+  },
+  {
+    "text": "all of this gold and silver mystery",
+    "start": 170.84,
+    "duration": 4.479
+  },
+  {
+    "text": "whales and they postulated that the",
+    "start": 172.599,
+    "duration": 5.481
+  },
+  {
+    "text": "mystery whales buyers were likely either",
+    "start": 175.319,
+    "duration": 5.601
+  },
+  {
+    "text": "China Russia Saudi Arabia India and they",
+    "start": 178.08,
+    "duration": 4.439
+  },
+  {
+    "text": "also noted that the Central Bank",
+    "start": 180.92,
+    "duration": 3.879
+  },
+  {
+    "text": "purchases were nearly double the",
+    "start": 182.519,
+    "duration": 5.321
+  },
+  {
+    "text": "previous record so what do all of these",
+    "start": 184.799,
+    "duration": 5.561
+  },
+  {
+    "text": "countries have in common yes they're",
+    "start": 187.84,
+    "duration": 6.24
+  },
+  {
+    "text": "bricks so you are seeing massive draw",
+    "start": 190.36,
+    "duration": 6.92
+  },
+  {
+    "text": "Downs huge amounts being drawn down off",
+    "start": 194.08,
+    "duration": 5.879
+  },
+  {
+    "text": "the exchanges and it's a one-way street",
+    "start": 197.28,
+    "duration": 4.8
+  },
+  {
+    "text": "because once it leaves comx it's lost",
+    "start": 199.959,
+    "duration": 4.961
+  },
+  {
+    "text": "its liquidity these deliveries these",
+    "start": 202.08,
+    "duration": 5.84
+  },
+  {
+    "text": "massive draw Downs in metals it's been",
+    "start": 204.92,
+    "duration": 5.0
+  },
+  {
+    "text": "happening since I started talking about",
+    "start": 207.92,
+    "duration": 4.92
+  },
+  {
+    "text": "others in 2020 it has not stopped in",
+    "start": 209.92,
+    "duration": 5.679
+  },
+  {
+    "text": "fact it's increased massively and who's",
+    "start": 212.84,
+    "duration": 4.959
+  },
+  {
+    "text": "been buying more gold at any time since",
+    "start": 215.599,
+    "duration": 6.121
+  },
+  {
+    "text": "1967 oh yeah the central banks why are",
+    "start": 217.799,
+    "duration": 5.601
+  },
+  {
+    "text": "they buying gold and silver oh yeah",
+    "start": 221.72,
+    "duration": 3.519
+  },
+  {
+    "text": "Gold's tier one Reserve asset and",
+    "start": 223.4,
+    "duration": 3.559
+  },
+  {
+    "text": "everyone's moving away from the dollar",
+    "start": 225.239,
+    "duration": 3.441
+  },
+  {
+    "text": "and you see how all of these things",
+    "start": 226.959,
+    "duration": 5.0
+  },
+  {
+    "text": "start to come together I think we often",
+    "start": 228.68,
+    "duration": 6.0
+  },
+  {
+    "text": "take the Dollar's Reserve status for",
+    "start": 231.959,
+    "duration": 5.241
+  },
+  {
+    "text": "granted simply because we've grown up",
+    "start": 234.68,
+    "duration": 4.759
+  },
+  {
+    "text": "under this system but the truth is is",
+    "start": 237.2,
+    "duration": 3.959
+  },
+  {
+    "text": "that Reserve currencies come and go",
+    "start": 239.439,
+    "duration": 3.88
+  },
+  {
+    "text": "every hundred years or so and the dollar",
+    "start": 241.159,
+    "duration": 4.321
+  },
+  {
+    "text": "was the only choice when we moved to a",
+    "start": 243.319,
+    "duration": 4.28
+  },
+  {
+    "text": "full fiat currency system because of",
+    "start": 245.48,
+    "duration": 3.52
+  },
+  {
+    "text": "Bretton Woods and the trillions of",
+    "start": 247.599,
+    "duration": 3.36
+  },
+  {
+    "text": "dollars that have all been circulating",
+    "start": 249.0,
+    "duration": 4.72
+  },
+  {
+    "text": "globally but I think that we are looking",
+    "start": 250.959,
+    "duration": 4.48
+  },
+  {
+    "text": "at a period of time right now where",
+    "start": 253.72,
+    "duration": 3.88
+  },
+  {
+    "text": "these countries are beginning to break",
+    "start": 255.439,
+    "duration": 4.401
+  },
+  {
+    "text": "away and accentuate themselves against",
+    "start": 257.6,
+    "duration": 5.24
+  },
+  {
+    "text": "the century old centuries old western",
+    "start": 259.84,
+    "duration": 5.32
+  },
+  {
+    "text": "dominance I think the handwriting is on",
+    "start": 262.84,
+    "duration": 5.079
+  },
+  {
+    "text": "the wall we will wake up at some point",
+    "start": 265.16,
+    "duration": 5.96
+  },
+  {
+    "text": "probably sooner than later to to a new",
+    "start": 267.919,
+    "duration": 4.761
+  },
+  {
+    "text": "system that will challenge the dollar",
+    "start": 271.12,
+    "duration": 3.76
+  },
+  {
+    "text": "for its World Reserve you already have",
+    "start": 272.68,
+    "duration": 4.079
+  },
+  {
+    "text": "China saying to Russia that we are ready",
+    "start": 274.88,
+    "duration": 4.759
+  },
+  {
+    "text": "to get serious right now and build the",
+    "start": 276.759,
+    "duration": 4.961
+  },
+  {
+    "text": "energy infrastructure with Russia and",
+    "start": 279.639,
+    "duration": 4.441
+  },
+  {
+    "text": "the other brics nations you can see it",
+    "start": 281.72,
+    "duration": 4.12
+  },
+  {
+    "text": "it's happening and when that",
+    "start": 284.08,
+    "duration": 4.32
+  },
+  {
+    "text": "announcement is made and OPEC and Saudi",
+    "start": 285.84,
+    "duration": 4.52
+  },
+  {
+    "text": "Arabia dump the dollar as a so",
+    "start": 288.4,
+    "duration": 3.68
+  },
+  {
+    "text": "settlement currency in all of these",
+    "start": 290.36,
+    "duration": 3.32
+  },
+  {
+    "text": "countries on the planet who have had to",
+    "start": 292.08,
+    "duration": 4.28
+  },
+  {
+    "text": "own dollars for 50 years start to sell",
+    "start": 293.68,
+    "duration": 4.519
+  },
+  {
+    "text": "them because the dollar becomes a hot",
+    "start": 296.36,
+    "duration": 4.48
+  },
+  {
+    "text": "potato this is your great reset moment",
+    "start": 298.199,
+    "duration": 4.961
+  },
+  {
+    "text": "where the dollar comes flooding home",
+    "start": 300.84,
+    "duration": 4.079
+  },
+  {
+    "text": "creating massive inflation",
+    "start": 303.16,
+    "duration": 3.68
+  },
+  {
+    "text": "hyperinflation and the byproduct of",
+    "start": 304.919,
+    "duration": 4.0
+  },
+  {
+    "text": "inflation is higher interest rates to",
+    "start": 306.84,
+    "duration": 3.72
+  },
+  {
+    "text": "compensate for the loss of purchasing",
+    "start": 308.919,
+    "duration": 5.12
+  },
+  {
+    "text": "power I really do believe that if you",
+    "start": 310.56,
+    "duration": 5.56
+  },
+  {
+    "text": "are not a contrarian you will be a",
+    "start": 314.039,
+    "duration": 4.321
+  },
+  {
+    "text": "victim I really do believe that if you",
+    "start": 316.12,
+    "duration": 4.199
+  },
+  {
+    "text": "are fully invested in dollars you're",
+    "start": 318.36,
+    "duration": 3.959
+  },
+  {
+    "text": "destined to go broke and I want people",
+    "start": 320.319,
+    "duration": 4.0
+  },
+  {
+    "text": "to know that when I talk about gold and",
+    "start": 322.319,
+    "duration": 5.241
+  },
+  {
+    "text": "silver it is never ever ever go back and",
+    "start": 324.319,
+    "duration": 4.961
+  },
+  {
+    "text": "listen anything I've said for the past",
+    "start": 327.56,
+    "duration": 4.28
+  },
+  {
+    "text": "decade gold is not an investment silver",
+    "start": 329.28,
+    "duration": 4.28
+  },
+  {
+    "text": "is not an investment May perform like",
+    "start": 331.84,
+    "duration": 3.919
+  },
+  {
+    "text": "one may make you wealthy but they are",
+    "start": 333.56,
+    "duration": 4.639
+  },
+  {
+    "text": "wealth 5,000 year wealth that has",
+    "start": 335.759,
+    "duration": 4.521
+  },
+  {
+    "text": "outlived every World War German",
+    "start": 338.199,
+    "duration": 4.521
+  },
+  {
+    "text": "hyperinflation the Great Depression and",
+    "start": 340.28,
+    "duration": 5.479
+  },
+  {
+    "text": "every pandemic and when you see the most",
+    "start": 342.72,
+    "duration": 5.44
+  },
+  {
+    "text": "well-funded well-informed influential",
+    "start": 345.759,
+    "duration": 4.88
+  },
+  {
+    "text": "Traders on the planet accumulating the",
+    "start": 348.16,
+    "duration": 4.56
+  },
+  {
+    "text": "stockpile of metal that they are when",
+    "start": 350.639,
+    "duration": 4.361
+  },
+  {
+    "text": "you see a company like JP Morgan who",
+    "start": 352.72,
+    "duration": 5.039
+  },
+  {
+    "text": "paid a $920 million fine to the justice",
+    "start": 355.0,
+    "duration": 4.24
+  },
+  {
+    "text": "department for suppressing gold and",
+    "start": 357.759,
+    "duration": 2.44
+  },
+  {
+    "text": "silver",
+    "start": 359.24,
+    "duration": 3.519
+  },
+  {
+    "text": "accumulate over 45 million ounces of",
+    "start": 360.199,
+    "duration": 5.361
+  },
+  {
+    "text": "gold and 1.2 billion ounces of silver",
+    "start": 362.759,
+    "duration": 4.84
+  },
+  {
+    "text": "the largest physical position of medals",
+    "start": 365.56,
+    "duration": 5.32
+  },
+  {
+    "text": "ever owned off their books when you see",
+    "start": 367.599,
+    "duration": 4.72
+  },
+  {
+    "text": "that the most sophisticated",
+    "start": 370.88,
+    "duration": 4.12
+  },
+  {
+    "text": "well-informed influential Traders on the",
+    "start": 372.319,
+    "duration": 5.521
+  },
+  {
+    "text": "planet massively accumulating metals and",
+    "start": 375.0,
+    "duration": 4.919
+  },
+  {
+    "text": "d dollariz whether it be the US",
+    "start": 377.84,
+    "duration": 4.56
+  },
+  {
+    "text": "commercial Banks or the foreign central",
+    "start": 379.919,
+    "duration": 4.961
+  },
+  {
+    "text": "banks when you see the rise of the",
+    "start": 382.4,
+    "duration": 4.519
+  },
+  {
+    "text": "others the most influential and",
+    "start": 384.88,
+    "duration": 4.879
+  },
+  {
+    "text": "well-informed private Traders draining",
+    "start": 386.919,
+    "duration": 5.081
+  },
+  {
+    "text": "the London Metals exchange draining the",
+    "start": 389.759,
+    "duration": 5.321
+  },
+  {
+    "text": "comx when you see gold reclassified tier",
+    "start": 392.0,
+    "duration": 5.0
+  },
+  {
+    "text": "one when you see all of these countries",
+    "start": 395.08,
+    "duration": 4.36
+  },
+  {
+    "text": "coalescing when you see all the 13 OPEC",
+    "start": 397.0,
+    "duration": 4.039
+  },
+  {
+    "text": "producing countries on the Belt Road the",
+    "start": 399.44,
+    "duration": 4.479
+  },
+  {
+    "text": "US isn't part of it when you see 200",
+    "start": 401.039,
+    "duration": 4.521
+  },
+  {
+    "text": "countries at the IMF from around the",
+    "start": 403.919,
+    "duration": 3.881
+  },
+  {
+    "text": "world say we want a new system why did",
+    "start": 405.56,
+    "duration": 4.199
+  },
+  {
+    "text": "they choose gold as a tier one Reserve",
+    "start": 407.8,
+    "duration": 3.56
+  },
+  {
+    "text": "asset why not special drawing rights",
+    "start": 409.759,
+    "duration": 4.041
+  },
+  {
+    "text": "from the IMF all of these things put",
+    "start": 411.36,
+    "duration": 4.64
+  },
+  {
+    "text": "together in and of themselves okay put",
+    "start": 413.8,
+    "duration": 4.119
+  },
+  {
+    "text": "them all together and look at it as a",
+    "start": 416.0,
+    "duration": 3.96
+  },
+  {
+    "text": "sphere and you can see the dollar",
+    "start": 417.919,
+    "duration": 4.081
+  },
+  {
+    "text": "screwed you can see the West is living",
+    "start": 419.96,
+    "duration": 4.359
+  },
+  {
+    "text": "on borrowed time when you see all of",
+    "start": 422.0,
+    "duration": 4.52
+  },
+  {
+    "text": "this stuff together if you don't see the",
+    "start": 424.319,
+    "duration": 4.521
+  },
+  {
+    "text": "fact that being in dollars fully and",
+    "start": 426.52,
+    "duration": 4.84
+  },
+  {
+    "text": "exclusively is a very bad idea that",
+    "start": 428.84,
+    "duration": 4.68
+  },
+  {
+    "text": "you're not looking at the world the way",
+    "start": 431.36,
+    "duration": 4.399
+  },
+  {
+    "text": "that I am and I think it's just a matter",
+    "start": 433.52,
+    "duration": 4.48
+  },
+  {
+    "text": "of time before people in this country",
+    "start": 435.759,
+    "duration": 4.16
+  },
+  {
+    "text": "have a religious experience because when",
+    "start": 438.0,
+    "duration": 4.039
+  },
+  {
+    "text": "the dollar gets dumped by OPEC which it",
+    "start": 439.919,
+    "duration": 4.28
+  },
+  {
+    "text": "will uh you can see it you can see the",
+    "start": 442.039,
+    "duration": 3.801
+  },
+  {
+    "text": "fact they don't even take Biden's phone",
+    "start": 444.199,
+    "duration": 3.72
+  },
+  {
+    "text": "calls they are joining bricks they're",
+    "start": 445.84,
+    "duration": 5.359
+  },
+  {
+    "text": "moving away from the West to a a massive",
+    "start": 447.919,
+    "duration": 5.321
+  },
+  {
+    "text": "majority of human population that is not",
+    "start": 451.199,
+    "duration": 4.521
+  },
+  {
+    "text": "going green it's helmet and this is why",
+    "start": 453.24,
+    "duration": 4.639
+  },
+  {
+    "text": "you own gold and silver It Is wealth",
+    "start": 455.72,
+    "duration": 3.84
+  },
+  {
+    "text": "this is why they're buying it because",
+    "start": 457.879,
+    "duration": 4.681
+  },
+  {
+    "text": "it's wealth it's not an investment it's",
+    "start": 459.56,
+    "duration": 4.96
+  },
+  {
+    "text": "wealth and I strongly urge people to",
+    "start": 462.56,
+    "duration": 3.84
+  },
+  {
+    "text": "listen to what I'm saying and to",
+    "start": 464.52,
+    "duration": 4.0
+  },
+  {
+    "text": "consider owning gold and silver as",
+    "start": 466.4,
+    "duration": 4.4
+  },
+  {
+    "text": "significant historical wealth and not",
+    "start": 468.52,
+    "duration": 4.76
+  },
+  {
+    "text": "rely upon a dollar which is at the end",
+    "start": 470.8,
+    "duration": 6.04
+  },
+  {
+    "text": "of its really it's kenian Fiat",
+    "start": 473.28,
+    "duration": 5.52
+  },
+  {
+    "text": "experiment and it's coming to an end and",
+    "start": 476.84,
+    "duration": 6.319
+  },
+  {
+    "text": "I think it won't a pleasant experience",
+    "start": 478.8,
+    "duration": 4.359
+  }
+]

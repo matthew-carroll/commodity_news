@@ -1,0 +1,5577 @@
+[
+  {
+    "text": "the FED wants you to believe they've got",
+    "start": 0.52,
+    "duration": 4.68
+  },
+  {
+    "text": "inflation under control but I believe",
+    "start": 2.56,
+    "duration": 4.799
+  },
+  {
+    "text": "we've only seen the beginning of a",
+    "start": 5.2,
+    "duration": 4.399
+  },
+  {
+    "text": "devastating new crisis and if you don't",
+    "start": 7.359,
+    "duration": 4.641
+  },
+  {
+    "text": "prepare now you could see your savings",
+    "start": 9.599,
+    "duration": 4.721
+  },
+  {
+    "text": "evaporate as inflation and interest",
+    "start": 12.0,
+    "duration": 4.359
+  },
+  {
+    "text": "rates sore even higher over the next two",
+    "start": 14.32,
+    "duration": 5.16
+  },
+  {
+    "text": "years it all traces back to a golden",
+    "start": 16.359,
+    "duration": 5.16
+  },
+  {
+    "text": "thread that ties together the biggest",
+    "start": 19.48,
+    "duration": 3.92
+  },
+  {
+    "text": "Financial calamities in America's",
+    "start": 21.519,
+    "duration": 3.84
+  },
+  {
+    "text": "history but it seems the entire",
+    "start": 23.4,
+    "duration": 3.76
+  },
+  {
+    "text": "Financial world is falling into this",
+    "start": 25.359,
+    "duration": 4.68
+  },
+  {
+    "text": "very same denial trap that led to",
+    "start": 27.16,
+    "duration": 4.76
+  },
+  {
+    "text": "massive Devastation the last time this",
+    "start": 30.039,
+    "duration": 4.281
+  },
+  {
+    "text": "crisis played out if you know your",
+    "start": 31.92,
+    "duration": 4.799
+  },
+  {
+    "text": "history you know there will be winners",
+    "start": 34.32,
+    "duration": 5.44
+  },
+  {
+    "text": "and losers and now is when you decide",
+    "start": 36.719,
+    "duration": 5.36
+  },
+  {
+    "text": "which one you'll be I've spelled it all",
+    "start": 39.76,
+    "duration": 5.92
+  },
+  {
+    "text": "out in an urgent new report go to www.",
+    "start": 42.079,
+    "duration": 6.921
+  },
+  {
+    "text": "bankr 2024 comom to get your free copy",
+    "start": 45.68,
+    "duration": 4.84
+  },
+  {
+    "text": "I'll also show you how to get my",
+    "start": 49.0,
+    "duration": 3.48
+  },
+  {
+    "text": "complete playbook for navigating this",
+    "start": 50.52,
+    "duration": 4.28
+  },
+  {
+    "text": "crisis including the three critical",
+    "start": 52.48,
+    "duration": 5.2
+  },
+  {
+    "text": "steps to take immediately again that's",
+    "start": 54.8,
+    "duration": 7.32
+  },
+  {
+    "text": "www. bankr 202 4.com for your free copy",
+    "start": 57.68,
+    "duration": 6.15
+  },
+  {
+    "text": "of my new",
+    "start": 62.12,
+    "duration": 4.62
+  },
+  {
+    "text": "[Music]",
+    "start": 63.83,
+    "duration": 6.04
+  },
+  {
+    "text": "[Applause]",
+    "start": 66.74,
+    "duration": 3.13
+  },
+  {
+    "text": "[Music]",
+    "start": 73.08,
+    "duration": 4.92
+  },
+  {
+    "text": "report Lyn Alden welcome to the show",
+    "start": 75.439,
+    "duration": 4.281
+  },
+  {
+    "text": "really glad you could be",
+    "start": 78.0,
+    "duration": 3.92
+  },
+  {
+    "text": "here thanks for having",
+    "start": 79.72,
+    "duration": 6.079
+  },
+  {
+    "text": "me oh you bet um so I really I was",
+    "start": 81.92,
+    "duration": 6.04
+  },
+  {
+    "text": "curious to get you on the show because I",
+    "start": 85.799,
+    "duration": 4.081
+  },
+  {
+    "text": "follow you on Twitter and I I enjoy",
+    "start": 87.96,
+    "duration": 8.08
+  },
+  {
+    "text": "enjoy doing so um and I have um lately",
+    "start": 89.88,
+    "duration": 9.0
+  },
+  {
+    "text": "become more interested in macro concerns",
+    "start": 96.04,
+    "duration": 5.24
+  },
+  {
+    "text": "than I was when I was you know years ago",
+    "start": 98.88,
+    "duration": 4.4
+  },
+  {
+    "text": "I started as a sort of bottomup one",
+    "start": 101.28,
+    "duration": 5.6
+  },
+  {
+    "text": "stock at a time kind of a guy and um so",
+    "start": 103.28,
+    "duration": 5.28
+  },
+  {
+    "text": "you're one of my favorite people to",
+    "start": 106.88,
+    "duration": 5.199
+  },
+  {
+    "text": "follow to do that um but you're new on",
+    "start": 108.56,
+    "duration": 6.08
+  },
+  {
+    "text": "the show actually so let's let's Orient",
+    "start": 112.079,
+    "duration": 5.201
+  },
+  {
+    "text": "our listeners a little bit and and tell",
+    "start": 114.64,
+    "duration": 5.92
+  },
+  {
+    "text": "them a little bit about you um to me",
+    "start": 117.28,
+    "duration": 5.36
+  },
+  {
+    "text": "you're like you're a macro investor like",
+    "start": 120.56,
+    "duration": 3.64
+  },
+  {
+    "text": "if I had to characterize you with one",
+    "start": 122.64,
+    "duration": 3.36
+  },
+  {
+    "text": "label that's the one I'd throw on you is",
+    "start": 124.2,
+    "duration": 3.0
+  },
+  {
+    "text": "that",
+    "start": 126.0,
+    "duration": 3.08
+  },
+  {
+    "text": "fair uh yeah I think that's I mean",
+    "start": 127.2,
+    "duration": 3.6
+  },
+  {
+    "text": "that's that's what probably my my",
+    "start": 129.08,
+    "duration": 3.159
+  },
+  {
+    "text": "biggest audience is or what I'm known",
+    "start": 130.8,
+    "duration": 4.28
+  },
+  {
+    "text": "for um like you I went through a similar",
+    "start": 132.239,
+    "duration": 4.521
+  },
+  {
+    "text": "process where I actually was more",
+    "start": 135.08,
+    "duration": 3.799
+  },
+  {
+    "text": "initially interested in equities uh",
+    "start": 136.76,
+    "duration": 5.199
+  },
+  {
+    "text": "individual equities um but it was by",
+    "start": 138.879,
+    "duration": 6.72
+  },
+  {
+    "text": "around 2017 or 2018 that I realized that",
+    "start": 141.959,
+    "duration": 5.481
+  },
+  {
+    "text": "the macro component was likely going to",
+    "start": 145.599,
+    "duration": 4.561
+  },
+  {
+    "text": "be a lot larger in the coming years than",
+    "start": 147.44,
+    "duration": 5.56
+  },
+  {
+    "text": "individual Equity selection um and so",
+    "start": 150.16,
+    "duration": 4.32
+  },
+  {
+    "text": "that that really started drawing my",
+    "start": 153.0,
+    "duration": 3.879
+  },
+  {
+    "text": "attention um and I guess the I mean the",
+    "start": 154.48,
+    "duration": 4.24
+  },
+  {
+    "text": "full background is basically that I",
+    "start": 156.879,
+    "duration": 4.64
+  },
+  {
+    "text": "started out in engineering actually um",
+    "start": 158.72,
+    "duration": 4.439
+  },
+  {
+    "text": "then went into Engineering Management",
+    "start": 161.519,
+    "duration": 5.681
+  },
+  {
+    "text": "engineering Finance um and so I I take a",
+    "start": 163.159,
+    "duration": 5.881
+  },
+  {
+    "text": "systems engineering approach to a lot of",
+    "start": 167.2,
+    "duration": 3.8
+  },
+  {
+    "text": "things which is basically you know in in",
+    "start": 169.04,
+    "duration": 5.279
+  },
+  {
+    "text": "systems engineering you designing or",
+    "start": 171.0,
+    "duration": 5.4
+  },
+  {
+    "text": "overseeing something that's more complex",
+    "start": 174.319,
+    "duration": 4.761
+  },
+  {
+    "text": "than any one person knows how it works",
+    "start": 176.4,
+    "duration": 4.52
+  },
+  {
+    "text": "for example uh you know I used to work",
+    "start": 179.08,
+    "duration": 4.04
+  },
+  {
+    "text": "with aircraft simulators and there's",
+    "start": 180.92,
+    "duration": 4.039
+  },
+  {
+    "text": "there's electrical there's mechanical",
+    "start": 183.12,
+    "duration": 4.24
+  },
+  {
+    "text": "there's software there's Aerospace code",
+    "start": 184.959,
+    "duration": 4.241
+  },
+  {
+    "text": "there's individual avionics no one",
+    "start": 187.36,
+    "duration": 3.36
+  },
+  {
+    "text": "person knows every component in the",
+    "start": 189.2,
+    "duration": 3.48
+  },
+  {
+    "text": "simulator but we have to somehow come",
+    "start": 190.72,
+    "duration": 4.239
+  },
+  {
+    "text": "together build it uh and then be able to",
+    "start": 192.68,
+    "duration": 4.08
+  },
+  {
+    "text": "troubleshoot it or operate and know how",
+    "start": 194.959,
+    "duration": 4.681
+  },
+  {
+    "text": "it works um and so it kind of comes down",
+    "start": 196.76,
+    "duration": 4.64
+  },
+  {
+    "text": "to control logic understanding the",
+    "start": 199.64,
+    "duration": 3.56
+  },
+  {
+    "text": "inputs the outputs the governing logic",
+    "start": 201.4,
+    "duration": 4.44
+  },
+  {
+    "text": "that happens in between and I I approach",
+    "start": 203.2,
+    "duration": 4.599
+  },
+  {
+    "text": "macro the same way which is basically",
+    "start": 205.84,
+    "duration": 4.039
+  },
+  {
+    "text": "that we have these monetary systems that",
+    "start": 207.799,
+    "duration": 3.44
+  },
+  {
+    "text": "were built they're essentially",
+    "start": 209.879,
+    "duration": 4.08
+  },
+  {
+    "text": "engineered systems um they they were",
+    "start": 211.239,
+    "duration": 4.28
+  },
+  {
+    "text": "constructed a certain way they work a",
+    "start": 213.959,
+    "duration": 3.48
+  },
+  {
+    "text": "certain way they have certain failure",
+    "start": 215.519,
+    "duration": 3.561
+  },
+  {
+    "text": "modes and then certain responses to",
+    "start": 217.439,
+    "duration": 3.121
+  },
+  {
+    "text": "those failure modes there's inputs",
+    "start": 219.08,
+    "duration": 3.719
+  },
+  {
+    "text": "there's outputs there's governing logic",
+    "start": 220.56,
+    "duration": 4.36
+  },
+  {
+    "text": "um and so I I really kind of study macro",
+    "start": 222.799,
+    "duration": 5.281
+  },
+  {
+    "text": "through a system engineering lens um and",
+    "start": 224.92,
+    "duration": 4.76
+  },
+  {
+    "text": "so that that's really what I've shifted",
+    "start": 228.08,
+    "duration": 3.999
+  },
+  {
+    "text": "to over the past several years ever",
+    "start": 229.68,
+    "duration": 6.44
+  },
+  {
+    "text": "since around that 2017 2018 period um",
+    "start": 232.079,
+    "duration": 6.201
+  },
+  {
+    "text": "I've really kind of focused uh on those",
+    "start": 236.12,
+    "duration": 4.36
+  },
+  {
+    "text": "topics",
+    "start": 238.28,
+    "duration": 5.36
+  },
+  {
+    "text": "all right so that's interesting to me",
+    "start": 240.48,
+    "duration": 5.24
+  },
+  {
+    "text": "it's interesting to me that it there was",
+    "start": 243.64,
+    "duration": 5.239
+  },
+  {
+    "text": "a conscious decision on your part that",
+    "start": 245.72,
+    "duration": 6.439
+  },
+  {
+    "text": "macro was going to become more important",
+    "start": 248.879,
+    "duration": 4.761
+  },
+  {
+    "text": "you know most people say well this just",
+    "start": 252.159,
+    "duration": 3.44
+  },
+  {
+    "text": "felt right and you know it was it",
+    "start": 253.64,
+    "duration": 3.68
+  },
+  {
+    "text": "attracted me or it's what I studied in",
+    "start": 255.599,
+    "duration": 4.841
+  },
+  {
+    "text": "school or something but uh I think",
+    "start": 257.32,
+    "duration": 5.319
+  },
+  {
+    "text": "that's really interesting so what what",
+    "start": 260.44,
+    "duration": 5.319
+  },
+  {
+    "text": "do you see what what did you see and and",
+    "start": 262.639,
+    "duration": 5.321
+  },
+  {
+    "text": "maybe still see in the world that tells",
+    "start": 265.759,
+    "duration": 4.201
+  },
+  {
+    "text": "you you know something um it's it's not",
+    "start": 267.96,
+    "duration": 3.64
+  },
+  {
+    "text": "good enough to be an equities dude",
+    "start": 269.96,
+    "duration": 4.32
+  },
+  {
+    "text": "anymore I got to get out there and and",
+    "start": 271.6,
+    "duration": 6.08
+  },
+  {
+    "text": "be a macro person so what I saw was that",
+    "start": 274.28,
+    "duration": 6.44
+  },
+  {
+    "text": "the US uh deficit as a percentage of GDP",
+    "start": 277.68,
+    "duration": 5.48
+  },
+  {
+    "text": "was rising at a time when we were not in",
+    "start": 280.72,
+    "duration": 4.36
+  },
+  {
+    "text": "a recession and unemployment rate was",
+    "start": 283.16,
+    "duration": 4.52
+  },
+  {
+    "text": "still going down uh and that had not",
+    "start": 285.08,
+    "duration": 5.0
+  },
+  {
+    "text": "happened since the Vietnam War uh and",
+    "start": 287.68,
+    "duration": 4.44
+  },
+  {
+    "text": "back then it only happened temporarily",
+    "start": 290.08,
+    "duration": 4.28
+  },
+  {
+    "text": "and so really you know before that it",
+    "start": 292.12,
+    "duration": 4.32
+  },
+  {
+    "text": "happened back in like the 40s for",
+    "start": 294.36,
+    "duration": 4.88
+  },
+  {
+    "text": "example um this was a unusual macro",
+    "start": 296.44,
+    "duration": 4.039
+  },
+  {
+    "text": "phenomenon",
+    "start": 299.24,
+    "duration": 2.84
+  },
+  {
+    "text": "and it led me to kind of do more",
+    "start": 300.479,
+    "duration": 3.841
+  },
+  {
+    "text": "research on you know I always had the",
+    "start": 302.08,
+    "duration": 4.559
+  },
+  {
+    "text": "big question like how how does so we're",
+    "start": 304.32,
+    "duration": 3.92
+  },
+  {
+    "text": "building up all this debt in the system",
+    "start": 306.639,
+    "duration": 3.761
+  },
+  {
+    "text": "higher and higher debt um and everyone",
+    "start": 308.24,
+    "duration": 3.799
+  },
+  {
+    "text": "says well it's not an issue now but one",
+    "start": 310.4,
+    "duration": 3.12
+  },
+  {
+    "text": "day it's going to be an issue so my",
+    "start": 312.039,
+    "duration": 3.761
+  },
+  {
+    "text": "question was well when is that one day",
+    "start": 313.52,
+    "duration": 4.92
+  },
+  {
+    "text": "coming uh when it's an issue how does it",
+    "start": 315.8,
+    "duration": 6.08
+  },
+  {
+    "text": "manifest as an issue um how are there",
+    "start": 318.44,
+    "duration": 5.52
+  },
+  {
+    "text": "periods in the past where they had this",
+    "start": 321.88,
+    "duration": 3.4
+  },
+  {
+    "text": "type of problem obviously not going to",
+    "start": 323.96,
+    "duration": 2.799
+  },
+  {
+    "text": "be exactly the same thing but are there",
+    "start": 325.28,
+    "duration": 4.12
+  },
+  {
+    "text": "types of of ways they ran into this head",
+    "start": 326.759,
+    "duration": 4.761
+  },
+  {
+    "text": "this issue and how do they address it",
+    "start": 329.4,
+    "duration": 4.359
+  },
+  {
+    "text": "and so when I saw that deficit starting",
+    "start": 331.52,
+    "duration": 3.84
+  },
+  {
+    "text": "to rise even when unemployment was",
+    "start": 333.759,
+    "duration": 2.801
+  },
+  {
+    "text": "falling I was like I think we're",
+    "start": 335.36,
+    "duration": 3.0
+  },
+  {
+    "text": "entering the early stages where some of",
+    "start": 336.56,
+    "duration": 5.359
+  },
+  {
+    "text": "this actually starts to matter um and so",
+    "start": 338.36,
+    "duration": 5.119
+  },
+  {
+    "text": "I that that kind of went down a whole",
+    "start": 341.919,
+    "duration": 4.081
+  },
+  {
+    "text": "Rabbit Hole of monetary history research",
+    "start": 343.479,
+    "duration": 5.84
+  },
+  {
+    "text": "how do they handle debts in the past um",
+    "start": 346.0,
+    "duration": 4.6
+  },
+  {
+    "text": "the difference between say fiscal",
+    "start": 349.319,
+    "duration": 3.401
+  },
+  {
+    "text": "dominance and monetary dominance and so",
+    "start": 350.6,
+    "duration": 3.92
+  },
+  {
+    "text": "even the big macro themes that I focus",
+    "start": 352.72,
+    "duration": 3.759
+  },
+  {
+    "text": "on today like the impact of of the",
+    "start": 354.52,
+    "duration": 5.28
+  },
+  {
+    "text": "fiscal side um really kind of started my",
+    "start": 356.479,
+    "duration": 4.84
+  },
+  {
+    "text": "interest in that started back in that",
+    "start": 359.8,
+    "duration": 3.72
+  },
+  {
+    "text": "kind of 2017 period because that's when",
+    "start": 361.319,
+    "duration": 5.32
+  },
+  {
+    "text": "that Trend initially emerged and it took",
+    "start": 363.52,
+    "duration": 5.119
+  },
+  {
+    "text": "time to gather Steam and become a larger",
+    "start": 366.639,
+    "duration": 5.28
+  },
+  {
+    "text": "and larger component in macro um but now",
+    "start": 368.639,
+    "duration": 5.56
+  },
+  {
+    "text": "that we're you know seven years into",
+    "start": 371.919,
+    "duration": 4.801
+  },
+  {
+    "text": "that situation I think it's continued to",
+    "start": 374.199,
+    "duration": 4.361
+  },
+  {
+    "text": "to manifest and strengthen so that's",
+    "start": 376.72,
+    "duration": 3.44
+  },
+  {
+    "text": "really the the the key thing that I",
+    "start": 378.56,
+    "duration": 3.759
+  },
+  {
+    "text": "think madebe have a conscious decision",
+    "start": 380.16,
+    "duration": 5.599
+  },
+  {
+    "text": "to say there are things happening here",
+    "start": 382.319,
+    "duration": 5.361
+  },
+  {
+    "text": "that I have to understand because",
+    "start": 385.759,
+    "duration": 3.481
+  },
+  {
+    "text": "they're going to if I do individual",
+    "start": 387.68,
+    "duration": 3.4
+  },
+  {
+    "text": "stocks these other things are going to",
+    "start": 389.24,
+    "duration": 3.72
+  },
+  {
+    "text": "push push them around they're not going",
+    "start": 391.08,
+    "duration": 4.04
+  },
+  {
+    "text": "to necessarily behave as they you know",
+    "start": 392.96,
+    "duration": 5.2
+  },
+  {
+    "text": "any sort of like say 30 40 or back test",
+    "start": 395.12,
+    "duration": 4.76
+  },
+  {
+    "text": "um for for things like this I think",
+    "start": 398.16,
+    "duration": 4.319
+  },
+  {
+    "text": "we're in a different environment where",
+    "start": 399.88,
+    "duration": 3.879
+  },
+  {
+    "text": "there's other things you want to be",
+    "start": 402.479,
+    "duration": 3.241
+  },
+  {
+    "text": "aware of because you know I still do",
+    "start": 403.759,
+    "duration": 3.921
+  },
+  {
+    "text": "individual stock analysis to varying",
+    "start": 405.72,
+    "duration": 4.56
+  },
+  {
+    "text": "extents um because they help inform the",
+    "start": 407.68,
+    "duration": 6.359
+  },
+  {
+    "text": "macro um sure but but I have to always",
+    "start": 410.28,
+    "duration": 5.759
+  },
+  {
+    "text": "analyze them with the macro in mind at",
+    "start": 414.039,
+    "duration": 4.761
+  },
+  {
+    "text": "least the way that I that that I do it",
+    "start": 416.039,
+    "duration": 6.44
+  },
+  {
+    "text": "so what really excites me is to find",
+    "start": 418.8,
+    "duration": 8.32
+  },
+  {
+    "text": "something in common um with a guest and",
+    "start": 422.479,
+    "duration": 6.4
+  },
+  {
+    "text": "the fact that you that you picked out",
+    "start": 427.12,
+    "duration": 6.16
+  },
+  {
+    "text": "2017 just now 2017 changed things for me",
+    "start": 428.879,
+    "duration": 7.561
+  },
+  {
+    "text": "too that was when I started getting",
+    "start": 433.28,
+    "duration": 6.039
+  },
+  {
+    "text": "that's actually it was May 2017",
+    "start": 436.44,
+    "duration": 5.28
+  },
+  {
+    "text": "specifically in my newsletter I was",
+    "start": 439.319,
+    "duration": 4.241
+  },
+  {
+    "text": "writing about how you know Animal",
+    "start": 441.72,
+    "duration": 5.919
+  },
+  {
+    "text": "Spirits basically to sum it up um were",
+    "start": 443.56,
+    "duration": 5.96
+  },
+  {
+    "text": "were in charge to too great an extent",
+    "start": 447.639,
+    "duration": 5.28
+  },
+  {
+    "text": "ENT of course um you know that that",
+    "start": 449.52,
+    "duration": 8.2
+  },
+  {
+    "text": "continued for for a while but um",
+    "start": 452.919,
+    "duration": 8.201
+  },
+  {
+    "text": "something definitely did change and like",
+    "start": 457.72,
+    "duration": 5.8
+  },
+  {
+    "text": "in particular if you look at something",
+    "start": 461.12,
+    "duration": 4.639
+  },
+  {
+    "text": "like cape ratio it spent a lot of time",
+    "start": 463.52,
+    "duration": 4.519
+  },
+  {
+    "text": "in what I would call kind of expensive",
+    "start": 465.759,
+    "duration": 5.16
+  },
+  {
+    "text": "bubbly even Mega bubbly territory since",
+    "start": 468.039,
+    "duration": 7.84
+  },
+  {
+    "text": "then um which you know augur poorly for",
+    "start": 470.919,
+    "duration": 9.161
+  },
+  {
+    "text": "for future returns um",
+    "start": 475.879,
+    "duration": 7.081
+  },
+  {
+    "text": "so right now um you know when I read",
+    "start": 480.08,
+    "duration": 5.36
+  },
+  {
+    "text": "your stuff and hear you talk this issue",
+    "start": 482.96,
+    "duration": 4.12
+  },
+  {
+    "text": "that you mentioned of fiscal dominance",
+    "start": 485.44,
+    "duration": 3.64
+  },
+  {
+    "text": "comes up why don't we get into that a",
+    "start": 487.08,
+    "duration": 3.399
+  },
+  {
+    "text": "little bit and explain what it means to",
+    "start": 489.08,
+    "duration": 4.04
+  },
+  {
+    "text": "our listener and why it's important to",
+    "start": 490.479,
+    "duration": 6.041
+  },
+  {
+    "text": "you sure so fiscal dominance is when the",
+    "start": 493.12,
+    "duration": 6.6
+  },
+  {
+    "text": "the fiscal deficit and and and federal",
+    "start": 496.52,
+    "duration": 5.239
+  },
+  {
+    "text": "debts or in in another country a",
+    "start": 499.72,
+    "duration": 4.08
+  },
+  {
+    "text": "sovereign debt when those are large",
+    "start": 501.759,
+    "duration": 4.801
+  },
+  {
+    "text": "enough that they start reducing the",
+    "start": 503.8,
+    "duration": 5.16
+  },
+  {
+    "text": "options that a central bank has um that",
+    "start": 506.56,
+    "duration": 4.359
+  },
+  {
+    "text": "it kind of can strin their options and",
+    "start": 508.96,
+    "duration": 4.079
+  },
+  {
+    "text": "the fiscal side becomes a more important",
+    "start": 510.919,
+    "duration": 4.761
+  },
+  {
+    "text": "impact on the economy than the monetary",
+    "start": 513.039,
+    "duration": 5.761
+  },
+  {
+    "text": "side uh and so as an example back in the",
+    "start": 515.68,
+    "duration": 5.96
+  },
+  {
+    "text": "1970s it was an example of not being in",
+    "start": 518.8,
+    "duration": 4.96
+  },
+  {
+    "text": "fiscal dominance so if you look at where",
+    "start": 521.64,
+    "duration": 4.56
+  },
+  {
+    "text": "new money was coming from more money",
+    "start": 523.76,
+    "duration": 4.12
+  },
+  {
+    "text": "creation was happening from the private",
+    "start": 526.2,
+    "duration": 3.72
+  },
+  {
+    "text": "sector Bank lending and corporate bond",
+    "start": 527.88,
+    "duration": 5.88
+  },
+  {
+    "text": "issuance than from um uh deficits even",
+    "start": 529.92,
+    "duration": 5.76
+  },
+  {
+    "text": "though deficits were a a background",
+    "start": 533.76,
+    "duration": 3.88
+  },
+  {
+    "text": "issue as well there's just quantifiably",
+    "start": 535.68,
+    "duration": 4.24
+  },
+  {
+    "text": "more uh money creation coming from it",
+    "start": 537.64,
+    "duration": 5.48
+  },
+  {
+    "text": "was Bank lending um and federal debt was",
+    "start": 539.92,
+    "duration": 7.08
+  },
+  {
+    "text": "very low it was 30% uh to GDP and so a",
+    "start": 543.12,
+    "duration": 6.24
+  },
+  {
+    "text": "way to slow down that inflation was what",
+    "start": 547.0,
+    "duration": 4.399
+  },
+  {
+    "text": "vulker did which is raise interest rate",
+    "start": 549.36,
+    "duration": 4.919
+  },
+  {
+    "text": "Super High um slow down the rate of Bank",
+    "start": 551.399,
+    "duration": 5.88
+  },
+  {
+    "text": "lending put the economy into a recession",
+    "start": 554.279,
+    "duration": 4.641
+  },
+  {
+    "text": "um and that helped cool off the",
+    "start": 557.279,
+    "duration": 3.361
+  },
+  {
+    "text": "inflation it also I mean there's even",
+    "start": 558.92,
+    "duration": 3.56
+  },
+  {
+    "text": "the darker side which is basically it it",
+    "start": 560.64,
+    "duration": 3.96
+  },
+  {
+    "text": "it put Latin America to a depression",
+    "start": 562.48,
+    "duration": 3.599
+  },
+  {
+    "text": "because they had all these dollar Domin",
+    "start": 564.6,
+    "duration": 3.799
+  },
+  {
+    "text": "debts uh put them into a depression so",
+    "start": 566.079,
+    "duration": 4.641
+  },
+  {
+    "text": "they they consume less oil which is it",
+    "start": 568.399,
+    "duration": 3.961
+  },
+  {
+    "text": "impacts the supply demand balance but",
+    "start": 570.72,
+    "duration": 3.28
+  },
+  {
+    "text": "there's all sorts of reasons why that",
+    "start": 572.36,
+    "duration": 4.2
+  },
+  {
+    "text": "worked but basically the the interest",
+    "start": 574.0,
+    "duration": 4.76
+  },
+  {
+    "text": "expense of the federal government did",
+    "start": 576.56,
+    "duration": 4.519
+  },
+  {
+    "text": "increase because of all that higher",
+    "start": 578.76,
+    "duration": 6.24
+  },
+  {
+    "text": "rates but the when when 30% of De of GDP",
+    "start": 581.079,
+    "duration": 6.721
+  },
+  {
+    "text": "pays more interest out that is a you",
+    "start": 585.0,
+    "duration": 4.76
+  },
+  {
+    "text": "know that's less of an impact than all",
+    "start": 587.8,
+    "duration": 4.24
+  },
+  {
+    "text": "the the slowing that that did on the the",
+    "start": 589.76,
+    "duration": 4.04
+  },
+  {
+    "text": "private sector lending and so that was",
+    "start": 592.04,
+    "duration": 3.16
+  },
+  {
+    "text": "an example of you're in monetary",
+    "start": 593.8,
+    "duration": 3.479
+  },
+  {
+    "text": "dominance so there are monetary",
+    "start": 595.2,
+    "duration": 4.639
+  },
+  {
+    "text": "solutions to the mon to the monetary",
+    "start": 597.279,
+    "duration": 4.521
+  },
+  {
+    "text": "problems that are happening when we fast",
+    "start": 599.839,
+    "duration": 3.961
+  },
+  {
+    "text": "forward to what's what's happening today",
+    "start": 601.8,
+    "duration": 4.44
+  },
+  {
+    "text": "what what say Powell's dealing with is",
+    "start": 603.8,
+    "duration": 6.039
+  },
+  {
+    "text": "there's 120% that the GDP or about 100%",
+    "start": 606.24,
+    "duration": 7.279
+  },
+  {
+    "text": "held by the public um and there's the",
+    "start": 609.839,
+    "duration": 6.601
+  },
+  {
+    "text": "the federal deficit is larger than the",
+    "start": 613.519,
+    "duration": 5.721
+  },
+  {
+    "text": "sum of new bank loans and new corporate",
+    "start": 616.44,
+    "duration": 6.24
+  },
+  {
+    "text": "bond issuance in a given year um and",
+    "start": 619.24,
+    "duration": 5.039
+  },
+  {
+    "text": "that's that was not the case back then",
+    "start": 622.68,
+    "duration": 3.36
+  },
+  {
+    "text": "it's it's the case now at least in most",
+    "start": 624.279,
+    "duration": 5.401
+  },
+  {
+    "text": "years um and so when they when they try",
+    "start": 626.04,
+    "duration": 6.479
+  },
+  {
+    "text": "to when they run into inflation you know",
+    "start": 629.68,
+    "duration": 4.52
+  },
+  {
+    "text": "inflation did not happen this decade",
+    "start": 632.519,
+    "duration": 3.281
+  },
+  {
+    "text": "because of excessive Bank lending",
+    "start": 634.2,
+    "duration": 3.72
+  },
+  {
+    "text": "there's not a not a high rate of Bank",
+    "start": 635.8,
+    "duration": 3.68
+  },
+  {
+    "text": "lending it's kind of a modest rate of",
+    "start": 637.92,
+    "duration": 3.88
+  },
+  {
+    "text": "Bank lending uh instead it happened",
+    "start": 639.48,
+    "duration": 4.28
+  },
+  {
+    "text": "because there were very large monetized",
+    "start": 641.8,
+    "duration": 4.32
+  },
+  {
+    "text": "fiscal deficits uh and then various",
+    "start": 643.76,
+    "duration": 4.079
+  },
+  {
+    "text": "bottlenecks as those deficits kind of",
+    "start": 646.12,
+    "duration": 4.32
+  },
+  {
+    "text": "worked their way through the system and",
+    "start": 647.839,
+    "duration": 4.041
+  },
+  {
+    "text": "right now when there's still high",
+    "start": 650.44,
+    "duration": 3.519
+  },
+  {
+    "text": "inflation and and back especially when",
+    "start": 651.88,
+    "duration": 5.399
+  },
+  {
+    "text": "it was higher the FED raised rates uh to",
+    "start": 653.959,
+    "duration": 5.481
+  },
+  {
+    "text": "try to uh deal with that inflation but",
+    "start": 657.279,
+    "duration": 4.521
+  },
+  {
+    "text": "the problem is that most of it's not",
+    "start": 659.44,
+    "duration": 4.16
+  },
+  {
+    "text": "coming from excessive Bank lending most",
+    "start": 661.8,
+    "duration": 3.92
+  },
+  {
+    "text": "of it's coming from very large fiscal",
+    "start": 663.6,
+    "duration": 4.44
+  },
+  {
+    "text": "deficits and high indust rates are not",
+    "start": 665.72,
+    "duration": 4.6
+  },
+  {
+    "text": "really going to change what the deficits",
+    "start": 668.04,
+    "duration": 4.68
+  },
+  {
+    "text": "are doing and when you increase indust",
+    "start": 670.32,
+    "duration": 4.44
+  },
+  {
+    "text": "rates at a time when you have 100% de",
+    "start": 672.72,
+    "duration": 4.4
+  },
+  {
+    "text": "the GDP held by the public uh you",
+    "start": 674.76,
+    "duration": 4.36
+  },
+  {
+    "text": "actually increase those deficits even",
+    "start": 677.12,
+    "duration": 5.04
+  },
+  {
+    "text": "more than the rate that you slow down",
+    "start": 679.12,
+    "duration": 5.719
+  },
+  {
+    "text": "Bank lending um and so although the",
+    "start": 682.16,
+    "duration": 5.4
+  },
+  {
+    "text": "higher rates did have a downward you",
+    "start": 684.839,
+    "duration": 4.721
+  },
+  {
+    "text": "know disinflationary effect on the",
+    "start": 687.56,
+    "duration": 5.2
+  },
+  {
+    "text": "private sector money creation uh the the",
+    "start": 689.56,
+    "duration": 5.6
+  },
+  {
+    "text": "impact it did on the federal side is is",
+    "start": 692.76,
+    "duration": 4.84
+  },
+  {
+    "text": "kind of equal or bigger and so industr",
+    "start": 695.16,
+    "duration": 5.08
+  },
+  {
+    "text": "started having a more mixed result in",
+    "start": 697.6,
+    "duration": 4.4
+  },
+  {
+    "text": "dealing with inflation on one hand they",
+    "start": 700.24,
+    "duration": 3.96
+  },
+  {
+    "text": "are recessionary and disinflationary",
+    "start": 702.0,
+    "duration": 3.72
+  },
+  {
+    "text": "when you raise them the other hand",
+    "start": 704.2,
+    "duration": 2.84
+  },
+  {
+    "text": "they're actually stimulatory if you're",
+    "start": 705.72,
+    "duration": 3.6
+  },
+  {
+    "text": "if you're if you're owning money markets",
+    "start": 707.04,
+    "duration": 4.039
+  },
+  {
+    "text": "every time the FED raises rates you get",
+    "start": 709.32,
+    "duration": 4.88
+  },
+  {
+    "text": "a raise um if you're xon mobile you have",
+    "start": 711.079,
+    "duration": 5.56
+  },
+  {
+    "text": "long-term debt locked in and you have",
+    "start": 714.2,
+    "duration": 4.04
+  },
+  {
+    "text": "cash equivalence on your balance sheet",
+    "start": 716.639,
+    "duration": 3.401
+  },
+  {
+    "text": "so you get a raise uh a lot of",
+    "start": 718.24,
+    "duration": 3.52
+  },
+  {
+    "text": "corporations that get a raise every time",
+    "start": 720.04,
+    "duration": 3.599
+  },
+  {
+    "text": "the Federal Reserve increases interest",
+    "start": 721.76,
+    "duration": 4.24
+  },
+  {
+    "text": "rates and that was not the case in 70s",
+    "start": 723.639,
+    "duration": 4.2
+  },
+  {
+    "text": "that was not the case uh in certain",
+    "start": 726.0,
+    "duration": 4.6
+  },
+  {
+    "text": "other periods and so basically there's",
+    "start": 727.839,
+    "duration": 3.961
+  },
+  {
+    "text": "there's just kind of interesting",
+    "start": 730.6,
+    "duration": 5.239
+  },
+  {
+    "text": "Dynamics at play uh when a country gets",
+    "start": 731.8,
+    "duration": 6.76
+  },
+  {
+    "text": "about over 100% Deb to GDP and then",
+    "start": 735.839,
+    "duration": 3.721
+  },
+  {
+    "text": "especially when they also have",
+    "start": 738.56,
+    "duration": 3.04
+  },
+  {
+    "text": "unresolved fiscal imbalances and of",
+    "start": 739.56,
+    "duration": 4.279
+  },
+  {
+    "text": "course you know one way to kind of to",
+    "start": 741.6,
+    "duration": 4.039
+  },
+  {
+    "text": "sum it up is that basically we've had 40",
+    "start": 743.839,
+    "duration": 4.401
+  },
+  {
+    "text": "Years of inclining debt to gdpa on the",
+    "start": 745.639,
+    "duration": 5.081
+  },
+  {
+    "text": "public level and 40 Years of falling",
+    "start": 748.24,
+    "duration": 4.36
+  },
+  {
+    "text": "interest rates and so that was that was",
+    "start": 750.72,
+    "duration": 4.52
+  },
+  {
+    "text": "an offset um but when indust rates",
+    "start": 752.6,
+    "duration": 5.2
+  },
+  {
+    "text": "finally hit zero and start going",
+    "start": 755.24,
+    "duration": 5.64
+  },
+  {
+    "text": "sideways um that Rising debt to GDP and",
+    "start": 757.8,
+    "duration": 4.599
+  },
+  {
+    "text": "the industry expans associated with it",
+    "start": 760.88,
+    "duration": 4.0
+  },
+  {
+    "text": "starts to actually matter um and I think",
+    "start": 762.399,
+    "duration": 5.841
+  },
+  {
+    "text": "we're in that period now um and and so",
+    "start": 764.88,
+    "duration": 5.079
+  },
+  {
+    "text": "are some other countries like Japan for",
+    "start": 768.24,
+    "duration": 3.8
+  },
+  {
+    "text": "example but uh the us being the being",
+    "start": 769.959,
+    "duration": 3.601
+  },
+  {
+    "text": "the largest country that is kind of",
+    "start": 772.04,
+    "duration": 4.44
+  },
+  {
+    "text": "entering this fiscal dominance",
+    "start": 773.56,
+    "duration": 6.12
+  },
+  {
+    "text": "mode all right well said",
+    "start": 776.48,
+    "duration": 7.64
+  },
+  {
+    "text": "um yeah Dan or Lynn that's something Dan",
+    "start": 779.68,
+    "duration": 6.44
+  },
+  {
+    "text": "has talked about a lot and we've talked",
+    "start": 784.12,
+    "duration": 5.2
+  },
+  {
+    "text": "about here like flipping the last 40",
+    "start": 786.12,
+    "duration": 5.64
+  },
+  {
+    "text": "years on on its head right like it's",
+    "start": 789.32,
+    "duration": 5.44
+  },
+  {
+    "text": "everything is kind of you know what what",
+    "start": 791.76,
+    "duration": 4.68
+  },
+  {
+    "text": "you just said there went from and the",
+    "start": 794.76,
+    "duration": 3.759
+  },
+  {
+    "text": "last 20 you know low interest rates to",
+    "start": 796.44,
+    "duration": 7.399
+  },
+  {
+    "text": "an actual interest rate um here and but",
+    "start": 798.519,
+    "duration": 6.88
+  },
+  {
+    "text": "just like what",
+    "start": 803.839,
+    "duration": 4.24
+  },
+  {
+    "text": "does I mean so do you how do you see",
+    "start": 805.399,
+    "duration": 4.361
+  },
+  {
+    "text": "this kind of unfold holding ahead you",
+    "start": 808.079,
+    "duration": 3.641
+  },
+  {
+    "text": "know this this fiscal dominance I mean I",
+    "start": 809.76,
+    "duration": 3.639
+  },
+  {
+    "text": "know you you've talked other places",
+    "start": 811.72,
+    "duration": 4.0
+  },
+  {
+    "text": "about the you know the 1940s how there's",
+    "start": 813.399,
+    "duration": 5.361
+  },
+  {
+    "text": "some similarities here but like once a",
+    "start": 815.72,
+    "duration": 7.4
+  },
+  {
+    "text": "period like this gets going um you know",
+    "start": 818.76,
+    "duration": 7.04
+  },
+  {
+    "text": "what's like what you find about like",
+    "start": 823.12,
+    "duration": 5.24
+  },
+  {
+    "text": "what what where are the next steps in it",
+    "start": 825.8,
+    "duration": 5.64
+  },
+  {
+    "text": "uh so basically the in general they're",
+    "start": 828.36,
+    "duration": 5.36
+  },
+  {
+    "text": "unable to raise rates as high as they",
+    "start": 831.44,
+    "duration": 4.6
+  },
+  {
+    "text": "prefer um because they start running",
+    "start": 833.72,
+    "duration": 4.96
+  },
+  {
+    "text": "into bank solvency issues that become",
+    "start": 836.04,
+    "duration": 3.64
+  },
+  {
+    "text": "systemic",
+    "start": 838.68,
+    "duration": 3.48
+  },
+  {
+    "text": "uh and the effects that they have start",
+    "start": 839.68,
+    "duration": 4.32
+  },
+  {
+    "text": "to turn backwards which is you can you",
+    "start": 842.16,
+    "duration": 3.08
+  },
+  {
+    "text": "if it gets bad enough you can get to a",
+    "start": 844.0,
+    "duration": 3.199
+  },
+  {
+    "text": "situation where rate hikes are",
+    "start": 845.24,
+    "duration": 4.519
+  },
+  {
+    "text": "inflationary um you know the US is is",
+    "start": 847.199,
+    "duration": 4.241
+  },
+  {
+    "text": "kind of teetering on that range we're",
+    "start": 849.759,
+    "duration": 2.961
+  },
+  {
+    "text": "not like firmly in that range but you",
+    "start": 851.44,
+    "duration": 4.16
+  },
+  {
+    "text": "see that in certain Emerging Markets um",
+    "start": 852.72,
+    "duration": 5.16
+  },
+  {
+    "text": "where rate hikes actually result in more",
+    "start": 855.6,
+    "duration": 5.08
+  },
+  {
+    "text": "money creation um because basically the",
+    "start": 857.88,
+    "duration": 5.44
+  },
+  {
+    "text": "the larger Sovereign deficit for example",
+    "start": 860.68,
+    "duration": 5.24
+  },
+  {
+    "text": "which is someone else's income um and so",
+    "start": 863.32,
+    "duration": 4.639
+  },
+  {
+    "text": "they can get into kind of a tail spin",
+    "start": 865.92,
+    "duration": 3.479
+  },
+  {
+    "text": "where that's that's not the main",
+    "start": 867.959,
+    "duration": 2.721
+  },
+  {
+    "text": "variable and it starts to actually",
+    "start": 869.399,
+    "duration": 3.081
+  },
+  {
+    "text": "exacerbate it so I think I mean bringing",
+    "start": 870.68,
+    "duration": 4.56
+  },
+  {
+    "text": "it back to develop markets um basically",
+    "start": 872.48,
+    "duration": 5.0
+  },
+  {
+    "text": "I think that we're in a period of higher",
+    "start": 875.24,
+    "duration": 5.719
+  },
+  {
+    "text": "than Baseline inflation um for kind of",
+    "start": 877.48,
+    "duration": 4.96
+  },
+  {
+    "text": "the foreseeable future I mean until",
+    "start": 880.959,
+    "duration": 4.601
+  },
+  {
+    "text": "something more structural changes um and",
+    "start": 882.44,
+    "duration": 4.88
+  },
+  {
+    "text": "generally speaking when sovereigns get",
+    "start": 885.56,
+    "duration": 5.32
+  },
+  {
+    "text": "to these debt to GDP levels um those",
+    "start": 887.32,
+    "duration": 6.199
+  },
+  {
+    "text": "Bonds in real purching power terms are",
+    "start": 890.88,
+    "duration": 5.199
+  },
+  {
+    "text": "not going to do well basically the The",
+    "start": 893.519,
+    "duration": 5.041
+  },
+  {
+    "text": "Sovereign defaults one way or another",
+    "start": 896.079,
+    "duration": 4.081
+  },
+  {
+    "text": "and when you control your own currency",
+    "start": 898.56,
+    "duration": 3.36
+  },
+  {
+    "text": "it's usually not nominally it's usually",
+    "start": 900.16,
+    "duration": 4.479
+  },
+  {
+    "text": "through gradual loss of purchasing power",
+    "start": 901.92,
+    "duration": 5.56
+  },
+  {
+    "text": "um and finding ways to make nominal GDP",
+    "start": 904.639,
+    "duration": 5.921
+  },
+  {
+    "text": "go up faster than the the sovereign debt",
+    "start": 907.48,
+    "duration": 6.159
+  },
+  {
+    "text": "or at least as fast as it um and so back",
+    "start": 910.56,
+    "duration": 5.279
+  },
+  {
+    "text": "in the 40s they did yield curve control",
+    "start": 913.639,
+    "duration": 3.64
+  },
+  {
+    "text": "kind of like what Japan's doing today",
+    "start": 915.839,
+    "duration": 3.041
+  },
+  {
+    "text": "where they basically have above Target",
+    "start": 917.279,
+    "duration": 4.081
+  },
+  {
+    "text": "inflation but they still pin the full",
+    "start": 918.88,
+    "duration": 4.44
+  },
+  {
+    "text": "yield curve down anyway to varing",
+    "start": 921.36,
+    "duration": 4.64
+  },
+  {
+    "text": "degrees um right now the US is trying a",
+    "start": 923.32,
+    "duration": 4.16
+  },
+  {
+    "text": "different approach which is okay we're",
+    "start": 926.0,
+    "duration": 2.72
+  },
+  {
+    "text": "going to jack up indust rates we're",
+    "start": 927.48,
+    "duration": 2.64
+  },
+  {
+    "text": "going to try to strengthen the dollar",
+    "start": 928.72,
+    "duration": 3.08
+  },
+  {
+    "text": "we're going to keep Energy prices low",
+    "start": 930.12,
+    "duration": 3.76
+  },
+  {
+    "text": "we're going to try to slow down the rest",
+    "start": 931.8,
+    "duration": 3.64
+  },
+  {
+    "text": "of the world that has all this dollar",
+    "start": 933.88,
+    "duration": 2.959
+  },
+  {
+    "text": "dominated debt because that can help",
+    "start": 935.44,
+    "duration": 4.319
+  },
+  {
+    "text": "cril inflation um but they have somewhat",
+    "start": 936.839,
+    "duration": 4.761
+  },
+  {
+    "text": "limited tools for what they can really",
+    "start": 939.759,
+    "duration": 5.721
+  },
+  {
+    "text": "do at the end of the day um and so I I",
+    "start": 941.6,
+    "duration": 6.08
+  },
+  {
+    "text": "think basically when you have an",
+    "start": 945.48,
+    "duration": 4.12
+  },
+  {
+    "text": "emerging market that has above Target",
+    "start": 947.68,
+    "duration": 4.399
+  },
+  {
+    "text": "inflation for a long time the hard part",
+    "start": 949.6,
+    "duration": 4.44
+  },
+  {
+    "text": "is no one no one's got an exact reason",
+    "start": 952.079,
+    "duration": 3.361
+  },
+  {
+    "text": "of why it's happening it's a it's a",
+    "start": 954.04,
+    "duration": 4.0
+  },
+  {
+    "text": "bunch of factors happening together and",
+    "start": 955.44,
+    "duration": 5.0
+  },
+  {
+    "text": "it's just it's kind of this background",
+    "start": 958.04,
+    "duration": 4.2
+  },
+  {
+    "text": "factor that people have to deal with in",
+    "start": 960.44,
+    "duration": 3.759
+  },
+  {
+    "text": "that economy it just becomes part of",
+    "start": 962.24,
+    "duration": 4.079
+  },
+  {
+    "text": "what they have to deal with um and I",
+    "start": 964.199,
+    "duration": 4.841
+  },
+  {
+    "text": "think that the us is going to be in a",
+    "start": 966.319,
+    "duration": 5.32
+  },
+  {
+    "text": "Emerging Market light situation which is",
+    "start": 969.04,
+    "duration": 5.039
+  },
+  {
+    "text": "to say that um some of the things you",
+    "start": 971.639,
+    "duration": 4.041
+  },
+  {
+    "text": "see happening in Emerging Markets or",
+    "start": 974.079,
+    "duration": 3.361
+  },
+  {
+    "text": "some of the things you see happening in",
+    "start": 975.68,
+    "duration": 3.68
+  },
+  {
+    "text": "the developed world back in like the",
+    "start": 977.44,
+    "duration": 5.519
+  },
+  {
+    "text": "1940s um that's kind of the background",
+    "start": 979.36,
+    "duration": 5.88
+  },
+  {
+    "text": "thing that that we're going to have now",
+    "start": 982.959,
+    "duration": 3.961
+  },
+  {
+    "text": "for a period of time to varying degrees",
+    "start": 985.24,
+    "duration": 3.64
+  },
+  {
+    "text": "I think the the highs of inflation",
+    "start": 986.92,
+    "duration": 3.8
+  },
+  {
+    "text": "infation and the lows of inflation are",
+    "start": 988.88,
+    "duration": 3.319
+  },
+  {
+    "text": "both going to be higher than they were",
+    "start": 990.72,
+    "duration": 3.84
+  },
+  {
+    "text": "say back in the 2010s they already have",
+    "start": 992.199,
+    "duration": 4.12
+  },
+  {
+    "text": "been but I think that that's something",
+    "start": 994.56,
+    "duration": 2.56
+  },
+  {
+    "text": "that I don't think we're going to",
+    "start": 996.319,
+    "duration": 3.64
+  },
+  {
+    "text": "comfortably go back to just you know 2%",
+    "start": 997.12,
+    "duration": 5.159
+  },
+  {
+    "text": "inflation uh at least during periods of",
+    "start": 999.959,
+    "duration": 3.761
+  },
+  {
+    "text": "time where you're not in a recession",
+    "start": 1002.279,
+    "duration": 2.8
+  },
+  {
+    "text": "like you could you could get inflation",
+    "start": 1003.72,
+    "duration": 3.44
+  },
+  {
+    "text": "down in a recession but as soon as you",
+    "start": 1005.079,
+    "duration": 5.401
+  },
+  {
+    "text": "try to um come out of recession I think",
+    "start": 1007.16,
+    "duration": 4.76
+  },
+  {
+    "text": "that inflation's kind of ready to",
+    "start": 1010.48,
+    "duration": 3.4
+  },
+  {
+    "text": "reemerge there until there are more",
+    "start": 1011.92,
+    "duration": 5.24
+  },
+  {
+    "text": "structural changes and and given how",
+    "start": 1013.88,
+    "duration": 5.519
+  },
+  {
+    "text": "polarized or locked in a lot of this",
+    "start": 1017.16,
+    "duration": 3.76
+  },
+  {
+    "text": "structure is I don't really see those",
+    "start": 1019.399,
+    "duration": 3.88
+  },
+  {
+    "text": "structural changes happening for the",
+    "start": 1020.92,
+    "duration": 4.72
+  },
+  {
+    "text": "foreseeable future like an investment",
+    "start": 1023.279,
+    "duration": 5.721
+  },
+  {
+    "text": "Horizon all right so I'm I'm keep going",
+    "start": 1025.64,
+    "duration": 5.48
+  },
+  {
+    "text": "back to one of your initial thoughts",
+    "start": 1029.0,
+    "duration": 3.959
+  },
+  {
+    "text": "when you said you know when does all",
+    "start": 1031.12,
+    "duration": 5.439
+  },
+  {
+    "text": "this blow up because I have to tell you",
+    "start": 1032.959,
+    "duration": 6.681
+  },
+  {
+    "text": "um this concern with with deficits and",
+    "start": 1036.559,
+    "duration": 5.4
+  },
+  {
+    "text": "debts and things I've been hearing about",
+    "start": 1039.64,
+    "duration": 4.399
+  },
+  {
+    "text": "I'm 62 and I've been hearing about it my",
+    "start": 1041.959,
+    "duration": 4.36
+  },
+  {
+    "text": "whole life right my whole life I've been",
+    "start": 1044.039,
+    "duration": 4.88
+  },
+  {
+    "text": "hearing about this from and and when",
+    "start": 1046.319,
+    "duration": 4.72
+  },
+  {
+    "text": "when I was young the analysts who are",
+    "start": 1048.919,
+    "duration": 3.401
+  },
+  {
+    "text": "saying it and the investors who were",
+    "start": 1051.039,
+    "duration": 3.801
+  },
+  {
+    "text": "saying it were old so you know it's it's",
+    "start": 1052.32,
+    "duration": 4.2
+  },
+  {
+    "text": "something that a lot of folks have",
+    "start": 1054.84,
+    "duration": 5.16
+  },
+  {
+    "text": "constantly been thinking about um but",
+    "start": 1056.52,
+    "duration": 6.68
+  },
+  {
+    "text": "the fact that that you made a very sort",
+    "start": 1060.0,
+    "duration": 6.44
+  },
+  {
+    "text": "of conscious decision in 2017 to change",
+    "start": 1063.2,
+    "duration": 4.08
+  },
+  {
+    "text": "your",
+    "start": 1066.44,
+    "duration": 5.76
+  },
+  {
+    "text": "focus um do you have an idea of you know",
+    "start": 1067.28,
+    "duration": 6.84
+  },
+  {
+    "text": "the kind of timetable we're talking",
+    "start": 1072.2,
+    "duration": 4.04
+  },
+  {
+    "text": "about when does this be when does it",
+    "start": 1074.12,
+    "duration": 6.039
+  },
+  {
+    "text": "sort of I want to say blow up but but",
+    "start": 1076.24,
+    "duration": 8.28
+  },
+  {
+    "text": "um when do debts and deficits um very",
+    "start": 1080.159,
+    "duration": 8.081
+  },
+  {
+    "text": "obviously start to matter right now yeah",
+    "start": 1084.52,
+    "duration": 6.12
+  },
+  {
+    "text": "like like become something that people",
+    "start": 1088.24,
+    "duration": 5.12
+  },
+  {
+    "text": "have not are not familiar with you know",
+    "start": 1090.64,
+    "duration": 5.0
+  },
+  {
+    "text": "like the world looks that everybody is",
+    "start": 1093.36,
+    "duration": 3.319
+  },
+  {
+    "text": "it's obvious right you know what I'm",
+    "start": 1095.64,
+    "duration": 2.32
+  },
+  {
+    "text": "talking about it becomes so important",
+    "start": 1096.679,
+    "duration": 2.801
+  },
+  {
+    "text": "that people just they don't talk about",
+    "start": 1097.96,
+    "duration": 3.959
+  },
+  {
+    "text": "anything else for you know however long",
+    "start": 1099.48,
+    "duration": 4.679
+  },
+  {
+    "text": "you know it's like a crisis yeah so it's",
+    "start": 1101.919,
+    "duration": 3.801
+  },
+  {
+    "text": "a it's a good question I think it",
+    "start": 1104.159,
+    "duration": 3.561
+  },
+  {
+    "text": "happens in stages I think the one of the",
+    "start": 1105.72,
+    "duration": 4.76
+  },
+  {
+    "text": "first ways is manifest was back in 2019",
+    "start": 1107.72,
+    "duration": 6.16
+  },
+  {
+    "text": "with the repo Spike um and be those of",
+    "start": 1110.48,
+    "duration": 5.16
+  },
+  {
+    "text": "us that were monitoring fiscal dominance",
+    "start": 1113.88,
+    "duration": 4.0
+  },
+  {
+    "text": "at the time were like okay it seems like",
+    "start": 1115.64,
+    "duration": 4.919
+  },
+  {
+    "text": "on the service it's a repo problem um",
+    "start": 1117.88,
+    "duration": 4.72
+  },
+  {
+    "text": "but really it's a t- bill over supply",
+    "start": 1120.559,
+    "duration": 3.681
+  },
+  {
+    "text": "problem relative to how many reserves",
+    "start": 1122.6,
+    "duration": 2.64
+  },
+  {
+    "text": "were in the system and how much",
+    "start": 1124.24,
+    "duration": 2.559
+  },
+  {
+    "text": "liquidity is available to buy them and",
+    "start": 1125.24,
+    "duration": 3.48
+  },
+  {
+    "text": "repo was used as a funding source for",
+    "start": 1126.799,
+    "duration": 5.561
+  },
+  {
+    "text": "example to buy t- bills um and so like",
+    "start": 1128.72,
+    "duration": 5.079
+  },
+  {
+    "text": "me and others said well the fed's",
+    "start": 1132.36,
+    "duration": 2.439
+  },
+  {
+    "text": "probably going to have to just outright",
+    "start": 1133.799,
+    "duration": 2.801
+  },
+  {
+    "text": "buy T bills even though it's it's it's",
+    "start": 1134.799,
+    "duration": 3.441
+  },
+  {
+    "text": "on the surface it's a repo problem and",
+    "start": 1136.6,
+    "duration": 3.959
+  },
+  {
+    "text": "sure enough you know in in in mid",
+    "start": 1138.24,
+    "duration": 4.2
+  },
+  {
+    "text": "September the repo rate blew out first",
+    "start": 1140.559,
+    "duration": 3.761
+  },
+  {
+    "text": "they were helping with repo markets but",
+    "start": 1142.44,
+    "duration": 3.76
+  },
+  {
+    "text": "then by mid October the fed's like okay",
+    "start": 1144.32,
+    "duration": 3.08
+  },
+  {
+    "text": "we're going actually going to buy some T",
+    "start": 1146.2,
+    "duration": 2.68
+  },
+  {
+    "text": "bills we're just going to buy and hold",
+    "start": 1147.4,
+    "duration": 2.519
+  },
+  {
+    "text": "more t- bills we're going to stop",
+    "start": 1148.88,
+    "duration": 2.2
+  },
+  {
+    "text": "reducing our balance sheet we're going",
+    "start": 1149.919,
+    "duration": 2.601
+  },
+  {
+    "text": "to start model increasing our balance",
+    "start": 1151.08,
+    "duration": 3.479
+  },
+  {
+    "text": "sheet again and that was basically that",
+    "start": 1152.52,
+    "duration": 4.159
+  },
+  {
+    "text": "the the FED had to respond to the the",
+    "start": 1154.559,
+    "duration": 3.881
+  },
+  {
+    "text": "fiscal side of what was happening um",
+    "start": 1156.679,
+    "duration": 4.161
+  },
+  {
+    "text": "because they cannot abide by illiquid or",
+    "start": 1158.44,
+    "duration": 4.76
+  },
+  {
+    "text": "otherwise dysfunctional treasury markets",
+    "start": 1160.84,
+    "duration": 5.88
+  },
+  {
+    "text": "um in March 2020 when everything shut",
+    "start": 1163.2,
+    "duration": 5.92
+  },
+  {
+    "text": "down of course initially there's a a bid",
+    "start": 1166.72,
+    "duration": 5.72
+  },
+  {
+    "text": "to the treasuries um so yields dropped",
+    "start": 1169.12,
+    "duration": 5.36
+  },
+  {
+    "text": "um but kind of at the at the worst part",
+    "start": 1172.44,
+    "duration": 4.84
+  },
+  {
+    "text": "of it um they got to a phase where the",
+    "start": 1174.48,
+    "duration": 4.679
+  },
+  {
+    "text": "dollar was spiking and you see a lot of",
+    "start": 1177.28,
+    "duration": 4.0
+  },
+  {
+    "text": "foreign entities start to sell assets to",
+    "start": 1179.159,
+    "duration": 4.041
+  },
+  {
+    "text": "get dollars to meet their dollar",
+    "start": 1181.28,
+    "duration": 3.399
+  },
+  {
+    "text": "liabilities and that even includes",
+    "start": 1183.2,
+    "duration": 4.76
+  },
+  {
+    "text": "treasuries so treasuries were um going",
+    "start": 1184.679,
+    "duration": 5.281
+  },
+  {
+    "text": "down in yields up in price until it got",
+    "start": 1187.96,
+    "duration": 3.48
+  },
+  {
+    "text": "bad enough that even treasuries started",
+    "start": 1189.96,
+    "duration": 3.56
+  },
+  {
+    "text": "to have problems and then the FED steps",
+    "start": 1191.44,
+    "duration": 5.16
+  },
+  {
+    "text": "in with you know um like a trillion",
+    "start": 1193.52,
+    "duration": 4.519
+  },
+  {
+    "text": "dollars of liquidity in a matter of",
+    "start": 1196.6,
+    "duration": 3.84
+  },
+  {
+    "text": "weeks to basically reliquify the",
+    "start": 1198.039,
+    "duration": 4.361
+  },
+  {
+    "text": "treasury market and get it functioning",
+    "start": 1200.44,
+    "duration": 6.599
+  },
+  {
+    "text": "again um and uh you know that's and then",
+    "start": 1202.4,
+    "duration": 6.759
+  },
+  {
+    "text": "also basically the the early 2023",
+    "start": 1207.039,
+    "duration": 5.361
+  },
+  {
+    "text": "banking issue um uh that basically there",
+    "start": 1209.159,
+    "duration": 5.76
+  },
+  {
+    "text": "they had to shift to being somewhat pro-",
+    "start": 1212.4,
+    "duration": 4.48
+  },
+  {
+    "text": "liquidity for a multi-month period",
+    "start": 1214.919,
+    "duration": 3.481
+  },
+  {
+    "text": "despite the fact that they're fighting",
+    "start": 1216.88,
+    "duration": 3.96
+  },
+  {
+    "text": "inflation um ironically because banks",
+    "start": 1218.4,
+    "duration": 4.96
+  },
+  {
+    "text": "are having solvency issues around",
+    "start": 1220.84,
+    "duration": 4.719
+  },
+  {
+    "text": "treasuries um and and the sheer amount",
+    "start": 1223.36,
+    "duration": 4.4
+  },
+  {
+    "text": "of treasuries that they bought and now",
+    "start": 1225.559,
+    "duration": 5.081
+  },
+  {
+    "text": "banks are less a treasury purchaser um",
+    "start": 1227.76,
+    "duration": 5.84
+  },
+  {
+    "text": "so first the fiscal dominance initially",
+    "start": 1230.64,
+    "duration": 6.24
+  },
+  {
+    "text": "shows up in some of these kind of more",
+    "start": 1233.6,
+    "duration": 6.199
+  },
+  {
+    "text": "notable but still fairly benign issues",
+    "start": 1236.88,
+    "duration": 4.679
+  },
+  {
+    "text": "uh of course the the inflation we had",
+    "start": 1239.799,
+    "duration": 3.281
+  },
+  {
+    "text": "over the past few years like we got up",
+    "start": 1241.559,
+    "duration": 4.561
+  },
+  {
+    "text": "to 9% official CPI a lot of that was the",
+    "start": 1243.08,
+    "duration": 5.2
+  },
+  {
+    "text": "the fiscal impulse that happened I think",
+    "start": 1246.12,
+    "duration": 3.72
+  },
+  {
+    "text": "we only get to a phase of kind of",
+    "start": 1248.28,
+    "duration": 4.08
+  },
+  {
+    "text": "structurally being in fiscal dominance",
+    "start": 1249.84,
+    "duration": 4.199
+  },
+  {
+    "text": "and people fully knowing we're in fiscal",
+    "start": 1252.36,
+    "duration": 3.799
+  },
+  {
+    "text": "dominance when a couple things happened",
+    "start": 1254.039,
+    "duration": 4.0
+  },
+  {
+    "text": "one is that the Federal Reserve is no",
+    "start": 1256.159,
+    "duration": 3.361
+  },
+  {
+    "text": "longer able ble to shrink its balance",
+    "start": 1258.039,
+    "duration": 4.841
+  },
+  {
+    "text": "sheet despite above Target inflation uh",
+    "start": 1259.52,
+    "duration": 5.039
+  },
+  {
+    "text": "that that's one Hallmark that basically",
+    "start": 1262.88,
+    "duration": 3.88
+  },
+  {
+    "text": "there's so much treasury Supply coming",
+    "start": 1264.559,
+    "duration": 5.041
+  },
+  {
+    "text": "to Market um that the FED has to kind of",
+    "start": 1266.76,
+    "duration": 5.2
+  },
+  {
+    "text": "accommodate that to varying degrees even",
+    "start": 1269.6,
+    "duration": 4.319
+  },
+  {
+    "text": "though inflation might be two and a half",
+    "start": 1271.96,
+    "duration": 3.0
+  },
+  {
+    "text": "three",
+    "start": 1273.919,
+    "duration": 3.321
+  },
+  {
+    "text": "4% um they might be still periods of",
+    "start": 1274.96,
+    "duration": 3.8
+  },
+  {
+    "text": "time where they have to be pro-",
+    "start": 1277.24,
+    "duration": 4.64
+  },
+  {
+    "text": "liquidity even though um inflation's",
+    "start": 1278.76,
+    "duration": 4.84
+  },
+  {
+    "text": "above Target that that's kind of one big",
+    "start": 1281.88,
+    "duration": 3.56
+  },
+  {
+    "text": "Hallmark that's kind of what Japan's in",
+    "start": 1283.6,
+    "duration": 3.8
+  },
+  {
+    "text": "now they have above Target inflation but",
+    "start": 1285.44,
+    "duration": 3.16
+  },
+  {
+    "text": "they're still increasing their balance",
+    "start": 1287.4,
+    "duration": 3.279
+  },
+  {
+    "text": "cheap but of course their inflation is",
+    "start": 1288.6,
+    "duration": 4.52
+  },
+  {
+    "text": "still low it's Japan so we kind of they",
+    "start": 1290.679,
+    "duration": 4.801
+  },
+  {
+    "text": "get they get sort of a pass for now um",
+    "start": 1293.12,
+    "duration": 3.88
+  },
+  {
+    "text": "but I think they're going to be stuck in",
+    "start": 1295.48,
+    "duration": 3.0
+  },
+  {
+    "text": "that situation for a while and I think",
+    "start": 1297.0,
+    "duration": 4.0
+  },
+  {
+    "text": "that the US is is going to enter that",
+    "start": 1298.48,
+    "duration": 4.6
+  },
+  {
+    "text": "situation um but without some of the",
+    "start": 1301.0,
+    "duration": 5.279
+  },
+  {
+    "text": "things that Japan has um so our our CPI",
+    "start": 1303.08,
+    "duration": 5.16
+  },
+  {
+    "text": "probably be higher uh and I think the",
+    "start": 1306.279,
+    "duration": 3.76
+  },
+  {
+    "text": "second time it manifests is when you get",
+    "start": 1308.24,
+    "duration": 3.72
+  },
+  {
+    "text": "another energy price spike I mean as",
+    "start": 1310.039,
+    "duration": 3.64
+  },
+  {
+    "text": "long as Energy's kind of range bound",
+    "start": 1311.96,
+    "duration": 4.24
+  },
+  {
+    "text": "like oil prices gas prices as long as",
+    "start": 1313.679,
+    "duration": 4.041
+  },
+  {
+    "text": "that's range bound that really helps",
+    "start": 1316.2,
+    "duration": 3.52
+  },
+  {
+    "text": "keep inflation in check and some of the",
+    "start": 1317.72,
+    "duration": 4.319
+  },
+  {
+    "text": "more obvious things don't manifest the",
+    "start": 1319.72,
+    "duration": 3.839
+  },
+  {
+    "text": "problem is when you're running fiscal",
+    "start": 1322.039,
+    "duration": 3.961
+  },
+  {
+    "text": "dominance um the FED is basically having",
+    "start": 1323.559,
+    "duration": 4.48
+  },
+  {
+    "text": "to accommodate the treasure Supply",
+    "start": 1326.0,
+    "duration": 4.2
+  },
+  {
+    "text": "despite above Target inflation and",
+    "start": 1328.039,
+    "duration": 4.681
+  },
+  {
+    "text": "you're in that period for a period of",
+    "start": 1330.2,
+    "duration": 3.839
+  },
+  {
+    "text": "time and it still seems kind of",
+    "start": 1332.72,
+    "duration": 3.559
+  },
+  {
+    "text": "contained and then the situation runs",
+    "start": 1334.039,
+    "duration": 4.841
+  },
+  {
+    "text": "into some sort of energy shortage um",
+    "start": 1336.279,
+    "duration": 5.041
+  },
+  {
+    "text": "just kind of structurally higher energy",
+    "start": 1338.88,
+    "duration": 5.12
+  },
+  {
+    "text": "prices um then you kind of say the FED",
+    "start": 1341.32,
+    "duration": 4.2
+  },
+  {
+    "text": "can say well we can't really fight that",
+    "start": 1344.0,
+    "duration": 3.32
+  },
+  {
+    "text": "because we're accommodating the the",
+    "start": 1345.52,
+    "duration": 3.68
+  },
+  {
+    "text": "treasury situation",
+    "start": 1347.32,
+    "duration": 3.2
+  },
+  {
+    "text": "um and that's what a lot of merging",
+    "start": 1349.2,
+    "duration": 3.76
+  },
+  {
+    "text": "markets find themselves in um and I",
+    "start": 1350.52,
+    "duration": 4.159
+  },
+  {
+    "text": "think that the US is is kind of",
+    "start": 1352.96,
+    "duration": 4.12
+  },
+  {
+    "text": "gradually entering that um period of",
+    "start": 1354.679,
+    "duration": 3.761
+  },
+  {
+    "text": "time and and to your point around people",
+    "start": 1357.08,
+    "duration": 2.32
+  },
+  {
+    "text": "have been saying that Deb's been an",
+    "start": 1358.44,
+    "duration": 3.16
+  },
+  {
+    "text": "issue for a while it's funny because in",
+    "start": 1359.4,
+    "duration": 4.96
+  },
+  {
+    "text": "some of my uh newsletters like I'm I'm",
+    "start": 1361.6,
+    "duration": 4.52
+  },
+  {
+    "text": "fully aware of that so by the time",
+    "start": 1364.36,
+    "duration": 3.64
+  },
+  {
+    "text": "someone says the Deb's a problem",
+    "start": 1366.12,
+    "duration": 3.12
+  },
+  {
+    "text": "everyone's like you know of course we've",
+    "start": 1368.0,
+    "duration": 3.36
+  },
+  {
+    "text": "heard this before for decades and one",
+    "start": 1369.24,
+    "duration": 4.439
+  },
+  {
+    "text": "thing I pointed out is that if you look",
+    "start": 1371.36,
+    "duration": 3.96
+  },
+  {
+    "text": "at Federal interest expenses a",
+    "start": 1373.679,
+    "duration": 4.24
+  },
+  {
+    "text": "percentage of GDP um back in the late",
+    "start": 1375.32,
+    "duration": 6.16
+  },
+  {
+    "text": "80s and early 90s that hit a peak um",
+    "start": 1377.919,
+    "duration": 5.401
+  },
+  {
+    "text": "because that basically kind of peak",
+    "start": 1381.48,
+    "duration": 4.4
+  },
+  {
+    "text": "indust rates Rising deficits and so for",
+    "start": 1383.32,
+    "duration": 4.52
+  },
+  {
+    "text": "example the national debt Clock went up",
+    "start": 1385.88,
+    "duration": 3.279
+  },
+  {
+    "text": "in the late",
+    "start": 1387.84,
+    "duration": 4.24
+  },
+  {
+    "text": "1980s um and and Ross Pro ran the most",
+    "start": 1389.159,
+    "duration": 4.681
+  },
+  {
+    "text": "successful independent presidential",
+    "start": 1392.08,
+    "duration": 3.479
+  },
+  {
+    "text": "campaign largely based on the debt and",
+    "start": 1393.84,
+    "duration": 3.88
+  },
+  {
+    "text": "deficit uh in the early 90s that was",
+    "start": 1395.559,
+    "duration": 4.921
+  },
+  {
+    "text": "kind of the peak Zeitgeist for the debt",
+    "start": 1397.72,
+    "duration": 4.88
+  },
+  {
+    "text": "matters deficits matter this is",
+    "start": 1400.48,
+    "duration": 4.72
+  },
+  {
+    "text": "unsustainable um but then you know China",
+    "start": 1402.6,
+    "duration": 4.04
+  },
+  {
+    "text": "opened up to the world starting in the",
+    "start": 1405.2,
+    "duration": 3.52
+  },
+  {
+    "text": "80s and really accelerating in the '90s",
+    "start": 1406.64,
+    "duration": 5.44
+  },
+  {
+    "text": "2000s uh Soviet Union fell uh around",
+    "start": 1408.72,
+    "duration": 5.72
+  },
+  {
+    "text": "that time and opened up that basically a",
+    "start": 1412.08,
+    "duration": 5.56
+  },
+  {
+    "text": "lot of Labor and energy from the East",
+    "start": 1414.44,
+    "duration": 6.32
+  },
+  {
+    "text": "connected to Capital uh in the west and",
+    "start": 1417.64,
+    "duration": 5.76
+  },
+  {
+    "text": "this was a 30-year structural period of",
+    "start": 1420.76,
+    "duration": 4.96
+  },
+  {
+    "text": "of kind of exceptional disinflation",
+    "start": 1423.4,
+    "duration": 5.0
+  },
+  {
+    "text": "globalization productivity and it really",
+    "start": 1425.72,
+    "duration": 4.959
+  },
+  {
+    "text": "offset a lot of the things so a lot of",
+    "start": 1428.4,
+    "duration": 3.96
+  },
+  {
+    "text": "people that feared at the time didn't",
+    "start": 1430.679,
+    "duration": 4.401
+  },
+  {
+    "text": "expect 30 year 30 more years of like",
+    "start": 1432.36,
+    "duration": 5.679
+  },
+  {
+    "text": "falling interest rates zero interest",
+    "start": 1435.08,
+    "duration": 5.0
+  },
+  {
+    "text": "rates uh some some countries even",
+    "start": 1438.039,
+    "duration": 4.921
+  },
+  {
+    "text": "negative interest rates um and the sheer",
+    "start": 1440.08,
+    "duration": 6.12
+  },
+  {
+    "text": "amount of kind of um efficiency we'd",
+    "start": 1442.96,
+    "duration": 6.04
+  },
+  {
+    "text": "have and I think going forward um and",
+    "start": 1446.2,
+    "duration": 4.04
+  },
+  {
+    "text": "what a lot of people learned in that",
+    "start": 1449.0,
+    "duration": 2.919
+  },
+  {
+    "text": "period like a lot of people learned in",
+    "start": 1450.24,
+    "duration": 3.28
+  },
+  {
+    "text": "the 2010s especially after the global",
+    "start": 1451.919,
+    "duration": 2.921
+  },
+  {
+    "text": "financial crisis they they were like",
+    "start": 1453.52,
+    "duration": 2.84
+  },
+  {
+    "text": "okay debts don't really matter this is",
+    "start": 1454.84,
+    "duration": 3.6
+  },
+  {
+    "text": "never going to be an issue and I think",
+    "start": 1456.36,
+    "duration": 3.48
+  },
+  {
+    "text": "that they learned the wrong lesson from",
+    "start": 1458.44,
+    "duration": 4.32
+  },
+  {
+    "text": "that period um and I think that now the",
+    "start": 1459.84,
+    "duration": 5.76
+  },
+  {
+    "text": "like in in recent years the peak Ze I",
+    "start": 1462.76,
+    "duration": 5.159
+  },
+  {
+    "text": "became you know this is never going to",
+    "start": 1465.6,
+    "duration": 4.88
+  },
+  {
+    "text": "really matter in any of our lifetimes",
+    "start": 1467.919,
+    "duration": 4.561
+  },
+  {
+    "text": "and I think that that that was kind of",
+    "start": 1470.48,
+    "duration": 3.76
+  },
+  {
+    "text": "precisely the wrong time and I think I",
+    "start": 1472.48,
+    "duration": 3.52
+  },
+  {
+    "text": "think the pendulum has kind of hit one",
+    "start": 1474.24,
+    "duration": 4.36
+  },
+  {
+    "text": "side it's starting to slowly come back",
+    "start": 1476.0,
+    "duration": 4.08
+  },
+  {
+    "text": "and so I think going forward we're in a",
+    "start": 1478.6,
+    "duration": 3.0
+  },
+  {
+    "text": "period where it gradually starts to",
+    "start": 1480.08,
+    "duration": 3.959
+  },
+  {
+    "text": "matter again it you know the the large",
+    "start": 1481.6,
+    "duration": 4.12
+  },
+  {
+    "text": "monetized fiscal deficits mattered",
+    "start": 1484.039,
+    "duration": 3.561
+  },
+  {
+    "text": "during covid they matter now and I think",
+    "start": 1485.72,
+    "duration": 3.199
+  },
+  {
+    "text": "it's going to be a recurring thing where",
+    "start": 1487.6,
+    "duration": 3.439
+  },
+  {
+    "text": "they actually are a big background thing",
+    "start": 1488.919,
+    "duration": 4.12
+  },
+  {
+    "text": "that that matters yeah and as a guy",
+    "start": 1491.039,
+    "duration": 4.961
+  },
+  {
+    "text": "focused mostly on equities all of this",
+    "start": 1493.039,
+    "duration": 6.401
+  },
+  {
+    "text": "smells like um you know Irving Fisher",
+    "start": 1496.0,
+    "duration": 6.12
+  },
+  {
+    "text": "permanently High Plateau thinking you",
+    "start": 1499.44,
+    "duration": 5.76
+  },
+  {
+    "text": "know well you know the profit margins",
+    "start": 1502.12,
+    "duration": 5.159
+  },
+  {
+    "text": "are just wider because well we you know",
+    "start": 1505.2,
+    "duration": 3.8
+  },
+  {
+    "text": "it's a new world and we have a lot of",
+    "start": 1507.279,
+    "duration": 3.161
+  },
+  {
+    "text": "there are a lot of businesses that just",
+    "start": 1509.0,
+    "duration": 3.24
+  },
+  {
+    "text": "didn't exist before and there are higher",
+    "start": 1510.44,
+    "duration": 4.4
+  },
+  {
+    "text": "margin businesses with get higher",
+    "start": 1512.24,
+    "duration": 7.4
+  },
+  {
+    "text": "returns and uh you know similar",
+    "start": 1514.84,
+    "duration": 8.12
+  },
+  {
+    "text": "arguments I I and and therefore they",
+    "start": 1519.64,
+    "duration": 5.44
+  },
+  {
+    "text": "Garner higher valuations so maybe we're",
+    "start": 1522.96,
+    "duration": 4.0
+  },
+  {
+    "text": "you know that Plateau is permanently",
+    "start": 1525.08,
+    "duration": 5.599
+  },
+  {
+    "text": "higher as well but uh you know we we see",
+    "start": 1526.96,
+    "duration": 5.36
+  },
+  {
+    "text": "how this has turned out in history",
+    "start": 1530.679,
+    "duration": 3.081
+  },
+  {
+    "text": "haven't we it's every time somebody",
+    "start": 1532.32,
+    "duration": 3.68
+  },
+  {
+    "text": "starts to think this way it's it's",
+    "start": 1533.76,
+    "duration": 4.799
+  },
+  {
+    "text": "almost a sign that the end the end is",
+    "start": 1536.0,
+    "duration": 5.0
+  },
+  {
+    "text": "near and the cycle is about to turn",
+    "start": 1538.559,
+    "duration": 5.761
+  },
+  {
+    "text": "isn't it I mean just yeah I think",
+    "start": 1541.0,
+    "duration": 4.64
+  },
+  {
+    "text": "basically yeah the idea that Industries",
+    "start": 1544.32,
+    "duration": 3.2
+  },
+  {
+    "text": "can be zero you can pay any valuation",
+    "start": 1545.64,
+    "duration": 4.6
+  },
+  {
+    "text": "for equities and uh the the deficits",
+    "start": 1547.52,
+    "duration": 4.32
+  },
+  {
+    "text": "don't really matter there's a limited",
+    "start": 1550.24,
+    "duration": 4.319
+  },
+  {
+    "text": "bid for treasuries um that was kind of",
+    "start": 1551.84,
+    "duration": 4.199
+  },
+  {
+    "text": "the this invin like things are",
+    "start": 1554.559,
+    "duration": 4.36
+  },
+  {
+    "text": "invincible basically that was the the Z",
+    "start": 1556.039,
+    "duration": 5.0
+  },
+  {
+    "text": "gist in say the late 2010s it's like",
+    "start": 1558.919,
+    "duration": 3.321
+  },
+  {
+    "text": "look we even got past the global",
+    "start": 1561.039,
+    "duration": 2.52
+  },
+  {
+    "text": "financial crisis you can print your way",
+    "start": 1562.24,
+    "duration": 4.24
+  },
+  {
+    "text": "out of anything um that that and without",
+    "start": 1563.559,
+    "duration": 5.081
+  },
+  {
+    "text": "consequen you can print your way out of",
+    "start": 1566.48,
+    "duration": 4.72
+  },
+  {
+    "text": "things and it won't really manifest but",
+    "start": 1568.64,
+    "duration": 4.56
+  },
+  {
+    "text": "um looking into the Nuance is where",
+    "start": 1571.2,
+    "duration": 3.52
+  },
+  {
+    "text": "that's important so for example a lot of",
+    "start": 1573.2,
+    "duration": 4.88
+  },
+  {
+    "text": "my work in 2020 was trying to show why",
+    "start": 1574.72,
+    "duration": 5.079
+  },
+  {
+    "text": "some of this stimulus was actually going",
+    "start": 1578.08,
+    "duration": 3.479
+  },
+  {
+    "text": "to be inflationary this time because",
+    "start": 1579.799,
+    "duration": 3.321
+  },
+  {
+    "text": "people were like look we saw this in",
+    "start": 1581.559,
+    "duration": 2.561
+  },
+  {
+    "text": "2008 people said it's going to be",
+    "start": 1583.12,
+    "duration": 3.919
+  },
+  {
+    "text": "inflationary it it was not inflationary",
+    "start": 1584.12,
+    "duration": 4.4
+  },
+  {
+    "text": "and so I'm sitting there in 2020 is",
+    "start": 1587.039,
+    "duration": 4.041
+  },
+  {
+    "text": "saying th this is different than 2008 I",
+    "start": 1588.52,
+    "duration": 4.039
+  },
+  {
+    "text": "mean this isn't just recapitalizing",
+    "start": 1591.08,
+    "duration": 2.88
+  },
+  {
+    "text": "Banks this is money that's getting out",
+    "start": 1592.559,
+    "duration": 3.081
+  },
+  {
+    "text": "into the broad money supply you're",
+    "start": 1593.96,
+    "duration": 4.36
+  },
+  {
+    "text": "sending checks to people yeah yeah yeah",
+    "start": 1595.64,
+    "duration": 4.24
+  },
+  {
+    "text": "and and so I mean this is going to be",
+    "start": 1598.32,
+    "duration": 4.599
+  },
+  {
+    "text": "very different and we saw that play out",
+    "start": 1599.88,
+    "duration": 4.56
+  },
+  {
+    "text": "and since then it's just been a matter",
+    "start": 1602.919,
+    "duration": 3.76
+  },
+  {
+    "text": "of going through the cycle so in 2022",
+    "start": 1604.44,
+    "duration": 3.64
+  },
+  {
+    "text": "I'm like okay now they're tightening now",
+    "start": 1606.679,
+    "duration": 3.961
+  },
+  {
+    "text": "it's going to be bearish um but then we",
+    "start": 1608.08,
+    "duration": 4.719
+  },
+  {
+    "text": "started to see signs of fiscal dominance",
+    "start": 1610.64,
+    "duration": 5.32
+  },
+  {
+    "text": "reemerging um by kind of early 2023 it's",
+    "start": 1612.799,
+    "duration": 4.561
+  },
+  {
+    "text": "like okay we're actually kind of Through",
+    "start": 1615.96,
+    "duration": 2.839
+  },
+  {
+    "text": "the Looking Glass and now that some of",
+    "start": 1617.36,
+    "duration": 3.439
+  },
+  {
+    "text": "these rate hikes risk actually being",
+    "start": 1618.799,
+    "duration": 4.921
+  },
+  {
+    "text": "stimulatory for those receiving it um",
+    "start": 1620.799,
+    "duration": 4.321
+  },
+  {
+    "text": "and I think I mean one of the Hallmarks",
+    "start": 1623.72,
+    "duration": 3.88
+  },
+  {
+    "text": "of fiscal dominance is is there's bigger",
+    "start": 1625.12,
+    "duration": 4.96
+  },
+  {
+    "text": "than normal Divergence between sectors",
+    "start": 1627.6,
+    "duration": 4.76
+  },
+  {
+    "text": "so we you know economists have like",
+    "start": 1630.08,
+    "duration": 4.12
+  },
+  {
+    "text": "we're looking for a recession in",
+    "start": 1632.36,
+    "duration": 5.039
+  },
+  {
+    "text": "2022 um we never really got one um but",
+    "start": 1634.2,
+    "duration": 5.079
+  },
+  {
+    "text": "certain sectors are in recession for",
+    "start": 1637.399,
+    "duration": 3.561
+  },
+  {
+    "text": "example manufacturing went through a",
+    "start": 1639.279,
+    "duration": 3.081
+  },
+  {
+    "text": "recession commercial real estate",
+    "start": 1640.96,
+    "duration": 2.76
+  },
+  {
+    "text": "obviously in a recession basically",
+    "start": 1642.36,
+    "duration": 4.319
+  },
+  {
+    "text": "depression um whereas if you're so if",
+    "start": 1643.72,
+    "duration": 4.48
+  },
+  {
+    "text": "you're if you're one of the areas it's",
+    "start": 1646.679,
+    "duration": 3.88
+  },
+  {
+    "text": "impacted by the tight monetary policy",
+    "start": 1648.2,
+    "duration": 4.079
+  },
+  {
+    "text": "you you went into a recession or nearly",
+    "start": 1650.559,
+    "duration": 3.761
+  },
+  {
+    "text": "so whereas if you're one of the entities",
+    "start": 1652.279,
+    "duration": 4.88
+  },
+  {
+    "text": "that is on the receiving side of the",
+    "start": 1654.32,
+    "duration": 5.2
+  },
+  {
+    "text": "deficits um you're not really in a",
+    "start": 1657.159,
+    "duration": 3.841
+  },
+  {
+    "text": "recession some sometimes you're in a",
+    "start": 1659.52,
+    "duration": 3.279
+  },
+  {
+    "text": "boom sometimes you're at least Treading",
+    "start": 1661.0,
+    "duration": 4.36
+  },
+  {
+    "text": "Water you're doing well um and so you",
+    "start": 1662.799,
+    "duration": 4.041
+  },
+  {
+    "text": "get kind of bigger than normal",
+    "start": 1665.36,
+    "duration": 3.0
+  },
+  {
+    "text": "performance gaps between different",
+    "start": 1666.84,
+    "duration": 3.4
+  },
+  {
+    "text": "sectors which which is relevant for",
+    "start": 1668.36,
+    "duration": 3.28
+  },
+  {
+    "text": "Equity selection and things right so",
+    "start": 1670.24,
+    "duration": 2.919
+  },
+  {
+    "text": "who's on the receiving end we know we",
+    "start": 1671.64,
+    "duration": 3.919
+  },
+  {
+    "text": "mentioned energy",
+    "start": 1673.159,
+    "duration": 5.12
+  },
+  {
+    "text": "right yeah energy I mean from the",
+    "start": 1675.559,
+    "duration": 5.041
+  },
+  {
+    "text": "deficits particularly uh who's on the",
+    "start": 1678.279,
+    "duration": 4.561
+  },
+  {
+    "text": "receiving side is people who hold a lot",
+    "start": 1680.6,
+    "duration": 5.04
+  },
+  {
+    "text": "of assets um especially some of that",
+    "start": 1682.84,
+    "duration": 5.839
+  },
+  {
+    "text": "shorter duration um interest bearing",
+    "start": 1685.64,
+    "duration": 4.919
+  },
+  {
+    "text": "security so for example if you hold",
+    "start": 1688.679,
+    "duration": 4.281
+  },
+  {
+    "text": "money markets like if you're if you're a",
+    "start": 1690.559,
+    "duration": 5.281
+  },
+  {
+    "text": "let's say you're a upper middle class um",
+    "start": 1692.96,
+    "duration": 5.079
+  },
+  {
+    "text": "homeowner right you got your locked in",
+    "start": 1695.84,
+    "duration": 4.719
+  },
+  {
+    "text": "mortgage um you've got your money market",
+    "start": 1698.039,
+    "duration": 4.76
+  },
+  {
+    "text": "fund now every time the FED raises",
+    "start": 1700.559,
+    "duration": 3.521
+  },
+  {
+    "text": "interest rates they actually just pay",
+    "start": 1702.799,
+    "duration": 3.48
+  },
+  {
+    "text": "you more in your money market fund uh",
+    "start": 1704.08,
+    "duration": 5.079
+  },
+  {
+    "text": "and if if it translates into more CPI",
+    "start": 1706.279,
+    "duration": 5.12
+  },
+  {
+    "text": "then it translates into higher um cost",
+    "start": 1709.159,
+    "duration": 4.601
+  },
+  {
+    "text": "of living adjustment for Social Security",
+    "start": 1711.399,
+    "duration": 5.0
+  },
+  {
+    "text": "and you receive more from that uh and so",
+    "start": 1713.76,
+    "duration": 5.6
+  },
+  {
+    "text": "really kind of the the the the older",
+    "start": 1716.399,
+    "duration": 4.801
+  },
+  {
+    "text": "wealthier segment is kind of on the",
+    "start": 1719.36,
+    "duration": 3.919
+  },
+  {
+    "text": "receiving side also the the medical",
+    "start": 1721.2,
+    "duration": 5.0
+  },
+  {
+    "text": "spending um you know basically Medicare",
+    "start": 1723.279,
+    "duration": 4.801
+  },
+  {
+    "text": "Social Security and interest people who",
+    "start": 1726.2,
+    "duration": 4.199
+  },
+  {
+    "text": "hold things that get a lot of interest",
+    "start": 1728.08,
+    "duration": 4.439
+  },
+  {
+    "text": "um so it's kind of like the the",
+    "start": 1730.399,
+    "duration": 5.16
+  },
+  {
+    "text": "wealthier um segment or those that are",
+    "start": 1732.519,
+    "duration": 5.841
+  },
+  {
+    "text": "similarly positioned so financially like",
+    "start": 1735.559,
+    "duration": 4.561
+  },
+  {
+    "text": "my my profile looks kind of like you",
+    "start": 1738.36,
+    "duration": 3.159
+  },
+  {
+    "text": "know that demographic as well even",
+    "start": 1740.12,
+    "duration": 2.559
+  },
+  {
+    "text": "though I'm younger I have locked in",
+    "start": 1741.519,
+    "duration": 3.721
+  },
+  {
+    "text": "mortgage I have some money markets and",
+    "start": 1742.679,
+    "duration": 4.441
+  },
+  {
+    "text": "literally just that's more investment",
+    "start": 1745.24,
+    "duration": 4.159
+  },
+  {
+    "text": "income that is technically spendable um",
+    "start": 1747.12,
+    "duration": 4.08
+  },
+  {
+    "text": "and so and then you know a lot of them",
+    "start": 1749.399,
+    "duration": 4.921
+  },
+  {
+    "text": "are spending on um travel they're",
+    "start": 1751.2,
+    "duration": 5.4
+  },
+  {
+    "text": "spending on restaurants they're spending",
+    "start": 1754.32,
+    "duration": 4.04
+  },
+  {
+    "text": "you know some some in that demographic",
+    "start": 1756.6,
+    "duration": 3.48
+  },
+  {
+    "text": "are helping their kids or grandkids",
+    "start": 1758.36,
+    "duration": 3.84
+  },
+  {
+    "text": "afford a house or a wedding right that",
+    "start": 1760.08,
+    "duration": 3.839
+  },
+  {
+    "text": "some of that does circulate back into",
+    "start": 1762.2,
+    "duration": 4.16
+  },
+  {
+    "text": "the economy um and so that's what we're",
+    "start": 1763.919,
+    "duration": 3.921
+  },
+  {
+    "text": "seeing if you're on the right side of",
+    "start": 1766.36,
+    "duration": 3.76
+  },
+  {
+    "text": "the deficits um you're you're in a",
+    "start": 1767.84,
+    "duration": 3.64
+  },
+  {
+    "text": "pretty good position whereas if you're",
+    "start": 1770.12,
+    "duration": 3.799
+  },
+  {
+    "text": "on the wrong side of monetary tightness",
+    "start": 1771.48,
+    "duration": 3.559
+  },
+  {
+    "text": "you know you've got a lot of short",
+    "start": 1773.919,
+    "duration": 3.961
+  },
+  {
+    "text": "duration debt for example on on assets",
+    "start": 1775.039,
+    "duration": 4.721
+  },
+  {
+    "text": "that are no longer in their Prime that's",
+    "start": 1777.88,
+    "duration": 4.88
+  },
+  {
+    "text": "when you're in major trouble um and so I",
+    "start": 1779.76,
+    "duration": 4.44
+  },
+  {
+    "text": "think and I think that State's going to",
+    "start": 1782.76,
+    "duration": 4.44
+  },
+  {
+    "text": "be with us for for quite a while quite a",
+    "start": 1784.2,
+    "duration": 5.8
+  },
+  {
+    "text": "while like years 10 years five",
+    "start": 1787.2,
+    "duration": 6.839
+  },
+  {
+    "text": "years just ballpark I I like",
+    "start": 1790.0,
+    "duration": 6.08
+  },
+  {
+    "text": "toise I like to think in fiveyear",
+    "start": 1794.039,
+    "duration": 5.24
+  },
+  {
+    "text": "increments um generally um but basically",
+    "start": 1796.08,
+    "duration": 5.52
+  },
+  {
+    "text": "I expect I mean this I expect this to go",
+    "start": 1799.279,
+    "duration": 5.28
+  },
+  {
+    "text": "into the 2030s I mean if you look at um",
+    "start": 1801.6,
+    "duration": 5.12
+  },
+  {
+    "text": "the Social Security fund that's expected",
+    "start": 1804.559,
+    "duration": 4.24
+  },
+  {
+    "text": "to run down in",
+    "start": 1806.72,
+    "duration": 4.72
+  },
+  {
+    "text": "2034 uh that changes a little bit they",
+    "start": 1808.799,
+    "duration": 4.521
+  },
+  {
+    "text": "kind of sometimes they move it back year",
+    "start": 1811.44,
+    "duration": 3.92
+  },
+  {
+    "text": "sometimes they move it forward a year um",
+    "start": 1813.32,
+    "duration": 3.64
+  },
+  {
+    "text": "so they have a big decision point when",
+    "start": 1815.36,
+    "duration": 5.319
+  },
+  {
+    "text": "that happens um basically um Social",
+    "start": 1816.96,
+    "duration": 6.16
+  },
+  {
+    "text": "Security receivers would get a haircut",
+    "start": 1820.679,
+    "duration": 3.921
+  },
+  {
+    "text": "um because they would no longer have",
+    "start": 1823.12,
+    "duration": 3.32
+  },
+  {
+    "text": "that fund to draw from and they'd only",
+    "start": 1824.6,
+    "duration": 4.0
+  },
+  {
+    "text": "be able to pay it out of incoming",
+    "start": 1826.44,
+    "duration": 4.839
+  },
+  {
+    "text": "receipts um but that obviously is a huge",
+    "start": 1828.6,
+    "duration": 4.16
+  },
+  {
+    "text": "political issue so there are certain",
+    "start": 1831.279,
+    "duration": 5.12
+  },
+  {
+    "text": "decision points that that come uh in the",
+    "start": 1832.76,
+    "duration": 5.6
+  },
+  {
+    "text": "2030s um basically I think at least",
+    "start": 1836.399,
+    "duration": 4.361
+  },
+  {
+    "text": "until then this is a a state that the",
+    "start": 1838.36,
+    "duration": 5.199
+  },
+  {
+    "text": "econom is going to be in to varying",
+    "start": 1840.76,
+    "duration": 5.56
+  },
+  {
+    "text": "degrees all right so what uh you know",
+    "start": 1843.559,
+    "duration": 5.441
+  },
+  {
+    "text": "I'm an investor I I want to do something",
+    "start": 1846.32,
+    "duration": 5.4
+  },
+  {
+    "text": "with my money it sounds like you know a",
+    "start": 1849.0,
+    "duration": 4.679
+  },
+  {
+    "text": "money market or maybe you know rolling",
+    "start": 1851.72,
+    "duration": 6.52
+  },
+  {
+    "text": "t- bills uh is is not a terrible idea um",
+    "start": 1853.679,
+    "duration": 6.281
+  },
+  {
+    "text": "what what",
+    "start": 1858.24,
+    "duration": 3.96
+  },
+  {
+    "text": "else yeah generally in inflationary",
+    "start": 1859.96,
+    "duration": 4.599
+  },
+  {
+    "text": "period shorter duration debt is if",
+    "start": 1862.2,
+    "duration": 3.92
+  },
+  {
+    "text": "you're owning it is better than longer",
+    "start": 1864.559,
+    "duration": 4.881
+  },
+  {
+    "text": "duration debt um uh I've been",
+    "start": 1866.12,
+    "duration": 4.64
+  },
+  {
+    "text": "emphasizing the topic of the",
+    "start": 1869.44,
+    "duration": 3.04
+  },
+  {
+    "text": "three-pillar portfolio which is instead",
+    "start": 1870.76,
+    "duration": 3.6
+  },
+  {
+    "text": "of just stocks and bonds because stocks",
+    "start": 1872.48,
+    "duration": 5.36
+  },
+  {
+    "text": "and bonds are both geared toward",
+    "start": 1874.36,
+    "duration": 5.559
+  },
+  {
+    "text": "structural economic growth and",
+    "start": 1877.84,
+    "duration": 4.199
+  },
+  {
+    "text": "disinflation disinflationary growth",
+    "start": 1879.919,
+    "duration": 4.041
+  },
+  {
+    "text": "that's what they prefer if you look at",
+    "start": 1882.039,
+    "duration": 4.88
+  },
+  {
+    "text": "the the there's four decades uh in kind",
+    "start": 1883.96,
+    "duration": 4.48
+  },
+  {
+    "text": "of modern history",
+    "start": 1886.919,
+    "duration": 3.36
+  },
+  {
+    "text": "where the developed World ran into some",
+    "start": 1888.44,
+    "duration": 3.8
+  },
+  {
+    "text": "degree of significant energy inflation",
+    "start": 1890.279,
+    "duration": 3.921
+  },
+  {
+    "text": "and overall CPI inflation so those were",
+    "start": 1892.24,
+    "duration": 4.72
+  },
+  {
+    "text": "the 2010s the I mean the the 1910s the",
+    "start": 1894.2,
+    "duration": 7.12
+  },
+  {
+    "text": "1940s the 1970s and then the 2000s um",
+    "start": 1896.96,
+    "duration": 7.64
+  },
+  {
+    "text": "and in all four of those decades um a a",
+    "start": 1901.32,
+    "duration": 6.4
+  },
+  {
+    "text": "6040 stock Bond portfolio did not do",
+    "start": 1904.6,
+    "duration": 6.559
+  },
+  {
+    "text": "very good in real terms um generally",
+    "start": 1907.72,
+    "duration": 5.959
+  },
+  {
+    "text": "kind of chopped along in nominal terms",
+    "start": 1911.159,
+    "duration": 3.921
+  },
+  {
+    "text": "uh you might have gone up in nominal",
+    "start": 1913.679,
+    "duration": 3.0
+  },
+  {
+    "text": "terms but but you kind of underperformed",
+    "start": 1915.08,
+    "duration": 4.079
+  },
+  {
+    "text": "in real terms and what historically did",
+    "start": 1916.679,
+    "duration": 4.72
+  },
+  {
+    "text": "well uh in those environments were some",
+    "start": 1919.159,
+    "duration": 4.88
+  },
+  {
+    "text": "combination of energy energy producers",
+    "start": 1921.399,
+    "duration": 6.921
+  },
+  {
+    "text": "precious metals hard assets um uh things",
+    "start": 1924.039,
+    "duration": 6.441
+  },
+  {
+    "text": "like that uh and and the problem with a",
+    "start": 1928.32,
+    "duration": 4.4
+  },
+  {
+    "text": "lot of those assets is they they perform",
+    "start": 1930.48,
+    "duration": 3.72
+  },
+  {
+    "text": "poorly for like two decades then they",
+    "start": 1932.72,
+    "duration": 2.959
+  },
+  {
+    "text": "have an amazing decade and then they",
+    "start": 1934.2,
+    "duration": 3.12
+  },
+  {
+    "text": "perform poorly for two decades then they",
+    "start": 1935.679,
+    "duration": 3.441
+  },
+  {
+    "text": "have an amazing decade but it just so",
+    "start": 1937.32,
+    "duration": 3.8
+  },
+  {
+    "text": "happens and it's it's not an accident",
+    "start": 1939.12,
+    "duration": 3.76
+  },
+  {
+    "text": "that the decade that those tend to do",
+    "start": 1941.12,
+    "duration": 5.559
+  },
+  {
+    "text": "well are those inflationary decades um",
+    "start": 1942.88,
+    "duration": 6.08
+  },
+  {
+    "text": "where the 6040 does not do particularly",
+    "start": 1946.679,
+    "duration": 4.081
+  },
+  {
+    "text": "well and so I think one one thing that",
+    "start": 1948.96,
+    "duration": 3.36
+  },
+  {
+    "text": "investors should consider is basically",
+    "start": 1950.76,
+    "duration": 4.96
+  },
+  {
+    "text": "having that slice in a portfolio of",
+    "start": 1952.32,
+    "duration": 5.479
+  },
+  {
+    "text": "things that should do well in that more",
+    "start": 1955.72,
+    "duration": 4.559
+  },
+  {
+    "text": "inflationary or stagflationary type of",
+    "start": 1957.799,
+    "duration": 4.48
+  },
+  {
+    "text": "environments um and those are things",
+    "start": 1960.279,
+    "duration": 5.0
+  },
+  {
+    "text": "that are right now currently under owned",
+    "start": 1962.279,
+    "duration": 5.801
+  },
+  {
+    "text": "uh not very expensive um and so I like",
+    "start": 1965.279,
+    "duration": 5.801
+  },
+  {
+    "text": "to find assets that you know if energy",
+    "start": 1968.08,
+    "duration": 5.479
+  },
+  {
+    "text": "chops along sideways for a while these",
+    "start": 1971.08,
+    "duration": 4.959
+  },
+  {
+    "text": "stocks are still going to do pretty well",
+    "start": 1973.559,
+    "duration": 4.881
+  },
+  {
+    "text": "um but then if you do get structurally",
+    "start": 1976.039,
+    "duration": 3.921
+  },
+  {
+    "text": "Rising prices then they're going to do",
+    "start": 1978.44,
+    "duration": 4.079
+  },
+  {
+    "text": "disproportionately well um and so I",
+    "start": 1979.96,
+    "duration": 4.24
+  },
+  {
+    "text": "think I think looking for things like",
+    "start": 1982.519,
+    "duration": 4.64
+  },
+  {
+    "text": "that to add to a portfolio matter I also",
+    "start": 1984.2,
+    "duration": 4.64
+  },
+  {
+    "text": "think that balance sheet analysis",
+    "start": 1987.159,
+    "duration": 3.12
+  },
+  {
+    "text": "matters more than it did in the prior",
+    "start": 1988.84,
+    "duration": 4.52
+  },
+  {
+    "text": "decade so um if you find entities that",
+    "start": 1990.279,
+    "duration": 5.161
+  },
+  {
+    "text": "have a lot of low duration locked in",
+    "start": 1993.36,
+    "duration": 4.559
+  },
+  {
+    "text": "debt um and then they have variable cash",
+    "start": 1995.44,
+    "duration": 4.079
+  },
+  {
+    "text": "flows you know that can kind of go up",
+    "start": 1997.919,
+    "duration": 4.76
+  },
+  {
+    "text": "with price increases and money supply um",
+    "start": 1999.519,
+    "duration": 4.841
+  },
+  {
+    "text": "they're in a pretty good position as",
+    "start": 2002.679,
+    "duration": 3.84
+  },
+  {
+    "text": "long as the valuation is is reasonable",
+    "start": 2004.36,
+    "duration": 4.48
+  },
+  {
+    "text": "all right are you um you know I know you",
+    "start": 2006.519,
+    "duration": 4.0
+  },
+  {
+    "text": "have subscribers to your newsletter to",
+    "start": 2008.84,
+    "duration": 3.64
+  },
+  {
+    "text": "think about but uh are you comfortable",
+    "start": 2010.519,
+    "duration": 5.16
+  },
+  {
+    "text": "giving us a name or two or",
+    "start": 2012.48,
+    "duration": 5.319
+  },
+  {
+    "text": "no well I mean for example ENT",
+    "start": 2015.679,
+    "duration": 3.801
+  },
+  {
+    "text": "Enterprise Products Partners is a",
+    "start": 2017.799,
+    "duration": 3.88
+  },
+  {
+    "text": "pipeline um and you know they they",
+    "start": 2019.48,
+    "duration": 3.96
+  },
+  {
+    "text": "locked in something like 20 year average",
+    "start": 2021.679,
+    "duration": 4.401
+  },
+  {
+    "text": "duration debt with a for handle on",
+    "start": 2023.44,
+    "duration": 4.8
+  },
+  {
+    "text": "average um and then they're you know",
+    "start": 2026.08,
+    "duration": 4.28
+  },
+  {
+    "text": "they're they got 25 years of consecutive",
+    "start": 2028.24,
+    "duration": 4.039
+  },
+  {
+    "text": "distribution increases they're trading",
+    "start": 2030.36,
+    "duration": 4.199
+  },
+  {
+    "text": "at historically low",
+    "start": 2032.279,
+    "duration": 5.12
+  },
+  {
+    "text": "valuations um and so that that's the",
+    "start": 2034.559,
+    "duration": 4.681
+  },
+  {
+    "text": "type of enity I mean obviously that's a",
+    "start": 2037.399,
+    "duration": 4.441
+  },
+  {
+    "text": "that's a lower volatility higher income",
+    "start": 2039.24,
+    "duration": 5.08
+  },
+  {
+    "text": "type of play um there are other ones I I",
+    "start": 2041.84,
+    "duration": 4.079
+  },
+  {
+    "text": "like a lot of the energy producers in",
+    "start": 2044.32,
+    "duration": 3.359
+  },
+  {
+    "text": "general um particularly ones that can",
+    "start": 2045.919,
+    "duration": 4.361
+  },
+  {
+    "text": "get through the cycles um I've actually",
+    "start": 2047.679,
+    "duration": 5.121
+  },
+  {
+    "text": "been looking at some Latin American",
+    "start": 2050.28,
+    "duration": 5.079
+  },
+  {
+    "text": "equities because um there's really early",
+    "start": 2052.8,
+    "duration": 4.92
+  },
+  {
+    "text": "signs that they might be bottoming",
+    "start": 2055.359,
+    "duration": 5.361
+  },
+  {
+    "text": "compared to some of the US assets um and",
+    "start": 2057.72,
+    "duration": 4.119
+  },
+  {
+    "text": "that they might have gotten through some",
+    "start": 2060.72,
+    "duration": 3.919
+  },
+  {
+    "text": "of the worst of their you know they were",
+    "start": 2061.839,
+    "duration": 4.08
+  },
+  {
+    "text": "they were struggling under a strong",
+    "start": 2064.639,
+    "duration": 3.561
+  },
+  {
+    "text": "dollar environment during the the whole",
+    "start": 2065.919,
+    "duration": 5.041
+  },
+  {
+    "text": "kind of 2015 to 2019 period uh then they",
+    "start": 2068.2,
+    "duration": 5.08
+  },
+  {
+    "text": "got hit by the lockdowns then they then",
+    "start": 2070.96,
+    "duration": 5.04
+  },
+  {
+    "text": "they got hit by the FED raising rates in",
+    "start": 2073.28,
+    "duration": 5.16
+  },
+  {
+    "text": "to fight inflation after the the",
+    "start": 2076.0,
+    "duration": 4.96
+  },
+  {
+    "text": "lockdowns and a lot of them had to I",
+    "start": 2078.44,
+    "duration": 3.8
+  },
+  {
+    "text": "mean a lot of them raised rates to",
+    "start": 2080.96,
+    "duration": 4.199
+  },
+  {
+    "text": "double digits um they got super positive",
+    "start": 2082.24,
+    "duration": 5.32
+  },
+  {
+    "text": "real rates in many cases and now they're",
+    "start": 2085.159,
+    "duration": 4.321
+  },
+  {
+    "text": "kind of initially showing signs of",
+    "start": 2087.56,
+    "duration": 5.119
+  },
+  {
+    "text": "easing um and anything that and the",
+    "start": 2089.48,
+    "duration": 4.879
+  },
+  {
+    "text": "companies that kind of made it through",
+    "start": 2092.679,
+    "duration": 2.44
+  },
+  {
+    "text": "that",
+    "start": 2094.359,
+    "duration": 5.521
+  },
+  {
+    "text": "turmoil um are are kind of um hardened",
+    "start": 2095.119,
+    "duration": 6.96
+  },
+  {
+    "text": "uh and under owned and inexpensive",
+    "start": 2099.88,
+    "duration": 3.76
+  },
+  {
+    "text": "because no one's sitting there waking up",
+    "start": 2102.079,
+    "duration": 3.0
+  },
+  {
+    "text": "today and saying you know what I want to",
+    "start": 2103.64,
+    "duration": 3.84
+  },
+  {
+    "text": "own I want to own Latin American Banks",
+    "start": 2105.079,
+    "duration": 4.401
+  },
+  {
+    "text": "exactly no one's no one's saying that",
+    "start": 2107.48,
+    "duration": 3.28
+  },
+  {
+    "text": "was the one I thought of too and so I",
+    "start": 2109.48,
+    "duration": 4.76
+  },
+  {
+    "text": "think with yeah so so like with careful",
+    "start": 2110.76,
+    "duration": 6.16
+  },
+  {
+    "text": "position sizing I think that's that's an",
+    "start": 2114.24,
+    "duration": 4.92
+  },
+  {
+    "text": "area worth looking into because I am",
+    "start": 2116.92,
+    "duration": 3.64
+  },
+  {
+    "text": "finding things that just you know their",
+    "start": 2119.16,
+    "duration": 3.04
+  },
+  {
+    "text": "fundamentals are now recovered but their",
+    "start": 2120.56,
+    "duration": 4.48
+  },
+  {
+    "text": "price hasn't because um investors have",
+    "start": 2122.2,
+    "duration": 5.52
+  },
+  {
+    "text": "been well trained to just avoid all that",
+    "start": 2125.04,
+    "duration": 5.88
+  },
+  {
+    "text": "put everything into US large cap growth",
+    "start": 2127.72,
+    "duration": 6.32
+  },
+  {
+    "text": "and and sleep well at night um but I",
+    "start": 2130.92,
+    "duration": 5.76
+  },
+  {
+    "text": "think I think some of these uh kind of",
+    "start": 2134.04,
+    "duration": 4.48
+  },
+  {
+    "text": "rotations are happening it doesn't mean",
+    "start": 2136.68,
+    "duration": 4.399
+  },
+  {
+    "text": "it's going to happen next year um but if",
+    "start": 2138.52,
+    "duration": 4.76
+  },
+  {
+    "text": "they stopped making lower lows",
+    "start": 2141.079,
+    "duration": 3.721
+  },
+  {
+    "text": "especially in total return because some",
+    "start": 2143.28,
+    "duration": 2.92
+  },
+  {
+    "text": "of them pay good dividends but if you if",
+    "start": 2144.8,
+    "duration": 3.6
+  },
+  {
+    "text": "you start looking at total returns some",
+    "start": 2146.2,
+    "duration": 4.0
+  },
+  {
+    "text": "of them have not really made a new low",
+    "start": 2148.4,
+    "duration": 3.84
+  },
+  {
+    "text": "versus US equities in like two three",
+    "start": 2150.2,
+    "duration": 5.119
+  },
+  {
+    "text": "years um and so I think they're starting",
+    "start": 2152.24,
+    "duration": 5.04
+  },
+  {
+    "text": "to get interesting all right you got a",
+    "start": 2155.319,
+    "duration": 4.681
+  },
+  {
+    "text": "specific country or",
+    "start": 2157.28,
+    "duration": 5.48
+  },
+  {
+    "text": "no I've been looking at Brazil Columbia",
+    "start": 2160.0,
+    "duration": 6.4
+  },
+  {
+    "text": "Mexico um you know there's Argentina is",
+    "start": 2162.76,
+    "duration": 6.12
+  },
+  {
+    "text": "a more complex case obviously um but",
+    "start": 2166.4,
+    "duration": 6.439
+  },
+  {
+    "text": "yeah ones that are um doing reasonably",
+    "start": 2168.88,
+    "duration": 6.239
+  },
+  {
+    "text": "well um but they're still very",
+    "start": 2172.839,
+    "duration": 4.24
+  },
+  {
+    "text": "inexpensive because un quite",
+    "start": 2175.119,
+    "duration": 4.0
+  },
+  {
+    "text": "understandably just there's no appetite",
+    "start": 2177.079,
+    "duration": 3.681
+  },
+  {
+    "text": "for for foreign investors to really have",
+    "start": 2179.119,
+    "duration": 2.401
+  },
+  {
+    "text": "much",
+    "start": 2180.76,
+    "duration": 3.359
+  },
+  {
+    "text": "exposure um so I have been kind of",
+    "start": 2181.52,
+    "duration": 4.88
+  },
+  {
+    "text": "looking at again just careful with",
+    "start": 2184.119,
+    "duration": 3.96
+  },
+  {
+    "text": "position sizes",
+    "start": 2186.4,
+    "duration": 5.36
+  },
+  {
+    "text": "um but things that made it through the",
+    "start": 2188.079,
+    "duration": 8.321
+  },
+  {
+    "text": "2014 to 2023 period uh yeah they're",
+    "start": 2191.76,
+    "duration": 6.28
+  },
+  {
+    "text": "pretty hardened and and they're pretty",
+    "start": 2196.4,
+    "duration": 3.959
+  },
+  {
+    "text": "cheap yeah I years and years ago I",
+    "start": 2198.04,
+    "duration": 5.96
+  },
+  {
+    "text": "recommended bladex in my newsletter and",
+    "start": 2200.359,
+    "duration": 5.441
+  },
+  {
+    "text": "um I think it was the price tag was",
+    "start": 2204.0,
+    "duration": 4.28
+  },
+  {
+    "text": "single digits and you know I made the",
+    "start": 2205.8,
+    "duration": 5.44
+  },
+  {
+    "text": "exact same argument it's like you know",
+    "start": 2208.28,
+    "duration": 6.0
+  },
+  {
+    "text": "if these people these are Latin American",
+    "start": 2211.24,
+    "duration": 5.4
+  },
+  {
+    "text": "Bankers if they you know they and",
+    "start": 2214.28,
+    "duration": 5.559
+  },
+  {
+    "text": "they're still around consider what you",
+    "start": 2216.64,
+    "duration": 7.04
+  },
+  {
+    "text": "have to do to just survive you know let",
+    "start": 2219.839,
+    "duration": 8.24
+  },
+  {
+    "text": "alone um you know sort of Thrive uh in",
+    "start": 2223.68,
+    "duration": 6.679
+  },
+  {
+    "text": "that environment and this thing is dirt",
+    "start": 2228.079,
+    "duration": 4.321
+  },
+  {
+    "text": "cheap right now you know that back then",
+    "start": 2230.359,
+    "duration": 5.0
+  },
+  {
+    "text": "I was making that argument so um I'm",
+    "start": 2232.4,
+    "duration": 7.199
+  },
+  {
+    "text": "really uh it's funny your your your um",
+    "start": 2235.359,
+    "duration": 5.921
+  },
+  {
+    "text": "many of your your arguments and your",
+    "start": 2239.599,
+    "duration": 4.52
+  },
+  {
+    "text": "ideas just um kind of are a little",
+    "start": 2241.28,
+    "duration": 5.88
+  },
+  {
+    "text": "heartwarming to me because you know they",
+    "start": 2244.119,
+    "duration": 5.24
+  },
+  {
+    "text": "they represent things in my past and I'm",
+    "start": 2247.16,
+    "duration": 5.159
+  },
+  {
+    "text": "glad to hear someone uh younger than me",
+    "start": 2249.359,
+    "duration": 7.841
+  },
+  {
+    "text": "thinking this way so um let's see now I",
+    "start": 2252.319,
+    "duration": 7.961
+  },
+  {
+    "text": "think we are getting near",
+    "start": 2257.2,
+    "duration": 5.44
+  },
+  {
+    "text": "to yeah we're we're right at the time",
+    "start": 2260.28,
+    "duration": 4.88
+  },
+  {
+    "text": "for our final question um which is the",
+    "start": 2262.64,
+    "duration": 4.719
+  },
+  {
+    "text": "exact same question for every guest no",
+    "start": 2265.16,
+    "duration": 4.28
+  },
+  {
+    "text": "matter what the topic even if it was a",
+    "start": 2267.359,
+    "duration": 4.641
+  },
+  {
+    "text": "non-financial discussion it would still",
+    "start": 2269.44,
+    "duration": 6.24
+  },
+  {
+    "text": "be the exact same final question um if",
+    "start": 2272.0,
+    "duration": 5.92
+  },
+  {
+    "text": "you've already said the answer by feel",
+    "start": 2275.68,
+    "duration": 5.76
+  },
+  {
+    "text": "free to repeat it um and the question is",
+    "start": 2277.92,
+    "duration": 6.159
+  },
+  {
+    "text": "very simply if you could leave our",
+    "start": 2281.44,
+    "duration": 6.48
+  },
+  {
+    "text": "listeners with just one idea today what",
+    "start": 2284.079,
+    "duration": 5.721
+  },
+  {
+    "text": "would you like to leave them with I",
+    "start": 2287.92,
+    "duration": 5.64
+  },
+  {
+    "text": "think one idea to be familiar with",
+    "start": 2289.8,
+    "duration": 8.559
+  },
+  {
+    "text": "is how technology impacts money um and",
+    "start": 2293.56,
+    "duration": 6.12
+  },
+  {
+    "text": "and that's a different topic than we",
+    "start": 2298.359,
+    "duration": 2.641
+  },
+  {
+    "text": "were just discussing this is very kind",
+    "start": 2299.68,
+    "duration": 3.56
+  },
+  {
+    "text": "of value oriented macro oriented but",
+    "start": 2301.0,
+    "duration": 6.2
+  },
+  {
+    "text": "basically um so right now if you look",
+    "start": 2303.24,
+    "duration": 6.359
+  },
+  {
+    "text": "around the world there's 160 different",
+    "start": 2307.2,
+    "duration": 5.44
+  },
+  {
+    "text": "currency monopolies um fiia currencies",
+    "start": 2309.599,
+    "duration": 4.48
+  },
+  {
+    "text": "and they all have you know monopolies",
+    "start": 2312.64,
+    "duration": 3.56
+  },
+  {
+    "text": "over their own jurisdiction and the",
+    "start": 2314.079,
+    "duration": 4.561
+  },
+  {
+    "text": "money that flows in or out of them is",
+    "start": 2316.2,
+    "duration": 4.04
+  },
+  {
+    "text": "pretty tightly controlled because",
+    "start": 2318.64,
+    "duration": 3.12
+  },
+  {
+    "text": "obviously you know physical value",
+    "start": 2320.24,
+    "duration": 3.56
+  },
+  {
+    "text": "through an airport uh is is pretty",
+    "start": 2321.76,
+    "duration": 4.44
+  },
+  {
+    "text": "restricted and Bank transfers are pretty",
+    "start": 2323.8,
+    "duration": 5.319
+  },
+  {
+    "text": "restricted and surveilled um but",
+    "start": 2326.2,
+    "duration": 4.48
+  },
+  {
+    "text": "Technology's gotten to the point now",
+    "start": 2329.119,
+    "duration": 3.521
+  },
+  {
+    "text": "with things like Bitcoin or stable coins",
+    "start": 2330.68,
+    "duration": 5.08
+  },
+  {
+    "text": "where value can just flow across borders",
+    "start": 2332.64,
+    "duration": 5.439
+  },
+  {
+    "text": "in a more peer-to-peer way it kind of",
+    "start": 2335.76,
+    "duration": 5.12
+  },
+  {
+    "text": "goes around those gateways um and so for",
+    "start": 2338.079,
+    "duration": 4.681
+  },
+  {
+    "text": "example if if I hire a graphic designer",
+    "start": 2340.88,
+    "duration": 3.92
+  },
+  {
+    "text": "in Nigeria you know she could hold up a",
+    "start": 2342.76,
+    "duration": 4.319
+  },
+  {
+    "text": "QR code on a video call or she could",
+    "start": 2344.8,
+    "duration": 4.0
+  },
+  {
+    "text": "send me a payment string over a DM or an",
+    "start": 2347.079,
+    "duration": 4.04
+  },
+  {
+    "text": "email and I can pay her in whatever",
+    "start": 2348.8,
+    "duration": 4.68
+  },
+  {
+    "text": "money she wants it could it could be",
+    "start": 2351.119,
+    "duration": 4.281
+  },
+  {
+    "text": "dollar stable coins it could be gold",
+    "start": 2353.48,
+    "duration": 3.639
+  },
+  {
+    "text": "back stable coins it could be Bitcoin it",
+    "start": 2355.4,
+    "duration": 3.56
+  },
+  {
+    "text": "could be whatever she wants it can go",
+    "start": 2357.119,
+    "duration": 4.48
+  },
+  {
+    "text": "around her country's fake exchange rate",
+    "start": 2358.96,
+    "duration": 4.56
+  },
+  {
+    "text": "it can go around her country's local",
+    "start": 2361.599,
+    "duration": 5.041
+  },
+  {
+    "text": "currency um and that really that really",
+    "start": 2363.52,
+    "duration": 6.04
+  },
+  {
+    "text": "only reached macro scale in the past 5",
+    "start": 2366.64,
+    "duration": 4.4
+  },
+  {
+    "text": "years so even though Bitcoin was around",
+    "start": 2369.56,
+    "duration": 3.64
+  },
+  {
+    "text": "for 15 years and stable coins are now",
+    "start": 2371.04,
+    "duration": 4.88
+  },
+  {
+    "text": "about 10 years old they were small",
+    "start": 2373.2,
+    "duration": 6.28
+  },
+  {
+    "text": "assets until the past you know three to",
+    "start": 2375.92,
+    "duration": 6.919
+  },
+  {
+    "text": "five years um and you know stable coins",
+    "start": 2379.48,
+    "duration": 5.119
+  },
+  {
+    "text": "are now something like a hundred billion",
+    "start": 2382.839,
+    "duration": 4.081
+  },
+  {
+    "text": "dollar market um obviously bitcoin's",
+    "start": 2384.599,
+    "duration": 4.201
+  },
+  {
+    "text": "over a trillion but it's more",
+    "start": 2386.92,
+    "duration": 4.64
+  },
+  {
+    "text": "volatile um and so these these assets",
+    "start": 2388.8,
+    "duration": 4.4
+  },
+  {
+    "text": "are starting to get kind of a macro",
+    "start": 2391.56,
+    "duration": 5.12
+  },
+  {
+    "text": "scale and that has that has macro",
+    "start": 2393.2,
+    "duration": 4.84
+  },
+  {
+    "text": "implications they're big enough that",
+    "start": 2396.68,
+    "duration": 3.159
+  },
+  {
+    "text": "they actually matter on the macro level",
+    "start": 2398.04,
+    "duration": 3.88
+  },
+  {
+    "text": "rather than just the idiosyncratic",
+    "start": 2399.839,
+    "duration": 4.361
+  },
+  {
+    "text": "investment level um and what that",
+    "start": 2401.92,
+    "duration": 4.08
+  },
+  {
+    "text": "essentially means is that Capital can",
+    "start": 2404.2,
+    "duration": 5.36
+  },
+  {
+    "text": "flow around the world faster now in a",
+    "start": 2406.0,
+    "duration": 6.359
+  },
+  {
+    "text": "more in a more decentralized way in a",
+    "start": 2409.56,
+    "duration": 4.799
+  },
+  {
+    "text": "way that especially if you're if you're",
+    "start": 2412.359,
+    "duration": 3.681
+  },
+  {
+    "text": "trying to operate a monetary system in",
+    "start": 2414.359,
+    "duration": 3.441
+  },
+  {
+    "text": "that country and you got structural",
+    "start": 2416.04,
+    "duration": 4.16
+  },
+  {
+    "text": "inflation and capital controls and",
+    "start": 2417.8,
+    "duration": 4.36
+  },
+  {
+    "text": "things like that all the tools that",
+    "start": 2420.2,
+    "duration": 3.44
+  },
+  {
+    "text": "people have to go around that and",
+    "start": 2422.16,
+    "duration": 4.159
+  },
+  {
+    "text": "protect themselves are way stronger now",
+    "start": 2423.64,
+    "duration": 4.92
+  },
+  {
+    "text": "um and so and I think that's that's",
+    "start": 2426.319,
+    "duration": 4.8
+  },
+  {
+    "text": "going to start having macro impacts um I",
+    "start": 2428.56,
+    "duration": 3.92
+  },
+  {
+    "text": "I think that that a lot of these",
+    "start": 2431.119,
+    "duration": 3.041
+  },
+  {
+    "text": "currencies are going to become",
+    "start": 2432.48,
+    "duration": 5.72
+  },
+  {
+    "text": "untenable um and and you know PE like",
+    "start": 2434.16,
+    "duration": 6.08
+  },
+  {
+    "text": "peer-to-peer trading and things like",
+    "start": 2438.2,
+    "duration": 4.08
+  },
+  {
+    "text": "that just goes around a lot of their",
+    "start": 2440.24,
+    "duration": 4.96
+  },
+  {
+    "text": "Capital controls um as long as the",
+    "start": 2442.28,
+    "duration": 5.92
+  },
+  {
+    "text": "society's reasonably well connected um",
+    "start": 2445.2,
+    "duration": 5.32
+  },
+  {
+    "text": "and so you know I I think that's",
+    "start": 2448.2,
+    "duration": 4.04
+  },
+  {
+    "text": "something to look at from an investment",
+    "start": 2450.52,
+    "duration": 3.52
+  },
+  {
+    "text": "perspective either having exposure to",
+    "start": 2452.24,
+    "duration": 3.96
+  },
+  {
+    "text": "those type of things or at least anytime",
+    "start": 2454.04,
+    "duration": 4.52
+  },
+  {
+    "text": "you make an investment be like is this",
+    "start": 2456.2,
+    "duration": 4.72
+  },
+  {
+    "text": "disruptable by the fact that money can",
+    "start": 2458.56,
+    "duration": 5.24
+  },
+  {
+    "text": "now flow across the world across borders",
+    "start": 2460.92,
+    "duration": 4.72
+  },
+  {
+    "text": "um around these things much faster I",
+    "start": 2463.8,
+    "duration": 3.44
+  },
+  {
+    "text": "mean in in Africa there's something like",
+    "start": 2465.64,
+    "duration": 3.959
+  },
+  {
+    "text": "40 currencies and in Latin America",
+    "start": 2467.24,
+    "duration": 4.599
+  },
+  {
+    "text": "there's something like 30 currencies and",
+    "start": 2469.599,
+    "duration": 4.48
+  },
+  {
+    "text": "every you know imagine if every state in",
+    "start": 2471.839,
+    "duration": 4.0
+  },
+  {
+    "text": "the US had a different currency imagine",
+    "start": 2474.079,
+    "duration": 4.601
+  },
+  {
+    "text": "all the frictions um that would happen",
+    "start": 2475.839,
+    "duration": 5.441
+  },
+  {
+    "text": "and um basically all of those all those",
+    "start": 2478.68,
+    "duration": 5.72
+  },
+  {
+    "text": "crossb flows are frictions and some of",
+    "start": 2481.28,
+    "duration": 5.64
+  },
+  {
+    "text": "these things just go around it um you",
+    "start": 2484.4,
+    "duration": 4.52
+  },
+  {
+    "text": "know St coins can just move around from",
+    "start": 2486.92,
+    "duration": 3.399
+  },
+  {
+    "text": "one entity to another entity in a",
+    "start": 2488.92,
+    "duration": 3.199
+  },
+  {
+    "text": "different country as long as they're not",
+    "start": 2490.319,
+    "duration": 4.321
+  },
+  {
+    "text": "on some like sanctioned list you know",
+    "start": 2492.119,
+    "duration": 4.96
+  },
+  {
+    "text": "and uh as long as that's the case that",
+    "start": 2494.64,
+    "duration": 4.8
+  },
+  {
+    "text": "that really kind of alleviates some of",
+    "start": 2497.079,
+    "duration": 4.28
+  },
+  {
+    "text": "the bottlenecks that some of these",
+    "start": 2499.44,
+    "duration": 4.159
+  },
+  {
+    "text": "companies and people have had in those",
+    "start": 2501.359,
+    "duration": 4.641
+  },
+  {
+    "text": "regions um when they start to really",
+    "start": 2503.599,
+    "duration": 3.801
+  },
+  {
+    "text": "kind of realize that's happening and",
+    "start": 2506.0,
+    "duration": 3.599
+  },
+  {
+    "text": "able to catch on and right now it's not",
+    "start": 2507.4,
+    "duration": 4.76
+  },
+  {
+    "text": "it's not um evenly distributed so for",
+    "start": 2509.599,
+    "duration": 6.081
+  },
+  {
+    "text": "example Nigerians are way more into this",
+    "start": 2512.16,
+    "duration": 5.32
+  },
+  {
+    "text": "stuff than say Egyptians even though",
+    "start": 2515.68,
+    "duration": 3.159
+  },
+  {
+    "text": "they have kind of similar currency",
+    "start": 2517.48,
+    "duration": 3.599
+  },
+  {
+    "text": "problems and you know they're the among",
+    "start": 2518.839,
+    "duration": 4.401
+  },
+  {
+    "text": "the two most populous countries in",
+    "start": 2521.079,
+    "duration": 4.961
+  },
+  {
+    "text": "Africa um uh so it's not it's not like",
+    "start": 2523.24,
+    "duration": 4.64
+  },
+  {
+    "text": "it's happening everywhere equally but",
+    "start": 2526.04,
+    "duration": 3.319
+  },
+  {
+    "text": "there are certain kind of Vanguard",
+    "start": 2527.88,
+    "duration": 3.0
+  },
+  {
+    "text": "regions where this is starting to have a",
+    "start": 2529.359,
+    "duration": 3.441
+  },
+  {
+    "text": "pretty significant impact and I think",
+    "start": 2530.88,
+    "duration": 3.64
+  },
+  {
+    "text": "that that can be a bullish development",
+    "start": 2532.8,
+    "duration": 4.08
+  },
+  {
+    "text": "for a lot of these places um that can",
+    "start": 2534.52,
+    "duration": 5.96
+  },
+  {
+    "text": "now access money they prefer access and",
+    "start": 2536.88,
+    "duration": 6.4
+  },
+  {
+    "text": "moved around more efficiently that that",
+    "start": 2540.48,
+    "duration": 4.28
+  },
+  {
+    "text": "alleviates a bottleneck they've been",
+    "start": 2543.28,
+    "duration": 4.52
+  },
+  {
+    "text": "dealing with for for decades oh that's a",
+    "start": 2544.76,
+    "duration": 5.16
+  },
+  {
+    "text": "cool answer thank you for that that's",
+    "start": 2547.8,
+    "duration": 4.64
+  },
+  {
+    "text": "great and and you know it sounds like",
+    "start": 2549.92,
+    "duration": 3.8
+  },
+  {
+    "text": "there's a lot more to talk about maybe",
+    "start": 2552.44,
+    "duration": 2.72
+  },
+  {
+    "text": "we'll have you back on the show and",
+    "start": 2553.72,
+    "duration": 3.32
+  },
+  {
+    "text": "we'll talk about that but thanks for",
+    "start": 2555.16,
+    "duration": 5.199
+  },
+  {
+    "text": "being here I really enjoyed",
+    "start": 2557.04,
+    "duration": 3.319
+  },
+  {
+    "text": "it opinions expressed on this program",
+    "start": 2560.88,
+    "duration": 3.64
+  },
+  {
+    "text": "are solely those of the contributor and",
+    "start": 2563.2,
+    "duration": 3.08
+  },
+  {
+    "text": "do not necessarily reflect the opinions",
+    "start": 2564.52,
+    "duration": 3.64
+  },
+  {
+    "text": "of stanbury research its parent company",
+    "start": 2566.28,
+    "duration": 5.079
+  },
+  {
+    "text": "or affiliates",
+    "start": 2568.16,
+    "duration": 3.199
+  }
+]

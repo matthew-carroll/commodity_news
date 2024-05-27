@@ -1,0 +1,1182 @@
+[
+  {
+    "text": "this is more of a logical point and I",
+    "start": 0.32,
+    "duration": 3.48
+  },
+  {
+    "text": "get some flak for this because these",
+    "start": 1.88,
+    "duration": 4.16
+  },
+  {
+    "text": "news stories of different countries",
+    "start": 3.8,
+    "duration": 3.88
+  },
+  {
+    "text": "looking to bypass the dollar",
+    "start": 6.04,
+    "duration": 3.28
+  },
+  {
+    "text": "international trade and gold bugs get",
+    "start": 7.68,
+    "duration": 4.039
+  },
+  {
+    "text": "really excited and again I don't want to",
+    "start": 9.32,
+    "duration": 4.359
+  },
+  {
+    "text": "say that it's it's worthless news or",
+    "start": 11.719,
+    "duration": 3.641
+  },
+  {
+    "text": "that it's not significant in any way it",
+    "start": 13.679,
+    "duration": 5.241
+  },
+  {
+    "text": "is and I'm not ignoring it but what what",
+    "start": 15.36,
+    "duration": 6.48
+  },
+  {
+    "text": "is happening logically in in in a",
+    "start": 18.92,
+    "duration": 5.32
+  },
+  {
+    "text": "perimet monetary structure like we have",
+    "start": 21.84,
+    "duration": 5.679
+  },
+  {
+    "text": "now is that let's say when China and",
+    "start": 24.24,
+    "duration": 5.199
+  },
+  {
+    "text": "Brazil make a deal over gas okay we're",
+    "start": 27.519,
+    "duration": 4.72
+  },
+  {
+    "text": "going to use the Yuan to buy gas instead",
+    "start": 29.439,
+    "duration": 4.521
+  },
+  {
+    "text": "of dollars so what do they do what",
+    "start": 32.239,
+    "duration": 3.361
+  },
+  {
+    "text": "they're doing is they're using the Yuan",
+    "start": 33.96,
+    "duration": 3.72
+  },
+  {
+    "text": "to settle a dollars nominated trade it's",
+    "start": 35.6,
+    "duration": 4.04
+  },
+  {
+    "text": "a nominal difference uh it's still a",
+    "start": 37.68,
+    "duration": 4.52
+  },
+  {
+    "text": "dollar deal just settled in Yuan and",
+    "start": 39.64,
+    "duration": 4.079
+  },
+  {
+    "text": "then what happens to those Yuan they're",
+    "start": 42.2,
+    "duration": 3.48
+  },
+  {
+    "text": "eventually exchanged for dollars so",
+    "start": 43.719,
+    "duration": 3.561
+  },
+  {
+    "text": "whoever the yuan is going to can make",
+    "start": 45.68,
+    "duration": 3.64
+  },
+  {
+    "text": "another dollar deal they this is",
+    "start": 47.28,
+    "duration": 4.799
+  },
+  {
+    "text": "unavoidable in international trade",
+    "start": 49.32,
+    "duration": 4.559
+  },
+  {
+    "text": "because the international trade system",
+    "start": 52.079,
+    "duration": 3.28
+  },
+  {
+    "text": "is based in the dollar because of the",
+    "start": 53.879,
+    "duration": 3.041
+  },
+  {
+    "text": "perimeter structure that's left over",
+    "start": 55.359,
+    "duration": 3.561
+  },
+  {
+    "text": "from Bretton Woods right when when",
+    "start": 56.92,
+    "duration": 4.0
+  },
+  {
+    "text": "Bretton Woods had cont tent and dollarss",
+    "start": 58.92,
+    "duration": 5.319
+  },
+  {
+    "text": "were redeemable for gold the the idea",
+    "start": 60.92,
+    "duration": 5.6
+  },
+  {
+    "text": "was the United States could siphon the",
+    "start": 64.239,
+    "duration": 4.281
+  },
+  {
+    "text": "wealth from other countries they would",
+    "start": 66.52,
+    "duration": 3.36
+  },
+  {
+    "text": "they would encourage other countries to",
+    "start": 68.52,
+    "duration": 3.56
+  },
+  {
+    "text": "hold dollars instead of gold and you",
+    "start": 69.88,
+    "duration": 3.64
+  },
+  {
+    "text": "know their their reasoning was like oh",
+    "start": 72.08,
+    "duration": 2.56
+  },
+  {
+    "text": "well if you hold gold it could get",
+    "start": 73.52,
+    "duration": 2.72
+  },
+  {
+    "text": "stolen if Germany invades again or",
+    "start": 74.64,
+    "duration": 3.0
+  },
+  {
+    "text": "whatever Another World War breaks out",
+    "start": 76.24,
+    "duration": 3.76
+  },
+  {
+    "text": "remember this is right post World War II",
+    "start": 77.64,
+    "duration": 4.119
+  },
+  {
+    "text": "and America just saved the world or",
+    "start": 80.0,
+    "duration": 3.24
+  },
+  {
+    "text": "whatever the narrative was so they're",
+    "start": 81.759,
+    "duration": 2.841
+  },
+  {
+    "text": "like okay so instead of holding gold",
+    "start": 83.24,
+    "duration": 3.16
+  },
+  {
+    "text": "hold dollars we'll hold your gold and",
+    "start": 84.6,
+    "duration": 3.6
+  },
+  {
+    "text": "then we'll redeem it if you have $35",
+    "start": 86.4,
+    "duration": 3.079
+  },
+  {
+    "text": "we'll give you an ounce of your gold",
+    "start": 88.2,
+    "duration": 3.239
+  },
+  {
+    "text": "back so don't worry about it just trust",
+    "start": 89.479,
+    "duration": 4.28
+  },
+  {
+    "text": "our currency and then Nixon like there",
+    "start": 91.439,
+    "duration": 3.761
+  },
+  {
+    "text": "was a pyramid there was gold in it and",
+    "start": 93.759,
+    "duration": 2.761
+  },
+  {
+    "text": "then Nixon hollowed out the gold and",
+    "start": 95.2,
+    "duration": 3.12
+  },
+  {
+    "text": "left the pyramid structure so in the",
+    "start": 96.52,
+    "duration": 3.48
+  },
+  {
+    "text": "pyamid structure that's empty and Hollow",
+    "start": 98.32,
+    "duration": 3.839
+  },
+  {
+    "text": "now the dollar is still the base of it",
+    "start": 100.0,
+    "duration": 4.52
+  },
+  {
+    "text": "so there's no escaping that the only way",
+    "start": 102.159,
+    "duration": 4.121
+  },
+  {
+    "text": "that a country can truly get around the",
+    "start": 104.52,
+    "duration": 4.4
+  },
+  {
+    "text": "dollar is not by going above it in the",
+    "start": 106.28,
+    "duration": 4.199
+  },
+  {
+    "text": "layer in the perimeter layer that",
+    "start": 108.92,
+    "duration": 3.32
+  },
+  {
+    "text": "doesn't make sense because the upper",
+    "start": 110.479,
+    "duration": 3.201
+  },
+  {
+    "text": "layers of the perimeter supported by the",
+    "start": 112.24,
+    "duration": 3.36
+  },
+  {
+    "text": "lower layers by definition or else",
+    "start": 113.68,
+    "duration": 2.96
+  },
+  {
+    "text": "they'd be floating in the air and they",
+    "start": 115.6,
+    "duration": 3.08
+  },
+  {
+    "text": "just fall over so the only way you can",
+    "start": 116.64,
+    "duration": 3.32
+  },
+  {
+    "text": "go beyond the dollar is to get",
+    "start": 118.68,
+    "duration": 3.6
+  },
+  {
+    "text": "underneath the dollar not above it and",
+    "start": 119.96,
+    "duration": 3.36
+  },
+  {
+    "text": "the only thing that's underneath the",
+    "start": 122.28,
+    "duration": 2.799
+  },
+  {
+    "text": "dollar is gold and silver so if you have",
+    "start": 123.32,
+    "duration": 3.759
+  },
+  {
+    "text": "two countries that are trading Goods",
+    "start": 125.079,
+    "duration": 4.52
+  },
+  {
+    "text": "denominated in gold and silver in ounces",
+    "start": 127.079,
+    "duration": 4.16
+  },
+  {
+    "text": "they're not making a dollar deal they're",
+    "start": 129.599,
+    "duration": 2.921
+  },
+  {
+    "text": "not saying like I'm going to buy $100",
+    "start": 131.239,
+    "duration": 4.121
+  },
+  {
+    "text": "million of AD gas for you in denominated",
+    "start": 132.52,
+    "duration": 4.12
+  },
+  {
+    "text": "in Gold that would still be a dollar",
+    "start": 135.36,
+    "duration": 3.04
+  },
+  {
+    "text": "trade even with gold what they would",
+    "start": 136.64,
+    "duration": 4.2
+  },
+  {
+    "text": "have to say is I'm buying 100 ounces",
+    "start": 138.4,
+    "duration": 5.16
+  },
+  {
+    "text": "worth of gas from you country B that",
+    "start": 140.84,
+    "duration": 4.28
+  },
+  {
+    "text": "would be getting around the dollar and",
+    "start": 143.56,
+    "duration": 3.319
+  },
+  {
+    "text": "they're never going to do that until",
+    "start": 145.12,
+    "duration": 4.28
+  },
+  {
+    "text": "they have to until the dollar collapses",
+    "start": 146.879,
+    "duration": 3.521
+  },
+  {
+    "text": "they're not going to do that and when",
+    "start": 149.4,
+    "duration": 2.119
+  },
+  {
+    "text": "will the dollar collapse when it's",
+    "start": 150.4,
+    "duration": 4.24
+  },
+  {
+    "text": "attacked at home by the Americans in the",
+    "start": 151.519,
+    "duration": 6.121
+  },
+  {
+    "text": "street and therefore from that core they",
+    "start": 154.64,
+    "duration": 4.44
+  },
+  {
+    "text": "will not be able to do any more Dollar",
+    "start": 157.64,
+    "duration": 4.0
+  },
+  {
+    "text": "Deals because nobody will want them so",
+    "start": 159.08,
+    "duration": 4.439
+  },
+  {
+    "text": "it it's always tempting to build a story",
+    "start": 161.64,
+    "duration": 3.56
+  },
+  {
+    "text": "about shorter medium-term movements in",
+    "start": 163.519,
+    "duration": 3.08
+  },
+  {
+    "text": "gold and say well this happen so",
+    "start": 165.2,
+    "duration": 3.319
+  },
+  {
+    "text": "therefore why happened and sometimes",
+    "start": 166.599,
+    "duration": 4.881
+  },
+  {
+    "text": "it's true right but it's more often not",
+    "start": 168.519,
+    "duration": 6.08
+  },
+  {
+    "text": "true so it could it could be that people",
+    "start": 171.48,
+    "duration": 5.399
+  },
+  {
+    "text": "are looking for a safe haven so they",
+    "start": 174.599,
+    "duration": 4.401
+  },
+  {
+    "text": "escaped dollars and went to Gold I don't",
+    "start": 176.879,
+    "duration": 4.401
+  },
+  {
+    "text": "know why gold is moving exactly why it's",
+    "start": 179.0,
+    "duration": 5.04
+  },
+  {
+    "text": "moving now I just know that inevitably",
+    "start": 181.28,
+    "duration": 4.92
+  },
+  {
+    "text": "it's going to head there it's going to",
+    "start": 184.04,
+    "duration": 4.24
+  },
+  {
+    "text": "head up and up and up because that's",
+    "start": 186.2,
+    "duration": 4.28
+  },
+  {
+    "text": "that's history now the question is so",
+    "start": 188.28,
+    "duration": 6.319
+  },
+  {
+    "text": "why am I so focused now and saying that",
+    "start": 190.48,
+    "duration": 5.52
+  },
+  {
+    "text": "and and saying that it's going to head",
+    "start": 194.599,
+    "duration": 4.28
+  },
+  {
+    "text": "to you know 50% backing of the of the",
+    "start": 196.0,
+    "duration": 4.36
+  },
+  {
+    "text": "dollar 100% backing of the dollar which",
+    "start": 198.879,
+    "duration": 3.601
+  },
+  {
+    "text": "would be like 50 $60,000 an ounce",
+    "start": 200.36,
+    "duration": 4.92
+  },
+  {
+    "text": "eventually why am I saying that now well",
+    "start": 202.48,
+    "duration": 4.52
+  },
+  {
+    "text": "because you have these like massive",
+    "start": 205.28,
+    "duration": 3.879
+  },
+  {
+    "text": "gargantuan piles of money in different",
+    "start": 207.0,
+    "duration": 5.0
+  },
+  {
+    "text": "Pockets everywhere and it feels to me",
+    "start": 209.159,
+    "duration": 5.321
+  },
+  {
+    "text": "that one more financial crisis the fed's",
+    "start": 212.0,
+    "duration": 4.319
+  },
+  {
+    "text": "going to have to print like 102 trillion",
+    "start": 214.48,
+    "duration": 4.08
+  },
+  {
+    "text": "dollars just to touch the exponential",
+    "start": 216.319,
+    "duration": 5.721
+  },
+  {
+    "text": "curve of of the debt pyramid right it",
+    "start": 218.56,
+    "duration": 6.0
+  },
+  {
+    "text": "has to go in an exponential curve",
+    "start": 222.04,
+    "duration": 4.559
+  },
+  {
+    "text": "because the more people that are in debt",
+    "start": 224.56,
+    "duration": 4.0
+  },
+  {
+    "text": "the more the more debt they need to",
+    "start": 226.599,
+    "duration": 4.441
+  },
+  {
+    "text": "raise in order to stay in business and",
+    "start": 228.56,
+    "duration": 4.879
+  },
+  {
+    "text": "to stay servicing their debt cost so it",
+    "start": 231.04,
+    "duration": 4.0
+  },
+  {
+    "text": "it's an exponential curve that just",
+    "start": 233.439,
+    "duration": 3.52
+  },
+  {
+    "text": "feeds itself and we're already going",
+    "start": 235.04,
+    "duration": 4.32
+  },
+  {
+    "text": "vertical so it seems to be that one more",
+    "start": 236.959,
+    "duration": 4.56
+  },
+  {
+    "text": "crisis is going to do it exactly when",
+    "start": 239.36,
+    "duration": 3.64
+  },
+  {
+    "text": "this is going to be triggered I don't",
+    "start": 241.519,
+    "duration": 3.201
+  },
+  {
+    "text": "know but it seems like you know first",
+    "start": 243.0,
+    "duration": 3.64
+  },
+  {
+    "text": "parts of it already have been and we're",
+    "start": 244.72,
+    "duration": 4.359
+  },
+  {
+    "text": "just waiting for like a big flood or the",
+    "start": 246.64,
+    "duration": 4.2
+  },
+  {
+    "text": "you know the big bulk of it to like",
+    "start": 249.079,
+    "duration": 3.681
+  },
+  {
+    "text": "reveal itself and that could happen",
+    "start": 250.84,
+    "duration": 4.599
+  },
+  {
+    "text": "anytime now so get ready and don't worry",
+    "start": 252.76,
+    "duration": 4.24
+  },
+  {
+    "text": "about short-term movements right now",
+    "start": 255.439,
+    "duration": 3.2
+  },
+  {
+    "text": "it's not important that's the that",
+    "start": 257.0,
+    "duration": 3.6
+  },
+  {
+    "text": "should be the point we're headed back up",
+    "start": 258.639,
+    "duration": 4.361
+  },
+  {
+    "text": "in consumer prices and we're headed back",
+    "start": 260.6,
+    "duration": 3.76
+  },
+  {
+    "text": "up into an environment where the fed's",
+    "start": 263.0,
+    "duration": 2.68
+  },
+  {
+    "text": "going to have to cut to zero in order to",
+    "start": 264.36,
+    "duration": 3.0
+  },
+  {
+    "text": "save a bunch of banks so if you have",
+    "start": 265.68,
+    "duration": 3.84
+  },
+  {
+    "text": "that that combination where the FED has",
+    "start": 267.36,
+    "duration": 4.279
+  },
+  {
+    "text": "to cut to zero and restart QE in an",
+    "start": 269.52,
+    "duration": 3.64
+  },
+  {
+    "text": "environment where consumer prices are",
+    "start": 271.639,
+    "duration": 4.041
+  },
+  {
+    "text": "already Rising furiously you're going to",
+    "start": 273.16,
+    "duration": 4.36
+  },
+  {
+    "text": "be in an environment where it's going to",
+    "start": 275.68,
+    "duration": 4.28
+  },
+  {
+    "text": "click and and and the public is going to",
+    "start": 277.52,
+    "duration": 4.119
+  },
+  {
+    "text": "start to recognize that this is never",
+    "start": 279.96,
+    "duration": 3.16
+  },
+  {
+    "text": "going to end and they've got to get out",
+    "start": 281.639,
+    "duration": 4.881
+  },
+  {
+    "text": "of dollars or lose all of their savings",
+    "start": 283.12,
+    "duration": 5.28
+  },
+  {
+    "text": "and some you know the smart the smart",
+    "start": 286.52,
+    "duration": 3.239
+  },
+  {
+    "text": "people are going into gold and silver",
+    "start": 288.4,
+    "duration": 4.44
+  },
+  {
+    "text": "now the people that are not aware of",
+    "start": 289.759,
+    "duration": 5.601
+  },
+  {
+    "text": "this because most people are not they're",
+    "start": 292.84,
+    "duration": 4.4
+  },
+  {
+    "text": "just going to buy whatever they can get",
+    "start": 295.36,
+    "duration": 4.08
+  },
+  {
+    "text": "their hands on when when they realize",
+    "start": 297.24,
+    "duration": 3.76
+  },
+  {
+    "text": "that they need to and that'll be",
+    "start": 299.44,
+    "duration": 4.0
+  },
+  {
+    "text": "whatever they can find first gold silver",
+    "start": 301.0,
+    "duration": 4.919
+  },
+  {
+    "text": "food Furniture whatever that that's the",
+    "start": 303.44,
+    "duration": 5.0
+  },
+  {
+    "text": "hyperinflationary point so that's what I",
+    "start": 305.919,
+    "duration": 4.521
+  },
+  {
+    "text": "see next and when it happens I think",
+    "start": 308.44,
+    "duration": 4.16
+  },
+  {
+    "text": "it's going to happen very quickly and I",
+    "start": 310.44,
+    "duration": 4.16
+  },
+  {
+    "text": "think we're very close fortunately or",
+    "start": 312.6,
+    "duration": 3.439
+  },
+  {
+    "text": "unfortunately depends how you look at it",
+    "start": 314.6,
+    "duration": 2.96
+  },
+  {
+    "text": "I see it as fortunately because I want",
+    "start": 316.039,
+    "duration": 3.28
+  },
+  {
+    "text": "this to end and I see it as inevitable",
+    "start": 317.56,
+    "duration": 3.04
+  },
+  {
+    "text": "and just just let's get it over with",
+    "start": 319.319,
+    "duration": 2.16
+  },
+  {
+    "text": "already already and peel off the",
+    "start": 320.6,
+    "duration": 3.84
+  },
+  {
+    "text": "Band-Aid and uh unfortunately for those",
+    "start": 321.479,
+    "duration": 4.241
+  },
+  {
+    "text": "who have no idea what's going on and",
+    "start": 324.44,
+    "duration": 3.199
+  },
+  {
+    "text": "they'll only find out at the last second",
+    "start": 325.72,
+    "duration": 3.56
+  },
+  {
+    "text": "there's still a lot of extra money out",
+    "start": 327.639,
+    "duration": 5.201
+  },
+  {
+    "text": "there that funds and and hedge funds and",
+    "start": 329.28,
+    "duration": 5.72
+  },
+  {
+    "text": "whoever manages money the big players",
+    "start": 332.84,
+    "duration": 4.32
+  },
+  {
+    "text": "that really move prices they got to put",
+    "start": 335.0,
+    "duration": 4.24
+  },
+  {
+    "text": "it somewhere so they're putting it where",
+    "start": 337.16,
+    "duration": 4.599
+  },
+  {
+    "text": "their algorithms say to put it and uh",
+    "start": 339.24,
+    "duration": 3.88
+  },
+  {
+    "text": "there's still a whole bunch of Hangover",
+    "start": 341.759,
+    "duration": 3.841
+  },
+  {
+    "text": "money from the the lockdown printing era",
+    "start": 343.12,
+    "duration": 4.96
+  },
+  {
+    "text": "and it's got to go somewhere so that's",
+    "start": 345.6,
+    "duration": 4.439
+  },
+  {
+    "text": "where it's going I mean I I don't really",
+    "start": 348.08,
+    "duration": 3.839
+  },
+  {
+    "text": "subscribe to the view that the stock",
+    "start": 350.039,
+    "duration": 5.16
+  },
+  {
+    "text": "market and the economic news are related",
+    "start": 351.919,
+    "duration": 6.481
+  },
+  {
+    "text": "in any tight correlative way eventually",
+    "start": 355.199,
+    "duration": 6.081
+  },
+  {
+    "text": "economic news is going to push stocks",
+    "start": 358.4,
+    "duration": 5.72
+  },
+  {
+    "text": "down because people are going to realize",
+    "start": 361.28,
+    "duration": 4.4
+  },
+  {
+    "text": "that you know everything is falling",
+    "start": 364.12,
+    "duration": 5.76
+  },
+  {
+    "text": "apart and and you know stocks are even",
+    "start": 365.68,
+    "duration": 5.32
+  },
+  {
+    "text": "if they're going up in value they're",
+    "start": 369.88,
+    "duration": 2.599
+  },
+  {
+    "text": "going down because inflation is going",
+    "start": 371.0,
+    "duration": 3.479
+  },
+  {
+    "text": "faster and they've got to go into real",
+    "start": 372.479,
+    "duration": 3.56
+  },
+  {
+    "text": "assets and that's going to happen all at",
+    "start": 374.479,
+    "duration": 4.12
+  },
+  {
+    "text": "once so this is this looks to me like",
+    "start": 376.039,
+    "duration": 3.88
+  },
+  {
+    "text": "the extra sideline money is just being",
+    "start": 378.599,
+    "duration": 3.801
+  },
+  {
+    "text": "sucked in and we should stop paying",
+    "start": 379.919,
+    "duration": 5.321
+  },
+  {
+    "text": "attention to like these short-term waves",
+    "start": 382.4,
+    "duration": 4.88
+  },
+  {
+    "text": "and Trends and you know things will go",
+    "start": 385.24,
+    "duration": 3.92
+  },
+  {
+    "text": "up and down until they fall and that's",
+    "start": 387.28,
+    "duration": 3.52
+  },
+  {
+    "text": "where we're going let's put it this way",
+    "start": 389.16,
+    "duration": 3.92
+  },
+  {
+    "text": "but the gold and silver people I'll just",
+    "start": 390.8,
+    "duration": 4.6
+  },
+  {
+    "text": "tell my story like how how I came to it",
+    "start": 393.08,
+    "duration": 3.959
+  },
+  {
+    "text": "like there were certain things that made",
+    "start": 395.4,
+    "duration": 3.96
+  },
+  {
+    "text": "me very uncomfortable with how the",
+    "start": 397.039,
+    "duration": 5.521
+  },
+  {
+    "text": "economic system supposedly worked that",
+    "start": 399.36,
+    "duration": 4.559
+  },
+  {
+    "text": "you know I kind of like said I don't",
+    "start": 402.56,
+    "duration": 3.639
+  },
+  {
+    "text": "like that and I tucked it away and I",
+    "start": 403.919,
+    "duration": 3.641
+  },
+  {
+    "text": "said I'll solve it later because I don't",
+    "start": 406.199,
+    "duration": 3.761
+  },
+  {
+    "text": "really know now so I tell this story a",
+    "start": 407.56,
+    "duration": 5.079
+  },
+  {
+    "text": "lot when I found a thousand shekele bill",
+    "start": 409.96,
+    "duration": 4.56
+  },
+  {
+    "text": "in My Father's Office drawer now I knew",
+    "start": 412.639,
+    "duration": 3.481
+  },
+  {
+    "text": "what a shekele was it was like about",
+    "start": 414.52,
+    "duration": 3.2
+  },
+  {
+    "text": "three shekels to a dollar at the time I",
+    "start": 416.12,
+    "duration": 3.72
+  },
+  {
+    "text": "found it I'm like like you have a th000",
+    "start": 417.72,
+    "duration": 3.44
+  },
+  {
+    "text": "shekels in your drawer he's like oh no",
+    "start": 419.84,
+    "duration": 2.919
+  },
+  {
+    "text": "that's the old shekele it hyperinflated",
+    "start": 421.16,
+    "duration": 4.319
+  },
+  {
+    "text": "to zero and now it's worthless so I'm",
+    "start": 422.759,
+    "duration": 4.481
+  },
+  {
+    "text": "like money always inflates and prices",
+    "start": 425.479,
+    "duration": 3.0
+  },
+  {
+    "text": "are always going higher he's like yeah",
+    "start": 427.24,
+    "duration": 3.0
+  },
+  {
+    "text": "but that's how an economy grows I'm like",
+    "start": 428.479,
+    "duration": 4.241
+  },
+  {
+    "text": "what this you just said it died but now",
+    "start": 430.24,
+    "duration": 4.92
+  },
+  {
+    "text": "it it's growing what I didn't get it I",
+    "start": 432.72,
+    "duration": 3.879
+  },
+  {
+    "text": "was like okay whatever I don't",
+    "start": 435.16,
+    "duration": 3.68
+  },
+  {
+    "text": "understand I'm I'm like a little kid and",
+    "start": 436.599,
+    "duration": 3.841
+  },
+  {
+    "text": "then the second thing I never I didn't",
+    "start": 438.84,
+    "duration": 3.639
+  },
+  {
+    "text": "get was like in economics class in high",
+    "start": 440.44,
+    "duration": 4.08
+  },
+  {
+    "text": "school they were talking about how the",
+    "start": 442.479,
+    "duration": 4.881
+  },
+  {
+    "text": "dollar used to be gold and but now it's",
+    "start": 444.52,
+    "duration": 4.48
+  },
+  {
+    "text": "just Fiat and I was like what's Fiat",
+    "start": 447.36,
+    "duration": 3.64
+  },
+  {
+    "text": "she's like well it just has value",
+    "start": 449.0,
+    "duration": 4.319
+  },
+  {
+    "text": "because the government says it does I'm",
+    "start": 451.0,
+    "duration": 4.84
+  },
+  {
+    "text": "like well what if people don't believe",
+    "start": 453.319,
+    "duration": 4.681
+  },
+  {
+    "text": "the government like how does that",
+    "start": 455.84,
+    "duration": 5.0
+  },
+  {
+    "text": "sustain a it was like what I was like",
+    "start": 458.0,
+    "duration": 4.44
+  },
+  {
+    "text": "okay I'll just put that on the test like",
+    "start": 460.84,
+    "duration": 3.759
+  },
+  {
+    "text": "okay FIA means government say but like",
+    "start": 462.44,
+    "duration": 4.599
+  },
+  {
+    "text": "what is this and then so when you see",
+    "start": 464.599,
+    "duration": 4.201
+  },
+  {
+    "text": "that the other problems and then you go",
+    "start": 467.039,
+    "duration": 3.321
+  },
+  {
+    "text": "back to the foundation you find out that",
+    "start": 468.8,
+    "duration": 3.72
+  },
+  {
+    "text": "it's empty it's like okay you got to go",
+    "start": 470.36,
+    "duration": 4.0
+  },
+  {
+    "text": "in the other direction and fill it with",
+    "start": 472.52,
+    "duration": 3.6
+  },
+  {
+    "text": "some content that isn't part of this",
+    "start": 474.36,
+    "duration": 3.36
+  },
+  {
+    "text": "system because the whole base of it is",
+    "start": 476.12,
+    "duration": 4.56
+  },
+  {
+    "text": "emptiness literally we we all have a gut",
+    "start": 477.72,
+    "duration": 6.12
+  },
+  {
+    "text": "feeling deep in our souls that fake",
+    "start": 480.68,
+    "duration": 8.32
+  },
+  {
+    "text": "money is is bad and real money is good",
+    "start": 483.84,
+    "duration": 5.16
+  }
+]

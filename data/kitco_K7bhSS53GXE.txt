@@ -1,0 +1,4757 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.68,
+    "duration": 3.219
+  },
+  {
+    "text": "on the spot with Michelle mccy is",
+    "start": 4.48,
+    "duration": 5.96
+  },
+  {
+    "text": "brought to you by Swan Bitcoin hello I'm",
+    "start": 6.879,
+    "duration": 6.201
+  },
+  {
+    "text": "Michelle mccy thank you for joining us",
+    "start": 10.44,
+    "duration": 5.64
+  },
+  {
+    "text": "Bitcoin gold and silver all have no",
+    "start": 13.08,
+    "duration": 5.84
+  },
+  {
+    "text": "Associated cash flow or yield yet all",
+    "start": 16.08,
+    "duration": 4.88
+  },
+  {
+    "text": "three assets have been on an upward",
+    "start": 18.92,
+    "duration": 4.88
+  },
+  {
+    "text": "trajectory in 2024 with gold making the",
+    "start": 20.96,
+    "duration": 5.68
+  },
+  {
+    "text": "oldtime highs and up nearly 133% here to",
+    "start": 23.8,
+    "duration": 5.68
+  },
+  {
+    "text": "date silver just this week rising to its",
+    "start": 26.64,
+    "duration": 4.799
+  },
+  {
+    "text": "highest level in more than a decade up",
+    "start": 29.48,
+    "duration": 5.239
+  },
+  {
+    "text": "more than 26% so far this year and",
+    "start": 31.439,
+    "duration": 4.881
+  },
+  {
+    "text": "Bitcoin of course hit a new all-time",
+    "start": 34.719,
+    "duration": 3.921
+  },
+  {
+    "text": "high in March and approached its record",
+    "start": 36.32,
+    "duration": 5.8
+  },
+  {
+    "text": "high again this week and is up 60% so",
+    "start": 38.64,
+    "duration": 6.64
+  },
+  {
+    "text": "far for 2024 so can we see this rally",
+    "start": 42.12,
+    "duration": 5.959
+  },
+  {
+    "text": "continue let's get some analysis and",
+    "start": 45.28,
+    "duration": 5.52
+  },
+  {
+    "text": "price forecasts from Florian grumes",
+    "start": 48.079,
+    "duration": 4.601
+  },
+  {
+    "text": "managing director of Midas Touch",
+    "start": 50.8,
+    "duration": 4.12
+  },
+  {
+    "text": "Consulting Florian has over three",
+    "start": 52.68,
+    "duration": 4.08
+  },
+  {
+    "text": "decades of experience in the financial",
+    "start": 54.92,
+    "duration": 3.479
+  },
+  {
+    "text": "markets and he is known for his",
+    "start": 56.76,
+    "duration": 4.08
+  },
+  {
+    "text": "contrarian thinking he was one of the",
+    "start": 58.399,
+    "duration": 5.361
+  },
+  {
+    "text": "first to call for the crypto winter back",
+    "start": 60.84,
+    "duration": 6.16
+  },
+  {
+    "text": "in January 2018 and he's also a fan",
+    "start": 63.76,
+    "duration": 5.12
+  },
+  {
+    "text": "favorite here on Kitco welcome back",
+    "start": 67.0,
+    "duration": 4.92
+  },
+  {
+    "text": "Floria nice to see you thanks for having",
+    "start": 68.88,
+    "duration": 4.64
+  },
+  {
+    "text": "me Michelle it's great to be back on",
+    "start": 71.92,
+    "duration": 4.08
+  },
+  {
+    "text": "Kito always good to have you floran",
+    "start": 73.52,
+    "duration": 4.919
+  },
+  {
+    "text": "let's kick it off with Bitcoin now in",
+    "start": 76.0,
+    "duration": 4.079
+  },
+  {
+    "text": "the last two weeks Bitcoin has been",
+    "start": 78.439,
+    "duration": 4.72
+  },
+  {
+    "text": "trading in that 60,000 to 70,000 range",
+    "start": 80.079,
+    "duration": 5.961
+  },
+  {
+    "text": "it moved above 71,000 early in the week",
+    "start": 83.159,
+    "duration": 5.28
+  },
+  {
+    "text": "currently sitting around",
+    "start": 86.04,
+    "duration": 5.56
+  },
+  {
+    "text": "67,000 you're today State up 60% as I",
+    "start": 88.439,
+    "duration": 5.081
+  },
+  {
+    "text": "mentioned we did have that all-time high",
+    "start": 91.6,
+    "duration": 3.44
+  },
+  {
+    "text": "of just under",
+    "start": 93.52,
+    "duration": 5.16
+  },
+  {
+    "text": "74,000 in March what's next here Florian",
+    "start": 95.04,
+    "duration": 6.439
+  },
+  {
+    "text": "what are the charts telling you yeah let",
+    "start": 98.68,
+    "duration": 7.88
+  },
+  {
+    "text": "me share my screen here um so obviously",
+    "start": 101.479,
+    "duration": 7.841
+  },
+  {
+    "text": "um I'm only cooking with water like",
+    "start": 106.56,
+    "duration": 5.64
+  },
+  {
+    "text": "everybody else I have no crysal ball um",
+    "start": 109.32,
+    "duration": 5.119
+  },
+  {
+    "text": "but I'm giving my best and honest uh",
+    "start": 112.2,
+    "duration": 5.08
+  },
+  {
+    "text": "analysis here so the first one uh that I",
+    "start": 114.439,
+    "duration": 5.481
+  },
+  {
+    "text": "would like to CH chart here is um",
+    "start": 117.28,
+    "duration": 6.0
+  },
+  {
+    "text": "Bitcoin ver versus the NASDAQ I think",
+    "start": 119.92,
+    "duration": 6.239
+  },
+  {
+    "text": "it's pretty obvious that Bitcoin is very",
+    "start": 123.28,
+    "duration": 5.28
+  },
+  {
+    "text": "much correlated with the stock market",
+    "start": 126.159,
+    "duration": 5.361
+  },
+  {
+    "text": "and you can see here Bitcoin versus The",
+    "start": 128.56,
+    "duration": 6.12
+  },
+  {
+    "text": "Wisdom Tree three times leverage ETF",
+    "start": 131.52,
+    "duration": 5.24
+  },
+  {
+    "text": "obviously it's not exactly one to one",
+    "start": 134.68,
+    "duration": 4.639
+  },
+  {
+    "text": "but they match each other pretty much",
+    "start": 136.76,
+    "duration": 5.08
+  },
+  {
+    "text": "and um so you can make the case that",
+    "start": 139.319,
+    "duration": 4.881
+  },
+  {
+    "text": "Bitcoin and tech stocks are strongly",
+    "start": 141.84,
+    "duration": 5.44
+  },
+  {
+    "text": "correlated and if that is the case and I",
+    "start": 144.2,
+    "duration": 5.319
+  },
+  {
+    "text": "think it's obvious H then we have to",
+    "start": 147.28,
+    "duration": 5.84
+  },
+  {
+    "text": "look at stock market uh seasonality and",
+    "start": 149.519,
+    "duration": 6.08
+  },
+  {
+    "text": "uh I need to remind you of the old adage",
+    "start": 153.12,
+    "duration": 5.08
+  },
+  {
+    "text": "sell and May and go away this is the Dow",
+    "start": 155.599,
+    "duration": 6.121
+  },
+  {
+    "text": "John seasonality over the last 127 years",
+    "start": 158.2,
+    "duration": 5.28
+  },
+  {
+    "text": "usually you'll find the top somewhere",
+    "start": 161.72,
+    "duration": 4.64
+  },
+  {
+    "text": "early May and then towards an into the",
+    "start": 163.48,
+    "duration": 5.56
+  },
+  {
+    "text": "the late summer Early Autumn around",
+    "start": 166.36,
+    "duration": 4.44
+  },
+  {
+    "text": "October September usually the worst",
+    "start": 169.04,
+    "duration": 4.64
+  },
+  {
+    "text": "months is September uh stock markets",
+    "start": 170.8,
+    "duration": 5.439
+  },
+  {
+    "text": "have a pullback and that's also the best",
+    "start": 173.68,
+    "duration": 6.279
+  },
+  {
+    "text": "time to buy uh the stocks and then",
+    "start": 176.239,
+    "duration": 6.64
+  },
+  {
+    "text": "usually they have a nice year end rally",
+    "start": 179.959,
+    "duration": 6.2
+  },
+  {
+    "text": "so uh since Bitcoin and tech stocks are",
+    "start": 182.879,
+    "duration": 5.601
+  },
+  {
+    "text": "strongly correlated uh we can see",
+    "start": 186.159,
+    "duration": 4.841
+  },
+  {
+    "text": "similar pattern in Bitcoin seasonality",
+    "start": 188.48,
+    "duration": 4.36
+  },
+  {
+    "text": "usually Bitcoin tops out somewhere in",
+    "start": 191.0,
+    "duration": 5.519
+  },
+  {
+    "text": "May June and then has a downtrend into",
+    "start": 192.84,
+    "duration": 6.8
+  },
+  {
+    "text": "September and October and uh you can see",
+    "start": 196.519,
+    "duration": 5.08
+  },
+  {
+    "text": "August and September are usually the",
+    "start": 199.64,
+    "duration": 4.92
+  },
+  {
+    "text": "worst months for for Bitcoin so I",
+    "start": 201.599,
+    "duration": 4.72
+  },
+  {
+    "text": "personally look for a bottom and a good",
+    "start": 204.56,
+    "duration": 3.679
+  },
+  {
+    "text": "buying opportunity somewhere in the time",
+    "start": 206.319,
+    "duration": 4.241
+  },
+  {
+    "text": "frame because to the end of the year",
+    "start": 208.239,
+    "duration": 3.961
+  },
+  {
+    "text": "then you usually get a strong Bitcoin",
+    "start": 210.56,
+    "duration": 3.36
+  },
+  {
+    "text": "rally again and if you remember last",
+    "start": 212.2,
+    "duration": 4.08
+  },
+  {
+    "text": "year it pretty much matched that",
+    "start": 213.92,
+    "duration": 5.76
+  },
+  {
+    "text": "seasonal uh pattern um it was I think in",
+    "start": 216.28,
+    "duration": 6.4
+  },
+  {
+    "text": "mid October when the ETF hype started",
+    "start": 219.68,
+    "duration": 5.08
+  },
+  {
+    "text": "and Bitcoin was able to start the rally",
+    "start": 222.68,
+    "duration": 4.919
+  },
+  {
+    "text": "uh at 25,000 and went up all the way to",
+    "start": 224.76,
+    "duration": 6.36
+  },
+  {
+    "text": "to 75,000 the following months so that's",
+    "start": 227.599,
+    "duration": 6.401
+  },
+  {
+    "text": "kind of like the the the seasonal uh",
+    "start": 231.12,
+    "duration": 5.92
+  },
+  {
+    "text": "analysis here um which I always like as",
+    "start": 234.0,
+    "duration": 6.319
+  },
+  {
+    "text": "a first layer and then we can look into",
+    "start": 237.04,
+    "duration": 5.919
+  },
+  {
+    "text": "further into the technicals here so sell",
+    "start": 240.319,
+    "duration": 6.241
+  },
+  {
+    "text": "and May and go away so let's talk about",
+    "start": 242.959,
+    "duration": 6.241
+  },
+  {
+    "text": "the technicals in terms of you know what",
+    "start": 246.56,
+    "duration": 5.36
+  },
+  {
+    "text": "support level do you see for that",
+    "start": 249.2,
+    "duration": 5.039
+  },
+  {
+    "text": "projected bottom in September where you",
+    "start": 251.92,
+    "duration": 3.4
+  },
+  {
+    "text": "say it could be a good buying",
+    "start": 254.239,
+    "duration": 3.641
+  },
+  {
+    "text": "opportunity what what are the sort of",
+    "start": 255.32,
+    "duration": 4.72
+  },
+  {
+    "text": "support lines that you anticipate as we",
+    "start": 257.88,
+    "duration": 5.4
+  },
+  {
+    "text": "see Bitcoin starting to sell off sure",
+    "start": 260.04,
+    "duration": 5.56
+  },
+  {
+    "text": "look uh let's zoom out a little bit",
+    "start": 263.28,
+    "duration": 5.44
+  },
+  {
+    "text": "further first um this is the Bitcoin",
+    "start": 265.6,
+    "duration": 5.64
+  },
+  {
+    "text": "chart over the last uh five years you",
+    "start": 268.72,
+    "duration": 4.24
+  },
+  {
+    "text": "can see this big bull market between",
+    "start": 271.24,
+    "duration": 3.56
+  },
+  {
+    "text": "2019 and",
+    "start": 272.96,
+    "duration": 4.519
+  },
+  {
+    "text": "2020 21 when Bitcoin topped out at",
+    "start": 274.8,
+    "duration": 4.76
+  },
+  {
+    "text": "69,000 in November",
+    "start": 277.479,
+    "duration": 6.121
+  },
+  {
+    "text": "2021 you had this bare Market minus 75%",
+    "start": 279.56,
+    "duration": 7.6
+  },
+  {
+    "text": "pullback uh that's hard to to sit out",
+    "start": 283.6,
+    "duration": 7.24
+  },
+  {
+    "text": "but if you're hling it you had to and we",
+    "start": 287.16,
+    "duration": 6.56
+  },
+  {
+    "text": "had a very nice bottom here in December",
+    "start": 290.84,
+    "duration": 7.32
+  },
+  {
+    "text": "2020 uh2 January 2023 I came out with a",
+    "start": 293.72,
+    "duration": 6.12
+  },
+  {
+    "text": "very bullish piece back then I said",
+    "start": 298.16,
+    "duration": 4.08
+  },
+  {
+    "text": "Bitcoin is going back to 50K it took a",
+    "start": 299.84,
+    "duration": 5.199
+  },
+  {
+    "text": "bit longer than I expected initially um",
+    "start": 302.24,
+    "duration": 5.48
+  },
+  {
+    "text": "this is the octob September October I",
+    "start": 305.039,
+    "duration": 4.88
+  },
+  {
+    "text": "just talked about last year that's where",
+    "start": 307.72,
+    "duration": 4.64
+  },
+  {
+    "text": "the ETF hype basically started and",
+    "start": 309.919,
+    "duration": 6.921
+  },
+  {
+    "text": "overall we've seen a rally of 3 176%",
+    "start": 312.36,
+    "duration": 7.6
+  },
+  {
+    "text": "within 16 months from the lows of that",
+    "start": 316.84,
+    "duration": 5.56
+  },
+  {
+    "text": "bare market so that's a pretty strong",
+    "start": 319.96,
+    "duration": 5.6
+  },
+  {
+    "text": "rise of course if you compare it to uh",
+    "start": 322.4,
+    "duration": 6.48
+  },
+  {
+    "text": "uh former Bitcoin Ries it's maybe a",
+    "start": 325.56,
+    "duration": 6.16
+  },
+  {
+    "text": "little bit disappointing but overall",
+    "start": 328.88,
+    "duration": 5.52
+  },
+  {
+    "text": "it's still a very strong rise and what",
+    "start": 331.72,
+    "duration": 4.4
+  },
+  {
+    "text": "you can also see on this chart already",
+    "start": 334.4,
+    "duration": 4.04
+  },
+  {
+    "text": "is that Bitcoin is kind of like stalling",
+    "start": 336.12,
+    "duration": 5.079
+  },
+  {
+    "text": "out here consolidating going sideways",
+    "start": 338.44,
+    "duration": 5.759
+  },
+  {
+    "text": "trading basically between 60 and 70k",
+    "start": 341.199,
+    "duration": 6.28
+  },
+  {
+    "text": "most of the time so if we zoom in uh",
+    "start": 344.199,
+    "duration": 7.28
+  },
+  {
+    "text": "onto the the daily chart here uh you can",
+    "start": 347.479,
+    "duration": 5.56
+  },
+  {
+    "text": "I mean that's my case I'm making the",
+    "start": 351.479,
+    "duration": 3.521
+  },
+  {
+    "text": "case that Bitcoin is probably working on",
+    "start": 353.039,
+    "duration": 5.88
+  },
+  {
+    "text": "a cup and handle pattern here um and",
+    "start": 355.0,
+    "duration": 5.52
+  },
+  {
+    "text": "this is the strong resistance that it",
+    "start": 358.919,
+    "duration": 4.081
+  },
+  {
+    "text": "needs to break through currently sitting",
+    "start": 360.52,
+    "duration": 5.84
+  },
+  {
+    "text": "roughly speaking around 74",
+    "start": 363.0,
+    "duration": 6.039
+  },
+  {
+    "text": "75,000 usually these cup and handle",
+    "start": 366.36,
+    "duration": 4.839
+  },
+  {
+    "text": "patterns uh take more time than most",
+    "start": 369.039,
+    "duration": 5.6
+  },
+  {
+    "text": "people uh uh anticipate and wish for uh",
+    "start": 371.199,
+    "duration": 5.28
+  },
+  {
+    "text": "so we've seen a similar pattern much",
+    "start": 374.639,
+    "duration": 4.481
+  },
+  {
+    "text": "larger actually in the gold market the",
+    "start": 376.479,
+    "duration": 4.601
+  },
+  {
+    "text": "last 13 years I don't think it's going",
+    "start": 379.12,
+    "duration": 4.199
+  },
+  {
+    "text": "to take that long for Bitcoin but at",
+    "start": 381.08,
+    "duration": 3.92
+  },
+  {
+    "text": "least I would say a few more months here",
+    "start": 383.319,
+    "duration": 4.44
+  },
+  {
+    "text": "for the handle uh of course if it's",
+    "start": 385.0,
+    "duration": 4.96
+  },
+  {
+    "text": "going to be a beautiful",
+    "start": 387.759,
+    "duration": 4.44
+  },
+  {
+    "text": "Italian espresso cup then maybe the",
+    "start": 389.96,
+    "duration": 4.0
+  },
+  {
+    "text": "handle might be a bit smaller who knows",
+    "start": 392.199,
+    "duration": 4.881
+  },
+  {
+    "text": "but um generally speaking I assume a",
+    "start": 393.96,
+    "duration": 5.359
+  },
+  {
+    "text": "pullback over the the weaker summer",
+    "start": 397.08,
+    "duration": 5.76
+  },
+  {
+    "text": "months into let's say 48 to 50,000 kind",
+    "start": 399.319,
+    "duration": 7.32
+  },
+  {
+    "text": "of range if Bitcoin were to retrace the",
+    "start": 402.84,
+    "duration": 4.56
+  },
+  {
+    "text": "the",
+    "start": 406.639,
+    "duration": 3.4
+  },
+  {
+    "text": "38.2% retracement from this whole R",
+    "start": 407.4,
+    "duration": 5.919
+  },
+  {
+    "text": "since the bare Market low we talking",
+    "start": 410.039,
+    "duration": 4.84
+  },
+  {
+    "text": "about",
+    "start": 413.319,
+    "duration": 4.481
+  },
+  {
+    "text": "$52,500 so that's basically the the",
+    "start": 414.879,
+    "duration": 5.841
+  },
+  {
+    "text": "range that I see and maybe more or less",
+    "start": 417.8,
+    "duration": 5.04
+  },
+  {
+    "text": "we could see something like this so that",
+    "start": 420.72,
+    "duration": 4.36
+  },
+  {
+    "text": "means somehow a low towards September",
+    "start": 422.84,
+    "duration": 4.96
+  },
+  {
+    "text": "October maybe and then uh really towards",
+    "start": 425.08,
+    "duration": 4.559
+  },
+  {
+    "text": "the end of the year and a breakout above",
+    "start": 427.8,
+    "duration": 4.079
+  },
+  {
+    "text": "uh 75,000 which would then take us",
+    "start": 429.639,
+    "duration": 4.601
+  },
+  {
+    "text": "quickly probably to 90 to",
+    "start": 431.879,
+    "duration": 5.841
+  },
+  {
+    "text": "$100,000 wow okay so you could see it uh",
+    "start": 434.24,
+    "duration": 7.88
+  },
+  {
+    "text": "dropping as low as 48,000 48 50,000 as",
+    "start": 437.72,
+    "duration": 7.84
+  },
+  {
+    "text": "as a a support line in that summer",
+    "start": 442.12,
+    "duration": 6.079
+  },
+  {
+    "text": "doldrum it could be that's not",
+    "start": 445.56,
+    "duration": 5.199
+  },
+  {
+    "text": "necessarily the worst case scenario it's",
+    "start": 448.199,
+    "duration": 5.0
+  },
+  {
+    "text": "it's also not the best case scenario I I",
+    "start": 450.759,
+    "duration": 4.361
+  },
+  {
+    "text": "I mean we doubt that Bitcoin can be very",
+    "start": 453.199,
+    "duration": 5.041
+  },
+  {
+    "text": "volatile right if you remember the last",
+    "start": 455.12,
+    "duration": 6.079
+  },
+  {
+    "text": "uh bull market started at 3,200 Bitcoin",
+    "start": 458.24,
+    "duration": 5.079
+  },
+  {
+    "text": "went up to nearly 14,000 and then came",
+    "start": 461.199,
+    "duration": 4.801
+  },
+  {
+    "text": "all the way back to 3,800 during the",
+    "start": 463.319,
+    "duration": 4.88
+  },
+  {
+    "text": "corona crash and then it took off to",
+    "start": 466.0,
+    "duration": 6.52
+  },
+  {
+    "text": "69,000 so uh this asset is volatile um",
+    "start": 468.199,
+    "duration": 7.0
+  },
+  {
+    "text": "and uh could easily pull back again",
+    "start": 472.52,
+    "duration": 7.16
+  },
+  {
+    "text": "below 60k below 55k maybe even below 50K",
+    "start": 475.199,
+    "duration": 6.201
+  },
+  {
+    "text": "yeah but I don't think it will stay",
+    "start": 479.68,
+    "duration": 4.239
+  },
+  {
+    "text": "there for a long time so probably would",
+    "start": 481.4,
+    "duration": 4.04
+  },
+  {
+    "text": "be a quick",
+    "start": 483.919,
+    "duration": 4.24
+  },
+  {
+    "text": "Spike we know it's a volatile asset that",
+    "start": 485.44,
+    "duration": 5.28
+  },
+  {
+    "text": "much we know Florian um not not for",
+    "start": 488.159,
+    "duration": 4.801
+  },
+  {
+    "text": "those with a weak stomach so what would",
+    "start": 490.72,
+    "duration": 4.24
+  },
+  {
+    "text": "be the narrative then do you think that",
+    "start": 492.96,
+    "duration": 4.639
+  },
+  {
+    "text": "could send it driving up higher to a new",
+    "start": 494.96,
+    "duration": 5.4
+  },
+  {
+    "text": "alltime high that you expect in uh by",
+    "start": 497.599,
+    "duration": 4.401
+  },
+  {
+    "text": "the end of the year what would be the",
+    "start": 500.36,
+    "duration": 4.799
+  },
+  {
+    "text": "Catalyst for that what could be the",
+    "start": 502.0,
+    "duration": 5.72
+  },
+  {
+    "text": "narrative yeah I mean you're making a",
+    "start": 505.159,
+    "duration": 3.961
+  },
+  {
+    "text": "good point here because I think that's",
+    "start": 507.72,
+    "duration": 4.12
+  },
+  {
+    "text": "also so a little bit of problem right",
+    "start": 509.12,
+    "duration": 4.799
+  },
+  {
+    "text": "now that there is no real new narrative",
+    "start": 511.84,
+    "duration": 4.199
+  },
+  {
+    "text": "for Bitcoin at the moment so since the",
+    "start": 513.919,
+    "duration": 6.68
+  },
+  {
+    "text": "ETF is out what more of and the Haring",
+    "start": 516.039,
+    "duration": 8.601
+  },
+  {
+    "text": "exactly so um the the only narrative",
+    "start": 520.599,
+    "duration": 5.721
+  },
+  {
+    "text": "that is around the corner at the moment",
+    "start": 524.64,
+    "duration": 5.08
+  },
+  {
+    "text": "is the the ethereum ETF but um for",
+    "start": 526.32,
+    "duration": 5.56
+  },
+  {
+    "text": "Bitcoin it probably will be just new",
+    "start": 529.72,
+    "duration": 4.0
+  },
+  {
+    "text": "liquidity injections by the central",
+    "start": 531.88,
+    "duration": 4.8
+  },
+  {
+    "text": "banks um I think that will be the main",
+    "start": 533.72,
+    "duration": 5.4
+  },
+  {
+    "text": "uh driver over over the next uh one and",
+    "start": 536.68,
+    "duration": 6.56
+  },
+  {
+    "text": "a half two years so generally speaking I",
+    "start": 539.12,
+    "duration": 6.88
+  },
+  {
+    "text": "mean at some point most likely they will",
+    "start": 543.24,
+    "duration": 4.96
+  },
+  {
+    "text": "be forced to lower interest rates again",
+    "start": 546.0,
+    "duration": 4.519
+  },
+  {
+    "text": "uh stabilize the financial system with",
+    "start": 548.2,
+    "duration": 4.639
+  },
+  {
+    "text": "more injections like they did last year",
+    "start": 550.519,
+    "duration": 5.201
+  },
+  {
+    "text": "over one weekend printing 400 billion",
+    "start": 552.839,
+    "duration": 6.081
+  },
+  {
+    "text": "dollar base money so things like that uh",
+    "start": 555.72,
+    "duration": 5.0
+  },
+  {
+    "text": "could quickly become the new narrative",
+    "start": 558.92,
+    "duration": 4.0
+  },
+  {
+    "text": "then for Bitcoin and and could drive",
+    "start": 560.72,
+    "duration": 5.559
+  },
+  {
+    "text": "prices strongly higher again so fed",
+    "start": 562.92,
+    "duration": 5.8
+  },
+  {
+    "text": "injecting liquidity into the market via",
+    "start": 566.279,
+    "duration": 5.321
+  },
+  {
+    "text": "rate cuts or some other way uh you know",
+    "start": 568.72,
+    "duration": 4.799
+  },
+  {
+    "text": "you mentioned obviously Bitcoin a",
+    "start": 571.6,
+    "duration": 4.64
+  },
+  {
+    "text": "volatile asset we certainly know that",
+    "start": 573.519,
+    "duration": 5.88
+  },
+  {
+    "text": "and we recently this week celebrated",
+    "start": 576.24,
+    "duration": 6.719
+  },
+  {
+    "text": "Bitcoin Pizza day that's on May 22nd and",
+    "start": 579.399,
+    "duration": 5.721
+  },
+  {
+    "text": "of course that's the historic event",
+    "start": 582.959,
+    "duration": 5.161
+  },
+  {
+    "text": "commemorating when in 2010 a Bitcoin",
+    "start": 585.12,
+    "duration": 5.52
+  },
+  {
+    "text": "developer paid 10,000 Bitcoin for two",
+    "start": 588.12,
+    "duration": 4.44
+  },
+  {
+    "text": "Papa John's Pizzas and we know it was",
+    "start": 590.64,
+    "duration": 3.68
+  },
+  {
+    "text": "the first real transaction for Bitcoin",
+    "start": 592.56,
+    "duration": 4.959
+  },
+  {
+    "text": "hence a very momentous time value of",
+    "start": 594.32,
+    "duration": 5.56
+  },
+  {
+    "text": "10,000 Bitcoin amounted to about",
+    "start": 597.519,
+    "duration": 6.76
+  },
+  {
+    "text": "$41 in 2010 so at today's prices that",
+    "start": 599.88,
+    "duration": 7.68
+  },
+  {
+    "text": "would be around $700 million that is a",
+    "start": 604.279,
+    "duration": 6.481
+  },
+  {
+    "text": "very expensive uh paycheck for a a price",
+    "start": 607.56,
+    "duration": 6.04
+  },
+  {
+    "text": "tag for two pizzas there Florian now",
+    "start": 610.76,
+    "duration": 6.92
+  },
+  {
+    "text": "speaking of volatility last year the uh",
+    "start": 613.6,
+    "duration": 8.6
+  },
+  {
+    "text": "price on bitcoin Pizza day was",
+    "start": 617.68,
+    "duration": 8.88
+  },
+  {
+    "text": "26773 right in 2023 we're at uh it was",
+    "start": 622.2,
+    "duration": 7.639
+  },
+  {
+    "text": "around just under 70,000 L Pizza Bitcoin",
+    "start": 626.56,
+    "duration": 8.04
+  },
+  {
+    "text": "Pizza week so where do you see Bitcoin",
+    "start": 629.839,
+    "duration": 6.841
+  },
+  {
+    "text": "at the next Bitcoin Pizza day",
+    "start": 634.6,
+    "duration": 4.56
+  },
+  {
+    "text": "considering we had such a difference",
+    "start": 636.68,
+    "duration": 5.36
+  },
+  {
+    "text": "between this year and last year of",
+    "start": 639.16,
+    "duration": 5.88
+  },
+  {
+    "text": "26,700 give or",
+    "start": 642.04,
+    "duration": 6.16
+  },
+  {
+    "text": "take May May 22 of",
+    "start": 645.04,
+    "duration": 6.44
+  },
+  {
+    "text": "2025 where do you",
+    "start": 648.2,
+    "duration": 6.879
+  },
+  {
+    "text": "see I would say 100 above 100,000 for",
+    "start": 651.48,
+    "duration": 6.359
+  },
+  {
+    "text": "sure maybe around",
+    "start": 655.079,
+    "duration": 4.801
+  },
+  {
+    "text": "120,000 um",
+    "start": 657.839,
+    "duration": 4.68
+  },
+  {
+    "text": "I think if it breaks above that 75,000",
+    "start": 659.88,
+    "duration": 5.399
+  },
+  {
+    "text": "resistance level it could actually rally",
+    "start": 662.519,
+    "duration": 6.721
+  },
+  {
+    "text": "quite quickly um so yeah let's say",
+    "start": 665.279,
+    "duration": 7.68
+  },
+  {
+    "text": "120,000 okay 120,000 Bitcoin by next",
+    "start": 669.24,
+    "duration": 6.76
+  },
+  {
+    "text": "Bitcoin Pizza day Florian equally",
+    "start": 672.959,
+    "duration": 4.68
+  },
+  {
+    "text": "important question what is your favorite",
+    "start": 676.0,
+    "duration": 3.399
+  },
+  {
+    "text": "pizza",
+    "start": 677.639,
+    "duration": 4.841
+  },
+  {
+    "text": "topping oh that's a good question um I",
+    "start": 679.399,
+    "duration": 4.761
+  },
+  {
+    "text": "think it's just",
+    "start": 682.48,
+    "duration": 4.599
+  },
+  {
+    "text": "mozzarella just mozzarella that's not a",
+    "start": 684.16,
+    "duration": 5.4
+  },
+  {
+    "text": "topping yeah yeah yeah all right you",
+    "start": 687.079,
+    "duration": 4.161
+  },
+  {
+    "text": "like the plain cheese",
+    "start": 689.56,
+    "duration": 4.839
+  },
+  {
+    "text": "pizza uh I like olives olives are my",
+    "start": 691.24,
+    "duration": 6.68
+  },
+  {
+    "text": "favorite topping um you know olives I",
+    "start": 694.399,
+    "duration": 6.041
+  },
+  {
+    "text": "like a napolitana olives and chies like",
+    "start": 697.92,
+    "duration": 5.68
+  },
+  {
+    "text": "some mushrooms controversial position I",
+    "start": 700.44,
+    "duration": 5.48
+  },
+  {
+    "text": "really also like a Hawaiian pizza",
+    "start": 703.6,
+    "duration": 4.919
+  },
+  {
+    "text": "pineapple uh I know that's not a very",
+    "start": 705.92,
+    "duration": 5.28
+  },
+  {
+    "text": "popular opinion but uh I'm going to",
+    "start": 708.519,
+    "duration": 4.0
+  },
+  {
+    "text": "stick I'm going to stick with that and I",
+    "start": 711.2,
+    "duration": 3.0
+  },
+  {
+    "text": "will say definitively that broccoli has",
+    "start": 712.519,
+    "duration": 4.56
+  },
+  {
+    "text": "no place in a pizza okay and now",
+    "start": 714.2,
+    "duration": 5.52
+  },
+  {
+    "text": "speaking of some controversial",
+    "start": 717.079,
+    "duration": 5.56
+  },
+  {
+    "text": "opinions um there certainly was a lot of",
+    "start": 719.72,
+    "duration": 4.919
+  },
+  {
+    "text": "controversy when we had black rock the",
+    "start": 722.639,
+    "duration": 4.32
+  },
+  {
+    "text": "world's largest asset manager stepping",
+    "start": 724.639,
+    "duration": 5.041
+  },
+  {
+    "text": "into the Bitcoin space and we certainly",
+    "start": 726.959,
+    "duration": 4.601
+  },
+  {
+    "text": "didn't think that we'd see institutions",
+    "start": 729.68,
+    "duration": 5.76
+  },
+  {
+    "text": "back in 2010 launching spot Bitcoin ETFs",
+    "start": 731.56,
+    "duration": 6.6
+  },
+  {
+    "text": "and it has been an issue of debate much",
+    "start": 735.44,
+    "duration": 5.16
+  },
+  {
+    "text": "like pineapple on Pizza as to whether",
+    "start": 738.16,
+    "duration": 4.679
+  },
+  {
+    "text": "it's actually contrary to the ethos of",
+    "start": 740.6,
+    "duration": 5.239
+  },
+  {
+    "text": "Bitcoin to have it now embroiled in the",
+    "start": 742.839,
+    "duration": 4.8
+  },
+  {
+    "text": "traditional Financial system which was",
+    "start": 745.839,
+    "duration": 4.041
+  },
+  {
+    "text": "It was supposed to be accounted to",
+    "start": 747.639,
+    "duration": 4.601
+  },
+  {
+    "text": "uh and there's been some recent concerns",
+    "start": 749.88,
+    "duration": 5.56
+  },
+  {
+    "text": "expressed by Tyler Duran uh that is the",
+    "start": 752.24,
+    "duration": 6.44
+  },
+  {
+    "text": "pseudonym for Zero Hedge or the posts",
+    "start": 755.44,
+    "duration": 6.72
+  },
+  {
+    "text": "under Zero Hedge content and he posted",
+    "start": 758.68,
+    "duration": 5.839
+  },
+  {
+    "text": "on X by the way Tyler Jordan is also",
+    "start": 762.16,
+    "duration": 4.679
+  },
+  {
+    "text": "part of the digital asset fund soap",
+    "start": 764.519,
+    "duration": 5.241
+  },
+  {
+    "text": "capital and of course uh the name coming",
+    "start": 766.839,
+    "duration": 4.841
+  },
+  {
+    "text": "from Fight Club for those that where",
+    "start": 769.76,
+    "duration": 4.079
+  },
+  {
+    "text": "they made soap as as another reference",
+    "start": 771.68,
+    "duration": 3.76
+  },
+  {
+    "text": "there but that's the pseudonim for Zero",
+    "start": 773.839,
+    "duration": 3.0
+  },
+  {
+    "text": "Hedge which has a lot of",
+    "start": 775.44,
+    "duration": 3.28
+  },
+  {
+    "text": "credibility uh in terms of its",
+    "start": 776.839,
+    "duration": 4.321
+  },
+  {
+    "text": "information and he posted on X that",
+    "start": 778.72,
+    "duration": 4.52
+  },
+  {
+    "text": "black rock can take as much Bitcoin as",
+    "start": 781.16,
+    "duration": 3.479
+  },
+  {
+    "text": "they want from coinbase and the",
+    "start": 783.24,
+    "duration": 3.92
+  },
+  {
+    "text": "transaction is recorded off chain I'd",
+    "start": 784.639,
+    "duration": 5.361
+  },
+  {
+    "text": "like to see all of the etf's wallets",
+    "start": 787.16,
+    "duration": 4.56
+  },
+  {
+    "text": "this means they can borrow Bitcoin from",
+    "start": 790.0,
+    "duration": 3.68
+  },
+  {
+    "text": "coinbase to short and are not required",
+    "start": 791.72,
+    "duration": 4.32
+  },
+  {
+    "text": "to show any proof they hold one to one",
+    "start": 793.68,
+    "duration": 5.0
+  },
+  {
+    "text": "there's also a 2 to 30-day settlement",
+    "start": 796.04,
+    "duration": 5.039
+  },
+  {
+    "text": "all settlements are done in cash the",
+    "start": 798.68,
+    "duration": 4.04
+  },
+  {
+    "text": "writing is on the wall unless someone",
+    "start": 801.079,
+    "duration": 4.0
+  },
+  {
+    "text": "can find the ETF Wallets on Shain",
+    "start": 802.72,
+    "duration": 4.28
+  },
+  {
+    "text": "there's a leaked trade a few weeks ago",
+    "start": 805.079,
+    "duration": 4.361
+  },
+  {
+    "text": "someone a very large entity pck ped",
+    "start": 807.0,
+    "duration": 4.48
+  },
+  {
+    "text": "Bitcoin and micro strategy at the same",
+    "start": 809.44,
+    "duration": 5.92
+  },
+  {
+    "text": "time godspeed my brothers now this",
+    "start": 811.48,
+    "duration": 7.12
+  },
+  {
+    "text": "expost comes in reference to the fine",
+    "start": 815.36,
+    "duration": 7.479
+  },
+  {
+    "text": "print in the ETF which reads um what",
+    "start": 818.6,
+    "duration": 6.32
+  },
+  {
+    "text": "what they have there in terms of what",
+    "start": 822.839,
+    "duration": 6.081
+  },
+  {
+    "text": "coinbase posted up there so what do you",
+    "start": 824.92,
+    "duration": 6.64
+  },
+  {
+    "text": "make of this Florian I mean how",
+    "start": 828.92,
+    "duration": 5.32
+  },
+  {
+    "text": "concerned should we be about",
+    "start": 831.56,
+    "duration": 6.399
+  },
+  {
+    "text": "that well the ETF is the main reason",
+    "start": 834.24,
+    "duration": 6.399
+  },
+  {
+    "text": "that I lost a bit of my enthusiasm for",
+    "start": 837.959,
+    "duration": 5.68
+  },
+  {
+    "text": "Bitcoin um I mean I bought my first",
+    "start": 840.639,
+    "duration": 5.801
+  },
+  {
+    "text": "Bitcoin below $100 in early",
+    "start": 843.639,
+    "duration": 6.961
+  },
+  {
+    "text": "2013 and I was amazed by the sound money",
+    "start": 846.44,
+    "duration": 7.079
+  },
+  {
+    "text": "idea and I really fell in love with",
+    "start": 850.6,
+    "duration": 5.88
+  },
+  {
+    "text": "Bitcoin but uh I've been always very",
+    "start": 853.519,
+    "duration": 6.12
+  },
+  {
+    "text": "skeptic of this uh ETF",
+    "start": 856.48,
+    "duration": 5.84
+  },
+  {
+    "text": "um because first of all I don't trust in",
+    "start": 859.639,
+    "duration": 5.681
+  },
+  {
+    "text": "ETFs generally speaking and in this",
+    "start": 862.32,
+    "duration": 6.959
+  },
+  {
+    "text": "specific case I mean the Mantra is not",
+    "start": 865.32,
+    "duration": 6.68
+  },
+  {
+    "text": "your keys not your coins and in this",
+    "start": 869.279,
+    "duration": 5.721
+  },
+  {
+    "text": "case you buy basically a derivative of",
+    "start": 872.0,
+    "duration": 7.68
+  },
+  {
+    "text": "Bitcoin yes maybe most likely the",
+    "start": 875.0,
+    "duration": 8.04
+  },
+  {
+    "text": "institutional uh issuer of the ETF will",
+    "start": 879.68,
+    "duration": 5.8
+  },
+  {
+    "text": "buy those Bitcoins but it's hard to",
+    "start": 883.04,
+    "duration": 5.76
+  },
+  {
+    "text": "really control uh and and it it to me it",
+    "start": 885.48,
+    "duration": 5.2
+  },
+  {
+    "text": "feels like a black boss they can do lots",
+    "start": 888.8,
+    "duration": 4.88
+  },
+  {
+    "text": "of things behind the curtain basically",
+    "start": 890.68,
+    "duration": 5.36
+  },
+  {
+    "text": "and um You Don't Own the Bitcoin you",
+    "start": 893.68,
+    "duration": 6.32
+  },
+  {
+    "text": "just own basically an IOU and and so I I",
+    "start": 896.04,
+    "duration": 6.08
+  },
+  {
+    "text": "think it's the only thing that's now",
+    "start": 900.0,
+    "duration": 5.44
+  },
+  {
+    "text": "happening is a big speculation um but uh",
+    "start": 902.12,
+    "duration": 5.519
+  },
+  {
+    "text": "it's not the original idea of Satoshi",
+    "start": 905.44,
+    "duration": 5.519
+  },
+  {
+    "text": "anymore and so I I I I never understood",
+    "start": 907.639,
+    "duration": 5.801
+  },
+  {
+    "text": "the the Euphoria about the the Bitcoin",
+    "start": 910.959,
+    "duration": 5.161
+  },
+  {
+    "text": "ETFs of course in terms of price it will",
+    "start": 913.44,
+    "duration": 6.68
+  },
+  {
+    "text": "help to push Bitcoin above 100K but uh",
+    "start": 916.12,
+    "duration": 6.639
+  },
+  {
+    "text": "the original idea I think is perverted",
+    "start": 920.12,
+    "duration": 5.76
+  },
+  {
+    "text": "and um that's why I lost a bit of my",
+    "start": 922.759,
+    "duration": 7.08
+  },
+  {
+    "text": "enthusiasm for for Bitcoin and um",
+    "start": 925.88,
+    "duration": 7.6
+  },
+  {
+    "text": "uh I I I would never touch those ETFs",
+    "start": 929.839,
+    "duration": 6.721
+  },
+  {
+    "text": "personally right you take self custody",
+    "start": 933.48,
+    "duration": 4.96
+  },
+  {
+    "text": "of your Bitcoin not your keys not your",
+    "start": 936.56,
+    "duration": 6.24
+  },
+  {
+    "text": "coin um but you know in terms of price",
+    "start": 938.44,
+    "duration": 6.759
+  },
+  {
+    "text": "this has been a positive for the",
+    "start": 942.8,
+    "duration": 5.32
+  },
+  {
+    "text": "price can this be a negative for the",
+    "start": 945.199,
+    "duration": 6.08
+  },
+  {
+    "text": "price when you have these big players in",
+    "start": 948.12,
+    "duration": 4.199
+  },
+  {
+    "text": "control",
+    "start": 951.279,
+    "duration": 4.841
+  },
+  {
+    "text": "here well I think that the the big",
+    "start": 952.319,
+    "duration": 5.52
+  },
+  {
+    "text": "institutional money and basically Wall",
+    "start": 956.12,
+    "duration": 4.12
+  },
+  {
+    "text": "Street realized that they cannot control",
+    "start": 957.839,
+    "duration": 5.36
+  },
+  {
+    "text": "and conquer the Bitcoin Network so they",
+    "start": 960.24,
+    "duration": 7.2
+  },
+  {
+    "text": "decided to embrace it and um now those",
+    "start": 963.199,
+    "duration": 8.921
+  },
+  {
+    "text": "ETF uh um issuers those ETF Banks like",
+    "start": 967.44,
+    "duration": 6.48
+  },
+  {
+    "text": "Black Rock I mean they're going to be",
+    "start": 972.12,
+    "duration": 5.24
+  },
+  {
+    "text": "the largest holder ofit Bitcoins and",
+    "start": 973.92,
+    "duration": 5.56
+  },
+  {
+    "text": "what can you do I mean you're completely",
+    "start": 977.36,
+    "duration": 4.839
+  },
+  {
+    "text": "depending on on uh how they want to play",
+    "start": 979.48,
+    "duration": 4.279
+  },
+  {
+    "text": "prices in the end of the day I mean we",
+    "start": 982.199,
+    "duration": 3.601
+  },
+  {
+    "text": "had these discussions over the last 20",
+    "start": 983.759,
+    "duration": 4.481
+  },
+  {
+    "text": "years with the with the gold ETF the GLD",
+    "start": 985.8,
+    "duration": 5.839
+  },
+  {
+    "text": "when it came out and it's still uh",
+    "start": 988.24,
+    "duration": 6.48
+  },
+  {
+    "text": "questionable if all of the gold that",
+    "start": 991.639,
+    "duration": 4.921
+  },
+  {
+    "text": "they are supposed to hold is really",
+    "start": 994.72,
+    "duration": 4.2
+  },
+  {
+    "text": "there we've also seen that during the",
+    "start": 996.56,
+    "duration": 6.88
+  },
+  {
+    "text": "bare Market in gold in 2011 to 2015 all",
+    "start": 998.92,
+    "duration": 6.919
+  },
+  {
+    "text": "these ETF holders quickly sold their",
+    "start": 1003.44,
+    "duration": 6.959
+  },
+  {
+    "text": "their gold with one Mouse click and um I",
+    "start": 1005.839,
+    "duration": 6.761
+  },
+  {
+    "text": "think also that they they took away a",
+    "start": 1010.399,
+    "duration": 4.281
+  },
+  {
+    "text": "lot from the from the the the money flow",
+    "start": 1012.6,
+    "duration": 6.28
+  },
+  {
+    "text": "towards mining stocks but um it it's",
+    "start": 1014.68,
+    "duration": 6.04
+  },
+  {
+    "text": "it's not the original idea of Bitcoin",
+    "start": 1018.88,
+    "duration": 4.6
+  },
+  {
+    "text": "anymore so I'm very skeptic about this",
+    "start": 1020.72,
+    "duration": 4.16
+  },
+  {
+    "text": "in the long",
+    "start": 1023.48,
+    "duration": 5.76
+  },
+  {
+    "text": "run does this make you question Bitcoin",
+    "start": 1024.88,
+    "duration": 6.919
+  },
+  {
+    "text": "as a long-term store of value Asset",
+    "start": 1029.24,
+    "duration": 6.439
+  },
+  {
+    "text": "then yes it does does it make you",
+    "start": 1031.799,
+    "duration": 5.52
+  },
+  {
+    "text": "question it to the degree that you're",
+    "start": 1035.679,
+    "duration": 3.681
+  },
+  {
+    "text": "selling your",
+    "start": 1037.319,
+    "duration": 4.64
+  },
+  {
+    "text": "Bitcoin no I mean I'm I'm an investor",
+    "start": 1039.36,
+    "duration": 4.88
+  },
+  {
+    "text": "I'm a Trader I'm a Speculator and I I I",
+    "start": 1041.959,
+    "duration": 3.6
+  },
+  {
+    "text": "think we're going to see higher prices",
+    "start": 1044.24,
+    "duration": 3.559
+  },
+  {
+    "text": "in Bitcoin so right now there is no",
+    "start": 1045.559,
+    "duration": 4.201
+  },
+  {
+    "text": "reason and especially if we are in the",
+    "start": 1047.799,
+    "duration": 4.561
+  },
+  {
+    "text": "bull market you want to buy the dips and",
+    "start": 1049.76,
+    "duration": 4.72
+  },
+  {
+    "text": "and that's what I'm planning to do",
+    "start": 1052.36,
+    "duration": 5.12
+  },
+  {
+    "text": "hopefully in September October yeah to",
+    "start": 1054.48,
+    "duration": 6.76
+  },
+  {
+    "text": "be determined as uh we said what the",
+    "start": 1057.48,
+    "duration": 6.68
+  },
+  {
+    "text": "involvement of institutional players in",
+    "start": 1061.24,
+    "duration": 6.28
+  },
+  {
+    "text": "the Bitcoin ecosystem can be if it's a",
+    "start": 1064.16,
+    "duration": 5.56
+  },
+  {
+    "text": "long-term negative or a long-term",
+    "start": 1067.52,
+    "duration": 3.84
+  },
+  {
+    "text": "positive but you know as you mentioned",
+    "start": 1069.72,
+    "duration": 4.6
+  },
+  {
+    "text": "you do have these synthetic ETF products",
+    "start": 1071.36,
+    "duration": 5.64
+  },
+  {
+    "text": "which in a way corrupt the purity of the",
+    "start": 1074.32,
+    "duration": 6.44
+  },
+  {
+    "text": "core asset and we're now waiting for",
+    "start": 1077.0,
+    "duration": 7.76
+  },
+  {
+    "text": "approval of the eth ETF spot ETF it",
+    "start": 1080.76,
+    "duration": 5.76
+  },
+  {
+    "text": "doesn't look like it's happening today",
+    "start": 1084.76,
+    "duration": 4.399
+  },
+  {
+    "text": "the deadline came and went and we did",
+    "start": 1086.52,
+    "duration": 4.68
+  },
+  {
+    "text": "have six issuers including Black Rock",
+    "start": 1089.159,
+    "duration": 4.921
+  },
+  {
+    "text": "updating copies of their ETF proposals",
+    "start": 1091.2,
+    "duration": 4.599
+  },
+  {
+    "text": "ahead of a decision that was expected",
+    "start": 1094.08,
+    "duration": 4.839
+  },
+  {
+    "text": "today all applications removed plans to",
+    "start": 1095.799,
+    "duration": 5.481
+  },
+  {
+    "text": "stake the token which is interesting and",
+    "start": 1098.919,
+    "duration": 4.12
+  },
+  {
+    "text": "that signals that that activity may have",
+    "start": 1101.28,
+    "duration": 4.24
+  },
+  {
+    "text": "been one of the regulatory roadblocks to",
+    "start": 1103.039,
+    "duration": 5.401
+  },
+  {
+    "text": "approval there uh so the SEC had to make",
+    "start": 1105.52,
+    "duration": 6.72
+  },
+  {
+    "text": "a fin decision but it doesn't seem like",
+    "start": 1108.44,
+    "duration": 6.28
+  },
+  {
+    "text": "it came up with anything end of day",
+    "start": 1112.24,
+    "duration": 4.64
+  },
+  {
+    "text": "Thursday without getting too much into",
+    "start": 1114.72,
+    "duration": 4.4
+  },
+  {
+    "text": "the eth story here do you think it is",
+    "start": 1116.88,
+    "duration": 5.679
+  },
+  {
+    "text": "likely to happen that we now have an eth",
+    "start": 1119.12,
+    "duration": 6.16
+  },
+  {
+    "text": "spot",
+    "start": 1122.559,
+    "duration": 7.201
+  },
+  {
+    "text": "ETF um it looks like because uh I need",
+    "start": 1125.28,
+    "duration": 8.48
+  },
+  {
+    "text": "to remind you that 99% or 99.9% of the",
+    "start": 1129.76,
+    "duration": 6.96
+  },
+  {
+    "text": "ETF applications by um Black Rock have",
+    "start": 1133.76,
+    "duration": 5.12
+  },
+  {
+    "text": "been approved so well there is that",
+    "start": 1136.72,
+    "duration": 4.0
+  },
+  {
+    "text": "there is that little statistic if Black",
+    "start": 1138.88,
+    "duration": 4.159
+  },
+  {
+    "text": "Rock uh wants one approved it usually",
+    "start": 1140.72,
+    "duration": 5.839
+  },
+  {
+    "text": "gets approved yes so I think breaking it",
+    "start": 1143.039,
+    "duration": 5.801
+  },
+  {
+    "text": "down to simple terms I think that's",
+    "start": 1146.559,
+    "duration": 4.48
+  },
+  {
+    "text": "that's probably what's going to",
+    "start": 1148.84,
+    "duration": 5.76
+  },
+  {
+    "text": "happen so and we know that Larry think",
+    "start": 1151.039,
+    "duration": 5.721
+  },
+  {
+    "text": "the COO of Black Rock has been very",
+    "start": 1154.6,
+    "duration": 5.199
+  },
+  {
+    "text": "strong on tokenization and tokenization",
+    "start": 1156.76,
+    "duration": 5.039
+  },
+  {
+    "text": "of all assets and that would probably",
+    "start": 1159.799,
+    "duration": 5.0
+  },
+  {
+    "text": "involve uh the ethereum blockchain hence",
+    "start": 1161.799,
+    "duration": 5.961
+  },
+  {
+    "text": "he could have a desire to get this uh",
+    "start": 1164.799,
+    "duration": 5.281
+  },
+  {
+    "text": "ETF approved what would it mean in terms",
+    "start": 1167.76,
+    "duration": 5.12
+  },
+  {
+    "text": "of impact on bitcoin demand or on the",
+    "start": 1170.08,
+    "duration": 5.28
+  },
+  {
+    "text": "price of Bitcoin very different assets",
+    "start": 1172.88,
+    "duration": 5.0
+  },
+  {
+    "text": "obviously for those that that understand",
+    "start": 1175.36,
+    "duration": 5.24
+  },
+  {
+    "text": "the the crypto world right but for those",
+    "start": 1177.88,
+    "duration": 4.799
+  },
+  {
+    "text": "retail investors that may not have the",
+    "start": 1180.6,
+    "duration": 4.439
+  },
+  {
+    "text": "finer understanding of why Bitcoin is so",
+    "start": 1182.679,
+    "duration": 5.561
+  },
+  {
+    "text": "different from eth and just say hey I",
+    "start": 1185.039,
+    "duration": 5.361
+  },
+  {
+    "text": "want some crypto exposure to my",
+    "start": 1188.24,
+    "duration": 4.2
+  },
+  {
+    "text": "portfolio what do you think that could",
+    "start": 1190.4,
+    "duration": 4.2
+  },
+  {
+    "text": "mean for Bitcoin demand could that be a",
+    "start": 1192.44,
+    "duration": 4.88
+  },
+  {
+    "text": "positive could that be a",
+    "start": 1194.6,
+    "duration": 4.959
+  },
+  {
+    "text": "negative I I would say it's probably",
+    "start": 1197.32,
+    "duration": 5.76
+  },
+  {
+    "text": "more of a positive in terms of prices um",
+    "start": 1199.559,
+    "duration": 5.201
+  },
+  {
+    "text": "I think there's generally more demand",
+    "start": 1203.08,
+    "duration": 4.479
+  },
+  {
+    "text": "more attention coming to digital assets",
+    "start": 1204.76,
+    "duration": 5.44
+  },
+  {
+    "text": "um so the whole crypto sector will",
+    "start": 1207.559,
+    "duration": 5.48
+  },
+  {
+    "text": "obviously profit from it um the main",
+    "start": 1210.2,
+    "duration": 6.04
+  },
+  {
+    "text": "driver should be in that case ethereum I",
+    "start": 1213.039,
+    "duration": 4.801
+  },
+  {
+    "text": "mean you've seen it since a few days",
+    "start": 1216.24,
+    "duration": 5.72
+  },
+  {
+    "text": "it's started to to run higher so um I",
+    "start": 1217.84,
+    "duration": 7.68
+  },
+  {
+    "text": "think primarily e and the altcoin sector",
+    "start": 1221.96,
+    "duration": 5.16
+  },
+  {
+    "text": "will will profit from it but it should",
+    "start": 1225.52,
+    "duration": 5.399
+  },
+  {
+    "text": "also at least support uh uh Bitcoin",
+    "start": 1227.12,
+    "duration": 6.16
+  },
+  {
+    "text": "prices right and you know a lot of this",
+    "start": 1230.919,
+    "duration": 5.76
+  },
+  {
+    "text": "change from the SEC and Gary Gensler",
+    "start": 1233.28,
+    "duration": 4.8
+  },
+  {
+    "text": "it's believed to be very politically",
+    "start": 1236.679,
+    "duration": 3.281
+  },
+  {
+    "text": "motivated ahead of the election there is",
+    "start": 1238.08,
+    "duration": 4.4
+  },
+  {
+    "text": "increasing bipartisan support for",
+    "start": 1239.96,
+    "duration": 5.52
+  },
+  {
+    "text": "digital assets at large from all of",
+    "start": 1242.48,
+    "duration": 5.84
+  },
+  {
+    "text": "Congress and former president Trump he",
+    "start": 1245.48,
+    "duration": 5.199
+  },
+  {
+    "text": "said that he'd embrace the use of crypto",
+    "start": 1248.32,
+    "duration": 4.04
+  },
+  {
+    "text": "and and the Biden administration's",
+    "start": 1250.679,
+    "duration": 3.761
+  },
+  {
+    "text": "regulatory hostility as he puts it",
+    "start": 1252.36,
+    "duration": 4.84
+  },
+  {
+    "text": "towards the industry the Trump campaign",
+    "start": 1254.44,
+    "duration": 4.96
+  },
+  {
+    "text": "is also now accepting Don ations in",
+    "start": 1257.2,
+    "duration": 4.28
+  },
+  {
+    "text": "Bitcoin and in cryptocurrency so really",
+    "start": 1259.4,
+    "duration": 5.56
+  },
+  {
+    "text": "leaning into that voter base I know",
+    "start": 1261.48,
+    "duration": 4.96
+  },
+  {
+    "text": "you're over there in Bavaria in the",
+    "start": 1264.96,
+    "duration": 4.04
+  },
+  {
+    "text": "lovely Countryside of Bavaria Germany",
+    "start": 1266.44,
+    "duration": 5.4
+  },
+  {
+    "text": "but do you see Bitcoin and",
+    "start": 1269.0,
+    "duration": 5.32
+  },
+  {
+    "text": "cryptocurrencies becoming a much bigger",
+    "start": 1271.84,
+    "duration": 5.68
+  },
+  {
+    "text": "issue in this political",
+    "start": 1274.32,
+    "duration": 5.56
+  },
+  {
+    "text": "cycle yeah I mean I think it's obvious",
+    "start": 1277.52,
+    "duration": 6.08
+  },
+  {
+    "text": "that uh Trump wants to get the votes of",
+    "start": 1279.88,
+    "duration": 7.12
+  },
+  {
+    "text": "the young people and um Joe Biden so far",
+    "start": 1283.6,
+    "duration": 5.439
+  },
+  {
+    "text": "has has been",
+    "start": 1287.0,
+    "duration": 6.159
+  },
+  {
+    "text": "pretty much against crypto um so I think",
+    "start": 1289.039,
+    "duration": 6.201
+  },
+  {
+    "text": "it's obvious what what Trump's Trump",
+    "start": 1293.159,
+    "duration": 4.52
+  },
+  {
+    "text": "wants to achieve here and and it makes",
+    "start": 1295.24,
+    "duration": 4.36
+  },
+  {
+    "text": "sense I mean it's it's it's a big topic",
+    "start": 1297.679,
+    "duration": 4.081
+  },
+  {
+    "text": "among young people nowadays and so it",
+    "start": 1299.6,
+    "duration": 4.52
+  },
+  {
+    "text": "will play a role in this election yes",
+    "start": 1301.76,
+    "duration": 4.36
+  },
+  {
+    "text": "right so we could probably see a lot",
+    "start": 1304.12,
+    "duration": 4.6
+  },
+  {
+    "text": "more bipartisan support for Bitcoin",
+    "start": 1306.12,
+    "duration": 5.039
+  },
+  {
+    "text": "let's move on to Gold let's go from",
+    "start": 1308.72,
+    "duration": 5.8
+  },
+  {
+    "text": "digital gold to real physical gold and",
+    "start": 1311.159,
+    "duration": 6.12
+  },
+  {
+    "text": "gold hit new all-time highs uh on Monday",
+    "start": 1314.52,
+    "duration": 5.56
+  },
+  {
+    "text": "we had spot prices rising to",
+    "start": 1317.279,
+    "duration": 6.76
+  },
+  {
+    "text": "$2,450 an ounce well has retraced back",
+    "start": 1320.08,
+    "duration": 6.32
+  },
+  {
+    "text": "uh a little bit in fact more than $100",
+    "start": 1324.039,
+    "duration": 4.561
+  },
+  {
+    "text": "it's currently at around",
+    "start": 1326.4,
+    "duration": 4.56
+  },
+  {
+    "text": "2,330 so help us break down what we're",
+    "start": 1328.6,
+    "duration": 4.0
+  },
+  {
+    "text": "seeing with gold what are the support",
+    "start": 1330.96,
+    "duration": 4.92
+  },
+  {
+    "text": "and resistance levels here yeah okay",
+    "start": 1332.6,
+    "duration": 5.679
+  },
+  {
+    "text": "let's look at a long-term chart here for",
+    "start": 1335.88,
+    "duration": 5.48
+  },
+  {
+    "text": "gold first so um this is actually a",
+    "start": 1338.279,
+    "duration": 6.88
+  },
+  {
+    "text": "monthly chart going back to uh",
+    "start": 1341.36,
+    "duration": 6.0
+  },
+  {
+    "text": "19",
+    "start": 1345.159,
+    "duration": 6.76
+  },
+  {
+    "text": "1998 and and um what you can see here is",
+    "start": 1347.36,
+    "duration": 8.559
+  },
+  {
+    "text": "this beautiful long-term cup and handle",
+    "start": 1351.919,
+    "duration": 6.76
+  },
+  {
+    "text": "pattern and finally gold managed to",
+    "start": 1355.919,
+    "duration": 7.401
+  },
+  {
+    "text": "break out uh in February March this year",
+    "start": 1358.679,
+    "duration": 6.761
+  },
+  {
+    "text": "so this pattern has been in the making",
+    "start": 1363.32,
+    "duration": 6.359
+  },
+  {
+    "text": "for 13 years and uh many times over the",
+    "start": 1365.44,
+    "duration": 7.2
+  },
+  {
+    "text": "last two three years I have want uh gold",
+    "start": 1369.679,
+    "duration": 5.161
+  },
+  {
+    "text": "investors that this handle here on the",
+    "start": 1372.64,
+    "duration": 4.2
+  },
+  {
+    "text": "right side might take longer than they",
+    "start": 1374.84,
+    "duration": 5.64
+  },
+  {
+    "text": "anticipate and in the end it did um but",
+    "start": 1376.84,
+    "duration": 5.56
+  },
+  {
+    "text": "now we have the breakout the pattern is",
+    "start": 1380.48,
+    "duration": 5.799
+  },
+  {
+    "text": "confirmed and gold basically ried since",
+    "start": 1382.4,
+    "duration": 5.92
+  },
+  {
+    "text": "uh last October",
+    "start": 1386.279,
+    "duration": 4.721
+  },
+  {
+    "text": "35% in seven and a half months that's",
+    "start": 1388.32,
+    "duration": 5.479
+  },
+  {
+    "text": "pretty good for the old-fashioned gold",
+    "start": 1391.0,
+    "duration": 5.039
+  },
+  {
+    "text": "of course the crypto friends uh might",
+    "start": 1393.799,
+    "duration": 5.321
+  },
+  {
+    "text": "not be too too Amazed by this but for",
+    "start": 1396.039,
+    "duration": 6.161
+  },
+  {
+    "text": "gold it's a big move and if we zoom in",
+    "start": 1399.12,
+    "duration": 5.96
+  },
+  {
+    "text": "here into the gold chart uh you can see",
+    "start": 1402.2,
+    "duration": 4.719
+  },
+  {
+    "text": "that this is the resistance line that",
+    "start": 1405.08,
+    "duration": 4.719
+  },
+  {
+    "text": "gold had been running against the",
+    "start": 1406.919,
+    "duration": 7.321
+  },
+  {
+    "text": "$275 range and finally in uh late",
+    "start": 1409.799,
+    "duration": 7.88
+  },
+  {
+    "text": "February early March we got sustainable",
+    "start": 1414.24,
+    "duration": 8.88
+  },
+  {
+    "text": "breakout and quickly gold ried up to",
+    "start": 1417.679,
+    "duration": 5.441
+  },
+  {
+    "text": "$2,431 very nice rally and uh this is",
+    "start": 1423.2,
+    "duration": 7.079
+  },
+  {
+    "text": "the top here in mid of May H it came all",
+    "start": 1426.76,
+    "duration": 5.48
+  },
+  {
+    "text": "the way back down to",
+    "start": 1430.279,
+    "duration": 5.161
+  },
+  {
+    "text": "2277 and thanks to Silver which took the",
+    "start": 1432.24,
+    "duration": 6.52
+  },
+  {
+    "text": "lead uh gold also pulled back up again",
+    "start": 1435.44,
+    "duration": 5.64
+  },
+  {
+    "text": "and managed to reach a new all-time high",
+    "start": 1438.76,
+    "duration": 6.039
+  },
+  {
+    "text": "this Monday at 2,450 but since then we",
+    "start": 1441.08,
+    "duration": 5.76
+  },
+  {
+    "text": "clearly see a strong pullback",
+    "start": 1444.799,
+    "duration": 5.12
+  },
+  {
+    "text": "again and um looks like it's dropping",
+    "start": 1446.84,
+    "duration": 5.56
+  },
+  {
+    "text": "like a stone at the moment um it's down",
+    "start": 1449.919,
+    "duration": 6.441
+  },
+  {
+    "text": "already $120 from the top on Monday and",
+    "start": 1452.4,
+    "duration": 7.2
+  },
+  {
+    "text": "um yeah you you could you can make the",
+    "start": 1456.36,
+    "duration": 5.08
+  },
+  {
+    "text": "case that this might be a double top you",
+    "start": 1459.6,
+    "duration": 4.0
+  },
+  {
+    "text": "can make the case that it looks a bit",
+    "start": 1461.44,
+    "duration": 4.52
+  },
+  {
+    "text": "tired the gold price in the in the last",
+    "start": 1463.6,
+    "duration": 7.24
+  },
+  {
+    "text": "few weeks um my initial Target was at",
+    "start": 1465.96,
+    "duration": 8.599
+  },
+  {
+    "text": "2535 so far we made it up to",
+    "start": 1470.84,
+    "duration": 7.719
+  },
+  {
+    "text": "2,450 um seasonality is now not that",
+    "start": 1474.559,
+    "duration": 5.801
+  },
+  {
+    "text": "constructive anymore for the gold price",
+    "start": 1478.559,
+    "duration": 4.12
+  },
+  {
+    "text": "or for precious metals uh generally",
+    "start": 1480.36,
+    "duration": 5.6
+  },
+  {
+    "text": "speaking and we got a new sell signal as",
+    "start": 1482.679,
+    "duration": 4.761
+  },
+  {
+    "text": "of uh",
+    "start": 1485.96,
+    "duration": 4.68
+  },
+  {
+    "text": "yesterday so um I could imagine and that",
+    "start": 1487.44,
+    "duration": 5.0
+  },
+  {
+    "text": "is my best case scenario at the moment",
+    "start": 1490.64,
+    "duration": 4.039
+  },
+  {
+    "text": "for gold that we maybe pull back further",
+    "start": 1492.44,
+    "duration": 3.599
+  },
+  {
+    "text": "obviously in the very short term we",
+    "start": 1494.679,
+    "duration": 3.761
+  },
+  {
+    "text": "might get a pop on on Friday and Monday",
+    "start": 1496.039,
+    "duration": 3.921
+  },
+  {
+    "text": "because it's getting very oversold here",
+    "start": 1498.44,
+    "duration": 5.92
+  },
+  {
+    "text": "but uh we might test this 1300 uh $2,300",
+    "start": 1499.96,
+    "duration": 8.079
+  },
+  {
+    "text": "2,280 is kind of range again maybe one",
+    "start": 1504.36,
+    "duration": 6.039
+  },
+  {
+    "text": "more Spike higher one more test of the",
+    "start": 1508.039,
+    "duration": 5.721
+  },
+  {
+    "text": "$2,400 and then we have actually a head",
+    "start": 1510.399,
+    "duration": 5.16
+  },
+  {
+    "text": "and shoulders stopping pattern in the",
+    "start": 1513.76,
+    "duration": 4.88
+  },
+  {
+    "text": "place and um",
+    "start": 1515.559,
+    "duration": 6.48
+  },
+  {
+    "text": "usually these breakout relies are",
+    "start": 1518.64,
+    "duration": 5.72
+  },
+  {
+    "text": "getting retraced and usually gold needs",
+    "start": 1522.039,
+    "duration": 4.481
+  },
+  {
+    "text": "to test that breakout Zone I would say",
+    "start": 1524.36,
+    "duration": 6.6
+  },
+  {
+    "text": "2,100 to 2,100 50 is typically a",
+    "start": 1526.52,
+    "duration": 6.399
+  },
+  {
+    "text": "pullback that we should expect over the",
+    "start": 1530.96,
+    "duration": 5.48
+  },
+  {
+    "text": "next few months um if we look at the",
+    "start": 1532.919,
+    "duration": 5.88
+  },
+  {
+    "text": "seasonality for gold you can see that",
+    "start": 1536.44,
+    "duration": 6.08
+  },
+  {
+    "text": "actually since mid April early May um",
+    "start": 1538.799,
+    "duration": 5.48
+  },
+  {
+    "text": "this this this pattern is already",
+    "start": 1542.52,
+    "duration": 5.039
+  },
+  {
+    "text": "pointing towards lower prices normally",
+    "start": 1544.279,
+    "duration": 5.76
+  },
+  {
+    "text": "early Midsummer somewhere in July uh",
+    "start": 1547.559,
+    "duration": 4.881
+  },
+  {
+    "text": "gold finds a finds a low but for the",
+    "start": 1550.039,
+    "duration": 5.481
+  },
+  {
+    "text": "next few weeks uh I I would be I would",
+    "start": 1552.44,
+    "duration": 6.04
+  },
+  {
+    "text": "be careful so um we had a big run I",
+    "start": 1555.52,
+    "duration": 6.879
+  },
+  {
+    "text": "showed it 3 7% in in seven and a half",
+    "start": 1558.48,
+    "duration": 7.12
+  },
+  {
+    "text": "months uh usually gold needs to take a",
+    "start": 1562.399,
+    "duration": 5.52
+  },
+  {
+    "text": "breather here pull back towards this",
+    "start": 1565.6,
+    "duration": 4.0
+  },
+  {
+    "text": "breakout Zone",
+    "start": 1567.919,
+    "duration": 3.801
+  },
+  {
+    "text": "$2,100 and that would be a perfect",
+    "start": 1569.6,
+    "duration": 4.24
+  },
+  {
+    "text": "buying spot because in the longer run I",
+    "start": 1571.72,
+    "duration": 4.72
+  },
+  {
+    "text": "expect gold to run to $33,000 now that",
+    "start": 1573.84,
+    "duration": 4.319
+  },
+  {
+    "text": "it has broken Above This long-term",
+    "start": 1576.44,
+    "duration": 4.32
+  },
+  {
+    "text": "resistance Zone but it needs to cool",
+    "start": 1578.159,
+    "duration": 5.24
+  },
+  {
+    "text": "down needs to take a breather um that",
+    "start": 1580.76,
+    "duration": 5.84
+  },
+  {
+    "text": "would be my main scenario right now of",
+    "start": 1583.399,
+    "duration": 6.601
+  },
+  {
+    "text": "course there's also um a geopolitical",
+    "start": 1586.6,
+    "duration": 6.04
+  },
+  {
+    "text": "component because I think this gold",
+    "start": 1590.0,
+    "duration": 4.76
+  },
+  {
+    "text": "rally has been mainly driven by physical",
+    "start": 1592.64,
+    "duration": 5.039
+  },
+  {
+    "text": "demand from China and from central banks",
+    "start": 1594.76,
+    "duration": 4.44
+  },
+  {
+    "text": "and the Chinese have been buying gold",
+    "start": 1597.679,
+    "duration": 4.48
+  },
+  {
+    "text": "like crazy uh I published a piece in",
+    "start": 1599.2,
+    "duration": 5.959
+  },
+  {
+    "text": "February uh where I clearly laid out why",
+    "start": 1602.159,
+    "duration": 5.441
+  },
+  {
+    "text": "I think gold is now breaking out because",
+    "start": 1605.159,
+    "duration": 4.721
+  },
+  {
+    "text": "we've seen these pictures out of China",
+    "start": 1607.6,
+    "duration": 4.24
+  },
+  {
+    "text": "uh during the New Year celebrations over",
+    "start": 1609.88,
+    "duration": 3.36
+  },
+  {
+    "text": "there you've seen thousands and",
+    "start": 1611.84,
+    "duration": 3.319
+  },
+  {
+    "text": "thousands of people in these shopping",
+    "start": 1613.24,
+    "duration": 3.559
+  },
+  {
+    "text": "centers trying to get their hands on",
+    "start": 1615.159,
+    "duration": 5.041
+  },
+  {
+    "text": "physical gold and and still until today",
+    "start": 1616.799,
+    "duration": 5.521
+  },
+  {
+    "text": "the the gold and silver pric is in",
+    "start": 1620.2,
+    "duration": 4.8
+  },
+  {
+    "text": "Shanghai trading with the premium and",
+    "start": 1622.32,
+    "duration": 4.52
+  },
+  {
+    "text": "that's the big question how quickly will",
+    "start": 1625.0,
+    "duration": 3.799
+  },
+  {
+    "text": "the Chinese buyers coming back into the",
+    "start": 1626.84,
+    "duration": 3.88
+  },
+  {
+    "text": "market actually and of course you're",
+    "start": 1628.799,
+    "duration": 3.401
+  },
+  {
+    "text": "just talking about the retail buyers we",
+    "start": 1630.72,
+    "duration": 3.88
+  },
+  {
+    "text": "know that China's Central Bank The",
+    "start": 1632.2,
+    "duration": 4.079
+  },
+  {
+    "text": "People's Bank of China has been on a",
+    "start": 1634.6,
+    "duration": 4.24
+  },
+  {
+    "text": "massive gold buying spree adding to its",
+    "start": 1636.279,
+    "duration": 6.0
+  },
+  {
+    "text": "gold reserves for 18 months in a row I",
+    "start": 1638.84,
+    "duration": 5.4
+  },
+  {
+    "text": "let's talk about though you said that",
+    "start": 1642.279,
+    "duration": 5.321
+  },
+  {
+    "text": "you do see gold pulling back to 2,50",
+    "start": 1644.24,
+    "duration": 4.799
+  },
+  {
+    "text": "around there",
+    "start": 1647.6,
+    "duration": 4.72
+  },
+  {
+    "text": "roughly speaking yeah what why what what",
+    "start": 1649.039,
+    "duration": 5.12
+  },
+  {
+    "text": "what are the pullback criteria you said",
+    "start": 1652.32,
+    "duration": 4.12
+  },
+  {
+    "text": "that you're getting a sell signal what's",
+    "start": 1654.159,
+    "duration": 4.281
+  },
+  {
+    "text": "what's the sell signal is it just profit",
+    "start": 1656.44,
+    "duration": 5.16
+  },
+  {
+    "text": "taking what are the factors behind this",
+    "start": 1658.44,
+    "duration": 5.92
+  },
+  {
+    "text": "pullback yeah I mean it's always takes",
+    "start": 1661.6,
+    "duration": 4.959
+  },
+  {
+    "text": "people to pull prices higher and then at",
+    "start": 1664.36,
+    "duration": 3.84
+  },
+  {
+    "text": "some point people sitting on nice",
+    "start": 1666.559,
+    "duration": 3.401
+  },
+  {
+    "text": "profits and they also want to take those",
+    "start": 1668.2,
+    "duration": 5.12
+  },
+  {
+    "text": "profits off the table and um in during",
+    "start": 1669.96,
+    "duration": 5.719
+  },
+  {
+    "text": "those Ries you you certainly see a lot",
+    "start": 1673.32,
+    "duration": 4.28
+  },
+  {
+    "text": "of people joining that rally and using",
+    "start": 1675.679,
+    "duration": 3.24
+  },
+  {
+    "text": "Leverage",
+    "start": 1677.6,
+    "duration": 4.76
+  },
+  {
+    "text": "and um again I I mentioned the seasonal",
+    "start": 1678.919,
+    "duration": 6.561
+  },
+  {
+    "text": "pattern uh you've seen also that there",
+    "start": 1682.36,
+    "duration": 6.52
+  },
+  {
+    "text": "was not a lot of Demand by the gold ETFs",
+    "start": 1685.48,
+    "duration": 7.079
+  },
+  {
+    "text": "in in in the in the west um so yeah",
+    "start": 1688.88,
+    "duration": 5.519
+  },
+  {
+    "text": "usually I mean nothing goes up in the",
+    "start": 1692.559,
+    "duration": 4.161
+  },
+  {
+    "text": "straight line uh so it would be healthy",
+    "start": 1694.399,
+    "duration": 4.081
+  },
+  {
+    "text": "to take a breather here and test this",
+    "start": 1696.72,
+    "duration": 4.16
+  },
+  {
+    "text": "breakout which is now support former",
+    "start": 1698.48,
+    "duration": 5.0
+  },
+  {
+    "text": "resistance has become support now so",
+    "start": 1700.88,
+    "duration": 4.44
+  },
+  {
+    "text": "that would be the classical pattern and",
+    "start": 1703.48,
+    "duration": 3.88
+  },
+  {
+    "text": "I've seen this a few times over the last",
+    "start": 1705.32,
+    "duration": 5.959
+  },
+  {
+    "text": "25 years in the gold market so um",
+    "start": 1707.36,
+    "duration": 7.039
+  },
+  {
+    "text": "fundamentally speaking Yeah I mean maybe",
+    "start": 1711.279,
+    "duration": 5.0
+  },
+  {
+    "text": "there some things are cooling down again",
+    "start": 1714.399,
+    "duration": 4.52
+  },
+  {
+    "text": "you mentioned the Asian buyer as well I",
+    "start": 1716.279,
+    "duration": 5.361
+  },
+  {
+    "text": "mean these are usually more contrarian",
+    "start": 1718.919,
+    "duration": 4.76
+  },
+  {
+    "text": "type of buyers",
+    "start": 1721.64,
+    "duration": 4.68
+  },
+  {
+    "text": "so we've seen that the demand has been",
+    "start": 1723.679,
+    "duration": 4.72
+  },
+  {
+    "text": "cooling off a little bit in in the last",
+    "start": 1726.32,
+    "duration": 4.68
+  },
+  {
+    "text": "few weeks so usually they wait for lower",
+    "start": 1728.399,
+    "duration": 6.52
+  },
+  {
+    "text": "prices um I think there's and markets",
+    "start": 1731.0,
+    "duration": 5.6
+  },
+  {
+    "text": "are simply overboard I mean if you look",
+    "start": 1734.919,
+    "duration": 3.64
+  },
+  {
+    "text": "at weekly chart",
+    "start": 1736.6,
+    "duration": 3.84
+  },
+  {
+    "text": "the daily chart become very overboard",
+    "start": 1738.559,
+    "duration": 5.521
+  },
+  {
+    "text": "and um as I mentioned before we made",
+    "start": 1740.44,
+    "duration": 6.359
+  },
+  {
+    "text": "only a slightly higher High I mean the",
+    "start": 1744.08,
+    "duration": 5.199
+  },
+  {
+    "text": "high the high in in April was at",
+    "start": 1746.799,
+    "duration": 5.48
+  },
+  {
+    "text": "2431 now last Monday it it made it to",
+    "start": 1749.279,
+    "duration": 6.441
+  },
+  {
+    "text": "2450 it's just 20 bucks higher I I would",
+    "start": 1752.279,
+    "duration": 5.88
+  },
+  {
+    "text": "have thought that as a final search for",
+    "start": 1755.72,
+    "duration": 5.319
+  },
+  {
+    "text": "this rally you would like to see prices",
+    "start": 1758.159,
+    "duration": 5.321
+  },
+  {
+    "text": "go vertical but this hasn't happened yet",
+    "start": 1761.039,
+    "duration": 5.24
+  },
+  {
+    "text": "or or did not happen at all so uh I",
+    "start": 1763.48,
+    "duration": 5.76
+  },
+  {
+    "text": "think at least you see more and more",
+    "start": 1766.279,
+    "duration": 4.76
+  },
+  {
+    "text": "signals on the table now that there",
+    "start": 1769.24,
+    "duration": 3.76
+  },
+  {
+    "text": "might be a reversal and that that we're",
+    "start": 1771.039,
+    "duration": 4.0
+  },
+  {
+    "text": "now seeing a pullback in in the precious",
+    "start": 1773.0,
+    "duration": 3.84
+  },
+  {
+    "text": "metals and in Gold but you're",
+    "start": 1775.039,
+    "duration": 4.281
+  },
+  {
+    "text": "comfortable with uh that bottom at for",
+    "start": 1776.84,
+    "duration": 4.679
+  },
+  {
+    "text": "gold at around",
+    "start": 1779.32,
+    "duration": 4.64
+  },
+  {
+    "text": "2100 yeah I I would be surprised if it",
+    "start": 1781.519,
+    "duration": 4.361
+  },
+  {
+    "text": "goes much lower I mean this would only",
+    "start": 1783.96,
+    "duration": 3.559
+  },
+  {
+    "text": "be the case if we get into a",
+    "start": 1785.88,
+    "duration": 3.36
+  },
+  {
+    "text": "deflationary crash of course then",
+    "start": 1787.519,
+    "duration": 3.361
+  },
+  {
+    "text": "everything will sell off and then gold",
+    "start": 1789.24,
+    "duration": 3.84
+  },
+  {
+    "text": "could also go lower there is still an",
+    "start": 1790.88,
+    "duration": 4.919
+  },
+  {
+    "text": "open Gap at 1830 right now I don't see",
+    "start": 1793.08,
+    "duration": 5.079
+  },
+  {
+    "text": "how we going to get there but in a",
+    "start": 1795.799,
+    "duration": 4.24
+  },
+  {
+    "text": "deflationary crash in the stock market",
+    "start": 1798.159,
+    "duration": 3.841
+  },
+  {
+    "text": "crash yes this could happen but right",
+    "start": 1800.039,
+    "duration": 3.921
+  },
+  {
+    "text": "now there are no indications on the",
+    "start": 1802.0,
+    "duration": 5.559
+  },
+  {
+    "text": "table for that all right um let's talk",
+    "start": 1803.96,
+    "duration": 6.439
+  },
+  {
+    "text": "about what you see for gold at at 3,000",
+    "start": 1807.559,
+    "duration": 5.281
+  },
+  {
+    "text": "do you see that for",
+    "start": 1810.399,
+    "duration": 5.0
+  },
+  {
+    "text": "2024 no I'm not sure if we make it until",
+    "start": 1812.84,
+    "duration": 4.48
+  },
+  {
+    "text": "the end of the year but I think over the",
+    "start": 1815.399,
+    "duration": 4.081
+  },
+  {
+    "text": "next one two years we we probably see",
+    "start": 1817.32,
+    "duration": 5.56
+  },
+  {
+    "text": "gold at $3,000 yes yes I mean hold at",
+    "start": 1819.48,
+    "duration": 6.72
+  },
+  {
+    "text": "$33,000 when yeah over the next one or",
+    "start": 1822.88,
+    "duration": 6.919
+  },
+  {
+    "text": "two years I mean again there's a lot of",
+    "start": 1826.2,
+    "duration": 5.599
+  },
+  {
+    "text": "uh potential scenarios on the table and",
+    "start": 1829.799,
+    "duration": 4.801
+  },
+  {
+    "text": "I mentioned the geopolitical situation",
+    "start": 1831.799,
+    "duration": 5.521
+  },
+  {
+    "text": "uh uh we have the ongoing Ukraine war",
+    "start": 1834.6,
+    "duration": 5.799
+  },
+  {
+    "text": "which seems to continuously escalate uh",
+    "start": 1837.32,
+    "duration": 5.64
+  },
+  {
+    "text": "we have today as of today new escalation",
+    "start": 1840.399,
+    "duration": 5.0
+  },
+  {
+    "text": "in Taiwan",
+    "start": 1842.96,
+    "duration": 5.68
+  },
+  {
+    "text": "uh a few days ago the Iranian president",
+    "start": 1845.399,
+    "duration": 6.321
+  },
+  {
+    "text": "died in a in a helicopter crash uh there",
+    "start": 1848.64,
+    "duration": 5.12
+  },
+  {
+    "text": "was a coup in Congo I mean there's so",
+    "start": 1851.72,
+    "duration": 4.12
+  },
+  {
+    "text": "much going on and it's all pointing",
+    "start": 1853.76,
+    "duration": 4.68
+  },
+  {
+    "text": "between the the the",
+    "start": 1855.84,
+    "duration": 4.799
+  },
+  {
+    "text": "go the cold war between the the East and",
+    "start": 1858.44,
+    "duration": 4.959
+  },
+  {
+    "text": "the West between America and China and I",
+    "start": 1860.639,
+    "duration": 5.601
+  },
+  {
+    "text": "think the Chinese trying to get rid of",
+    "start": 1863.399,
+    "duration": 5.801
+  },
+  {
+    "text": "as much us bonds and and treasuries and",
+    "start": 1866.24,
+    "duration": 6.279
+  },
+  {
+    "text": "dollars as much and quick as they can uh",
+    "start": 1869.2,
+    "duration": 5.479
+  },
+  {
+    "text": "and and of course they buying",
+    "start": 1872.519,
+    "duration": 4.841
+  },
+  {
+    "text": "gold uh Floren we just got some breaking",
+    "start": 1874.679,
+    "duration": 5.321
+  },
+  {
+    "text": "news that that eth ETF does seem to be",
+    "start": 1877.36,
+    "duration": 6.6
+  },
+  {
+    "text": "moving towards the approval process um",
+    "start": 1880.0,
+    "duration": 5.44
+  },
+  {
+    "text": "let's talk about silver and then we'll",
+    "start": 1883.96,
+    "duration": 4.4
+  },
+  {
+    "text": "Circle back to bitcoin uh and and what",
+    "start": 1885.44,
+    "duration": 5.8
+  },
+  {
+    "text": "this could mean for that um so we've got",
+    "start": 1888.36,
+    "duration": 5.559
+  },
+  {
+    "text": "silver let's focus on Silver now silver",
+    "start": 1891.24,
+    "duration": 5.96
+  },
+  {
+    "text": "climbing to around $32 an ounce this",
+    "start": 1893.919,
+    "duration": 5.041
+  },
+  {
+    "text": "week and that's the highest level since",
+    "start": 1897.2,
+    "duration": 4.319
+  },
+  {
+    "text": "2012 silver trading at around",
+    "start": 1898.96,
+    "duration": 6.64
+  },
+  {
+    "text": "$30.10 at the moment what's your outlook",
+    "start": 1901.519,
+    "duration": 8.361
+  },
+  {
+    "text": "there yeah look uh silver um has finally",
+    "start": 1905.6,
+    "duration": 7.12
+  },
+  {
+    "text": "joined the party over the last uh few",
+    "start": 1909.88,
+    "duration": 5.44
+  },
+  {
+    "text": "weeks um",
+    "start": 1912.72,
+    "duration": 6.16
+  },
+  {
+    "text": "unfortunately uh this most of the time",
+    "start": 1915.32,
+    "duration": 6.16
+  },
+  {
+    "text": "is not a good signal for for the",
+    "start": 1918.88,
+    "duration": 5.36
+  },
+  {
+    "text": "immediate future so usually when when",
+    "start": 1921.48,
+    "duration": 4.48
+  },
+  {
+    "text": "silver shows up to the party it means",
+    "start": 1924.24,
+    "duration": 3.88
+  },
+  {
+    "text": "that a bull market in the sector is",
+    "start": 1925.96,
+    "duration": 4.319
+  },
+  {
+    "text": "coming to an end or a bull run the rally",
+    "start": 1928.12,
+    "duration": 4.399
+  },
+  {
+    "text": "that started in October but let's zoom",
+    "start": 1930.279,
+    "duration": 5.321
+  },
+  {
+    "text": "out a little bit because uh there has",
+    "start": 1932.519,
+    "duration": 4.681
+  },
+  {
+    "text": "been a very important development in the",
+    "start": 1935.6,
+    "duration": 3.6
+  },
+  {
+    "text": "silver market so this is the silver",
+    "start": 1937.2,
+    "duration": 4.0
+  },
+  {
+    "text": "chart going back to",
+    "start": 1939.2,
+    "duration": 4.04
+  },
+  {
+    "text": "2010 and",
+    "start": 1941.2,
+    "duration": 7.16
+  },
+  {
+    "text": "um uh silver uh made it top at 50",
+    "start": 1943.24,
+    "duration": 9.439
+  },
+  {
+    "text": "in May 2011 um the old alltime high from",
+    "start": 1948.36,
+    "duration": 7.72
+  },
+  {
+    "text": "1980 at $50 is still in Place Silver is",
+    "start": 1952.679,
+    "duration": 5.281
+  },
+  {
+    "text": "one of the very few Commodities that is",
+    "start": 1956.08,
+    "duration": 6.52
+  },
+  {
+    "text": "trading far below its 1980 High um so",
+    "start": 1957.96,
+    "duration": 8.079
+  },
+  {
+    "text": "silver came back from that top at $50 uh",
+    "start": 1962.6,
+    "duration": 7.199
+  },
+  {
+    "text": "down to 1150 in the corona crash 2020",
+    "start": 1966.039,
+    "duration": 6.401
+  },
+  {
+    "text": "and then strongly recovered up to",
+    "start": 1969.799,
+    "duration": 5.12
+  },
+  {
+    "text": "$30 and over the following three and a",
+    "start": 1972.44,
+    "duration": 4.52
+  },
+  {
+    "text": "half years it tried a few times to break",
+    "start": 1974.919,
+    "duration": 3.921
+  },
+  {
+    "text": "through that resistance and it failed it",
+    "start": 1976.96,
+    "duration": 4.719
+  },
+  {
+    "text": "didn't manage to break through and",
+    "start": 1978.84,
+    "duration": 5.799
+  },
+  {
+    "text": "similar to to the the cup and handle uh",
+    "start": 1981.679,
+    "duration": 4.521
+  },
+  {
+    "text": "pattern in the gold market we've seen",
+    "start": 1984.639,
+    "duration": 4.361
+  },
+  {
+    "text": "kind of a basing cup pattern here in in",
+    "start": 1986.2,
+    "duration": 4.199
+  },
+  {
+    "text": "silver over the last three and a half",
+    "start": 1989.0,
+    "duration": 3.96
+  },
+  {
+    "text": "years and the big development over the",
+    "start": 1990.399,
+    "duration": 4.561
+  },
+  {
+    "text": "last few weeks is that silver broke",
+    "start": 1992.96,
+    "duration": 4.839
+  },
+  {
+    "text": "through that trend line here and that",
+    "start": 1994.96,
+    "duration": 5.559
+  },
+  {
+    "text": "basically Unleashed new powers and",
+    "start": 1997.799,
+    "duration": 5.801
+  },
+  {
+    "text": "energy and silver ried and spiked higher",
+    "start": 2000.519,
+    "duration": 4.481
+  },
+  {
+    "text": "up to I think",
+    "start": 2003.6,
+    "duration": 6.48
+  },
+  {
+    "text": "32 50ish kind of dollars as of Monday so",
+    "start": 2005.0,
+    "duration": 7.44
+  },
+  {
+    "text": "if we zoom in to the daily chart uh this",
+    "start": 2010.08,
+    "duration": 6.599
+  },
+  {
+    "text": "is the rally that started in early March",
+    "start": 2012.44,
+    "duration": 6.32
+  },
+  {
+    "text": "and uh this was basically the the",
+    "start": 2016.679,
+    "duration": 5.12
+  },
+  {
+    "text": "pullback in in April and from there uh",
+    "start": 2018.76,
+    "duration": 5.0
+  },
+  {
+    "text": "silver stormed higher over the last few",
+    "start": 2021.799,
+    "duration": 5.0
+  },
+  {
+    "text": "weeks and um made a made a new I think",
+    "start": 2023.76,
+    "duration": 6.32
+  },
+  {
+    "text": "11year high at uh",
+    "start": 2026.799,
+    "duration": 8.561
+  },
+  {
+    "text": "$32 45 I think so now we see this kind",
+    "start": 2030.08,
+    "duration": 7.76
+  },
+  {
+    "text": "of like pullback or reversal at the",
+    "start": 2035.36,
+    "duration": 4.319
+  },
+  {
+    "text": "moment we have a sell signal here on the",
+    "start": 2037.84,
+    "duration": 5.959
+  },
+  {
+    "text": "daily stochastic and best case for",
+    "start": 2039.679,
+    "duration": 6.441
+  },
+  {
+    "text": "silver I mean the former resistance at",
+    "start": 2043.799,
+    "duration": 5.681
+  },
+  {
+    "text": "$30 is now support maybe it pulls back",
+    "start": 2046.12,
+    "duration": 6.239
+  },
+  {
+    "text": "29 30ish in that range I mean we made it",
+    "start": 2049.48,
+    "duration": 4.56
+  },
+  {
+    "text": "already to that number today",
+    "start": 2052.359,
+    "duration": 6.401
+  },
+  {
+    "text": "$30 I have a Target at 2930 something uh",
+    "start": 2054.04,
+    "duration": 6.96
+  },
+  {
+    "text": "that could be uh the target for that",
+    "start": 2058.76,
+    "duration": 5.56
+  },
+  {
+    "text": "pullback and if silver still has more",
+    "start": 2061.0,
+    "duration": 6.359
+  },
+  {
+    "text": "fuel in the tank then we might see $35",
+    "start": 2064.32,
+    "duration": 5.0
+  },
+  {
+    "text": "in in the next few weeks but that's",
+    "start": 2067.359,
+    "duration": 3.441
+  },
+  {
+    "text": "really the best case",
+    "start": 2069.32,
+    "duration": 4.839
+  },
+  {
+    "text": "scenario um as I mentioned before",
+    "start": 2070.8,
+    "duration": 5.119
+  },
+  {
+    "text": "usually when silver shows up to the",
+    "start": 2074.159,
+    "duration": 3.641
+  },
+  {
+    "text": "party and takes the lead and that is",
+    "start": 2075.919,
+    "duration": 4.16
+  },
+  {
+    "text": "what happened over the last five weeks",
+    "start": 2077.8,
+    "duration": 4.359
+  },
+  {
+    "text": "usually it means the end of a bull run",
+    "start": 2080.079,
+    "duration": 4.241
+  },
+  {
+    "text": "in the precious metal sector so we have",
+    "start": 2082.159,
+    "duration": 4.281
+  },
+  {
+    "text": "to be very careful here and if Sila",
+    "start": 2084.32,
+    "duration": 5.0
+  },
+  {
+    "text": "cannot defend this support zone now we",
+    "start": 2086.44,
+    "duration": 4.8
+  },
+  {
+    "text": "might also get this kind of scenario",
+    "start": 2089.32,
+    "duration": 3.799
+  },
+  {
+    "text": "where Sil would all pull back all the",
+    "start": 2091.24,
+    "duration": 3.52
+  },
+  {
+    "text": "way to maybe",
+    "start": 2093.119,
+    "duration": 5.081
+  },
+  {
+    "text": "$26 and then again uh",
+    "start": 2094.76,
+    "duration": 6.72
+  },
+  {
+    "text": "the gold and silver Bucks have to uh",
+    "start": 2098.2,
+    "duration": 5.08
+  },
+  {
+    "text": "show more patience like they've been",
+    "start": 2101.48,
+    "duration": 5.0
+  },
+  {
+    "text": "doing for so many years already but uh",
+    "start": 2103.28,
+    "duration": 5.72
+  },
+  {
+    "text": "uh I think um that's the two scenarios",
+    "start": 2106.48,
+    "duration": 4.639
+  },
+  {
+    "text": "that I have for silver best case would",
+    "start": 2109.0,
+    "duration": 4.96
+  },
+  {
+    "text": "be we get one more leg higher towards",
+    "start": 2111.119,
+    "duration": 5.401
+  },
+  {
+    "text": "35ish kind of dollars otherwise it has",
+    "start": 2113.96,
+    "duration": 4.32
+  },
+  {
+    "text": "topped already and we are in the",
+    "start": 2116.52,
+    "duration": 4.44
+  },
+  {
+    "text": "pullback already when am I getting this",
+    "start": 2118.28,
+    "duration": 4.72
+  },
+  {
+    "text": "triple digit Sila that I've been",
+    "start": 2120.96,
+    "duration": 5.6
+  },
+  {
+    "text": "promised for the last uh 3 years look I",
+    "start": 2123.0,
+    "duration": 5.4
+  },
+  {
+    "text": "am definitely in the camp that silver",
+    "start": 2126.56,
+    "duration": 4.12
+  },
+  {
+    "text": "will go back to $50 at some point and",
+    "start": 2128.4,
+    "duration": 3.76
+  },
+  {
+    "text": "I'm also believing that we're going to",
+    "start": 2130.68,
+    "duration": 3.76
+  },
+  {
+    "text": "see three three digit silver at some",
+    "start": 2132.16,
+    "duration": 5.84
+  },
+  {
+    "text": "point some point what is the some point",
+    "start": 2134.44,
+    "duration": 5.2
+  },
+  {
+    "text": "here",
+    "start": 2138.0,
+    "duration": 7.32
+  },
+  {
+    "text": "well as years five years no I think",
+    "start": 2139.64,
+    "duration": 8.56
+  },
+  {
+    "text": "with I think within the next five years",
+    "start": 2145.32,
+    "duration": 5.68
+  },
+  {
+    "text": "uh it's very likely I think that uh",
+    "start": 2148.2,
+    "duration": 6.32
+  },
+  {
+    "text": "generally speaking uh the the setup is",
+    "start": 2151.0,
+    "duration": 4.839
+  },
+  {
+    "text": "uh uh",
+    "start": 2154.52,
+    "duration": 4.079
+  },
+  {
+    "text": "accelerating um I I don't think we're",
+    "start": 2155.839,
+    "duration": 4.881
+  },
+  {
+    "text": "going to get another multi- gear kind of",
+    "start": 2158.599,
+    "duration": 3.801
+  },
+  {
+    "text": "consolidation correction in the precious",
+    "start": 2160.72,
+    "duration": 3.84
+  },
+  {
+    "text": "metals this is a bull market we might",
+    "start": 2162.4,
+    "duration": 4.56
+  },
+  {
+    "text": "see a a painful pullback over the next",
+    "start": 2164.56,
+    "duration": 5.84
+  },
+  {
+    "text": "few weeks but uh once this is done uh",
+    "start": 2166.96,
+    "duration": 6.32
+  },
+  {
+    "text": "gold will be back up and uh silver will",
+    "start": 2170.4,
+    "duration": 4.88
+  },
+  {
+    "text": "follow and at some point Sila will take",
+    "start": 2173.28,
+    "duration": 5.24
+  },
+  {
+    "text": "the lead and remember 2010 silver went",
+    "start": 2175.28,
+    "duration": 5.799
+  },
+  {
+    "text": "from $17 to 15",
+    "start": 2178.52,
+    "duration": 5.96
+  },
+  {
+    "text": "$50 uh eight months super strong",
+    "start": 2181.079,
+    "duration": 5.801
+  },
+  {
+    "text": "rally um something like this will happen",
+    "start": 2184.48,
+    "duration": 6.0
+  },
+  {
+    "text": "again uh this the gold silver ratio uh",
+    "start": 2186.88,
+    "duration": 7.4
+  },
+  {
+    "text": "uh has turned um I think uh in the",
+    "start": 2190.48,
+    "duration": 5.52
+  },
+  {
+    "text": "longer run it looks very good for for",
+    "start": 2194.28,
+    "duration": 4.68
+  },
+  {
+    "text": "silver however just sharing this last uh",
+    "start": 2196.0,
+    "duration": 6.119
+  },
+  {
+    "text": "chart here um if you look at the silver",
+    "start": 2198.96,
+    "duration": 6.96
+  },
+  {
+    "text": "sentiment um the Silver Box became very",
+    "start": 2202.119,
+    "duration": 6.48
+  },
+  {
+    "text": "euphoric in the last few days I have to",
+    "start": 2205.92,
+    "duration": 8.84
+  },
+  {
+    "text": "say so um that's usually uh to be taken",
+    "start": 2208.599,
+    "duration": 9.201
+  },
+  {
+    "text": "very carefully that's usually a negative",
+    "start": 2214.76,
+    "duration": 5.76
+  },
+  {
+    "text": "right that's that's usually a contrary",
+    "start": 2217.8,
+    "duration": 6.4
+  },
+  {
+    "text": "indicator um I want to Circle back to",
+    "start": 2220.52,
+    "duration": 6.44
+  },
+  {
+    "text": "eth now as I said we did get some news",
+    "start": 2224.2,
+    "duration": 5.96
+  },
+  {
+    "text": "that the uh SEC has approved all the",
+    "start": 2226.96,
+    "duration": 7.24
+  },
+  {
+    "text": "spot ethereum ETFs ethereum ring on this",
+    "start": 2230.16,
+    "duration": 6.08
+  },
+  {
+    "text": "news now to be clear this doesn't mean",
+    "start": 2234.2,
+    "duration": 3.52
+  },
+  {
+    "text": "that they're going to begin trading",
+    "start": 2236.24,
+    "duration": 3.64
+  },
+  {
+    "text": "tomorrow or anytime soon it's just the",
+    "start": 2237.72,
+    "duration": 5.68
+  },
+  {
+    "text": "19 before approval it also needs to go",
+    "start": 2239.88,
+    "duration": 5.439
+  },
+  {
+    "text": "through another approval process on the",
+    "start": 2243.4,
+    "duration": 3.8
+  },
+  {
+    "text": "S1 documents that's going to take some",
+    "start": 2245.319,
+    "duration": 2.881
+  },
+  {
+    "text": "time",
+    "start": 2247.2,
+    "duration": 2.52
+  },
+  {
+    "text": "so we're expecting it to take a couple",
+    "start": 2248.2,
+    "duration": 4.28
+  },
+  {
+    "text": "of weeks until it's officially there uh",
+    "start": 2249.72,
+    "duration": 6.32
+  },
+  {
+    "text": "should know more details um as you said",
+    "start": 2252.48,
+    "duration": 4.8
+  },
+  {
+    "text": "in the beginning of this interview with",
+    "start": 2256.04,
+    "duration": 3.559
+  },
+  {
+    "text": "black Rock's uh Goden application",
+    "start": 2257.28,
+    "duration": 3.88
+  },
+  {
+    "text": "chances it's going to get approved and",
+    "start": 2259.599,
+    "duration": 4.48
+  },
+  {
+    "text": "of course Black Rock Fidelity um and and",
+    "start": 2261.16,
+    "duration": 4.919
+  },
+  {
+    "text": "Grace scale amongst the ones that have",
+    "start": 2264.079,
+    "duration": 7.361
+  },
+  {
+    "text": "had their e uh ETF spot ETFs approved so",
+    "start": 2266.079,
+    "duration": 7.561
+  },
+  {
+    "text": "again we covered this already but what",
+    "start": 2271.44,
+    "duration": 6.159
+  },
+  {
+    "text": "do you think this means now",
+    "start": 2273.64,
+    "duration": 6.08
+  },
+  {
+    "text": "well I think that this probably will",
+    "start": 2277.599,
+    "duration": 4.201
+  },
+  {
+    "text": "spark a little bit of an altcoin rally",
+    "start": 2279.72,
+    "duration": 3.92
+  },
+  {
+    "text": "here as well and it will push ethereum",
+    "start": 2281.8,
+    "duration": 5.0
+  },
+  {
+    "text": "higher um so probably Bitcoin dominance",
+    "start": 2283.64,
+    "duration": 6.88
+  },
+  {
+    "text": "will go uh back a little bit um and yeah",
+    "start": 2286.8,
+    "duration": 6.4
+  },
+  {
+    "text": "ethereum I mean don't forget uh Bitcoin",
+    "start": 2290.52,
+    "duration": 5.16
+  },
+  {
+    "text": "has made a new all-time high ethereum",
+    "start": 2293.2,
+    "duration": 5.159
+  },
+  {
+    "text": "has not made a new alltime high yet so",
+    "start": 2295.68,
+    "duration": 6.12
+  },
+  {
+    "text": "um there is still room to catch up and",
+    "start": 2298.359,
+    "duration": 5.96
+  },
+  {
+    "text": "again similar to what I talked about",
+    "start": 2301.8,
+    "duration": 4.72
+  },
+  {
+    "text": "gold and silver once you see the",
+    "start": 2304.319,
+    "duration": 4.161
+  },
+  {
+    "text": "ethereum and the coins catching up and",
+    "start": 2306.52,
+    "duration": 4.0
+  },
+  {
+    "text": "doing their own thing it also means that",
+    "start": 2308.48,
+    "duration": 5.16
+  },
+  {
+    "text": "a rally in the sector comes to an end so",
+    "start": 2310.52,
+    "duration": 5.76
+  },
+  {
+    "text": "uh usually if you get this and this",
+    "start": 2313.64,
+    "duration": 4.28
+  },
+  {
+    "text": "might be the booster this might be now",
+    "start": 2316.28,
+    "duration": 3.76
+  },
+  {
+    "text": "the narrative that takes ethereum to a",
+    "start": 2317.92,
+    "duration": 3.64
+  },
+  {
+    "text": "new all-time high over the next couple",
+    "start": 2320.04,
+    "duration": 4.12
+  },
+  {
+    "text": "of weeks uh but that would also mean",
+    "start": 2321.56,
+    "duration": 5.64
+  },
+  {
+    "text": "that in the larger scheme of things the",
+    "start": 2324.16,
+    "duration": 5.919
+  },
+  {
+    "text": "crypto sector is is ready for a pullback",
+    "start": 2327.2,
+    "duration": 4.96
+  },
+  {
+    "text": "um and a larger correction maybe into",
+    "start": 2330.079,
+    "duration": 5.401
+  },
+  {
+    "text": "September October hence that sell in May",
+    "start": 2332.16,
+    "duration": 6.04
+  },
+  {
+    "text": "hence hence that sell in May um but you",
+    "start": 2335.48,
+    "duration": 5.52
+  },
+  {
+    "text": "still see Bitcoin at 100 or 120 come",
+    "start": 2338.2,
+    "duration": 6.44
+  },
+  {
+    "text": "next Bitcoin Pizza Day May 22nd 2025",
+    "start": 2341.0,
+    "duration": 6.96
+  },
+  {
+    "text": "with your plain Mozzarella Pizza",
+    "start": 2344.64,
+    "duration": 6.84
+  },
+  {
+    "text": "um as as as we wrap up here Florian you",
+    "start": 2347.96,
+    "duration": 6.0
+  },
+  {
+    "text": "know started at the top mentioning how",
+    "start": 2351.48,
+    "duration": 5.119
+  },
+  {
+    "text": "gold Bitcoin silver have no yield",
+    "start": 2353.96,
+    "duration": 5.96
+  },
+  {
+    "text": "effectively right um no cash flow assets",
+    "start": 2356.599,
+    "duration": 5.281
+  },
+  {
+    "text": "and yet they've been on such an upwards",
+    "start": 2359.92,
+    "duration": 4.439
+  },
+  {
+    "text": "trajectory final thoughts on that note",
+    "start": 2361.88,
+    "duration": 4.04
+  },
+  {
+    "text": "as we wrap up",
+    "start": 2364.359,
+    "duration": 4.401
+  },
+  {
+    "text": "here yeah I think that the the crackup",
+    "start": 2365.92,
+    "duration": 4.88
+  },
+  {
+    "text": "boom that we talked in depth I think 10",
+    "start": 2368.76,
+    "duration": 4.16
+  },
+  {
+    "text": "months ago and that I laid out many",
+    "start": 2370.8,
+    "duration": 5.84
+  },
+  {
+    "text": "times over the last four years um still",
+    "start": 2372.92,
+    "duration": 7.919
+  },
+  {
+    "text": "continues and uh it's all driven by",
+    "start": 2376.64,
+    "duration": 6.84
+  },
+  {
+    "text": "money injection money Printing and the",
+    "start": 2380.839,
+    "duration": 6.041
+  },
+  {
+    "text": "loss of confidence by the people and um",
+    "start": 2383.48,
+    "duration": 6.0
+  },
+  {
+    "text": "we have now all of us basically are",
+    "start": 2386.88,
+    "duration": 6.56
+  },
+  {
+    "text": "experiencing High inflationary uh setups",
+    "start": 2389.48,
+    "duration": 7.119
+  },
+  {
+    "text": "constantly every day all over the world",
+    "start": 2393.44,
+    "duration": 6.679
+  },
+  {
+    "text": "and so uh you cannot let and leave your",
+    "start": 2396.599,
+    "duration": 6.041
+  },
+  {
+    "text": "money in the bank you need to do",
+    "start": 2400.119,
+    "duration": 6.361
+  },
+  {
+    "text": "something with it and um Gold Silver and",
+    "start": 2402.64,
+    "duration": 7.0
+  },
+  {
+    "text": "also Bitcoin are for me Safe Haven",
+    "start": 2406.48,
+    "duration": 6.119
+  },
+  {
+    "text": "assets that are not that uh easily",
+    "start": 2409.64,
+    "duration": 4.719
+  },
+  {
+    "text": "created H",
+    "start": 2412.599,
+    "duration": 3.52
+  },
+  {
+    "text": "so I",
+    "start": 2414.359,
+    "duration": 4.201
+  },
+  {
+    "text": "think of course the TCH stocks also have",
+    "start": 2416.119,
+    "duration": 7.281
+  },
+  {
+    "text": "done very well um but Gold Silver and",
+    "start": 2418.56,
+    "duration": 8.12
+  },
+  {
+    "text": "Bitcoin for me is still a a very very",
+    "start": 2423.4,
+    "duration": 5.48
+  },
+  {
+    "text": "good uh combination to preserve your",
+    "start": 2426.68,
+    "duration": 5.12
+  },
+  {
+    "text": "wealth and uh given the fact that they",
+    "start": 2428.88,
+    "duration": 6.92
+  },
+  {
+    "text": "will continue to extend the the money",
+    "start": 2431.8,
+    "duration": 7.64
+  },
+  {
+    "text": "supply um I think all those three assets",
+    "start": 2435.8,
+    "duration": 5.48
+  },
+  {
+    "text": "will move higher over the long",
+    "start": 2439.44,
+    "duration": 4.0
+  },
+  {
+    "text": "run all right yeah we'll bring it back",
+    "start": 2441.28,
+    "duration": 3.92
+  },
+  {
+    "text": "to inflation and back to pizza and I'm",
+    "start": 2443.44,
+    "duration": 3.76
+  },
+  {
+    "text": "lamenting the fact that we used to have",
+    "start": 2445.2,
+    "duration": 4.68
+  },
+  {
+    "text": "$1 one slice pizza places here in New",
+    "start": 2447.2,
+    "duration": 5.68
+  },
+  {
+    "text": "York no longer floran can no longer get",
+    "start": 2449.88,
+    "duration": 5.439
+  },
+  {
+    "text": "a $1 slice of pizza in New York that's",
+    "start": 2452.88,
+    "duration": 5.16
+  },
+  {
+    "text": "inflation for you the crack up boo as as",
+    "start": 2455.319,
+    "duration": 4.601
+  },
+  {
+    "text": "you called it with money just running",
+    "start": 2458.04,
+    "duration": 4.36
+  },
+  {
+    "text": "into assets to try and avoid that",
+    "start": 2459.92,
+    "duration": 5.439
+  },
+  {
+    "text": "debasement and devaluation always get to",
+    "start": 2462.4,
+    "duration": 4.76
+  },
+  {
+    "text": "see you I look forward to sharing a",
+    "start": 2465.359,
+    "duration": 4.321
+  },
+  {
+    "text": "pizza with you in person sometime soon",
+    "start": 2467.16,
+    "duration": 5.56
+  },
+  {
+    "text": "thank you so much Florian was a pleasure",
+    "start": 2469.68,
+    "duration": 4.639
+  },
+  {
+    "text": "thank you very much Michelle appreciate",
+    "start": 2472.72,
+    "duration": 4.599
+  },
+  {
+    "text": "all right Florian grumes and a big thank",
+    "start": 2474.319,
+    "duration": 5.921
+  },
+  {
+    "text": "you to our sponsor as always and that is",
+    "start": 2477.319,
+    "duration": 6.28
+  },
+  {
+    "text": "Swan Bitcoin and just a reminder that",
+    "start": 2480.24,
+    "duration": 6.76
+  },
+  {
+    "text": "there is a swan Ira product which allows",
+    "start": 2483.599,
+    "duration": 6.121
+  },
+  {
+    "text": "you to invest directly in Bitcoin with",
+    "start": 2487.0,
+    "duration": 5.56
+  },
+  {
+    "text": "your IRA and there's a way to set it up",
+    "start": 2489.72,
+    "duration": 4.8
+  },
+  {
+    "text": "that you're basically buying Bitcoin and",
+    "start": 2492.56,
+    "duration": 3.68
+  },
+  {
+    "text": "autopilot that allows you to take",
+    "start": 2494.52,
+    "duration": 4.88
+  },
+  {
+    "text": "advantage of dollar cost averaging as",
+    "start": 2496.24,
+    "duration": 5.76
+  },
+  {
+    "text": "you accumulate Bitcoin into your IRA",
+    "start": 2499.4,
+    "duration": 4.52
+  },
+  {
+    "text": "there's a link in the description of",
+    "start": 2502.0,
+    "duration": 3.88
+  },
+  {
+    "text": "this video with a special offer for",
+    "start": 2503.92,
+    "duration": 3.88
+  },
+  {
+    "text": "KidCo viewers to help facilitate that",
+    "start": 2505.88,
+    "duration": 4.4
+  },
+  {
+    "text": "process so make sure to take a look at",
+    "start": 2507.8,
+    "duration": 4.88
+  },
+  {
+    "text": "that and thank you again for watching",
+    "start": 2510.28,
+    "duration": 4.079
+  },
+  {
+    "text": "this video if you're watching us on",
+    "start": 2512.68,
+    "duration": 4.84
+  },
+  {
+    "text": "YouTube make sure to subscribe and",
+    "start": 2514.359,
+    "duration": 5.72
+  },
+  {
+    "text": "please leave your comments feel free to",
+    "start": 2517.52,
+    "duration": 5.599
+  },
+  {
+    "text": "praise wine or just o Pine we do",
+    "start": 2520.079,
+    "duration": 5.321
+  },
+  {
+    "text": "actually read those comments and we",
+    "start": 2523.119,
+    "duration": 4.2
+  },
+  {
+    "text": "enjoy getting all of them so for me",
+    "start": 2525.4,
+    "duration": 3.84
+  },
+  {
+    "text": "Michelle mccy and the rest of the KidCo",
+    "start": 2527.319,
+    "duration": 4.081
+  },
+  {
+    "text": "team thanks again for watching and we'll",
+    "start": 2529.24,
+    "duration": 3.04
+  },
+  {
+    "text": "see you",
+    "start": 2531.4,
+    "duration": 4.24
+  },
+  {
+    "text": "soon on the spot with Michelle mccy is",
+    "start": 2532.28,
+    "duration": 6.96
+  },
+  {
+    "text": "brought to you by Swan Bitcoin Swan",
+    "start": 2535.64,
+    "duration": 8.16
+  },
+  {
+    "text": "Bitcoin Ira your legacy your way real",
+    "start": 2539.24,
+    "duration": 7.96
+  },
+  {
+    "text": "Bitcoin not proxies traditional and",
+    "start": 2543.8,
+    "duration": 8.2
+  },
+  {
+    "text": "rooth Ira fast easy setup start now at",
+    "start": 2547.2,
+    "duration": 8.76
+  },
+  {
+    "text": "san.com retire",
+    "start": 2552.0,
+    "duration": 3.96
+  }
+]

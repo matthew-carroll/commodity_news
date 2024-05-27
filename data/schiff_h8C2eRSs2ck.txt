@@ -1,0 +1,622 @@
+[
+  {
+    "text": "joining us now with more insight into",
+    "start": 0.12,
+    "duration": 3.96
+  },
+  {
+    "text": "our current economic state chief",
+    "start": 1.56,
+    "duration": 4.239
+  },
+  {
+    "text": "Economist Global strategist and founder",
+    "start": 4.08,
+    "duration": 3.56
+  },
+  {
+    "text": "of shift gold Peter Schiff back on the",
+    "start": 5.799,
+    "duration": 4.601
+  },
+  {
+    "text": "program Peter nice to see you um let's",
+    "start": 7.64,
+    "duration": 4.959
+  },
+  {
+    "text": "get right after it every time you come",
+    "start": 10.4,
+    "duration": 4.68
+  },
+  {
+    "text": "on I'm looking for a silver lining I'm",
+    "start": 12.599,
+    "duration": 4.001
+  },
+  {
+    "text": "looking for some good",
+    "start": 15.08,
+    "duration": 3.72
+  },
+  {
+    "text": "news and I don't know if I can find it",
+    "start": 16.6,
+    "duration": 4.04
+  },
+  {
+    "text": "today you got anything good or we're",
+    "start": 18.8,
+    "duration": 2.88
+  },
+  {
+    "text": "just going to go with what the hell's",
+    "start": 20.64,
+    "duration": 2.24
+  },
+  {
+    "text": "going on in",
+    "start": 21.68,
+    "duration": 4.72
+  },
+  {
+    "text": "reality oh the news is unfortunately bad",
+    "start": 22.88,
+    "duration": 6.639
+  },
+  {
+    "text": "I'm just the messenger I know shoot me",
+    "start": 26.4,
+    "duration": 4.92
+  },
+  {
+    "text": "but you know you talked about oil just",
+    "start": 29.519,
+    "duration": 4.761
+  },
+  {
+    "text": "before uh you know I came on and you",
+    "start": 31.32,
+    "duration": 5.28
+  },
+  {
+    "text": "know they can't afford to refill the",
+    "start": 34.28,
+    "duration": 4.32
+  },
+  {
+    "text": "Strategic petroleum Reserve because the",
+    "start": 36.6,
+    "duration": 5.24
+  },
+  {
+    "text": "price of oil has already gone up 22%",
+    "start": 38.6,
+    "duration": 7.479
+  },
+  {
+    "text": "this year it's at $87 a barrel you know",
+    "start": 41.84,
+    "duration": 8.199
+  },
+  {
+    "text": "last year oil prices were down 10% for",
+    "start": 46.079,
+    "duration": 7.48
+  },
+  {
+    "text": "the year and the CPI was up",
+    "start": 50.039,
+    "duration": 6.52
+  },
+  {
+    "text": "4.1 this year we're only a quarter of",
+    "start": 53.559,
+    "duration": 4.721
+  },
+  {
+    "text": "the way finished with the year and we're",
+    "start": 56.559,
+    "duration": 5.64
+  },
+  {
+    "text": "already up 22% and you have pal and",
+    "start": 58.28,
+    "duration": 6.08
+  },
+  {
+    "text": "everybody else saying that inflation is",
+    "start": 62.199,
+    "duration": 4.441
+  },
+  {
+    "text": "going to come down this year how is that",
+    "start": 64.36,
+    "duration": 6.16
+  },
+  {
+    "text": "possible with not oil prices the crb is",
+    "start": 66.64,
+    "duration": 6.28
+  },
+  {
+    "text": "exploding and in fact gold prices just",
+    "start": 70.52,
+    "duration": 3.639
+  },
+  {
+    "text": "took out",
+    "start": 72.92,
+    "duration": 4.48
+  },
+  {
+    "text": "2300 alltime record high this is all",
+    "start": 74.159,
+    "duration": 7.121
+  },
+  {
+    "text": "because inflation is coming back big and",
+    "start": 77.4,
+    "duration": 5.28
+  },
+  {
+    "text": "that's what's going to make home",
+    "start": 81.28,
+    "duration": 4.12
+  },
+  {
+    "text": "ownership and just about everything else",
+    "start": 82.68,
+    "duration": 5.36
+  },
+  {
+    "text": "completely unaffordable because prices",
+    "start": 85.4,
+    "duration": 5.64
+  },
+  {
+    "text": "are going to go up a lot faster I think",
+    "start": 88.04,
+    "duration": 4.6
+  },
+  {
+    "text": "this year than they did in the last",
+    "start": 91.04,
+    "duration": 3.399
+  },
+  {
+    "text": "couple years and it was bad in the last",
+    "start": 92.64,
+    "duration": 3.839
+  },
+  {
+    "text": "couple years yeah no kidding it's been",
+    "start": 94.439,
+    "duration": 4.161
+  },
+  {
+    "text": "horrific and I'm tired of hearing these",
+    "start": 96.479,
+    "duration": 3.92
+  },
+  {
+    "text": "lying pieces",
+    "start": 98.6,
+    "duration": 3.92
+  },
+  {
+    "text": "of from the Biden regime and the",
+    "start": 100.399,
+    "duration": 4.121
+  },
+  {
+    "text": "mainstream media being like a little",
+    "start": 102.52,
+    "duration": 3.959
+  },
+  {
+    "text": "parrot with the talking points that",
+    "start": 104.52,
+    "duration": 3.76
+  },
+  {
+    "text": "things aren't that bad well people just",
+    "start": 106.479,
+    "duration": 4.121
+  },
+  {
+    "text": "aren't maybe seeing or feeling how bomic",
+    "start": 108.28,
+    "duration": 4.439
+  },
+  {
+    "text": "is helping the economy you have some",
+    "start": 110.6,
+    "duration": 3.839
+  },
+  {
+    "text": "really out of touch people at the upper",
+    "start": 112.719,
+    "duration": 3.36
+  },
+  {
+    "text": "echline of the Democrat leadership",
+    "start": 114.439,
+    "duration": 2.96
+  },
+  {
+    "text": "because they really think it's not that",
+    "start": 116.079,
+    "duration": 3.601
+  },
+  {
+    "text": "bad show them the headline on the homes",
+    "start": 117.399,
+    "duration": 3.601
+  },
+  {
+    "text": "um because I wanted to get Peter's take",
+    "start": 119.68,
+    "duration": 3.439
+  },
+  {
+    "text": "on this one so just three or four years",
+    "start": 121.0,
+    "duration": 4.0
+  },
+  {
+    "text": "ago if I'm getting the numbers correct",
+    "start": 123.119,
+    "duration": 3.6
+  },
+  {
+    "text": "uh you had to make at least and I could",
+    "start": 125.0,
+    "duration": 2.799
+  },
+  {
+    "text": "be off on this because I don't have the",
+    "start": 126.719,
+    "duration": 2.4
+  },
+  {
+    "text": "article in front of me but you had to",
+    "start": 127.799,
+    "duration": 4.16
+  },
+  {
+    "text": "make at least about 69,000 maybe it was",
+    "start": 129.119,
+    "duration": 4.881
+  },
+  {
+    "text": "59,000 somewhere around 50 or 60 Grand",
+    "start": 131.959,
+    "duration": 4.041
+  },
+  {
+    "text": "to afford home ownership this was an",
+    "start": 134.0,
+    "duration": 3.72
+  },
+  {
+    "text": "average across the country obviously if",
+    "start": 136.0,
+    "duration": 3.48
+  },
+  {
+    "text": "you're in crazy expensive cities that",
+    "start": 137.72,
+    "duration": 4.04
+  },
+  {
+    "text": "doesn't adhere to you but this is",
+    "start": 139.48,
+    "duration": 5.32
+  },
+  {
+    "text": "average now you have to make",
+    "start": 141.76,
+    "duration": 6.199
+  },
+  {
+    "text": "9,000 to afford a home just in four",
+    "start": 144.8,
+    "duration": 5.6
+  },
+  {
+    "text": "years it's skyrocketed and it all has",
+    "start": 147.959,
+    "duration": 4.401
+  },
+  {
+    "text": "been the majority obviously 3 years and",
+    "start": 150.4,
+    "duration": 3.96
+  },
+  {
+    "text": "three months under Joe",
+    "start": 152.36,
+    "duration": 4.519
+  },
+  {
+    "text": "Biden oh yeah and and not only is it",
+    "start": 154.36,
+    "duration": 4.2
+  },
+  {
+    "text": "going to get a lot more expensive to buy",
+    "start": 156.879,
+    "duration": 3.521
+  },
+  {
+    "text": "a home because mortgage rates are about",
+    "start": 158.56,
+    "duration": 5.28
+  },
+  {
+    "text": "to take another move up uh but it cost",
+    "start": 160.4,
+    "duration": 5.479
+  },
+  {
+    "text": "more to maintain the home once you buy",
+    "start": 163.84,
+    "duration": 4.16
+  },
+  {
+    "text": "it because Insurance costs are through",
+    "start": 165.879,
+    "duration": 4.72
+  },
+  {
+    "text": "the roof the maintenance costs have gone",
+    "start": 168.0,
+    "duration": 5.28
+  },
+  {
+    "text": "through the roof taxes are going up",
+    "start": 170.599,
+    "duration": 5.121
+  },
+  {
+    "text": "everything about home ownership is going",
+    "start": 173.28,
+    "duration": 4.4
+  },
+  {
+    "text": "up I mean some people are lucky because",
+    "start": 175.72,
+    "duration": 4.12
+  },
+  {
+    "text": "they they locked in a a fixed rate",
+    "start": 177.68,
+    "duration": 4.6
+  },
+  {
+    "text": "mortgage but the flip side of that is",
+    "start": 179.84,
+    "duration": 4.959
+  },
+  {
+    "text": "that all of our banks are insolvent uh",
+    "start": 182.28,
+    "duration": 4.039
+  },
+  {
+    "text": "because they own these mortgages and",
+    "start": 184.799,
+    "duration": 3.761
+  },
+  {
+    "text": "they're losing money on them yeah Peter",
+    "start": 186.319,
+    "duration": 3.401
+  },
+  {
+    "text": "my last question is an easy one I'm",
+    "start": 188.56,
+    "duration": 2.08
+  },
+  {
+    "text": "going to bring this headline up from",
+    "start": 189.72,
+    "duration": 2.2
+  },
+  {
+    "text": "Bloomberg you're always talking about",
+    "start": 190.64,
+    "duration": 3.4
+  },
+  {
+    "text": "the debt and how that's the biggest part",
+    "start": 191.92,
+    "duration": 3.599
+  },
+  {
+    "text": "if we keep printing money and spending",
+    "start": 194.04,
+    "duration": 3.119
+  },
+  {
+    "text": "money we don't have and putting the",
+    "start": 195.519,
+    "duration": 3.401
+  },
+  {
+    "text": "government into the country into more",
+    "start": 197.159,
+    "duration": 4.401
+  },
+  {
+    "text": "debt inflation will continue to rise so",
+    "start": 198.92,
+    "duration": 4.12
+  },
+  {
+    "text": "the Congressional budget office is",
+    "start": 201.56,
+    "duration": 4.039
+  },
+  {
+    "text": "warning big red flag the US federal",
+    "start": 203.04,
+    "duration": 4.64
+  },
+  {
+    "text": "government debt is on path from the",
+    "start": 205.599,
+    "duration": 6.161
+  },
+  {
+    "text": "current 97% of GDP last year to",
+    "start": 207.68,
+    "duration": 6.279
+  },
+  {
+    "text": "116% by",
+    "start": 211.76,
+    "duration": 5.839
+  },
+  {
+    "text": "2034 30 seconds left how detrimental is",
+    "start": 213.959,
+    "duration": 6.241
+  },
+  {
+    "text": "that for the future of our economic",
+    "start": 217.599,
+    "duration": 5.2
+  },
+  {
+    "text": "prosperity for this country Peter Shi",
+    "start": 220.2,
+    "duration": 4.36
+  },
+  {
+    "text": "they're even sugarcoating it because",
+    "start": 222.799,
+    "duration": 3.921
+  },
+  {
+    "text": "they're assuming we have no recessions",
+    "start": 224.56,
+    "duration": 4.2
+  },
+  {
+    "text": "and that interest rates don't explode I",
+    "start": 226.72,
+    "duration": 4.159
+  },
+  {
+    "text": "mean uh there we have a much bigger",
+    "start": 228.76,
+    "duration": 4.479
+  },
+  {
+    "text": "problem than they acknowledge that's why",
+    "start": 230.879,
+    "duration": 4.72
+  },
+  {
+    "text": "the price of gold is at a record high",
+    "start": 233.239,
+    "duration": 4.121
+  },
+  {
+    "text": "that's why it's going to keep going up",
+    "start": 235.599,
+    "duration": 3.521
+  },
+  {
+    "text": "and I think we're on the verge of a",
+    "start": 237.36,
+    "duration": 3.599
+  },
+  {
+    "text": "dollar crisis and a sovereign debt",
+    "start": 239.12,
+    "duration": 4.44
+  },
+  {
+    "text": "crisis so this is not a problem for our",
+    "start": 240.959,
+    "duration": 4.48
+  },
+  {
+    "text": "kids it's a problem that we're going to",
+    "start": 243.56,
+    "duration": 3.319
+  },
+  {
+    "text": "be dealing with and we're probably going",
+    "start": 245.439,
+    "duration": 3.121
+  },
+  {
+    "text": "to be dealing with it over the next",
+    "start": 246.879,
+    "duration": 4.92
+  },
+  {
+    "text": "several years oh my gosh okay listen",
+    "start": 248.56,
+    "duration": 5.36
+  },
+  {
+    "text": "next year at this time hopefully you and",
+    "start": 251.799,
+    "duration": 3.881
+  },
+  {
+    "text": "I are going to be saying a lot better",
+    "start": 253.92,
+    "duration": 3.319
+  },
+  {
+    "text": "things once we've got a new",
+    "start": 255.68,
+    "duration": 3.799
+  },
+  {
+    "text": "Administration and um you know who",
+    "start": 257.239,
+    "duration": 5.441
+  },
+  {
+    "text": "unleashes energy and changes regulation",
+    "start": 259.479,
+    "duration": 4.641
+  },
+  {
+    "text": "and does a whole bunch of things that'll",
+    "start": 262.68,
+    "duration": 3.36
+  },
+  {
+    "text": "get this country back on track I'm",
+    "start": 264.12,
+    "duration": 3.799
+  },
+  {
+    "text": "praying I'm crossing my fingers every",
+    "start": 266.04,
+    "duration": 3.36
+  },
+  {
+    "text": "single day Peter Schiff thank you",
+    "start": 267.919,
+    "duration": 2.961
+  },
+  {
+    "text": "brother",
+    "start": 269.4,
+    "duration": 4.32
+  },
+  {
+    "text": "okay",
+    "start": 270.88,
+    "duration": 2.84
+  }
+]

@@ -1,0 +1,1337 @@
+[
+  {
+    "text": "one of the most pointed moments where I",
+    "start": 0.24,
+    "duration": 5.76
+  },
+  {
+    "text": "really saw contradiction here was that",
+    "start": 2.48,
+    "duration": 4.72
+  },
+  {
+    "text": "he said something like the well the",
+    "start": 6.0,
+    "duration": 3.639
+  },
+  {
+    "text": "fed's job is to set interest rates so I",
+    "start": 7.2,
+    "duration": 3.84
+  },
+  {
+    "text": "said wait a say hold on So You Believe",
+    "start": 9.639,
+    "duration": 2.88
+  },
+  {
+    "text": "in price controls and he said no of",
+    "start": 11.04,
+    "duration": 2.719
+  },
+  {
+    "text": "course I don't believe in price controls",
+    "start": 12.519,
+    "duration": 2.961
+  },
+  {
+    "text": "but I said isn't isn't the interest rate",
+    "start": 13.759,
+    "duration": 3.761
+  },
+  {
+    "text": "of price and you want the FED to control",
+    "start": 15.48,
+    "duration": 3.44
+  },
+  {
+    "text": "it so that's price control he's like no",
+    "start": 17.52,
+    "duration": 2.8
+  },
+  {
+    "text": "no no that's not what I'm saying well",
+    "start": 18.92,
+    "duration": 3.68
+  },
+  {
+    "text": "don't don't price controls control the",
+    "start": 20.32,
+    "duration": 4.119
+  },
+  {
+    "text": "pr like control the prices of goods in",
+    "start": 22.6,
+    "duration": 4.079
+  },
+  {
+    "text": "the economy it's like yeah well so",
+    "start": 24.439,
+    "duration": 3.441
+  },
+  {
+    "text": "everything in the economy is affected by",
+    "start": 26.679,
+    "duration": 3.44
+  },
+  {
+    "text": "interest rates yeah so you believe in",
+    "start": 27.88,
+    "duration": 4.199
+  },
+  {
+    "text": "price controls of everything no no no no",
+    "start": 30.119,
+    "duration": 4.641
+  },
+  {
+    "text": "so he couldn't it's not like he objected",
+    "start": 32.079,
+    "duration": 4.32
+  },
+  {
+    "text": "to that and proved that I was wrong it's",
+    "start": 34.76,
+    "duration": 3.319
+  },
+  {
+    "text": "like it was like putting like a",
+    "start": 36.399,
+    "duration": 3.561
+  },
+  {
+    "text": "contradiction algorithm into a computer",
+    "start": 38.079,
+    "duration": 3.32
+  },
+  {
+    "text": "and it just like kind of glosses over it",
+    "start": 39.96,
+    "duration": 4.079
+  },
+  {
+    "text": "and like keeps going even many gold bugs",
+    "start": 41.399,
+    "duration": 4.921
+  },
+  {
+    "text": "and silver stackers do not really",
+    "start": 44.039,
+    "duration": 4.321
+  },
+  {
+    "text": "understand the point that gold is money",
+    "start": 46.32,
+    "duration": 3.48
+  },
+  {
+    "text": "we're not making a historical point that",
+    "start": 48.36,
+    "duration": 2.519
+  },
+  {
+    "text": "in the past it was money and now we have",
+    "start": 49.8,
+    "duration": 3.68
+  },
+  {
+    "text": "the dollar I'm saying right now all the",
+    "start": 50.879,
+    "duration": 4.52
+  },
+  {
+    "text": "time when you use a dollar you're using",
+    "start": 53.48,
+    "duration": 3.8
+  },
+  {
+    "text": "the gold value of a dollar the gold is",
+    "start": 55.399,
+    "duration": 4.081
+  },
+  {
+    "text": "the money itself but if you look at at",
+    "start": 57.28,
+    "duration": 4.88
+  },
+  {
+    "text": "the s& versus gold since 1971 gold is",
+    "start": 59.48,
+    "duration": 4.2
+  },
+  {
+    "text": "outperforming so you could have just",
+    "start": 62.16,
+    "duration": 4.48
+  },
+  {
+    "text": "done nothing and just held money and you",
+    "start": 63.68,
+    "duration": 4.439
+  },
+  {
+    "text": "would have made more money the the",
+    "start": 66.64,
+    "duration": 3.56
+  },
+  {
+    "text": "monetary system is still based on gold",
+    "start": 68.119,
+    "duration": 4.32
+  },
+  {
+    "text": "because once the gold exchange rate with",
+    "start": 70.2,
+    "duration": 3.76
+  },
+  {
+    "text": "the dollar or any other currency goes to",
+    "start": 72.439,
+    "duration": 3.081
+  },
+  {
+    "text": "Infinity that is the definition of",
+    "start": 73.96,
+    "duration": 3.68
+  },
+  {
+    "text": "hyperinflation and some people are just",
+    "start": 75.52,
+    "duration": 3.599
+  },
+  {
+    "text": "really incapable of understanding that",
+    "start": 77.64,
+    "duration": 2.56
+  },
+  {
+    "text": "because it means they've been going in",
+    "start": 79.119,
+    "duration": 1.921
+  },
+  {
+    "text": "the wrong direction they have to turn",
+    "start": 80.2,
+    "duration": 2.12
+  },
+  {
+    "text": "around go back and it's going to lead",
+    "start": 81.04,
+    "duration": 2.84
+  },
+  {
+    "text": "them to disaster and and that's what I'm",
+    "start": 82.32,
+    "duration": 3.04
+  },
+  {
+    "text": "saying my point is that many gold and",
+    "start": 83.88,
+    "duration": 3.4
+  },
+  {
+    "text": "silver bugs do not understand that gold",
+    "start": 85.36,
+    "duration": 5.04
+  },
+  {
+    "text": "and silver are money okay gold is is by",
+    "start": 87.28,
+    "duration": 4.6
+  },
+  {
+    "text": "definition what a dollar is it's a",
+    "start": 90.4,
+    "duration": 2.84
+  },
+  {
+    "text": "substitute for the dollar it's at an",
+    "start": 91.88,
+    "duration": 3.239
+  },
+  {
+    "text": "inflated rate now that doesn't make",
+    "start": 93.24,
+    "duration": 4.199
+  },
+  {
+    "text": "sense so we're we're buying it now on a",
+    "start": 95.119,
+    "duration": 3.801
+  },
+  {
+    "text": "huge discount assuming that the",
+    "start": 97.439,
+    "duration": 3.401
+  },
+  {
+    "text": "substitute collapses and all purchasing",
+    "start": 98.92,
+    "duration": 3.479
+  },
+  {
+    "text": "power goes back into the original",
+    "start": 100.84,
+    "duration": 2.559
+  },
+  {
+    "text": "because that's what's going to have to",
+    "start": 102.399,
+    "duration": 2.4
+  },
+  {
+    "text": "happen to save the division of labor",
+    "start": 103.399,
+    "duration": 3.36
+  },
+  {
+    "text": "when the substitute collapses and silver",
+    "start": 104.799,
+    "duration": 4.041
+  },
+  {
+    "text": "and silver by the way is the how I see",
+    "start": 106.759,
+    "duration": 3.521
+  },
+  {
+    "text": "it is the primary gold substitute when",
+    "start": 108.84,
+    "duration": 2.76
+  },
+  {
+    "text": "we're on a gold standard silver is the",
+    "start": 110.28,
+    "duration": 3.32
+  },
+  {
+    "text": "main gold substitute unless there's a",
+    "start": 111.6,
+    "duration": 3.479
+  },
+  {
+    "text": "functional paper one or digital one that",
+    "start": 113.6,
+    "duration": 3.839
+  },
+  {
+    "text": "is honest and on a silver standard gold",
+    "start": 115.079,
+    "duration": 3.761
+  },
+  {
+    "text": "is you know a silver substitute but",
+    "start": 117.439,
+    "duration": 2.521
+  },
+  {
+    "text": "we're not on a silver standard anymore",
+    "start": 118.84,
+    "duration": 2.639
+  },
+  {
+    "text": "we're onun a gold standard what I'm",
+    "start": 119.96,
+    "duration": 3.799
+  },
+  {
+    "text": "saying is that gold and silver do form",
+    "start": 121.479,
+    "duration": 3.96
+  },
+  {
+    "text": "the basis of all monetary systems it's",
+    "start": 123.759,
+    "duration": 3.521
+  },
+  {
+    "text": "not it's not an escapable point you",
+    "start": 125.439,
+    "duration": 3.68
+  },
+  {
+    "text": "can't say we have an option to base it",
+    "start": 127.28,
+    "duration": 4.0
+  },
+  {
+    "text": "on gold or an option not to there's no",
+    "start": 129.119,
+    "duration": 4.001
+  },
+  {
+    "text": "option there's only one option that is",
+    "start": 131.28,
+    "duration": 3.52
+  },
+  {
+    "text": "to base it on gold because that's where",
+    "start": 133.12,
+    "duration": 3.92
+  },
+  {
+    "text": "all prices originate from in the past",
+    "start": 134.8,
+    "duration": 3.68
+  },
+  {
+    "text": "and you have to continue that chain you",
+    "start": 137.04,
+    "duration": 3.0
+  },
+  {
+    "text": "must continue the chain unless you have",
+    "start": 138.48,
+    "duration": 3.399
+  },
+  {
+    "text": "like a you know a Cambrian Extinction",
+    "start": 140.04,
+    "duration": 3.12
+  },
+  {
+    "text": "and you really start life up from the",
+    "start": 141.879,
+    "duration": 2.881
+  },
+  {
+    "text": "beginning and and Humanity goes back to",
+    "start": 143.16,
+    "duration": 2.92
+  },
+  {
+    "text": "a pure system of B where gold doesn't",
+    "start": 144.76,
+    "duration": 3.559
+  },
+  {
+    "text": "even exist that's really Armageddon and",
+    "start": 146.08,
+    "duration": 3.92
+  },
+  {
+    "text": "that's not going to happen okay we're",
+    "start": 148.319,
+    "duration": 2.721
+  },
+  {
+    "text": "going to have the end of a monetary",
+    "start": 150.0,
+    "duration": 2.4
+  },
+  {
+    "text": "system it's not going to be the end of",
+    "start": 151.04,
+    "duration": 3.479
+  },
+  {
+    "text": "the world it's going to be the biggest",
+    "start": 152.4,
+    "duration": 3.76
+  },
+  {
+    "text": "economic disruption in the history of",
+    "start": 154.519,
+    "duration": 3.36
+  },
+  {
+    "text": "the human race for sure but it's not",
+    "start": 156.16,
+    "duration": 4.32
+  },
+  {
+    "text": "going to end us so whatever monetary",
+    "start": 157.879,
+    "duration": 5.72
+  },
+  {
+    "text": "system we work out also after this huge",
+    "start": 160.48,
+    "duration": 4.88
+  },
+  {
+    "text": "disruption after the biggest disruption",
+    "start": 163.599,
+    "duration": 3.64
+  },
+  {
+    "text": "economic disruption monetary disruption",
+    "start": 165.36,
+    "duration": 3.48
+  },
+  {
+    "text": "in the history of the world there",
+    "start": 167.239,
+    "duration": 3.041
+  },
+  {
+    "text": "there's not going to be any central body",
+    "start": 168.84,
+    "duration": 2.759
+  },
+  {
+    "text": "that says okay well we screwed up what",
+    "start": 170.28,
+    "duration": 3.16
+  },
+  {
+    "text": "are we going to do centrally plan a new",
+    "start": 171.599,
+    "duration": 3.601
+  },
+  {
+    "text": "system so that it can work now it's not",
+    "start": 173.44,
+    "duration": 2.879
+  },
+  {
+    "text": "going to work that way you're not going",
+    "start": 175.2,
+    "duration": 3.88
+  },
+  {
+    "text": "to have the IMF or the WF or the bank of",
+    "start": 176.319,
+    "duration": 4.2
+  },
+  {
+    "text": "international or whoever these",
+    "start": 179.08,
+    "duration": 3.96
+  },
+  {
+    "text": "globalists are they're not going to come",
+    "start": 180.519,
+    "duration": 4.481
+  },
+  {
+    "text": "together and impose a new system on us",
+    "start": 183.04,
+    "duration": 3.36
+  },
+  {
+    "text": "that works it's not going to be a",
+    "start": 185.0,
+    "duration": 3.0
+  },
+  {
+    "text": "central plan it's going to be the",
+    "start": 186.4,
+    "duration": 3.04
+  },
+  {
+    "text": "breakup of the economy like the break up",
+    "start": 188.0,
+    "duration": 2.519
+  },
+  {
+    "text": "of the Roman Empire and you're going to",
+    "start": 189.44,
+    "duration": 3.359
+  },
+  {
+    "text": "have pockets of people exchanging things",
+    "start": 190.519,
+    "duration": 4.241
+  },
+  {
+    "text": "for gold and silver because it's honest",
+    "start": 192.799,
+    "duration": 4.841
+  },
+  {
+    "text": "or an honest substitute for it and then",
+    "start": 194.76,
+    "duration": 6.16
+  },
+  {
+    "text": "then gradually after the big explosion",
+    "start": 197.64,
+    "duration": 5.48
+  },
+  {
+    "text": "breakup collapse of the Roman Empire",
+    "start": 200.92,
+    "duration": 4.16
+  },
+  {
+    "text": "American Empire same thing then you're",
+    "start": 203.12,
+    "duration": 3.199
+  },
+  {
+    "text": "going to have a rebuilding of pockets",
+    "start": 205.08,
+    "duration": 2.519
+  },
+  {
+    "text": "and gradually they're going to connect",
+    "start": 206.319,
+    "duration": 2.881
+  },
+  {
+    "text": "again it's going to take a while that's",
+    "start": 207.599,
+    "duration": 2.881
+  },
+  {
+    "text": "what's going to happen in terms of",
+    "start": 209.2,
+    "duration": 2.319
+  },
+  {
+    "text": "what's going to be planned or what",
+    "start": 210.48,
+    "duration": 2.28
+  },
+  {
+    "text": "should be planned as the new monetary",
+    "start": 211.519,
+    "duration": 3.8
+  },
+  {
+    "text": "system how about honesty okay gold and",
+    "start": 212.76,
+    "duration": 4.6
+  },
+  {
+    "text": "silver are money use that when you when",
+    "start": 215.319,
+    "duration": 3.64
+  },
+  {
+    "text": "you substitute it don't inflate it and",
+    "start": 217.36,
+    "duration": 2.519
+  },
+  {
+    "text": "that's going to be the that's going to",
+    "start": 218.959,
+    "duration": 2.321
+  },
+  {
+    "text": "be the new monetary system just like it",
+    "start": 219.879,
+    "duration": 3.08
+  },
+  {
+    "text": "is after every collapse of every Empire",
+    "start": 221.28,
+    "duration": 2.76
+  },
+  {
+    "text": "that's what always happens it's what's",
+    "start": 222.959,
+    "duration": 3.041
+  },
+  {
+    "text": "going to happen now technology does not",
+    "start": 224.04,
+    "duration": 3.399
+  },
+  {
+    "text": "change the nature of who we are and",
+    "start": 226.0,
+    "duration": 3.12
+  },
+  {
+    "text": "we're going to see it again okay so the",
+    "start": 227.439,
+    "duration": 2.841
+  },
+  {
+    "text": "the second part how do I see it",
+    "start": 229.12,
+    "duration": 4.399
+  },
+  {
+    "text": "unfolding exactly I I can't see it how",
+    "start": 230.28,
+    "duration": 5.2
+  },
+  {
+    "text": "it unfolds exactly in terms of the",
+    "start": 233.519,
+    "duration": 3.761
+  },
+  {
+    "text": "consequences of it I don't know how many",
+    "start": 235.48,
+    "duration": 3.72
+  },
+  {
+    "text": "people will get rich I don't know",
+    "start": 237.28,
+    "duration": 3.239
+  },
+  {
+    "text": "exactly what political landscape is",
+    "start": 239.2,
+    "duration": 2.64
+  },
+  {
+    "text": "going to look like I don't know it's",
+    "start": 240.519,
+    "duration": 3.201
+  },
+  {
+    "text": "just going to be a lot less centralized",
+    "start": 241.84,
+    "duration": 3.479
+  },
+  {
+    "text": "it's going to be a lot re more Regional",
+    "start": 243.72,
+    "duration": 3.64
+  },
+  {
+    "text": "local that kind of thing I know people",
+    "start": 245.319,
+    "duration": 5.48
+  },
+  {
+    "text": "want a more more you know mey answer",
+    "start": 247.36,
+    "duration": 5.159
+  },
+  {
+    "text": "than that so I guess I could say look",
+    "start": 250.799,
+    "duration": 3.44
+  },
+  {
+    "text": "the dollar is eventually going to die in",
+    "start": 252.519,
+    "duration": 3.081
+  },
+  {
+    "text": "the streets of the US I've said this",
+    "start": 254.239,
+    "duration": 4.12
+  },
+  {
+    "text": "before the dollar is by definition the",
+    "start": 255.6,
+    "duration": 4.44
+  },
+  {
+    "text": "other side of the assets on the fed's",
+    "start": 258.359,
+    "duration": 4.081
+  },
+  {
+    "text": "balance sheet most of those assets are",
+    "start": 260.04,
+    "duration": 3.719
+  },
+  {
+    "text": "either treasuries or mortgage back",
+    "start": 262.44,
+    "duration": 2.72
+  },
+  {
+    "text": "Securities I don't see treasuries",
+    "start": 263.759,
+    "duration": 3.401
+  },
+  {
+    "text": "defaulting outright because because",
+    "start": 265.16,
+    "duration": 3.24
+  },
+  {
+    "text": "they'll always raise the debt ceiling to",
+    "start": 267.16,
+    "duration": 3.68
+  },
+  {
+    "text": "enable more more paying back of those",
+    "start": 268.4,
+    "duration": 4.359
+  },
+  {
+    "text": "things but mortgage back Securities",
+    "start": 270.84,
+    "duration": 3.04
+  },
+  {
+    "text": "could default because people could",
+    "start": 272.759,
+    "duration": 2.401
+  },
+  {
+    "text": "theoretically stop paying their",
+    "start": 273.88,
+    "duration": 2.96
+  },
+  {
+    "text": "mortgages and when those start to",
+    "start": 275.16,
+    "duration": 3.2
+  },
+  {
+    "text": "default you have what you have is a",
+    "start": 276.84,
+    "duration": 3.359
+  },
+  {
+    "text": "massive deflation because if one side of",
+    "start": 278.36,
+    "duration": 3.64
+  },
+  {
+    "text": "the dollar defaults on balance sheet",
+    "start": 280.199,
+    "duration": 3.121
+  },
+  {
+    "text": "then those dollars go out of existence",
+    "start": 282.0,
+    "duration": 3.08
+  },
+  {
+    "text": "on the other side because it balances",
+    "start": 283.32,
+    "duration": 3.48
+  },
+  {
+    "text": "out and then you have a massive",
+    "start": 285.08,
+    "duration": 4.0
+  },
+  {
+    "text": "deflation and then what happens is the",
+    "start": 286.8,
+    "duration": 4.399
+  },
+  {
+    "text": "Fed is going to have to print like to to",
+    "start": 289.08,
+    "duration": 4.36
+  },
+  {
+    "text": "replace those dead dollars and that's",
+    "start": 291.199,
+    "duration": 3.72
+  },
+  {
+    "text": "when you'll start to see the",
+    "start": 293.44,
+    "duration": 3.479
+  },
+  {
+    "text": "supermarkets raise prices on bread on",
+    "start": 294.919,
+    "duration": 4.321
+  },
+  {
+    "text": "the front end right it's connected in a",
+    "start": 296.919,
+    "duration": 5.041
+  },
+  {
+    "text": "in a very long chain which the end of",
+    "start": 299.24,
+    "duration": 4.16
+  },
+  {
+    "text": "the chain at the supermarkets cannot see",
+    "start": 301.96,
+    "duration": 3.04
+  },
+  {
+    "text": "what's happening at the fed's balance",
+    "start": 303.4,
+    "duration": 3.4
+  },
+  {
+    "text": "sheet it's not like a supermarket you",
+    "start": 305.0,
+    "duration": 3.68
+  },
+  {
+    "text": "know uh director is going to look at the",
+    "start": 306.8,
+    "duration": 2.959
+  },
+  {
+    "text": "fed's balance sheet and say well",
+    "start": 308.68,
+    "duration": 2.48
+  },
+  {
+    "text": "mortgage back SEC defaulted today I",
+    "start": 309.759,
+    "duration": 2.321
+  },
+  {
+    "text": "guess we have to raise the price of",
+    "start": 311.16,
+    "duration": 3.08
+  },
+  {
+    "text": "bread by half you know 50% that's not",
+    "start": 312.08,
+    "duration": 4.04
+  },
+  {
+    "text": "what happens it's a chain that filters",
+    "start": 314.24,
+    "duration": 3.76
+  },
+  {
+    "text": "through the system and know one part is",
+    "start": 316.12,
+    "duration": 3.48
+  },
+  {
+    "text": "conscious of another part directly it's",
+    "start": 318.0,
+    "duration": 3.12
+  },
+  {
+    "text": "just all connected this is not the only",
+    "start": 319.6,
+    "duration": 2.84
+  },
+  {
+    "text": "way it could happen you start seeing",
+    "start": 321.12,
+    "duration": 2.96
+  },
+  {
+    "text": "defaults on mortgages and falling",
+    "start": 322.44,
+    "duration": 3.72
+  },
+  {
+    "text": "housing prices and then uh banking",
+    "start": 324.08,
+    "duration": 3.8
+  },
+  {
+    "text": "trouble from a bank that owns all these",
+    "start": 326.16,
+    "duration": 3.039
+  },
+  {
+    "text": "mortgages and then a bailout and the",
+    "start": 327.88,
+    "duration": 2.84
+  },
+  {
+    "text": "fed's balance cheat and it goes like up",
+    "start": 329.199,
+    "duration": 3.761
+  },
+  {
+    "text": "like5 trillion in a day and then the",
+    "start": 330.72,
+    "duration": 4.16
+  },
+  {
+    "text": "dollar starts to collapse in the streets",
+    "start": 332.96,
+    "duration": 3.4
+  },
+  {
+    "text": "maybe that's one way it could happen it",
+    "start": 334.88,
+    "duration": 2.599
+  },
+  {
+    "text": "could happen a thousand other ways I",
+    "start": 336.36,
+    "duration": 3.04
+  },
+  {
+    "text": "don't know if bricks theoretically",
+    "start": 337.479,
+    "duration": 4.28
+  },
+  {
+    "text": "theoretically the bricks or a bunch of",
+    "start": 339.4,
+    "duration": 4.6
+  },
+  {
+    "text": "regional powers can group together and",
+    "start": 341.759,
+    "duration": 4.88
+  },
+  {
+    "text": "say we're going to trade in gold now and",
+    "start": 344.0,
+    "duration": 4.16
+  },
+  {
+    "text": "either they're going to say like this is",
+    "start": 346.639,
+    "duration": 3.4
+  },
+  {
+    "text": "the currency that we're going to back",
+    "start": 348.16,
+    "duration": 3.64
+  },
+  {
+    "text": "with gold whatever that means back with",
+    "start": 350.039,
+    "duration": 3.88
+  },
+  {
+    "text": "gold if they make it believable and they",
+    "start": 351.8,
+    "duration": 4.119
+  },
+  {
+    "text": "actually are honest which I I don't",
+    "start": 353.919,
+    "duration": 3.56
+  },
+  {
+    "text": "think any of them are going to be so",
+    "start": 355.919,
+    "duration": 2.881
+  },
+  {
+    "text": "theoretically yeah you could have",
+    "start": 357.479,
+    "duration": 2.881
+  },
+  {
+    "text": "countries that decide they want to trade",
+    "start": 358.8,
+    "duration": 4.519
+  },
+  {
+    "text": "honestly and with gold either directly",
+    "start": 360.36,
+    "duration": 4.08
+  },
+  {
+    "text": "actually physically shipping the",
+    "start": 363.319,
+    "duration": 2.561
+  },
+  {
+    "text": "physical metal I don't think that's is",
+    "start": 364.44,
+    "duration": 4.36
+  },
+  {
+    "text": "not going to happen or making an actual",
+    "start": 365.88,
+    "duration": 4.96
+  },
+  {
+    "text": "honest currency fine that would",
+    "start": 368.8,
+    "duration": 4.16
+  },
+  {
+    "text": "undermine the dollar yeah but it it",
+    "start": 370.84,
+    "duration": 3.759
+  },
+  {
+    "text": "wouldn't give them any advantage other",
+    "start": 372.96,
+    "duration": 2.88
+  },
+  {
+    "text": "than actually making their countryes",
+    "start": 374.599,
+    "duration": 3.201
+  },
+  {
+    "text": "rich in a real capitalist way with",
+    "start": 375.84,
+    "duration": 3.6
+  },
+  {
+    "text": "freedom so what I think is going to",
+    "start": 377.8,
+    "duration": 3.56
+  },
+  {
+    "text": "happen is that no brick bricks are not",
+    "start": 379.44,
+    "duration": 3.36
+  },
+  {
+    "text": "going to come up they they might come up",
+    "start": 381.36,
+    "duration": 3.559
+  },
+  {
+    "text": "with some kind of way to try to cheat",
+    "start": 382.8,
+    "duration": 3.679
+  },
+  {
+    "text": "the system and make it look better but",
+    "start": 384.919,
+    "duration": 3.041
+  },
+  {
+    "text": "that's not going to work um so I see",
+    "start": 386.479,
+    "duration": 3.44
+  },
+  {
+    "text": "like the entire International trade as",
+    "start": 387.96,
+    "duration": 4.4
+  },
+  {
+    "text": "it exists today collapsing and and then",
+    "start": 389.919,
+    "duration": 3.84
+  },
+  {
+    "text": "rebuilding from the bottom up just like",
+    "start": 392.36,
+    "duration": 3.839
+  },
+  {
+    "text": "I see the collapse of the entire endgame",
+    "start": 393.759,
+    "duration": 4.521
+  },
+  {
+    "text": "of no Central planning a monetary system",
+    "start": 396.199,
+    "duration": 3.361
+  },
+  {
+    "text": "no Central planning this just",
+    "start": 398.28,
+    "duration": 3.12
+  },
+  {
+    "text": "organically happening when the gold",
+    "start": 399.56,
+    "duration": 3.639
+  },
+  {
+    "text": "steering happened it wasn't like people",
+    "start": 401.4,
+    "duration": 3.4
+  },
+  {
+    "text": "came like you know these International",
+    "start": 403.199,
+    "duration": 2.801
+  },
+  {
+    "text": "organizations said okay now we're going",
+    "start": 404.8,
+    "duration": 2.32
+  },
+  {
+    "text": "to have a gold standard we're going to",
+    "start": 406.0,
+    "duration": 3.08
+  },
+  {
+    "text": "trade on gold it's just country after",
+    "start": 407.12,
+    "duration": 3.479
+  },
+  {
+    "text": "country started using gold because other",
+    "start": 409.08,
+    "duration": 3.08
+  },
+  {
+    "text": "countries are using gold and it worked",
+    "start": 410.599,
+    "duration": 3.04
+  },
+  {
+    "text": "that's all you don't need these plans",
+    "start": 412.16,
+    "duration": 4.159
+  },
+  {
+    "text": "these no plan is going to work frankly",
+    "start": 413.639,
+    "duration": 6.0
+  },
+  {
+    "text": "if there is a raid on the comix and and",
+    "start": 416.319,
+    "duration": 4.961
+  },
+  {
+    "text": "people actually want the physical metal",
+    "start": 419.639,
+    "duration": 3.84
+  },
+  {
+    "text": "then it will be a problem and I do see",
+    "start": 421.28,
+    "duration": 4.16
+  },
+  {
+    "text": "that happening but it has happened",
+    "start": 423.479,
+    "duration": 6.081
+  },
+  {
+    "text": "before that that I think in 2015 2016",
+    "start": 425.44,
+    "duration": 6.599
+  },
+  {
+    "text": "when silver was at a low and you would",
+    "start": 429.56,
+    "duration": 4.6
+  },
+  {
+    "text": "expect silver to be drained after that",
+    "start": 432.039,
+    "duration": 4.321
+  },
+  {
+    "text": "but it the supply went back up but then",
+    "start": 434.16,
+    "duration": 4.039
+  },
+  {
+    "text": "you could say it went back up into the",
+    "start": 436.36,
+    "duration": 3.48
+  },
+  {
+    "text": "comx because the demand for silver was",
+    "start": 438.199,
+    "duration": 4.601
+  },
+  {
+    "text": "low back then so if we're at a point",
+    "start": 439.84,
+    "duration": 5.52
+  },
+  {
+    "text": "where if if what's happening we don't",
+    "start": 442.8,
+    "duration": 4.839
+  },
+  {
+    "text": "know exactly why the the registered",
+    "start": 445.36,
+    "duration": 4.239
+  },
+  {
+    "text": "silver is going down yet we can theorize",
+    "start": 447.639,
+    "duration": 2.921
+  },
+  {
+    "text": "well maybe it's that people want",
+    "start": 449.599,
+    "duration": 3.201
+  },
+  {
+    "text": "physical silver maybe but I don't I",
+    "start": 450.56,
+    "duration": 4.319
+  },
+  {
+    "text": "don't know I I even interviewed or asked",
+    "start": 452.8,
+    "duration": 3.76
+  },
+  {
+    "text": "these people who are taking the actual",
+    "start": 454.879,
+    "duration": 3.16
+  },
+  {
+    "text": "stuff what they're doing with it I don't",
+    "start": 456.56,
+    "duration": 3.24
+  },
+  {
+    "text": "know but I want to think that they're",
+    "start": 458.039,
+    "duration": 3.361
+  },
+  {
+    "text": "taking it to save it because they see a",
+    "start": 459.8,
+    "duration": 3.0
+  },
+  {
+    "text": "monetary collapse and maybe some of them",
+    "start": 461.4,
+    "duration": 3.84
+  },
+  {
+    "text": "are and if that is happening then yeah",
+    "start": 462.8,
+    "duration": 4.519
+  },
+  {
+    "text": "it is significant that when that if",
+    "start": 465.24,
+    "duration": 3.919
+  },
+  {
+    "text": "these people are taking the supply off",
+    "start": 467.319,
+    "duration": 3.56
+  },
+  {
+    "text": "for that reason then a low Supply would",
+    "start": 469.159,
+    "duration": 3.16
+  },
+  {
+    "text": "mean that that that the comics could",
+    "start": 470.879,
+    "duration": 3.681
+  },
+  {
+    "text": "crash if they if too many redemptions",
+    "start": 472.319,
+    "duration": 4.201
+  },
+  {
+    "text": "are asked for they don't have I don't",
+    "start": 474.56,
+    "duration": 3.84
+  },
+  {
+    "text": "know if this going to happen I know",
+    "start": 476.52,
+    "duration": 3.359
+  },
+  {
+    "text": "eventually it will happen I don't know",
+    "start": 478.4,
+    "duration": 3.44
+  },
+  {
+    "text": "exactly how but I think it's it's",
+    "start": 479.879,
+    "duration": 4.681
+  },
+  {
+    "text": "definitely a good sign that that the",
+    "start": 481.84,
+    "duration": 5.24
+  },
+  {
+    "text": "supply is so low because basic economics",
+    "start": 484.56,
+    "duration": 6.479
+  },
+  {
+    "text": "if Supply is low price is higher right",
+    "start": 487.08,
+    "duration": 3.959
+  }
+]

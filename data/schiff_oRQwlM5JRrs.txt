@@ -1,0 +1,1292 @@
+[
+  {
+    "text": "you've been waiting for it right well",
+    "start": 0.16,
+    "duration": 3.519
+  },
+  {
+    "text": "it's here the having it's Upon Us in the",
+    "start": 1.56,
+    "duration": 4.08
+  },
+  {
+    "text": "Bitcoin Community let's just say they're",
+    "start": 3.679,
+    "duration": 4.321
+  },
+  {
+    "text": "champing at the bit and why not take a",
+    "start": 5.64,
+    "duration": 3.6
+  },
+  {
+    "text": "look at that I think this would be the",
+    "start": 8.0,
+    "duration": 3.84
+  },
+  {
+    "text": "fourth run right the prior three all saw",
+    "start": 9.24,
+    "duration": 4.72
+  },
+  {
+    "text": "strong rallies over the next 12 to 18",
+    "start": 11.84,
+    "duration": 3.64
+  },
+  {
+    "text": "months let's bring in coin Stories",
+    "start": 13.96,
+    "duration": 3.44
+  },
+  {
+    "text": "podcast host Natalie brell all right",
+    "start": 15.48,
+    "duration": 4.16
+  },
+  {
+    "text": "Natalie so is there a chance though that",
+    "start": 17.4,
+    "duration": 3.6
+  },
+  {
+    "text": "when this initially happens we could",
+    "start": 19.64,
+    "duration": 2.719
+  },
+  {
+    "text": "actually get the old buy the rumor sell",
+    "start": 21.0,
+    "duration": 3.08
+  },
+  {
+    "text": "the news kind of thing sure I mean a lot",
+    "start": 22.359,
+    "duration": 3.641
+  },
+  {
+    "text": "of this has been priced in so I think we",
+    "start": 24.08,
+    "duration": 3.88
+  },
+  {
+    "text": "can expect short-term volatility as",
+    "start": 26.0,
+    "duration": 4.359
+  },
+  {
+    "text": "usual but long-term the price has been",
+    "start": 27.96,
+    "duration": 3.799
+  },
+  {
+    "text": "trending up and we've actually never",
+    "start": 30.359,
+    "duration": 4.121
+  },
+  {
+    "text": "seen a new all-time high in a cycle",
+    "start": 31.759,
+    "duration": 4.96
+  },
+  {
+    "text": "prior to the next having so things can",
+    "start": 34.48,
+    "duration": 3.88
+  },
+  {
+    "text": "get a little spicy here we've got them",
+    "start": 36.719,
+    "duration": 3.201
+  },
+  {
+    "text": "on the chart here I mean so it's just",
+    "start": 38.36,
+    "duration": 3.76
+  },
+  {
+    "text": "amazing the first one I mean just it's",
+    "start": 39.92,
+    "duration": 3.76
+  },
+  {
+    "text": "just absolutely it's hard not to be",
+    "start": 42.12,
+    "duration": 3.279
+  },
+  {
+    "text": "enticed by what we're seeing here again",
+    "start": 43.68,
+    "duration": 3.399
+  },
+  {
+    "text": "over a certain period of time yeah the",
+    "start": 45.399,
+    "duration": 3.561
+  },
+  {
+    "text": "logarithmic chart is always really",
+    "start": 47.079,
+    "duration": 3.32
+  },
+  {
+    "text": "expressive of the fact that Bitcoin is",
+    "start": 48.96,
+    "duration": 3.32
+  },
+  {
+    "text": "just going up in One Direction but you",
+    "start": 50.399,
+    "duration": 3.0
+  },
+  {
+    "text": "know a lot of people can get kind of",
+    "start": 52.28,
+    "duration": 2.799
+  },
+  {
+    "text": "confused what is the having CU we've",
+    "start": 53.399,
+    "duration": 4.361
+  },
+  {
+    "text": "never had an asset that has this baked",
+    "start": 55.079,
+    "duration": 5.12
+  },
+  {
+    "text": "in reduction in the incoming Supply",
+    "start": 57.76,
+    "duration": 4.24
+  },
+  {
+    "text": "regardless of the demand but I really",
+    "start": 60.199,
+    "duration": 3.68
+  },
+  {
+    "text": "think it demonstrates the Elegance of",
+    "start": 62.0,
+    "duration": 4.36
+  },
+  {
+    "text": "this programmatic monetary policy that",
+    "start": 63.879,
+    "duration": 4.841
+  },
+  {
+    "text": "really is an elegant set of rules with",
+    "start": 66.36,
+    "duration": 5.16
+  },
+  {
+    "text": "no rulers that we all engage in and",
+    "start": 68.72,
+    "duration": 5.48
+  },
+  {
+    "text": "participate in voluntarily no one's",
+    "start": 71.52,
+    "duration": 5.04
+  },
+  {
+    "text": "imposing this on us Bitcoin is chosen by",
+    "start": 74.2,
+    "duration": 4.08
+  },
+  {
+    "text": "us the people and this is the core one",
+    "start": 76.56,
+    "duration": 4.04
+  },
+  {
+    "text": "of the core value propositions of it",
+    "start": 78.28,
+    "duration": 5.199
+  },
+  {
+    "text": "right uh but I want to ask you about the",
+    "start": 80.6,
+    "duration": 5.08
+  },
+  {
+    "text": "last few days uh bitcoin's come down a",
+    "start": 83.479,
+    "duration": 4.96
+  },
+  {
+    "text": "lot and so folks who are anti- Bitcoin",
+    "start": 85.68,
+    "duration": 4.84
+  },
+  {
+    "text": "are saying Hey there you go it was sold",
+    "start": 88.439,
+    "duration": 4.04
+  },
+  {
+    "text": "to us as a as a sort of a hedge against",
+    "start": 90.52,
+    "duration": 3.48
+  },
+  {
+    "text": "geopolitics and as soon as something",
+    "start": 92.479,
+    "duration": 3.361
+  },
+  {
+    "text": "flares up it collapsed what do you say",
+    "start": 94.0,
+    "duration": 3.52
+  },
+  {
+    "text": "to people like that well you know it's",
+    "start": 95.84,
+    "duration": 3.639
+  },
+  {
+    "text": "the fast money that's selling in and out",
+    "start": 97.52,
+    "duration": 3.68
+  },
+  {
+    "text": "of Bitcoin and creating this short-term",
+    "start": 99.479,
+    "duration": 4.32
+  },
+  {
+    "text": "volatility the smart money and the",
+    "start": 101.2,
+    "duration": 4.959
+  },
+  {
+    "text": "permanent capital is seeking shelter in",
+    "start": 103.799,
+    "duration": 4.081
+  },
+  {
+    "text": "Bitcoin and more and more investors are",
+    "start": 106.159,
+    "duration": 4.041
+  },
+  {
+    "text": "going to see it as this flight to safety",
+    "start": 107.88,
+    "duration": 3.919
+  },
+  {
+    "text": "including when things get more and more",
+    "start": 110.2,
+    "duration": 3.68
+  },
+  {
+    "text": "uncertain and chaotic around us because",
+    "start": 111.799,
+    "duration": 3.28
+  },
+  {
+    "text": "Bitcoin is the one thing that is",
+    "start": 113.88,
+    "duration": 3.12
+  },
+  {
+    "text": "actually certain and predictable the",
+    "start": 115.079,
+    "duration": 4.08
+  },
+  {
+    "text": "having is just another example of that",
+    "start": 117.0,
+    "duration": 4.479
+  },
+  {
+    "text": "it decouples the power to manipulate",
+    "start": 119.159,
+    "duration": 4.6
+  },
+  {
+    "text": "money from the state and it allows all",
+    "start": 121.479,
+    "duration": 4.521
+  },
+  {
+    "text": "of us to be in a Fair competition so",
+    "start": 123.759,
+    "duration": 4.321
+  },
+  {
+    "text": "that real value can come to the surface",
+    "start": 126.0,
+    "duration": 3.16
+  },
+  {
+    "text": "all right Natalie I want you to hold",
+    "start": 128.08,
+    "duration": 2.76
+  },
+  {
+    "text": "right there for a second because I'm",
+    "start": 129.16,
+    "duration": 2.92
+  },
+  {
+    "text": "going to get back to you in a second but",
+    "start": 130.84,
+    "duration": 3.64
+  },
+  {
+    "text": "I also want to bring in a friend of ours",
+    "start": 132.08,
+    "duration": 4.04
+  },
+  {
+    "text": "it seems these days everyone is gold",
+    "start": 134.48,
+    "duration": 3.119
+  },
+  {
+    "text": "member right check this out Goldman",
+    "start": 136.12,
+    "duration": 3.88
+  },
+  {
+    "text": "Sachs saying gold $2,700 an ounce this",
+    "start": 137.599,
+    "duration": 4.441
+  },
+  {
+    "text": "year now we know of course Emerging",
+    "start": 140.0,
+    "duration": 3.56
+  },
+  {
+    "text": "Market central banks have been buying",
+    "start": 142.04,
+    "duration": 2.919
+  },
+  {
+    "text": "gold for a long time look at that go all",
+    "start": 143.56,
+    "duration": 3.24
+  },
+  {
+    "text": "the way back a decade or so folks these",
+    "start": 144.959,
+    "duration": 4.161
+  },
+  {
+    "text": "are central banks not the ECB or the or",
+    "start": 146.8,
+    "duration": 4.68
+  },
+  {
+    "text": "the Fed let's bring in Euro Pacific",
+    "start": 149.12,
+    "duration": 3.96
+  },
+  {
+    "text": "Capital Chief Economist also Global",
+    "start": 151.48,
+    "duration": 3.6
+  },
+  {
+    "text": "strategist Peter Schiff all right Peter",
+    "start": 153.08,
+    "duration": 3.6
+  },
+  {
+    "text": "gold obviously rocking everyone's",
+    "start": 155.08,
+    "duration": 3.28
+  },
+  {
+    "text": "obviously jumping on a bandwagon the",
+    "start": 156.68,
+    "duration": 3.24
+  },
+  {
+    "text": "question is why now why at this",
+    "start": 158.36,
+    "duration": 3.68
+  },
+  {
+    "text": "particular",
+    "start": 159.92,
+    "duration": 4.399
+  },
+  {
+    "text": "time well you know Gold's probably going",
+    "start": 162.04,
+    "duration": 4.32
+  },
+  {
+    "text": "to close at a new record high close",
+    "start": 164.319,
+    "duration": 4.2
+  },
+  {
+    "text": "today it's only a few dollars off it now",
+    "start": 166.36,
+    "duration": 3.159
+  },
+  {
+    "text": "above",
+    "start": 168.519,
+    "duration": 4.36
+  },
+  {
+    "text": "2370 you know gold is rising because the",
+    "start": 169.519,
+    "duration": 6.321
+  },
+  {
+    "text": "dollar the Euro at the Yen Fiat",
+    "start": 172.879,
+    "duration": 5.601
+  },
+  {
+    "text": "currencies are losing value inflation is",
+    "start": 175.84,
+    "duration": 5.08
+  },
+  {
+    "text": "real it's here to stay it's not going",
+    "start": 178.48,
+    "duration": 5.039
+  },
+  {
+    "text": "anywhere near the fed's 2% Target we're",
+    "start": 180.92,
+    "duration": 4.599
+  },
+  {
+    "text": "headed in the wrong direction we'll",
+    "start": 183.519,
+    "duration": 4.401
+  },
+  {
+    "text": "probably be in double digits by next",
+    "start": 185.519,
+    "duration": 4.841
+  },
+  {
+    "text": "year and eventually the first digit",
+    "start": 187.92,
+    "duration": 5.2
+  },
+  {
+    "text": "isn't going to be a one uh central banks",
+    "start": 190.36,
+    "duration": 4.2
+  },
+  {
+    "text": "are out in front of this they're the",
+    "start": 193.12,
+    "duration": 3.44
+  },
+  {
+    "text": "main buyers you know a lot of Americans",
+    "start": 194.56,
+    "duration": 4.88
+  },
+  {
+    "text": "have been foolishly selling their gold",
+    "start": 196.56,
+    "duration": 5.239
+  },
+  {
+    "text": "to buy these Bitcoin ETFs you know",
+    "start": 199.44,
+    "duration": 3.92
+  },
+  {
+    "text": "there's nothing elegant about losing",
+    "start": 201.799,
+    "duration": 3.881
+  },
+  {
+    "text": "your money in Bitcoin Bitcoin is not",
+    "start": 203.36,
+    "duration": 4.72
+  },
+  {
+    "text": "going up in fact Bitcoin Peak two and a",
+    "start": 205.68,
+    "duration": 6.04
+  },
+  {
+    "text": "half years ago at about 37 o of gold as",
+    "start": 208.08,
+    "duration": 6.719
+  },
+  {
+    "text": "we speak now it's worth less than 27 o",
+    "start": 211.72,
+    "duration": 6.519
+  },
+  {
+    "text": "that's a 27% decline in 2 and 1/2 years",
+    "start": 214.799,
+    "duration": 5.761
+  },
+  {
+    "text": "this is a bare Market Bitcoin is going",
+    "start": 218.239,
+    "duration": 4.28
+  },
+  {
+    "text": "much lower than this if Natalie were",
+    "start": 220.56,
+    "duration": 4.399
+  },
+  {
+    "text": "smart as soon as this segment is over",
+    "start": 222.519,
+    "duration": 5.321
+  },
+  {
+    "text": "she would sell all of her Bitcoin",
+    "start": 224.959,
+    "duration": 4.801
+  },
+  {
+    "text": "because if she doesn't sell it now she's",
+    "start": 227.84,
+    "duration": 3.72
+  },
+  {
+    "text": "going to sell it later at a much lower",
+    "start": 229.76,
+    "duration": 3.64
+  },
+  {
+    "text": "price all right well them's what we call",
+    "start": 231.56,
+    "duration": 3.599
+  },
+  {
+    "text": "fighting words uh and I think they're",
+    "start": 233.4,
+    "duration": 3.52
+  },
+  {
+    "text": "similar drivers for both but let me",
+    "start": 235.159,
+    "duration": 4.8
+  },
+  {
+    "text": "introduce the two uh Natalie Natalie",
+    "start": 236.92,
+    "duration": 4.64
+  },
+  {
+    "text": "Peter Peter meet Natalie all right",
+    "start": 239.959,
+    "duration": 3.36
+  },
+  {
+    "text": "Natalie some Choice words for you what",
+    "start": 241.56,
+    "duration": 4.039
+  },
+  {
+    "text": "would you tell Peter oh I know Peter and",
+    "start": 243.319,
+    "duration": 4.0
+  },
+  {
+    "text": "you know what bitcoiners don't feel the",
+    "start": 245.599,
+    "duration": 4.321
+  },
+  {
+    "text": "need to constantly attack gold because",
+    "start": 247.319,
+    "duration": 4.28
+  },
+  {
+    "text": "we're not threatened by gold and the",
+    "start": 249.92,
+    "duration": 4.239
+  },
+  {
+    "text": "reason that we have this failed Fiat",
+    "start": 251.599,
+    "duration": 4.48
+  },
+  {
+    "text": "experiment that is impoverished our",
+    "start": 254.159,
+    "duration": 4.401
+  },
+  {
+    "text": "nation is because of the defects of gold",
+    "start": 256.079,
+    "duration": 4.321
+  },
+  {
+    "text": "the fact that it's not easily portable",
+    "start": 258.56,
+    "duration": 4.12
+  },
+  {
+    "text": "it's not easily verifiable it doesn't",
+    "start": 260.4,
+    "duration": 4.4
+  },
+  {
+    "text": "offer instant final global settlement",
+    "start": 262.68,
+    "duration": 3.64
+  },
+  {
+    "text": "and so you know what centralized",
+    "start": 264.8,
+    "duration": 3.6
+  },
+  {
+    "text": "authorities hijacked it they papered",
+    "start": 266.32,
+    "duration": 3.52
+  },
+  {
+    "text": "over it and we have a system of of",
+    "start": 268.4,
+    "duration": 4.0
+  },
+  {
+    "text": "Leverage and rehypothecation that hurts",
+    "start": 269.84,
+    "duration": 4.76
+  },
+  {
+    "text": "the working class Bitcoin is immune to",
+    "start": 272.4,
+    "duration": 3.96
+  },
+  {
+    "text": "all of that it is the savings account",
+    "start": 274.6,
+    "duration": 3.64
+  },
+  {
+    "text": "for billions of people that we really",
+    "start": 276.36,
+    "duration": 3.88
+  },
+  {
+    "text": "need and and can most rely on and it",
+    "start": 278.24,
+    "duration": 4.399
+  },
+  {
+    "text": "offers that final global settlement that",
+    "start": 280.24,
+    "duration": 4.6
+  },
+  {
+    "text": "we need and so gold is the analog",
+    "start": 282.639,
+    "duration": 4.361
+  },
+  {
+    "text": "version of sound money but Bitcoin is",
+    "start": 284.84,
+    "duration": 3.56
+  },
+  {
+    "text": "the digital version and that's why it's",
+    "start": 287.0,
+    "duration": 2.88
+  },
+  {
+    "text": "going to be the faster horse in this",
+    "start": 288.4,
+    "duration": 2.72
+  },
+  {
+    "text": "race",
+    "start": 289.88,
+    "duration": 3.44
+  },
+  {
+    "text": "Peter there's there there's nothing",
+    "start": 291.12,
+    "duration": 4.519
+  },
+  {
+    "text": "sound about Bitcoin it's losing the race",
+    "start": 293.32,
+    "duration": 4.12
+  },
+  {
+    "text": "right now take a look at your screen",
+    "start": 295.639,
+    "duration": 4.761
+  },
+  {
+    "text": "gold is up $25 $26 and Bitcoin is",
+    "start": 297.44,
+    "duration": 5.44
+  },
+  {
+    "text": "getting clobbered you know there is no",
+    "start": 300.4,
+    "duration": 5.44
+  },
+  {
+    "text": "flaw in gold gold worked great for 5,000",
+    "start": 302.88,
+    "duration": 5.36
+  },
+  {
+    "text": "years the problem is the flaws with",
+    "start": 305.84,
+    "duration": 4.639
+  },
+  {
+    "text": "governments the flaws with human beings",
+    "start": 308.24,
+    "duration": 4.92
+  },
+  {
+    "text": "not with gold uh but Bitcoin is is",
+    "start": 310.479,
+    "duration": 4.081
+  },
+  {
+    "text": "really flawed because it doesn't have",
+    "start": 313.16,
+    "duration": 4.479
+  },
+  {
+    "text": "any actual value gold is the most useful",
+    "start": 314.56,
+    "duration": 5.88
+  },
+  {
+    "text": "metal on the periodic table that's why",
+    "start": 317.639,
+    "duration": 4.56
+  },
+  {
+    "text": "it's money now it has great",
+    "start": 320.44,
+    "duration": 3.44
+  },
+  {
+    "text": "characteristics that make it better",
+    "start": 322.199,
+    "duration": 4.201
+  },
+  {
+    "text": "money than other Commodities but absent",
+    "start": 323.88,
+    "duration": 5.08
+  },
+  {
+    "text": "its intrinsic value it it couldn't be",
+    "start": 326.4,
+    "duration": 5.359
+  },
+  {
+    "text": "money and Bitcoin has no intrinsic value",
+    "start": 328.96,
+    "duration": 4.079
+  },
+  {
+    "text": "it's just a",
+    "start": 331.759,
+    "duration": 4.081
+  },
+  {
+    "text": "digital numbers and all of this is just",
+    "start": 333.039,
+    "duration": 4.841
+  },
+  {
+    "text": "a bunch of hype anything could be money",
+    "start": 335.84,
+    "duration": 3.44
+  },
+  {
+    "text": "right on the island of Yap they used to",
+    "start": 337.88,
+    "duration": 3.68
+  },
+  {
+    "text": "have big Stone uh Stone money anything",
+    "start": 339.28,
+    "duration": 5.039
+  },
+  {
+    "text": "could be money uh if people use it as an",
+    "start": 341.56,
+    "duration": 4.24
+  },
+  {
+    "text": "exchange and this is the thing but",
+    "start": 344.319,
+    "duration": 2.961
+  },
+  {
+    "text": "that's because but here's the thing",
+    "start": 345.8,
+    "duration": 3.6
+  },
+  {
+    "text": "though you have to admit Bitcoin is on",
+    "start": 347.28,
+    "duration": 4.68
+  },
+  {
+    "text": "the rise Wall Street has embraced it uh",
+    "start": 349.4,
+    "duration": 4.44
+  },
+  {
+    "text": "and this is just a tiny spec I mean",
+    "start": 351.96,
+    "duration": 3.84
+  },
+  {
+    "text": "could you imagine could you imagine",
+    "start": 353.84,
+    "duration": 4.88
+  },
+  {
+    "text": "Peter at the rate of of recognition if",
+    "start": 355.8,
+    "duration": 4.519
+  },
+  {
+    "text": "Bitcoin keeps going as at this rate it's",
+    "start": 358.72,
+    "duration": 4.84
+  },
+  {
+    "text": "hard to deny it could go substantially",
+    "start": 360.319,
+    "duration": 5.6
+  },
+  {
+    "text": "higher no I just told you it's been",
+    "start": 363.56,
+    "duration": 4.44
+  },
+  {
+    "text": "dropping for two and a half years that's",
+    "start": 365.919,
+    "duration": 4.56
+  },
+  {
+    "text": "when it that when it made Rec and I",
+    "start": 368.0,
+    "duration": 5.16
+  },
+  {
+    "text": "think that decline is going to",
+    "start": 370.479,
+    "duration": 4.921
+  },
+  {
+    "text": "accelerate it it it does not keep going",
+    "start": 373.16,
+    "duration": 3.96
+  },
+  {
+    "text": "up they suckered in a bunch of people",
+    "start": 375.4,
+    "duration": 3.56
+  },
+  {
+    "text": "Wall Street didn't embrace it they're",
+    "start": 377.12,
+    "duration": 3.88
+  },
+  {
+    "text": "just trying to make a buck off it I mean",
+    "start": 378.96,
+    "duration": 3.639
+  },
+  {
+    "text": "these big Wall Street firms aren't",
+    "start": 381.0,
+    "duration": 3.52
+  },
+  {
+    "text": "buying any Bitcoin with their own money",
+    "start": 382.599,
+    "duration": 3.761
+  },
+  {
+    "text": "this is their customers money that are",
+    "start": 384.52,
+    "duration": 3.28
+  },
+  {
+    "text": "dumb enough to buy it they're just",
+    "start": 386.36,
+    "duration": 3.399
+  },
+  {
+    "text": "booking the bets they're operating the",
+    "start": 387.8,
+    "duration": 3.56
+  },
+  {
+    "text": "casino they're not at the blackjack",
+    "start": 389.759,
+    "duration": 3.681
+  },
+  {
+    "text": "tables or the roulette wheels that's",
+    "start": 391.36,
+    "duration": 3.48
+  },
+  {
+    "text": "their customers that are doing that",
+    "start": 393.44,
+    "duration": 4.12
+  },
+  {
+    "text": "Natalie wants to jump back in you know",
+    "start": 394.84,
+    "duration": 4.28
+  },
+  {
+    "text": "if you look at the shortterm Bitcoin is",
+    "start": 397.56,
+    "duration": 3.56
+  },
+  {
+    "text": "going to be volatile but if we zoom out",
+    "start": 399.12,
+    "duration": 4.519
+  },
+  {
+    "text": "Bitcoin has outperformed gold in fact",
+    "start": 401.12,
+    "duration": 5.199
+  },
+  {
+    "text": "when Hamas attacked Israel since then",
+    "start": 403.639,
+    "duration": 5.96
+  },
+  {
+    "text": "Bitcoin is up 125% and gold is up only",
+    "start": 406.319,
+    "duration": 6.32
+  },
+  {
+    "text": "27% so let's really look at the numbers",
+    "start": 409.599,
+    "duration": 4.281
+  },
+  {
+    "text": "that we're seeing and the best thing",
+    "start": 412.639,
+    "duration": 3.28
+  },
+  {
+    "text": "about Bitcoin is again no one controls",
+    "start": 413.88,
+    "duration": 4.2
+  },
+  {
+    "text": "The Ledger whereas gold is really",
+    "start": 415.919,
+    "duration": 4.481
+  },
+  {
+    "text": "vulnerable to centralization and top",
+    "start": 418.08,
+    "duration": 4.2
+  },
+  {
+    "text": "down control which is why we need a",
+    "start": 420.4,
+    "duration": 4.32
+  },
+  {
+    "text": "system that is a neutral place to store",
+    "start": 422.28,
+    "duration": 5.52
+  },
+  {
+    "text": "your wealth we need a neutral system",
+    "start": 424.72,
+    "duration": 5.919
+  },
+  {
+    "text": "andet why can't someone own both why",
+    "start": 427.8,
+    "duration": 5.239
+  },
+  {
+    "text": "can't someone have exposure to",
+    "start": 430.639,
+    "duration": 5.0
+  },
+  {
+    "text": "both yeah well first of all Bitcoin is",
+    "start": 433.039,
+    "duration": 4.44
+  },
+  {
+    "text": "outperformed everything so don't compare",
+    "start": 435.639,
+    "duration": 4.161
+  },
+  {
+    "text": "it to Gold it's outperformed stocks real",
+    "start": 437.479,
+    "duration": 4.44
+  },
+  {
+    "text": "estate bonds Collectibles that's because",
+    "start": 439.8,
+    "duration": 4.399
+  },
+  {
+    "text": "it's a gigantic bubble no if you want to",
+    "start": 441.919,
+    "duration": 4.321
+  },
+  {
+    "text": "own Bitcoin I I don't care if you want",
+    "start": 444.199,
+    "duration": 4.041
+  },
+  {
+    "text": "to lose money in Bitcoin go right ahead",
+    "start": 446.24,
+    "duration": 4.56
+  },
+  {
+    "text": "doesn't bother me but I'm trying to help",
+    "start": 448.24,
+    "duration": 5.32
+  },
+  {
+    "text": "give people advice as to what to do with",
+    "start": 450.8,
+    "duration": 4.6
+  },
+  {
+    "text": "their money and if they want to have an",
+    "start": 453.56,
+    "duration": 4.639
+  },
+  {
+    "text": "Investment Portfolio Bitcoin has no part",
+    "start": 455.4,
+    "duration": 5.16
+  },
+  {
+    "text": "in it but you know if you like gambling",
+    "start": 458.199,
+    "duration": 3.801
+  },
+  {
+    "text": "if you want to take some of the money",
+    "start": 460.56,
+    "duration": 2.72
+  },
+  {
+    "text": "that you we're going to take to the",
+    "start": 462.0,
+    "duration": 3.319
+  },
+  {
+    "text": "racetracks or buy lottery tickets with",
+    "start": 463.28,
+    "duration": 3.919
+  },
+  {
+    "text": "or go to Vegas if you want to take some",
+    "start": 465.319,
+    "duration": 4.081
+  },
+  {
+    "text": "of that money and gamble on bitcoin or",
+    "start": 467.199,
+    "duration": 4.481
+  },
+  {
+    "text": "any of the other 20,000 cryptocurrencies",
+    "start": 469.4,
+    "duration": 4.4
+  },
+  {
+    "text": "that are out there go right ahead I it",
+    "start": 471.68,
+    "duration": 4.359
+  },
+  {
+    "text": "doesn't bother me but I don't want to",
+    "start": 473.8,
+    "duration": 4.519
+  },
+  {
+    "text": "buy any Bitcoin I mean sure had I bought",
+    "start": 476.039,
+    "duration": 4.081
+  },
+  {
+    "text": "Bitcoin years and years a go when I",
+    "start": 478.319,
+    "duration": 3.201
+  },
+  {
+    "text": "first learned about it yeah I could have",
+    "start": 480.12,
+    "duration": 3.479
+  },
+  {
+    "text": "made a lot of money selling it now to",
+    "start": 481.52,
+    "duration": 5.119
+  },
+  {
+    "text": "the greater fools but I didn't do",
+    "start": 483.599,
+    "duration": 6.121
+  },
+  {
+    "text": "that bought Bitcoin yeah so so Natalie",
+    "start": 486.639,
+    "duration": 4.201
+  },
+  {
+    "text": "bottom line though is but I'm not going",
+    "start": 489.72,
+    "duration": 2.96
+  },
+  {
+    "text": "to buy it now and Natalie you're going",
+    "start": 490.84,
+    "duration": 4.479
+  },
+  {
+    "text": "to wish you sold Bitcoin mark my words",
+    "start": 492.68,
+    "duration": 6.16
+  },
+  {
+    "text": "you're Ru we we tap all of this if I",
+    "start": 495.319,
+    "duration": 5.241
+  },
+  {
+    "text": "only sold my Bitcoin i' had a lot of",
+    "start": 498.84,
+    "duration": 3.4
+  },
+  {
+    "text": "money we got 30 seconds left I got to",
+    "start": 500.56,
+    "duration": 4.28
+  },
+  {
+    "text": "give Natalie the last word I think a I",
+    "start": 502.24,
+    "duration": 4.239
+  },
+  {
+    "text": "think the American dream has really been",
+    "start": 504.84,
+    "duration": 3.96
+  },
+  {
+    "text": "hijacked we we tried gold it didn't work",
+    "start": 506.479,
+    "duration": 4.361
+  },
+  {
+    "text": "it was papered over that system has",
+    "start": 508.8,
+    "duration": 4.2
+  },
+  {
+    "text": "failed the American people and Bitcoin",
+    "start": 510.84,
+    "duration": 4.16
+  },
+  {
+    "text": "does provide hope for us the working",
+    "start": 513.0,
+    "duration": 3.76
+  },
+  {
+    "text": "class we want to be able to work for",
+    "start": 515.0,
+    "duration": 4.32
+  },
+  {
+    "text": "something that has to be measured by a",
+    "start": 516.76,
+    "duration": 4.759
+  },
+  {
+    "text": "free market so that we can see real",
+    "start": 519.32,
+    "duration": 3.92
+  },
+  {
+    "text": "value emerge as opposed to being",
+    "start": 521.519,
+    "duration": 4.161
+  },
+  {
+    "text": "captured by politics and bureaucracy",
+    "start": 523.24,
+    "duration": 4.12
+  },
+  {
+    "text": "which ultimately is a system that",
+    "start": 525.68,
+    "duration": 3.88
+  },
+  {
+    "text": "benefits the few at the at the expense",
+    "start": 527.36,
+    "duration": 3.96
+  },
+  {
+    "text": "of everyone else and it's a system in",
+    "start": 529.56,
+    "duration": 3.2
+  },
+  {
+    "text": "which the politically connected and the",
+    "start": 531.32,
+    "duration": 3.36
+  },
+  {
+    "text": "special interest groups really are at",
+    "start": 532.76,
+    "duration": 4.44
+  },
+  {
+    "text": "the top and so we need a system that is",
+    "start": 534.68,
+    "duration": 4.76
+  },
+  {
+    "text": "for the people Bitcoin is for the people",
+    "start": 537.2,
+    "duration": 4.04
+  },
+  {
+    "text": "Natalie thank you very much Peter thank",
+    "start": 539.44,
+    "duration": 4.44
+  },
+  {
+    "text": "you very much",
+    "start": 541.24,
+    "duration": 2.64
+  }
+]
