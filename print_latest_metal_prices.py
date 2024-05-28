@@ -1,4 +1,4 @@
-import metals_api
+import data_scraping.metals_api as metals_api
 
 def main():
   print("You're running the commodity news app.\n\n")
