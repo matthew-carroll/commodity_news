@@ -11,7 +11,7 @@ from data_scraping import youtube_caption_scraper as captions
 
 # Prints a podcast script to console based on a single-shot of context data + a single prompt.
 async def write_one_shot_script(prompt):
-  source_material = get_all_news()
+  source_material = get_consolidated_notes()
   print("Source material is " + str(len(source_material)) + " characters long")
   print("")
 
@@ -66,6 +66,22 @@ def get_all_news():
   print("")
   return total_news[0:50000]
 
+def get_all_notes():
+  files = captions.get_all_news_file_names("notes")
+  total_notes = ""
 
+  for file in files:
+      file_path = os.path.join("data", file)
+      with open(file_path, 'r') as f:
+          print("Loading news from file: " + file)
+          notes = f.read()
+          total_notes += notes + "\n\n-------------\n\n"
+  
+  return total_notes
 
-
+def get_consolidated_notes():
+    file_path = os.path.join("data", "consolidated_notes.txt")
+    with open(file_path, 'r') as f:
+        print("Loading consolidated notes")
+        notes = f.read()
+        return notes

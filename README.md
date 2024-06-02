@@ -16,3 +16,5 @@ Store the API keys in environment variables with the following names:
  * METALPRICE_API_KEY
  * GOLDAPIIO_API_KEY
 
+### TODOs
+* Maintain more detailed context across summarizations so output script is less abstract and more concrete/specific.
