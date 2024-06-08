@@ -11,6 +11,7 @@ dotenv.load_dotenv()
 print("API key: " + os.getenv("ELEVENLABS_API_KEY"))
 client = ElevenLabs(
   api_key=os.getenv("ELEVENLABS_API_KEY"),
+  timeout=600
 )
 
 with open("data/script.txt", "r") as f:
