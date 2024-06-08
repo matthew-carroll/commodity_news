@@ -1,0 +1,752 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.0,
+    "duration": 5.33
+  },
+  {
+    "text": "wel go back everyone Greg Diamond here",
+    "start": 7.399,
+    "duration": 4.961
+  },
+  {
+    "text": "editor of 10 Stock Trader uh another",
+    "start": 9.639,
+    "duration": 5.281
+  },
+  {
+    "text": "edition of diamonds Edge video and this",
+    "start": 12.36,
+    "duration": 3.96
+  },
+  {
+    "text": "week I want to talk about the bullish",
+    "start": 14.92,
+    "duration": 3.519
+  },
+  {
+    "text": "setup in stocks um you know we saw a",
+    "start": 16.32,
+    "duration": 4.879
+  },
+  {
+    "text": "little bit of volatility last week but",
+    "start": 18.439,
+    "duration": 4.92
+  },
+  {
+    "text": "the the bullish setup in terms of what",
+    "start": 21.199,
+    "duration": 3.761
+  },
+  {
+    "text": "I'm going to show you tells me that",
+    "start": 23.359,
+    "duration": 4.481
+  },
+  {
+    "text": "there's more upside uh potential than",
+    "start": 24.96,
+    "duration": 4.52
+  },
+  {
+    "text": "you know any downside and if we do see",
+    "start": 27.84,
+    "duration": 2.88
+  },
+  {
+    "text": "downside probably your buying",
+    "start": 29.48,
+    "duration": 3.48
+  },
+  {
+    "text": "opportunity so I'm going to show start",
+    "start": 30.72,
+    "duration": 4.48
+  },
+  {
+    "text": "first with um Russell",
+    "start": 32.96,
+    "duration": 4.919
+  },
+  {
+    "text": "2000 which sometimes would be overlooked",
+    "start": 35.2,
+    "duration": 4.8
+  },
+  {
+    "text": "um in favor of obviously semiconductors",
+    "start": 37.879,
+    "duration": 5.52
+  },
+  {
+    "text": "NASDAQ S&P and Dow Dow Industrial",
+    "start": 40.0,
+    "duration": 6.16
+  },
+  {
+    "text": "Average but the setup that I like here",
+    "start": 43.399,
+    "duration": 5.0
+  },
+  {
+    "text": "and this is starting here um in this",
+    "start": 46.16,
+    "duration": 4.64
+  },
+  {
+    "text": "chart and I'll zoom in for you um you",
+    "start": 48.399,
+    "duration": 4.561
+  },
+  {
+    "text": "know this was back in early may we were",
+    "start": 50.8,
+    "duration": 4.399
+  },
+  {
+    "text": "I was looking at this potential setup uh",
+    "start": 52.96,
+    "duration": 5.84
+  },
+  {
+    "text": "in terms of a big wave 1 wave two low in",
+    "start": 55.199,
+    "duration": 5.84
+  },
+  {
+    "text": "the Russell 2000 looks like we got that",
+    "start": 58.8,
+    "duration": 5.12
+  },
+  {
+    "text": "last week with a nice bounce so you know",
+    "start": 61.039,
+    "duration": 4.76
+  },
+  {
+    "text": "if we saw we we keep seeing this",
+    "start": 63.92,
+    "duration": 3.12
+  },
+  {
+    "text": "strength maybe a little bit of a",
+    "start": 65.799,
+    "duration": 4.121
+  },
+  {
+    "text": "pullback you know this red line is a",
+    "start": 67.04,
+    "duration": 5.079
+  },
+  {
+    "text": "situation where you know we can see this",
+    "start": 69.92,
+    "duration": 5.0
+  },
+  {
+    "text": "happening all the way into to July maybe",
+    "start": 72.119,
+    "duration": 4.921
+  },
+  {
+    "text": "even August uh so this is something I'm",
+    "start": 74.92,
+    "duration": 3.68
+  },
+  {
+    "text": "going to be focused on a lot in terms of",
+    "start": 77.04,
+    "duration": 3.84
+  },
+  {
+    "text": "trading over the next uh probably this",
+    "start": 78.6,
+    "duration": 4.92
+  },
+  {
+    "text": "week if not next um and this week is",
+    "start": 80.88,
+    "duration": 4.239
+  },
+  {
+    "text": "going to be important Friday is probably",
+    "start": 83.52,
+    "duration": 2.959
+  },
+  {
+    "text": "going to be the most important thing in",
+    "start": 85.119,
+    "duration": 3.481
+  },
+  {
+    "text": "terms of the payroll number so maybe we",
+    "start": 86.479,
+    "duration": 5.401
+  },
+  {
+    "text": "don't get a ton of action um but you",
+    "start": 88.6,
+    "duration": 5.12
+  },
+  {
+    "text": "know regardless of whether it's you know",
+    "start": 91.88,
+    "duration": 4.279
+  },
+  {
+    "text": "earlier this week Friday or then",
+    "start": 93.72,
+    "duration": 3.759
+  },
+  {
+    "text": "possibly early next week depending on",
+    "start": 96.159,
+    "duration": 2.92
+  },
+  {
+    "text": "what the number is this looks like",
+    "start": 97.479,
+    "duration": 4.121
+  },
+  {
+    "text": "something that I would start buying okay",
+    "start": 99.079,
+    "duration": 5.4
+  },
+  {
+    "text": "um I also want to show you so let's",
+    "start": 101.6,
+    "duration": 5.199
+  },
+  {
+    "text": "let's look at the NASDAQ last week and",
+    "start": 104.479,
+    "duration": 5.441
+  },
+  {
+    "text": "we saw a really sharp drop and these are",
+    "start": 106.799,
+    "duration": 5.441
+  },
+  {
+    "text": "the in the Futures markets okay we saw",
+    "start": 109.92,
+    "duration": 4.44
+  },
+  {
+    "text": "really this sharp drop we saw last week",
+    "start": 112.24,
+    "duration": 4.559
+  },
+  {
+    "text": "okay huge big drop and it came right",
+    "start": 114.36,
+    "duration": 4.48
+  },
+  {
+    "text": "back that's a sign of a strong bull",
+    "start": 116.799,
+    "duration": 4.721
+  },
+  {
+    "text": "market okay that's sign of sellers not",
+    "start": 118.84,
+    "duration": 4.36
+  },
+  {
+    "text": "be able to take control and Bulls are",
+    "start": 121.52,
+    "duration": 3.76
+  },
+  {
+    "text": "still in control all right so that's",
+    "start": 123.2,
+    "duration": 4.04
+  },
+  {
+    "text": "something um that really caught my eye",
+    "start": 125.28,
+    "duration": 3.479
+  },
+  {
+    "text": "and said you know what you know Bulls",
+    "start": 127.24,
+    "duration": 5.2
+  },
+  {
+    "text": "Bulls still have have uh this Market in",
+    "start": 128.759,
+    "duration": 6.441
+  },
+  {
+    "text": "their grasp and I saw an article last",
+    "start": 132.44,
+    "duration": 5.12
+  },
+  {
+    "text": "week or maybe or maybe I think it was",
+    "start": 135.2,
+    "duration": 4.039
+  },
+  {
+    "text": "this weekend actually that um you know",
+    "start": 137.56,
+    "duration": 4.84
+  },
+  {
+    "text": "hedge funds shorted the most tech um in",
+    "start": 139.239,
+    "duration": 5.36
+  },
+  {
+    "text": "a while uh so they're going to be forced",
+    "start": 142.4,
+    "duration": 3.72
+  },
+  {
+    "text": "to cover a little bit this morning all",
+    "start": 144.599,
+    "duration": 3.801
+  },
+  {
+    "text": "right again that leads to more bullish",
+    "start": 146.12,
+    "duration": 4.92
+  },
+  {
+    "text": "upside all right here's another chart of",
+    "start": 148.4,
+    "duration": 5.559
+  },
+  {
+    "text": "Europe actually and this is um something",
+    "start": 151.04,
+    "duration": 4.559
+  },
+  {
+    "text": "that I've been following for a while",
+    "start": 153.959,
+    "duration": 4.28
+  },
+  {
+    "text": "okay this is this is the Euro stock 50",
+    "start": 155.599,
+    "duration": 4.761
+  },
+  {
+    "text": "index and you know even though I don't",
+    "start": 158.239,
+    "duration": 3.521
+  },
+  {
+    "text": "trade it I still want to see what's",
+    "start": 160.36,
+    "duration": 4.12
+  },
+  {
+    "text": "going on overseas because um you know",
+    "start": 161.76,
+    "duration": 4.399
+  },
+  {
+    "text": "Global markets are interconnected so you",
+    "start": 164.48,
+    "duration": 3.759
+  },
+  {
+    "text": "have to focus on other things and not",
+    "start": 166.159,
+    "duration": 3.241
+  },
+  {
+    "text": "just you know what's happening in your",
+    "start": 168.239,
+    "duration": 3.041
+  },
+  {
+    "text": "own country all right so here you can",
+    "start": 169.4,
+    "duration": 4.8
+  },
+  {
+    "text": "see a clear 1 two 3 4 and I have this",
+    "start": 171.28,
+    "duration": 5.0
+  },
+  {
+    "text": "other possible wave four that was last",
+    "start": 174.2,
+    "duration": 4.56
+  },
+  {
+    "text": "week but what I want to show you and",
+    "start": 176.28,
+    "duration": 4.239
+  },
+  {
+    "text": "I've outlined this chart before",
+    "start": 178.76,
+    "duration": 4.759
+  },
+  {
+    "text": "but so this correction um back in",
+    "start": 180.519,
+    "duration": 4.841
+  },
+  {
+    "text": "December of last year into January of",
+    "start": 183.519,
+    "duration": 4.761
+  },
+  {
+    "text": "this year was 21 days and dropped about",
+    "start": 185.36,
+    "duration": 5.56
+  },
+  {
+    "text": "4.62% all right so I was trying to see",
+    "start": 188.28,
+    "duration": 4.599
+  },
+  {
+    "text": "there's usually it's either INE equality",
+    "start": 190.92,
+    "duration": 4.16
+  },
+  {
+    "text": "of a correction or it tends to be a",
+    "start": 192.879,
+    "duration": 3.601
+  },
+  {
+    "text": "little bit longer a little bit shorter",
+    "start": 195.08,
+    "duration": 2.96
+  },
+  {
+    "text": "but there's some relationship to what",
+    "start": 196.48,
+    "duration": 3.24
+  },
+  {
+    "text": "these Corrections can do and I think",
+    "start": 198.04,
+    "duration": 3.479
+  },
+  {
+    "text": "this is a pretty good example of it all",
+    "start": 199.72,
+    "duration": 6.879
+  },
+  {
+    "text": "right so back in um April to may I kind",
+    "start": 201.519,
+    "duration": 6.601
+  },
+  {
+    "text": "of did the same thing all right this was",
+    "start": 206.599,
+    "duration": 3.241
+  },
+  {
+    "text": "21 days as you can see and then we had",
+    "start": 208.12,
+    "duration": 3.16
+  },
+  {
+    "text": "nice little bump all right and that",
+    "start": 209.84,
+    "duration": 4.679
+  },
+  {
+    "text": "dropped about 42% very very similar now",
+    "start": 211.28,
+    "duration": 5.239
+  },
+  {
+    "text": "is it possible that this is just still a",
+    "start": 214.519,
+    "duration": 4.121
+  },
+  {
+    "text": "larger correction sure but look what's",
+    "start": 216.519,
+    "duration": 4.161
+  },
+  {
+    "text": "really neat about this so 21 days versus",
+    "start": 218.64,
+    "duration": 4.12
+  },
+  {
+    "text": "42 days exact",
+    "start": 220.68,
+    "duration": 5.08
+  },
+  {
+    "text": "um uh so just double it up and you know",
+    "start": 222.76,
+    "duration": 4.679
+  },
+  {
+    "text": "that ended last week and now we have",
+    "start": 225.76,
+    "duration": 3.72
+  },
+  {
+    "text": "this rally now even if it comes back",
+    "start": 227.439,
+    "duration": 5.0
+  },
+  {
+    "text": "down in here you know um say into Friday",
+    "start": 229.48,
+    "duration": 4.88
+  },
+  {
+    "text": "the payrolls or whatever might have you",
+    "start": 232.439,
+    "duration": 6.321
+  },
+  {
+    "text": "this still has let me delete this um",
+    "start": 234.36,
+    "duration": 6.04
+  },
+  {
+    "text": "some of these lines cuz I just want to",
+    "start": 238.76,
+    "duration": 4.6
+  },
+  {
+    "text": "show you this doesn't have a top pattern",
+    "start": 240.4,
+    "duration": 5.679
+  },
+  {
+    "text": "to it it's just working off overbought",
+    "start": 243.36,
+    "duration": 5.04
+  },
+  {
+    "text": "levels and as you can see as of last",
+    "start": 246.079,
+    "duration": 4.121
+  },
+  {
+    "text": "week on this RSI down here in this red",
+    "start": 248.4,
+    "duration": 4.24
+  },
+  {
+    "text": "dash line This dropped right to where",
+    "start": 250.2,
+    "duration": 4.239
+  },
+  {
+    "text": "you know previous lows were on this",
+    "start": 252.64,
+    "duration": 3.64
+  },
+  {
+    "text": "index okay you can see the composite",
+    "start": 254.439,
+    "duration": 3.841
+  },
+  {
+    "text": "index at the very bottom of the chart is",
+    "start": 256.28,
+    "duration": 3.84
+  },
+  {
+    "text": "sloping up just like it did here here",
+    "start": 258.28,
+    "duration": 5.6
+  },
+  {
+    "text": "and here so again when I look at Europe",
+    "start": 260.12,
+    "duration": 5.96
+  },
+  {
+    "text": "um this looks bullish to me we saw the",
+    "start": 263.88,
+    "duration": 4.759
+  },
+  {
+    "text": "big reversal in NASDAQ I outlined um the",
+    "start": 266.08,
+    "duration": 5.679
+  },
+  {
+    "text": "small caps now let me uh focus on bonds",
+    "start": 268.639,
+    "duration": 4.4
+  },
+  {
+    "text": "all right and this is something that I",
+    "start": 271.759,
+    "duration": 3.28
+  },
+  {
+    "text": "covered last week or last well I've been",
+    "start": 273.039,
+    "duration": 4.321
+  },
+  {
+    "text": "focus on focused on it for a while this",
+    "start": 275.039,
+    "duration": 3.841
+  },
+  {
+    "text": "is interest rates okay and this was the",
+    "start": 277.36,
+    "duration": 3.559
+  },
+  {
+    "text": "chart that I had had last week hey you",
+    "start": 278.88,
+    "duration": 4.84
+  },
+  {
+    "text": "know possibly we get a pop here um but",
+    "start": 280.919,
+    "duration": 5.081
+  },
+  {
+    "text": "watch for a drop all right and now I",
+    "start": 283.72,
+    "duration": 4.4
+  },
+  {
+    "text": "made a trade off of this last week uh",
+    "start": 286.0,
+    "duration": 3.68
+  },
+  {
+    "text": "for 10 Stock Trader",
+    "start": 288.12,
+    "duration": 3.32
+  },
+  {
+    "text": "subscribers and",
+    "start": 289.68,
+    "duration": 4.28
+  },
+  {
+    "text": "basically what we're looking at here you",
+    "start": 291.44,
+    "duration": 4.759
+  },
+  {
+    "text": "know it it tried to Rally Above This",
+    "start": 293.96,
+    "duration": 4.76
+  },
+  {
+    "text": "resistance it did but completely revers",
+    "start": 296.199,
+    "duration": 4.961
+  },
+  {
+    "text": "lower so we'll see how this fit this",
+    "start": 298.72,
+    "duration": 6.08
+  },
+  {
+    "text": "plays out um into the Friday jobs number",
+    "start": 301.16,
+    "duration": 5.96
+  },
+  {
+    "text": "but basically if I",
+    "start": 304.8,
+    "duration": 6.239
+  },
+  {
+    "text": "see something like this where uh we get",
+    "start": 307.12,
+    "duration": 5.84
+  },
+  {
+    "text": "you know maybe maybe it drops back down",
+    "start": 311.039,
+    "duration": 4.041
+  },
+  {
+    "text": "to this line and then we get a reversal",
+    "start": 312.96,
+    "duration": 4.079
+  },
+  {
+    "text": "and then we drop oh watch out for that",
+    "start": 315.08,
+    "duration": 4.36
+  },
+  {
+    "text": "because that's a big move both in bonds",
+    "start": 317.039,
+    "duration": 4.16
+  },
+  {
+    "text": "interest rates obviously but this would",
+    "start": 319.44,
+    "duration": 4.24
+  },
+  {
+    "text": "be a big move in stocks to see you know",
+    "start": 321.199,
+    "duration": 5.961
+  },
+  {
+    "text": "especially in uh iwm uh the I share as",
+    "start": 323.68,
+    "duration": 5.68
+  },
+  {
+    "text": "Russell 2000 you know that scenario that",
+    "start": 327.16,
+    "duration": 4.479
+  },
+  {
+    "text": "I outlined if if it looks similar to",
+    "start": 329.36,
+    "duration": 3.88
+  },
+  {
+    "text": "this in bonds that's really going to be",
+    "start": 331.639,
+    "duration": 4.68
+  },
+  {
+    "text": "a great trade to make so simple message",
+    "start": 333.24,
+    "duration": 5.64
+  },
+  {
+    "text": "I'm still bullish um and we're seeing",
+    "start": 336.319,
+    "duration": 4.44
+  },
+  {
+    "text": "that from Europe to bonds uh to",
+    "start": 338.88,
+    "duration": 3.68
+  },
+  {
+    "text": "different sectors in the US all right",
+    "start": 340.759,
+    "duration": 4.781
+  },
+  {
+    "text": "thanks and I'll see you next week",
+    "start": 342.56,
+    "duration": 6.1
+  },
+  {
+    "text": "[Music]",
+    "start": 345.54,
+    "duration": 3.12
+  }
+]

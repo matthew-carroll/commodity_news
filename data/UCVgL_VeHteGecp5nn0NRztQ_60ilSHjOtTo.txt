@@ -1,0 +1,5657 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.58,
+    "duration": 11.34
+  },
+  {
+    "text": "Chris welcome to the show great of you",
+    "start": 9.96,
+    "duration": 5.639
+  },
+  {
+    "text": "to be here Dan thanks for having me on",
+    "start": 11.92,
+    "duration": 7.279
+  },
+  {
+    "text": "you bet um so my trusty co-hosts uh",
+    "start": 15.599,
+    "duration": 5.401
+  },
+  {
+    "text": "Corey and I will Pepper you with",
+    "start": 19.199,
+    "duration": 4.801
+  },
+  {
+    "text": "questions and hopefully to our listeners",
+    "start": 21.0,
+    "duration": 7.56
+  },
+  {
+    "text": "Delight uh I wonder if you could start",
+    "start": 24.0,
+    "duration": 7.679
+  },
+  {
+    "text": "um just by telling us about maybe tell",
+    "start": 28.56,
+    "duration": 6.36
+  },
+  {
+    "text": "us about event driven investing first",
+    "start": 31.679,
+    "duration": 4.601
+  },
+  {
+    "text": "maybe we can talk about that just to",
+    "start": 34.92,
+    "duration": 3.319
+  },
+  {
+    "text": "know what it is that you that you focus",
+    "start": 36.28,
+    "duration": 3.92
+  },
+  {
+    "text": "on and that you do at at range the",
+    "start": 38.239,
+    "duration": 5.361
+  },
+  {
+    "text": "capital sure so uh there there's kind of",
+    "start": 40.2,
+    "duration": 5.359
+  },
+  {
+    "text": "two answers to that I'll give the",
+    "start": 43.6,
+    "duration": 3.92
+  },
+  {
+    "text": "slightly more kind of industry",
+    "start": 45.559,
+    "duration": 5.52
+  },
+  {
+    "text": "convergent one which is that we",
+    "start": 47.52,
+    "duration": 8.28
+  },
+  {
+    "text": "invest uh mostly in equities but by",
+    "start": 51.079,
+    "duration": 7.361
+  },
+  {
+    "text": "mandate across the capital structure any",
+    "start": 55.8,
+    "duration": 4.719
+  },
+  {
+    "text": "geography any market cap",
+    "start": 58.44,
+    "duration": 4.639
+  },
+  {
+    "text": "uh but in companies that are undergoing",
+    "start": 60.519,
+    "duration": 6.401
+  },
+  {
+    "text": "some sort of corporate change uh so the",
+    "start": 63.079,
+    "duration": 7.201
+  },
+  {
+    "text": "the kind of category tends to",
+    "start": 66.92,
+    "duration": 6.68
+  },
+  {
+    "text": "include merger Arbitrage but also",
+    "start": 70.28,
+    "duration": 6.4
+  },
+  {
+    "text": "spin-offs also special",
+    "start": 73.6,
+    "duration": 8.08
+  },
+  {
+    "text": "distributions any kind of uh corporate",
+    "start": 76.68,
+    "duration": 8.32
+  },
+  {
+    "text": "action my interest although I'm put in",
+    "start": 81.68,
+    "duration": 6.88
+  },
+  {
+    "text": "that category is ever so slightly",
+    "start": 85.0,
+    "duration": 6.0
+  },
+  {
+    "text": "different I'm just interested",
+    "start": 88.56,
+    "duration": 5.96
+  },
+  {
+    "text": "in uh what I consider to be a",
+    "start": 91.0,
+    "duration": 6.88
+  },
+  {
+    "text": "counterparty selection um I don't want",
+    "start": 94.52,
+    "duration": 5.84
+  },
+  {
+    "text": "to pit my judgment against yours or",
+    "start": 97.88,
+    "duration": 4.36
+  },
+  {
+    "text": "anybody's if you have a proposition that",
+    "start": 100.36,
+    "duration": 3.36
+  },
+  {
+    "text": "you come to me and you want to put money",
+    "start": 102.24,
+    "duration": 4.879
+  },
+  {
+    "text": "at stake my consistent answer is no I",
+    "start": 103.72,
+    "duration": 5.32
+  },
+  {
+    "text": "don't want anybody who's smart",
+    "start": 107.119,
+    "duration": 4.481
+  },
+  {
+    "text": "self-seeking good judgment and maybe",
+    "start": 109.04,
+    "duration": 5.32
+  },
+  {
+    "text": "just possibly cheating uh coming at me",
+    "start": 111.6,
+    "duration": 4.68
+  },
+  {
+    "text": "with a bet I want somebody who either",
+    "start": 114.36,
+    "duration": 3.96
+  },
+  {
+    "text": "has to sell something or has to buy",
+    "start": 116.28,
+    "duration": 7.68
+  },
+  {
+    "text": "something by man date or by uh",
+    "start": 118.32,
+    "duration": 9.6
+  },
+  {
+    "text": "some change in a company that makes the",
+    "start": 123.96,
+    "duration": 6.519
+  },
+  {
+    "text": "new status inapplicable to him so if I",
+    "start": 127.92,
+    "duration": 4.44
+  },
+  {
+    "text": "do a kind of",
+    "start": 130.479,
+    "duration": 4.48
+  },
+  {
+    "text": "yenly fundamental analysis I have a view",
+    "start": 132.36,
+    "duration": 4.64
+  },
+  {
+    "text": "of what something's",
+    "start": 134.959,
+    "duration": 4.481
+  },
+  {
+    "text": "worth I'm approaching a new topic with",
+    "start": 137.0,
+    "duration": 4.12
+  },
+  {
+    "text": "fresh eyes but in a sense so is my",
+    "start": 139.44,
+    "duration": 3.92
+  },
+  {
+    "text": "counterparty because the incumbent kind",
+    "start": 141.12,
+    "duration": 4.64
+  },
+  {
+    "text": "of smart",
+    "start": 143.36,
+    "duration": 5.44
+  },
+  {
+    "text": "investor is a thrown off his game for",
+    "start": 145.76,
+    "duration": 5.24
+  },
+  {
+    "text": "some level of complex",
+    "start": 148.8,
+    "duration": 4.64
+  },
+  {
+    "text": "that if I spend the time to try to",
+    "start": 151.0,
+    "duration": 4.84
+  },
+  {
+    "text": "understand uh might be the kind of thing",
+    "start": 153.44,
+    "duration": 5.879
+  },
+  {
+    "text": "that they just don't want to bother",
+    "start": 155.84,
+    "duration": 7.88
+  },
+  {
+    "text": "with okay so it sounds like you are um",
+    "start": 159.319,
+    "duration": 6.56
+  },
+  {
+    "text": "is this like Seth clar's thing looking",
+    "start": 163.72,
+    "duration": 3.56
+  },
+  {
+    "text": "for a forced",
+    "start": 165.879,
+    "duration": 5.121
+  },
+  {
+    "text": "seller similar to that yeah I would say",
+    "start": 167.28,
+    "duration": 8.16
+  },
+  {
+    "text": "that uh a forced sellers are part of it",
+    "start": 171.0,
+    "duration": 6.959
+  },
+  {
+    "text": "uh sometimes it's somebody who's gotten",
+    "start": 175.44,
+    "duration": 3.68
+  },
+  {
+    "text": "them themselves into a terrible",
+    "start": 177.959,
+    "duration": 2.401
+  },
+  {
+    "text": "situation",
+    "start": 179.12,
+    "duration": 3.56
+  },
+  {
+    "text": "uh say massively overleveraged and has",
+    "start": 180.36,
+    "duration": 4.879
+  },
+  {
+    "text": "to sell sometimes it's",
+    "start": 182.68,
+    "duration": 6.8
+  },
+  {
+    "text": "simply a scale mismatch sometimes uh it",
+    "start": 185.239,
+    "duration": 8.841
+  },
+  {
+    "text": "is dealing with a company at a massive",
+    "start": 189.48,
+    "duration": 8.0
+  },
+  {
+    "text": "scale that has some kind of tiny problem",
+    "start": 194.08,
+    "duration": 5.68
+  },
+  {
+    "text": "that is uh the way I think of it is you",
+    "start": 197.48,
+    "duration": 4.399
+  },
+  {
+    "text": "know counterparty selection but I also",
+    "start": 199.76,
+    "duration": 5.44
+  },
+  {
+    "text": "think of it as",
+    "start": 201.879,
+    "duration": 6.0
+  },
+  {
+    "text": "um it matters to me because I'm just in",
+    "start": 205.2,
+    "duration": 4.8
+  },
+  {
+    "text": "it for the economics but it might have",
+    "start": 207.879,
+    "duration": 5.121
+  },
+  {
+    "text": "some kind of subjective hairy risk for",
+    "start": 210.0,
+    "duration": 5.2
+  },
+  {
+    "text": "them that's a reputational cost or a",
+    "start": 213.0,
+    "duration": 4.12
+  },
+  {
+    "text": "political cost or simply just not worth",
+    "start": 215.2,
+    "duration": 4.599
+  },
+  {
+    "text": "the bother um so an example of that",
+    "start": 217.12,
+    "duration": 5.08
+  },
+  {
+    "text": "would be",
+    "start": 219.799,
+    "duration": 5.401
+  },
+  {
+    "text": "uh jurisdictions that don't have backend",
+    "start": 222.2,
+    "duration": 5.759
+  },
+  {
+    "text": "short form merger processes where you",
+    "start": 225.2,
+    "duration": 5.48
+  },
+  {
+    "text": "can buy up stub bits of equities and",
+    "start": 227.959,
+    "duration": 4.84
+  },
+  {
+    "text": "companies that you can control I'll",
+    "start": 230.68,
+    "duration": 3.839
+  },
+  {
+    "text": "often be the second largest holder where",
+    "start": 232.799,
+    "duration": 3.201
+  },
+  {
+    "text": "there's a majority holder that's the",
+    "start": 234.519,
+    "duration": 3.121
+  },
+  {
+    "text": "largest and",
+    "start": 236.0,
+    "duration": 6.319
+  },
+  {
+    "text": "simply negotiate a private exit to that",
+    "start": 237.64,
+    "duration": 6.76
+  },
+  {
+    "text": "majority owner uh because they don't",
+    "start": 242.319,
+    "duration": 3.92
+  },
+  {
+    "text": "have a process to Simply Hoover up all",
+    "start": 244.4,
+    "duration": 4.0
+  },
+  {
+    "text": "of the residual holders like we do in",
+    "start": 246.239,
+    "duration": 3.481
+  },
+  {
+    "text": "the US in the US this wouldn't come",
+    "start": 248.4,
+    "duration": 4.839
+  },
+  {
+    "text": "about but in Europe and in Latin America",
+    "start": 249.72,
+    "duration": 5.28
+  },
+  {
+    "text": "uh we often can get kind of a premium",
+    "start": 253.239,
+    "duration": 4.68
+  },
+  {
+    "text": "from our shares when we're the um last",
+    "start": 255.0,
+    "duration": 4.239
+  },
+  {
+    "text": "remaining kind of holdouts when there's",
+    "start": 257.919,
+    "duration": 4.04
+  },
+  {
+    "text": "a majority owner um so yeah different",
+    "start": 259.239,
+    "duration": 4.361
+  },
+  {
+    "text": "situations where we can find somebody",
+    "start": 261.959,
+    "duration": 5.441
+  },
+  {
+    "text": "who uh uh has has to sell not",
+    "start": 263.6,
+    "duration": 5.36
+  },
+  {
+    "text": "necessarily my favorite example but a",
+    "start": 267.4,
+    "duration": 4.4
+  },
+  {
+    "text": "clear one would be uh if something was",
+    "start": 268.96,
+    "duration": 4.76
+  },
+  {
+    "text": "simply removed from an index and an",
+    "start": 271.8,
+    "duration": 6.0
+  },
+  {
+    "text": "index reconstitution or a spin-off that",
+    "start": 273.72,
+    "duration": 5.64
+  },
+  {
+    "text": "spins off something that is not",
+    "start": 277.8,
+    "duration": 4.0
+  },
+  {
+    "text": "applicable to the predecessor",
+    "start": 279.36,
+    "duration": 4.839
+  },
+  {
+    "text": "owners right that's a pretty pretty",
+    "start": 281.8,
+    "duration": 4.399
+  },
+  {
+    "text": "common thing I think that was covered in",
+    "start": 284.199,
+    "duration": 4.241
+  },
+  {
+    "text": "Joel greenblatt's book where you get the",
+    "start": 286.199,
+    "duration": 4.201
+  },
+  {
+    "text": "the spin-off doesn't go in the index so",
+    "start": 288.44,
+    "duration": 3.96
+  },
+  {
+    "text": "you got to get rid of it or it's just",
+    "start": 290.4,
+    "duration": 3.48
+  },
+  {
+    "text": "not the kind of stock that the",
+    "start": 292.4,
+    "duration": 3.76
+  },
+  {
+    "text": "shareholders of the parent want to hang",
+    "start": 293.88,
+    "duration": 5.84
+  },
+  {
+    "text": "on to right yes I I had had a nephew",
+    "start": 296.16,
+    "duration": 6.72
+  },
+  {
+    "text": "graduate from uh middle school today and",
+    "start": 299.72,
+    "duration": 5.56
+  },
+  {
+    "text": "his graduation gift for me was Joel",
+    "start": 302.88,
+    "duration": 5.72
+  },
+  {
+    "text": "green BL uh uh you can be a stock market",
+    "start": 305.28,
+    "duration": 6.28
+  },
+  {
+    "text": "genius uh and I said you get the book",
+    "start": 308.6,
+    "duration": 4.92
+  },
+  {
+    "text": "and you have to read it and then you",
+    "start": 311.56,
+    "duration": 5.4
+  },
+  {
+    "text": "have to present to me a a new current",
+    "start": 313.52,
+    "duration": 5.36
+  },
+  {
+    "text": "actionable edgy idea from the book and",
+    "start": 316.96,
+    "duration": 4.16
+  },
+  {
+    "text": "I'll buy you some stock in that company",
+    "start": 318.88,
+    "duration": 6.68
+  },
+  {
+    "text": "so uh so that's my uh that was my um uh",
+    "start": 321.12,
+    "duration": 6.519
+  },
+  {
+    "text": "offer and same offer to my kids so",
+    "start": 325.56,
+    "duration": 3.639
+  },
+  {
+    "text": "they're they're hopefully reading that",
+    "start": 327.639,
+    "duration": 3.161
+  },
+  {
+    "text": "book now and hopefully we'll get back to",
+    "start": 329.199,
+    "duration": 4.241
+  },
+  {
+    "text": "me with their proposal for uh something",
+    "start": 330.8,
+    "duration": 4.92
+  },
+  {
+    "text": "uh something in it that's worth buying",
+    "start": 333.44,
+    "duration": 7.72
+  },
+  {
+    "text": "right so so you must do a lot of in this",
+    "start": 335.72,
+    "duration": 8.199
+  },
+  {
+    "text": "kind of approach you're just constantly",
+    "start": 341.16,
+    "duration": 6.12
+  },
+  {
+    "text": "constantly looking for for ideas you",
+    "start": 343.919,
+    "duration": 4.801
+  },
+  {
+    "text": "know it's not like I mean Warren",
+    "start": 347.28,
+    "duration": 3.12
+  },
+  {
+    "text": "Buffett's constantly looking for ideas",
+    "start": 348.72,
+    "duration": 3.44
+  },
+  {
+    "text": "value oriented guys are constantly",
+    "start": 350.4,
+    "duration": 4.04
+  },
+  {
+    "text": "looking for ideas but a lot of them",
+    "start": 352.16,
+    "duration": 3.92
+  },
+  {
+    "text": "these days you know they want to do this",
+    "start": 354.44,
+    "duration": 3.68
+  },
+  {
+    "text": "forever holding thing and they want to",
+    "start": 356.08,
+    "duration": 3.92
+  },
+  {
+    "text": "compound and find the ones with with",
+    "start": 358.12,
+    "duration": 4.88
+  },
+  {
+    "text": "companies with big Moes but it sounds",
+    "start": 360.0,
+    "duration": 5.44
+  },
+  {
+    "text": "like what you're doing is like you're",
+    "start": 363.0,
+    "duration": 3.88
+  },
+  {
+    "text": "you have a probably have a lot more",
+    "start": 365.44,
+    "duration": 5.24
+  },
+  {
+    "text": "turnover than most funds correct I mean",
+    "start": 366.88,
+    "duration": 8.039
+  },
+  {
+    "text": "uh yes and no uh it is a fairly frenetic",
+    "start": 370.68,
+    "duration": 5.88
+  },
+  {
+    "text": "research process you have to look at a",
+    "start": 374.919,
+    "duration": 4.12
+  },
+  {
+    "text": "lot of things um but there there are",
+    "start": 376.56,
+    "duration": 4.079
+  },
+  {
+    "text": "there are ideas in this category that",
+    "start": 379.039,
+    "duration": 6.16
+  },
+  {
+    "text": "take years to um have a catalyst and",
+    "start": 380.639,
+    "duration": 6.481
+  },
+  {
+    "text": "kind of there there can be long holding",
+    "start": 385.199,
+    "duration": 4.641
+  },
+  {
+    "text": "periods so there's there's really a mix",
+    "start": 387.12,
+    "duration": 5.56
+  },
+  {
+    "text": "really that's intriguing to me the idea",
+    "start": 389.84,
+    "duration": 6.12
+  },
+  {
+    "text": "of event driven taking many years what",
+    "start": 392.68,
+    "duration": 6.4
+  },
+  {
+    "text": "kind of an event takes many years well",
+    "start": 395.96,
+    "duration": 7.12
+  },
+  {
+    "text": "uh by Statute or policy there is a",
+    "start": 399.08,
+    "duration": 7.76
+  },
+  {
+    "text": "two-year moratorium on a corporate",
+    "start": 403.08,
+    "duration": 8.32
+  },
+  {
+    "text": "transaction to sell a company after a",
+    "start": 406.84,
+    "duration": 7.639
+  },
+  {
+    "text": "spin-off uh there is a three-year",
+    "start": 411.4,
+    "duration": 6.199
+  },
+  {
+    "text": "moratorium on selling a company after a",
+    "start": 414.479,
+    "duration": 5.44
+  },
+  {
+    "text": "demutualization",
+    "start": 417.599,
+    "duration": 6.561
+  },
+  {
+    "text": "uh in that fourth and fifth year 75% of",
+    "start": 419.919,
+    "duration": 7.161
+  },
+  {
+    "text": "them are deal targets often at a huge",
+    "start": 424.16,
+    "duration": 6.4
+  },
+  {
+    "text": "premium to what we pay for the Private",
+    "start": 427.08,
+    "duration": 4.799
+  },
+  {
+    "text": "Stock in the",
+    "start": 430.56,
+    "duration": 4.0
+  },
+  {
+    "text": "demutualization but 0% of them sell in",
+    "start": 431.879,
+    "duration": 4.681
+  },
+  {
+    "text": "the first three years so that's one that",
+    "start": 434.56,
+    "duration": 5.319
+  },
+  {
+    "text": "is commonly a catalyst in the fourth and",
+    "start": 436.56,
+    "duration": 5.12
+  },
+  {
+    "text": "fifth year but never a catalyst in the",
+    "start": 439.879,
+    "duration": 4.841
+  },
+  {
+    "text": "first three um so those are just two",
+    "start": 441.68,
+    "duration": 4.44
+  },
+  {
+    "text": "examples off the top of my head of",
+    "start": 444.72,
+    "duration": 3.199
+  },
+  {
+    "text": "something that has to take at least two",
+    "start": 446.12,
+    "duration": 4.84
+  },
+  {
+    "text": "or has to take at least least uh three",
+    "start": 447.919,
+    "duration": 5.161
+  },
+  {
+    "text": "years when was the last time you got",
+    "start": 450.96,
+    "duration": 5.12
+  },
+  {
+    "text": "into a demutualization I haven't i' I I",
+    "start": 453.08,
+    "duration": 4.72
+  },
+  {
+    "text": "forgot these things existed until you",
+    "start": 456.08,
+    "duration": 2.839
+  },
+  {
+    "text": "just mentioned it again I haven't",
+    "start": 457.8,
+    "duration": 4.239
+  },
+  {
+    "text": "thought about this in years um so uh so",
+    "start": 458.919,
+    "duration": 7.68
+  },
+  {
+    "text": "Eastern bankor was a was a uh good",
+    "start": 462.039,
+    "duration": 7.521
+  },
+  {
+    "text": "opportunity um that was a recent one",
+    "start": 466.599,
+    "duration": 6.16
+  },
+  {
+    "text": "there there are a number of um",
+    "start": 469.56,
+    "duration": 6.88
+  },
+  {
+    "text": "potential uh Insurance uh",
+    "start": 472.759,
+    "duration": 6.201
+  },
+  {
+    "text": "demutualization um one one that I'm very",
+    "start": 476.44,
+    "duration": 6.64
+  },
+  {
+    "text": "interested in right now is uh the",
+    "start": 478.96,
+    "duration": 6.239
+  },
+  {
+    "text": "phenomenon of companies that have gone",
+    "start": 483.08,
+    "duration": 5.559
+  },
+  {
+    "text": "through the first of a two-step process",
+    "start": 485.199,
+    "duration": 6.72
+  },
+  {
+    "text": "um going from kind of a fully uh private",
+    "start": 488.639,
+    "duration": 6.28
+  },
+  {
+    "text": "not for-profit Thrift to a mutual",
+    "start": 491.919,
+    "duration": 6.161
+  },
+  {
+    "text": "holding company and then from the MHC to",
+    "start": 494.919,
+    "duration": 5.321
+  },
+  {
+    "text": "the fully",
+    "start": 498.08,
+    "duration": 5.64
+  },
+  {
+    "text": "for-profit Bank some very interesting",
+    "start": 500.24,
+    "duration": 6.84
+  },
+  {
+    "text": "opportunities right now to remal eyesee",
+    "start": 503.72,
+    "duration": 5.919
+  },
+  {
+    "text": "them and By REM mutualize what I mean is",
+    "start": 507.08,
+    "duration": 5.24
+  },
+  {
+    "text": "um they kind of were a flop uh the",
+    "start": 509.639,
+    "duration": 5.88
+  },
+  {
+    "text": "market wasn't that interested uh they're",
+    "start": 512.32,
+    "duration": 5.24
+  },
+  {
+    "text": "kind of",
+    "start": 515.519,
+    "duration": 5.841
+  },
+  {
+    "text": "um dispirited and know that there really",
+    "start": 517.56,
+    "duration": 6.44
+  },
+  {
+    "text": "isn't growth opportunities their",
+    "start": 521.36,
+    "duration": 5.159
+  },
+  {
+    "text": "currency has not appreciated so they",
+    "start": 524.0,
+    "duration": 5.399
+  },
+  {
+    "text": "couldn't really be a buyer um and so you",
+    "start": 526.519,
+    "duration": 4.081
+  },
+  {
+    "text": "have this",
+    "start": 529.399,
+    "duration": 3.241
+  },
+  {
+    "text": "undersized",
+    "start": 530.6,
+    "duration": 4.04
+  },
+  {
+    "text": "undervalued ignored",
+    "start": 532.64,
+    "duration": 3.84
+  },
+  {
+    "text": "underappreciated stock that kind of",
+    "start": 534.64,
+    "duration": 3.319
+  },
+  {
+    "text": "doesn't really have any purpose in the",
+    "start": 536.48,
+    "duration": 3.599
+  },
+  {
+    "text": "public the the public market said thanks",
+    "start": 537.959,
+    "duration": 6.961
+  },
+  {
+    "text": "but no thanks uh and uh what that opens",
+    "start": 540.079,
+    "duration": 7.681
+  },
+  {
+    "text": "up sure you could just kind of keep",
+    "start": 544.92,
+    "duration": 4.24
+  },
+  {
+    "text": "going and do a second step conversion",
+    "start": 547.76,
+    "duration": 2.48
+  },
+  {
+    "text": "but there's really no point but what",
+    "start": 549.16,
+    "duration": 4.96
+  },
+  {
+    "text": "that opens up is for a existing Credit",
+    "start": 550.24,
+    "duration": 6.92
+  },
+  {
+    "text": "Union or Mutual to buy them back and to",
+    "start": 554.12,
+    "duration": 5.2
+  },
+  {
+    "text": "get 100% control but only having to pay",
+    "start": 557.16,
+    "duration": 5.239
+  },
+  {
+    "text": "for the 40% float so you can pay",
+    "start": 559.32,
+    "duration": 5.68
+  },
+  {
+    "text": "anything uh this is Monopoly money this",
+    "start": 562.399,
+    "duration": 5.481
+  },
+  {
+    "text": "is wam they can pay uh they're",
+    "start": 565.0,
+    "duration": 5.399
+  },
+  {
+    "text": "indifferent uh to what they pay and so",
+    "start": 567.88,
+    "duration": 5.72
+  },
+  {
+    "text": "we're getting these gy multiples from",
+    "start": 570.399,
+    "duration": 6.481
+  },
+  {
+    "text": "credit unions for small uh Banks",
+    "start": 573.6,
+    "duration": 5.76
+  },
+  {
+    "text": "especially the kind of half Public",
+    "start": 576.88,
+    "duration": 5.8
+  },
+  {
+    "text": "Mutual holding company uh float uh to",
+    "start": 579.36,
+    "duration": 6.44
+  },
+  {
+    "text": "the point that there are some of these",
+    "start": 582.68,
+    "duration": 5.32
+  },
+  {
+    "text": "banks that if you look at kind of",
+    "start": 585.8,
+    "duration": 3.8
+  },
+  {
+    "text": "because of interest rate changes and how",
+    "start": 588.0,
+    "duration": 5.399
+  },
+  {
+    "text": "just they mark their books you could buy",
+    "start": 589.6,
+    "duration": 7.679
+  },
+  {
+    "text": "the whole thing and just by remark to",
+    "start": 593.399,
+    "duration": 6.321
+  },
+  {
+    "text": "Mark just just the normal m&a account",
+    "start": 597.279,
+    "duration": 4.12
+  },
+  {
+    "text": "basically get them for free you could",
+    "start": 599.72,
+    "duration": 3.08
+  },
+  {
+    "text": "you could pay we could go in and we",
+    "start": 601.399,
+    "duration": 3.401
+  },
+  {
+    "text": "could pay ourselves a special dividend",
+    "start": 602.8,
+    "duration": 5.32
+  },
+  {
+    "text": "and just own the uh own the franchise",
+    "start": 604.8,
+    "duration": 5.76
+  },
+  {
+    "text": "value free and clear um really",
+    "start": 608.12,
+    "duration": 4.159
+  },
+  {
+    "text": "remarkable opportunities right now for",
+    "start": 610.56,
+    "duration": 4.44
+  },
+  {
+    "text": "remiz small Mutual hold",
+    "start": 612.279,
+    "duration": 5.12
+  },
+  {
+    "text": "C that's interesting Dan I would like to",
+    "start": 615.0,
+    "duration": 4.2
+  },
+  {
+    "text": "own a bank would you want to go in with",
+    "start": 617.399,
+    "duration": 6.921
+  },
+  {
+    "text": "me that's right on those terms yeah fre",
+    "start": 619.2,
+    "duration": 7.639
+  },
+  {
+    "text": "I'll do that I I I do get into weird",
+    "start": 624.32,
+    "duration": 4.36
+  },
+  {
+    "text": "things every once in a while simply",
+    "start": 626.839,
+    "duration": 3.841
+  },
+  {
+    "text": "because uh as long as it's limited",
+    "start": 628.68,
+    "duration": 3.96
+  },
+  {
+    "text": "liability as long as it's legal and",
+    "start": 630.68,
+    "duration": 3.96
+  },
+  {
+    "text": "analyzable with limited liability I'm up",
+    "start": 632.64,
+    "duration": 3.96
+  },
+  {
+    "text": "for anything like I I think speculation",
+    "start": 634.64,
+    "duration": 3.92
+  },
+  {
+    "text": "is fun as long as I don't have any",
+    "start": 636.6,
+    "duration": 5.28
+  },
+  {
+    "text": "downside uh uh so you know I think",
+    "start": 638.56,
+    "duration": 6.2
+  },
+  {
+    "text": "there's a certain aesthetic to Value",
+    "start": 641.88,
+    "duration": 7.56
+  },
+  {
+    "text": "investing that's kind of cranky and um",
+    "start": 644.76,
+    "duration": 9.96
+  },
+  {
+    "text": "kind of prudent uh in its uh topic but",
+    "start": 649.44,
+    "duration": 6.959
+  },
+  {
+    "text": "anything can be solved by price if you",
+    "start": 654.72,
+    "duration": 4.04
+  },
+  {
+    "text": "can underpay enough uh there's a lot of",
+    "start": 656.399,
+    "duration": 4.481
+  },
+  {
+    "text": "cool things out there that one can",
+    "start": 658.76,
+    "duration": 5.48
+  },
+  {
+    "text": "own yeah and that was one of one of the",
+    "start": 660.88,
+    "duration": 4.92
+  },
+  {
+    "text": "main things that the world sort of",
+    "start": 664.24,
+    "duration": 3.279
+  },
+  {
+    "text": "learned from Ben Graham right anything",
+    "start": 665.8,
+    "duration": 6.279
+  },
+  {
+    "text": "at a price at the right price um sounds",
+    "start": 667.519,
+    "duration": 7.401
+  },
+  {
+    "text": "good to me I mean over the past you know",
+    "start": 672.079,
+    "duration": 4.521
+  },
+  {
+    "text": "couple of decades the prices seem to",
+    "start": 674.92,
+    "duration": 3.2
+  },
+  {
+    "text": "have gone up and up and up and there's",
+    "start": 676.6,
+    "duration": 3.08
+  },
+  {
+    "text": "less of that stuff to be done but you're",
+    "start": 678.12,
+    "duration": 3.32
+  },
+  {
+    "text": "you sound like you're finding plenty of",
+    "start": 679.68,
+    "duration": 5.76
+  },
+  {
+    "text": "it um so the the the ratio right now on",
+    "start": 681.44,
+    "duration": 6.88
+  },
+  {
+    "text": "valuations between small and large cap I",
+    "start": 685.44,
+    "duration": 4.88
+  },
+  {
+    "text": "think I think there's a lot of Bargains",
+    "start": 688.32,
+    "duration": 6.0
+  },
+  {
+    "text": "in small uh the ratio right now",
+    "start": 690.32,
+    "duration": 7.24
+  },
+  {
+    "text": "between um financials small Community",
+    "start": 694.32,
+    "duration": 4.92
+  },
+  {
+    "text": "Banks and the S&P",
+    "start": 697.56,
+    "duration": 5.36
+  },
+  {
+    "text": "is off what it's ever been um so yeah",
+    "start": 699.24,
+    "duration": 6.039
+  },
+  {
+    "text": "Banks and small in particular they're",
+    "start": 702.92,
+    "duration": 5.52
+  },
+  {
+    "text": "there Bargains to be found um uh some",
+    "start": 705.279,
+    "duration": 4.841
+  },
+  {
+    "text": "pain in getting here in some cases but",
+    "start": 708.44,
+    "duration": 3.32
+  },
+  {
+    "text": "at this point perspectively I think that",
+    "start": 710.12,
+    "duration": 4.6
+  },
+  {
+    "text": "that can be fairly interesting IDE set",
+    "start": 711.76,
+    "duration": 6.28
+  },
+  {
+    "text": "of ideas so small like under what kind",
+    "start": 714.72,
+    "duration": 6.559
+  },
+  {
+    "text": "of market cap like how small the the one",
+    "start": 718.04,
+    "duration": 4.599
+  },
+  {
+    "text": "I was thinking of the mutual holding",
+    "start": 721.279,
+    "duration": 3.761
+  },
+  {
+    "text": "companies under hundred million I mean",
+    "start": 722.639,
+    "duration": 5.32
+  },
+  {
+    "text": "so tiny teeny tiny but um there's really",
+    "start": 725.04,
+    "duration": 5.68
+  },
+  {
+    "text": "no reason to be a publicly traded bank",
+    "start": 727.959,
+    "duration": 4.361
+  },
+  {
+    "text": "with a market cap under a billion",
+    "start": 730.72,
+    "duration": 4.0
+  },
+  {
+    "text": "dollars you know if you just look at the",
+    "start": 732.32,
+    "duration": 6.519
+  },
+  {
+    "text": "just the comp uh but all of the public",
+    "start": 734.72,
+    "duration": 7.4
+  },
+  {
+    "text": "costs um these these tiny Community",
+    "start": 738.839,
+    "duration": 5.081
+  },
+  {
+    "text": "Banks I mean they're thousands of them",
+    "start": 742.12,
+    "duration": 4.8
+  },
+  {
+    "text": "in the US and we don't need any of them",
+    "start": 743.92,
+    "duration": 4.68
+  },
+  {
+    "text": "there's just no reason to exist as a",
+    "start": 746.92,
+    "duration": 4.52
+  },
+  {
+    "text": "separate corporate",
+    "start": 748.6,
+    "duration": 6.679
+  },
+  {
+    "text": "entity sure um I think the people who",
+    "start": 751.44,
+    "duration": 5.639
+  },
+  {
+    "text": "work at them might might beg to differ",
+    "start": 755.279,
+    "duration": 4.0
+  },
+  {
+    "text": "but yes I understand what you're saying",
+    "start": 757.079,
+    "duration": 3.76
+  },
+  {
+    "text": "well especially in the roles that are",
+    "start": 759.279,
+    "duration": 3.12
+  },
+  {
+    "text": "the cost savings where you could",
+    "start": 760.839,
+    "duration": 3.12
+  },
+  {
+    "text": "essentially take out all the costs I",
+    "start": 762.399,
+    "duration": 4.601
+  },
+  {
+    "text": "mean One Bank needs one Treasurer and",
+    "start": 763.959,
+    "duration": 4.68
+  },
+  {
+    "text": "two Banks need one Treasurer and three",
+    "start": 767.0,
+    "duration": 4.199
+  },
+  {
+    "text": "Banks need one Treasurer so you can uh I",
+    "start": 768.639,
+    "duration": 4.281
+  },
+  {
+    "text": "mean you still are going to have",
+    "start": 771.199,
+    "duration": 3.961
+  },
+  {
+    "text": "physical branches I guess and you're",
+    "start": 772.92,
+    "duration": 3.84
+  },
+  {
+    "text": "going to still have tellers I guess but",
+    "start": 775.16,
+    "duration": 4.96
+  },
+  {
+    "text": "yeah some of the uh corporate roles are",
+    "start": 776.76,
+    "duration": 8.16
+  },
+  {
+    "text": "um uh expensive and um and and can",
+    "start": 780.12,
+    "duration": 7.48
+  },
+  {
+    "text": "really uh justify you know huge cost",
+    "start": 784.92,
+    "duration": 5.279
+  },
+  {
+    "text": "Savings in m&a right so as you described",
+    "start": 787.6,
+    "duration": 4.599
+  },
+  {
+    "text": "the discrepancy and valuation was",
+    "start": 790.199,
+    "duration": 5.241
+  },
+  {
+    "text": "between small cap um and",
+    "start": 792.199,
+    "duration": 6.401
+  },
+  {
+    "text": "large that's been a couple of years",
+    "start": 795.44,
+    "duration": 4.92
+  },
+  {
+    "text": "hasn't it's been for a few years and it",
+    "start": 798.6,
+    "duration": 4.56
+  },
+  {
+    "text": "makes me think to myself yeah I guess if",
+    "start": 800.36,
+    "duration": 5.44
+  },
+  {
+    "text": "you're going to do event driven um small",
+    "start": 803.16,
+    "duration": 5.08
+  },
+  {
+    "text": "is the way to go because you kind you",
+    "start": 805.8,
+    "duration": 4.36
+  },
+  {
+    "text": "kind of need it now down there don't you",
+    "start": 808.24,
+    "duration": 3.2
+  },
+  {
+    "text": "these",
+    "start": 810.16,
+    "duration": 5.52
+  },
+  {
+    "text": "days yes if you look at a very good",
+    "start": 811.44,
+    "duration": 6.519
+  },
+  {
+    "text": "question and point if you look at kind",
+    "start": 815.68,
+    "duration": 3.24
+  },
+  {
+    "text": "of",
+    "start": 817.959,
+    "duration": 3.361
+  },
+  {
+    "text": "Normie uh",
+    "start": 818.92,
+    "duration": 5.08
+  },
+  {
+    "text": "vanilla Bank deals even even when they",
+    "start": 821.32,
+    "duration": 5.079
+  },
+  {
+    "text": "have kind of m&a there's really very",
+    "start": 824.0,
+    "duration": 4.639
+  },
+  {
+    "text": "little premium and you can just kind of",
+    "start": 826.399,
+    "duration": 4.68
+  },
+  {
+    "text": "bounce around and I could tell you oh",
+    "start": 828.639,
+    "duration": 3.801
+  },
+  {
+    "text": "academically it's kind of cheapish and",
+    "start": 831.079,
+    "duration": 4.481
+  },
+  {
+    "text": "it'll stay kind of cheapish uh but um",
+    "start": 832.44,
+    "duration": 6.079
+  },
+  {
+    "text": "when you have these very specific",
+    "start": 835.56,
+    "duration": 4.839
+  },
+  {
+    "text": "categor",
+    "start": 838.519,
+    "duration": 3.961
+  },
+  {
+    "text": "uh that are the kind of idiosyncratic",
+    "start": 840.399,
+    "duration": 6.201
+  },
+  {
+    "text": "ones that's where um I think it's",
+    "start": 842.48,
+    "duration": 6.2
+  },
+  {
+    "text": "actionable and really you know gets",
+    "start": 846.6,
+    "duration": 6.239
+  },
+  {
+    "text": "catalyzed um uh there are um I mentioned",
+    "start": 848.68,
+    "duration": 5.92
+  },
+  {
+    "text": "the mutual hold Co opportunities I think",
+    "start": 852.839,
+    "duration": 3.881
+  },
+  {
+    "text": "there's going to be a lot of deals there",
+    "start": 854.6,
+    "duration": 6.72
+  },
+  {
+    "text": "um the uh other um the other kind of",
+    "start": 856.72,
+    "duration": 5.679
+  },
+  {
+    "text": "category where I think there's going to",
+    "start": 861.32,
+    "duration": 6.36
+  },
+  {
+    "text": "be a lot of uh deals is in the uh uh",
+    "start": 862.399,
+    "duration": 8.88
+  },
+  {
+    "text": "esip Banks the CIP is a um kind of a",
+    "start": 867.68,
+    "duration": 8.24
+  },
+  {
+    "text": "government boondoggle uh program uh that",
+    "start": 871.279,
+    "duration": 7.401
+  },
+  {
+    "text": "the government just the shortest version",
+    "start": 875.92,
+    "duration": 4.479
+  },
+  {
+    "text": "is it just gave a bunch of money to a",
+    "start": 878.68,
+    "duration": 4.36
+  },
+  {
+    "text": "bunch of banks uh the slightly longer",
+    "start": 880.399,
+    "duration": 5.88
+  },
+  {
+    "text": "version is they did it in the form of",
+    "start": 883.04,
+    "duration": 5.32
+  },
+  {
+    "text": "prefs that's a liability in their",
+    "start": 886.279,
+    "duration": 4.761
+  },
+  {
+    "text": "balance sheet but with a nod and a wink",
+    "start": 888.36,
+    "duration": 5.56
+  },
+  {
+    "text": "that they'll be largely or completely",
+    "start": 891.04,
+    "duration": 4.44
+  },
+  {
+    "text": "forgiven a",
+    "start": 893.92,
+    "duration": 5.0
+  },
+  {
+    "text": "nominal uh dividend distribution payment",
+    "start": 895.48,
+    "duration": 5.24
+  },
+  {
+    "text": "that that you can kind of easily avoid",
+    "start": 898.92,
+    "duration": 5.52
+  },
+  {
+    "text": "having to pay uh in practice so in",
+    "start": 900.72,
+    "duration": 6.84
+  },
+  {
+    "text": "theory the prefs are mostly worthless in",
+    "start": 904.44,
+    "duration": 5.8
+  },
+  {
+    "text": "practice possibly completely and they're",
+    "start": 907.56,
+    "duration": 5.04
+  },
+  {
+    "text": "a huge part of some of these tiny Banks",
+    "start": 910.24,
+    "duration": 7.719
+  },
+  {
+    "text": "so um if you uh uh so so one that uh I",
+    "start": 912.6,
+    "duration": 8.799
+  },
+  {
+    "text": "own that I like uh Bay Community Bank",
+    "start": 917.959,
+    "duration": 6.68
+  },
+  {
+    "text": "core uh in California",
+    "start": 921.399,
+    "duration": 5.88
+  },
+  {
+    "text": "Coba um they were kind of bouncing",
+    "start": 924.639,
+    "duration": 6.241
+  },
+  {
+    "text": "around I don't know seven bucks a share",
+    "start": 927.279,
+    "duration": 5.24
+  },
+  {
+    "text": "uh slightly",
+    "start": 930.88,
+    "duration": 4.879
+  },
+  {
+    "text": "beneath their stated Book",
+    "start": 932.519,
+    "duration": 6.161
+  },
+  {
+    "text": "value but if you looked at these prefs",
+    "start": 935.759,
+    "duration": 4.361
+  },
+  {
+    "text": "if you looked at these EET",
+    "start": 938.68,
+    "duration": 5.48
+  },
+  {
+    "text": "PRS it was probably worth more like 20",
+    "start": 940.12,
+    "duration": 5.159
+  },
+  {
+    "text": "uh if you said that they could just",
+    "start": 944.16,
+    "duration": 4.239
+  },
+  {
+    "text": "write them off um if you wrote them down",
+    "start": 945.279,
+    "duration": 5.081
+  },
+  {
+    "text": "uh substantially you know somewhere in",
+    "start": 948.399,
+    "duration": 4.081
+  },
+  {
+    "text": "the High Teens uh and then just this",
+    "start": 950.36,
+    "duration": 4.039
+  },
+  {
+    "text": "past week um they're getting bought uh",
+    "start": 952.48,
+    "duration": 4.799
+  },
+  {
+    "text": "for 14 uh but there's a half dozen of",
+    "start": 954.399,
+    "duration": 5.601
+  },
+  {
+    "text": "these deals that are going to happen um",
+    "start": 957.279,
+    "duration": 6.36
+  },
+  {
+    "text": "uh on similar terms with similar um you",
+    "start": 960.0,
+    "duration": 6.279
+  },
+  {
+    "text": "know premium opportunities so there's",
+    "start": 963.639,
+    "duration": 4.12
+  },
+  {
+    "text": "the the the EIP banks are really",
+    "start": 966.279,
+    "duration": 3.201
+  },
+  {
+    "text": "interesting kind of just this quirky",
+    "start": 967.759,
+    "duration": 4.281
+  },
+  {
+    "text": "little um it doesn't quite screen",
+    "start": 969.48,
+    "duration": 5.599
+  },
+  {
+    "text": "properly uh but hugely valuable and then",
+    "start": 972.04,
+    "duration": 5.12
+  },
+  {
+    "text": "again when that's really G",
+    "start": 975.079,
+    "duration": 5.521
+  },
+  {
+    "text": "to reveal itself when the buyer closes",
+    "start": 977.16,
+    "duration": 5.56
+  },
+  {
+    "text": "the deal and again it's going to be like",
+    "start": 980.6,
+    "duration": 4.08
+  },
+  {
+    "text": "the mutual hold call Opportunity just",
+    "start": 982.72,
+    "duration": 4.679
+  },
+  {
+    "text": "marking the books normal m&a marking you",
+    "start": 984.68,
+    "duration": 6.599
+  },
+  {
+    "text": "know they'll mark down right 80 90 maybe",
+    "start": 987.399,
+    "duration": 6.161
+  },
+  {
+    "text": "100% that liability and then they'll",
+    "start": 991.279,
+    "duration": 4.721
+  },
+  {
+    "text": "just see you know this thing this thing",
+    "start": 993.56,
+    "duration": 4.68
+  },
+  {
+    "text": "was worth 20 to them they paid",
+    "start": 996.0,
+    "duration": 5.16
+  },
+  {
+    "text": "14 what did you pay what did you pay for",
+    "start": 998.24,
+    "duration": 5.76
+  },
+  {
+    "text": "Bay because it's you know the the deal",
+    "start": 1001.16,
+    "duration": 4.96
+  },
+  {
+    "text": "took it from like what seven or eight to",
+    "start": 1004.0,
+    "duration": 6.399
+  },
+  {
+    "text": "13 like that yeah so um so so I was I",
+    "start": 1006.12,
+    "duration": 9.92
+  },
+  {
+    "text": "was yeah I was uh uh I uh uh it's uh so",
+    "start": 1010.399,
+    "duration": 9.761
+  },
+  {
+    "text": "it's trading um there's a doll 90 spread",
+    "start": 1016.04,
+    "duration": 6.479
+  },
+  {
+    "text": "it'll close you know by this time next",
+    "start": 1020.16,
+    "duration": 6.2
+  },
+  {
+    "text": "year um but um but yeah know that was a",
+    "start": 1022.519,
+    "duration": 7.32
+  },
+  {
+    "text": "um that was something that I uh have",
+    "start": 1026.36,
+    "duration": 7.16
+  },
+  {
+    "text": "owned for a little while now um but um",
+    "start": 1029.839,
+    "duration": 4.921
+  },
+  {
+    "text": "it's",
+    "start": 1033.52,
+    "duration": 3.72
+  },
+  {
+    "text": "um uh it's more",
+    "start": 1034.76,
+    "duration": 6.12
+  },
+  {
+    "text": "importantly it is the precedent deal for",
+    "start": 1037.24,
+    "duration": 5.92
+  },
+  {
+    "text": "kind of the next half dozen of the ones",
+    "start": 1040.88,
+    "duration": 4.88
+  },
+  {
+    "text": "in this uh category um the the one",
+    "start": 1043.16,
+    "duration": 3.84
+  },
+  {
+    "text": "that's kind of easy to remember it's",
+    "start": 1045.76,
+    "duration": 3.52
+  },
+  {
+    "text": "very funny there's another one with",
+    "start": 1047.0,
+    "duration": 5.28
+  },
+  {
+    "text": "economics almost identical called Pon",
+    "start": 1049.28,
+    "duration": 8.44
+  },
+  {
+    "text": "pdlb and Pon Financial is um if you it's",
+    "start": 1052.28,
+    "duration": 7.32
+  },
+  {
+    "text": "just totally a coincidence that the",
+    "start": 1057.72,
+    "duration": 3.6
+  },
+  {
+    "text": "share price happens to work out the same",
+    "start": 1059.6,
+    "duration": 4.24
+  },
+  {
+    "text": "if you just do the same metrics on how",
+    "start": 1061.32,
+    "duration": 7.239
+  },
+  {
+    "text": "much you mark the EIP prefs their deal",
+    "start": 1063.84,
+    "duration": 8.12
+  },
+  {
+    "text": "would be $14 a share too in both cases",
+    "start": 1068.559,
+    "duration": 5.12
+  },
+  {
+    "text": "I'm on the ask side here I would have",
+    "start": 1071.96,
+    "duration": 3.959
+  },
+  {
+    "text": "liked tiens I mean I just I see how much",
+    "start": 1073.679,
+    "duration": 3.681
+  },
+  {
+    "text": "value there is and you can get it for",
+    "start": 1075.919,
+    "duration": 3.841
+  },
+  {
+    "text": "free I just want all of it in this deal",
+    "start": 1077.36,
+    "duration": 3.679
+  },
+  {
+    "text": "they kind of split it in half I mean",
+    "start": 1079.76,
+    "duration": 4.039
+  },
+  {
+    "text": "literally they split the arithmetic",
+    "start": 1081.039,
+    "duration": 5.801
+  },
+  {
+    "text": "worked out to almost 50% um so I think",
+    "start": 1083.799,
+    "duration": 5.601
+  },
+  {
+    "text": "that that would be you know possibly so",
+    "start": 1086.84,
+    "duration": 4.88
+  },
+  {
+    "text": "I don't want to negotiate against myself",
+    "start": 1089.4,
+    "duration": 4.68
+  },
+  {
+    "text": "I'd be happy to get overpaid but if they",
+    "start": 1091.72,
+    "duration": 3.56
+  },
+  {
+    "text": "kind of split the difference it would be",
+    "start": 1094.08,
+    "duration": 4.28
+  },
+  {
+    "text": "about A4 or $15 deal for ponts as well",
+    "start": 1095.28,
+    "duration": 4.399
+  },
+  {
+    "text": "and I think that's going to come you",
+    "start": 1098.36,
+    "duration": 4.12
+  },
+  {
+    "text": "know could come any day so and just for",
+    "start": 1099.679,
+    "duration": 4.601
+  },
+  {
+    "text": "our listeners Chris pref meaning",
+    "start": 1102.48,
+    "duration": 5.76
+  },
+  {
+    "text": "preferred stock um yes issued to the",
+    "start": 1104.28,
+    "duration": 5.24
+  },
+  {
+    "text": "government",
+    "start": 1108.24,
+    "duration": 4.36
+  },
+  {
+    "text": "yes yeah under under whatever the esip",
+    "start": 1109.52,
+    "duration": 6.12
+  },
+  {
+    "text": "terms are which sound and so it's um and",
+    "start": 1112.6,
+    "duration": 6.079
+  },
+  {
+    "text": "it's a um it's a funny program so this",
+    "start": 1115.64,
+    "duration": 6.44
+  },
+  {
+    "text": "was kind of uh a fast public policy is",
+    "start": 1118.679,
+    "duration": 5.201
+  },
+  {
+    "text": "almost always bad public policy and so",
+    "start": 1122.08,
+    "duration": 6.24
+  },
+  {
+    "text": "this was kind of a um uh that is true a",
+    "start": 1123.88,
+    "duration": 8.64
+  },
+  {
+    "text": "um uh GL a glandular reaction this was",
+    "start": 1128.32,
+    "duration": 7.0
+  },
+  {
+    "text": "kind of a uh",
+    "start": 1132.52,
+    "duration": 5.68
+  },
+  {
+    "text": "uh a mixture of if you take all of the",
+    "start": 1135.32,
+    "duration": 4.2
+  },
+  {
+    "text": "emotion",
+    "start": 1138.2,
+    "duration": 4.599
+  },
+  {
+    "text": "that the collective world had related to",
+    "start": 1139.52,
+    "duration": 6.96
+  },
+  {
+    "text": "anything to do with Co and George Floyd",
+    "start": 1142.799,
+    "duration": 5.481
+  },
+  {
+    "text": "and you put together a program and five",
+    "start": 1146.48,
+    "duration": 3.84
+  },
+  {
+    "text": "minutes later saying we'll spend any",
+    "start": 1148.28,
+    "duration": 4.68
+  },
+  {
+    "text": "amount of money and you kind of just",
+    "start": 1150.32,
+    "duration": 5.08
+  },
+  {
+    "text": "throw it together and the people at the",
+    "start": 1152.96,
+    "duration": 3.48
+  },
+  {
+    "text": "treasury Department who threw it",
+    "start": 1155.4,
+    "duration": 3.0
+  },
+  {
+    "text": "together said absolutely not we want",
+    "start": 1156.44,
+    "duration": 4.359
+  },
+  {
+    "text": "nothing to do with this no no no and",
+    "start": 1158.4,
+    "duration": 4.0
+  },
+  {
+    "text": "they were kind of ordered to build this",
+    "start": 1160.799,
+    "duration": 4.601
+  },
+  {
+    "text": "thing they threw tens of billions of",
+    "start": 1162.4,
+    "duration": 4.279
+  },
+  {
+    "text": "dollars at it and then they kind of",
+    "start": 1165.4,
+    "duration": 2.68
+  },
+  {
+    "text": "washed their hands with it I mean they",
+    "start": 1166.679,
+    "duration": 2.921
+  },
+  {
+    "text": "more or less said said we never want to",
+    "start": 1168.08,
+    "duration": 3.52
+  },
+  {
+    "text": "see this stuff again don't you know this",
+    "start": 1169.6,
+    "duration": 6.199
+  },
+  {
+    "text": "was this was not a treasury uh Le idea",
+    "start": 1171.6,
+    "duration": 6.92
+  },
+  {
+    "text": "it's also it's huge for me but it's tiny",
+    "start": 1175.799,
+    "duration": 4.401
+  },
+  {
+    "text": "for them like there's no senior person",
+    "start": 1178.52,
+    "duration": 3.0
+  },
+  {
+    "text": "that wants to think about this thing",
+    "start": 1180.2,
+    "duration": 3.839
+  },
+  {
+    "text": "again and so they were ordered to do it",
+    "start": 1181.52,
+    "duration": 6.56
+  },
+  {
+    "text": "for rushed kind of political reasons and",
+    "start": 1184.039,
+    "duration": 6.76
+  },
+  {
+    "text": "uh it was done in by government",
+    "start": 1188.08,
+    "duration": 6.28
+  },
+  {
+    "text": "standards it was done in an inept",
+    "start": 1190.799,
+    "duration": 8.76
+  },
+  {
+    "text": "corrupt and propagate way um that uh uh",
+    "start": 1194.36,
+    "duration": 8.52
+  },
+  {
+    "text": "really has no equal I can think of but",
+    "start": 1199.559,
+    "duration": 6.641
+  },
+  {
+    "text": "um just bestowed immense value on a",
+    "start": 1202.88,
+    "duration": 5.52
+  },
+  {
+    "text": "completely arbitrary set of common",
+    "start": 1206.2,
+    "duration": 4.32
+  },
+  {
+    "text": "stockholders uh that that was certainly",
+    "start": 1208.4,
+    "duration": 3.399
+  },
+  {
+    "text": "not the intent of the program but it was",
+    "start": 1210.52,
+    "duration": 3.159
+  },
+  {
+    "text": "certainly the",
+    "start": 1211.799,
+    "duration": 4.521
+  },
+  {
+    "text": "result sounds like a pretty normal",
+    "start": 1213.679,
+    "duration": 5.12
+  },
+  {
+    "text": "government",
+    "start": 1216.32,
+    "duration": 6.16
+  },
+  {
+    "text": "program but um when when I'm looking at",
+    "start": 1218.799,
+    "duration": 5.12
+  },
+  {
+    "text": "these and I was think I was just looking",
+    "start": 1222.48,
+    "duration": 5.0
+  },
+  {
+    "text": "you know the spread of of bay is like uh",
+    "start": 1223.919,
+    "duration": 6.281
+  },
+  {
+    "text": "you know it's about it's about 7 % do do",
+    "start": 1227.48,
+    "duration": 4.88
+  },
+  {
+    "text": "you care about that at all does that",
+    "start": 1230.2,
+    "duration": 5.2
+  },
+  {
+    "text": "merger ARB spread interest you at all",
+    "start": 1232.36,
+    "duration": 5.799
+  },
+  {
+    "text": "the um the tax ramifications for me are",
+    "start": 1235.4,
+    "duration": 5.32
+  },
+  {
+    "text": "kind of significant at this point uh so",
+    "start": 1238.159,
+    "duration": 5.4
+  },
+  {
+    "text": "uh so my own kind of behavior here isn't",
+    "start": 1240.72,
+    "duration": 4.56
+  },
+  {
+    "text": "really as instructive as I would say the",
+    "start": 1243.559,
+    "duration": 4.921
+  },
+  {
+    "text": "category and the subsequent I would say",
+    "start": 1245.28,
+    "duration": 4.92
+  },
+  {
+    "text": "if you were new to the situation I would",
+    "start": 1248.48,
+    "duration": 5.88
+  },
+  {
+    "text": "be more interested in the precedential",
+    "start": 1250.2,
+    "duration": 7.719
+  },
+  {
+    "text": "value of other esip deals and when I'm",
+    "start": 1254.36,
+    "duration": 4.92
+  },
+  {
+    "text": "going to be really proved right or wrong",
+    "start": 1257.919,
+    "duration": 4.441
+  },
+  {
+    "text": "on this is watch how the buyer marks",
+    "start": 1259.28,
+    "duration": 5.279
+  },
+  {
+    "text": "their book when this closes I think",
+    "start": 1262.36,
+    "duration": 3.679
+  },
+  {
+    "text": "that's the most interesting thing about",
+    "start": 1264.559,
+    "duration": 3.801
+  },
+  {
+    "text": "it I think the this the ring spreads",
+    "start": 1266.039,
+    "duration": 6.64
+  },
+  {
+    "text": "kind of efficient um if you have a uh",
+    "start": 1268.36,
+    "duration": 8.0
+  },
+  {
+    "text": "rather immense tax bowed on this uh one",
+    "start": 1272.679,
+    "duration": 6.521
+  },
+  {
+    "text": "might you know it's a different",
+    "start": 1276.36,
+    "duration": 6.96
+  },
+  {
+    "text": "circumstance um but uh so so it might be",
+    "start": 1279.2,
+    "duration": 5.64
+  },
+  {
+    "text": "better to wait especially because it",
+    "start": 1283.32,
+    "duration": 6.04
+  },
+  {
+    "text": "might close in early 2025",
+    "start": 1284.84,
+    "duration": 7.319
+  },
+  {
+    "text": "um but um but it's not as a you know I I",
+    "start": 1289.36,
+    "duration": 4.36
+  },
+  {
+    "text": "follow all the merge kind of definitive",
+    "start": 1292.159,
+    "duration": 3.481
+  },
+  {
+    "text": "merger ARB spreads as one of the",
+    "start": 1293.72,
+    "duration": 4.12
+  },
+  {
+    "text": "categories I think about but it's not",
+    "start": 1295.64,
+    "duration": 4.039
+  },
+  {
+    "text": "one of the more interesting categories",
+    "start": 1297.84,
+    "duration": 4.439
+  },
+  {
+    "text": "or examples at this point so it's fine",
+    "start": 1299.679,
+    "duration": 5.561
+  },
+  {
+    "text": "but not um but something I'm looking at",
+    "start": 1302.279,
+    "duration": 6.601
+  },
+  {
+    "text": "more thinking about the next deal so",
+    "start": 1305.24,
+    "duration": 5.919
+  },
+  {
+    "text": "just to be clear though if if you found",
+    "start": 1308.88,
+    "duration": 5.0
+  },
+  {
+    "text": "these banks with some of them let's say",
+    "start": 1311.159,
+    "duration": 6.12
+  },
+  {
+    "text": "this amount of of just regularly issued",
+    "start": 1313.88,
+    "duration": 4.919
+  },
+  {
+    "text": "preferred stock it sounds like you",
+    "start": 1317.279,
+    "duration": 3.441
+  },
+  {
+    "text": "wouldn't be interested or you",
+    "start": 1318.799,
+    "duration": 7.081
+  },
+  {
+    "text": "would uh so ponts as an",
+    "start": 1320.72,
+    "duration": 9.52
+  },
+  {
+    "text": "example um how the math looks to",
+    "start": 1325.88,
+    "duration": 7.279
+  },
+  {
+    "text": "me would I be interested without the",
+    "start": 1330.24,
+    "duration": 5.559
+  },
+  {
+    "text": "esip that's it's a very good",
+    "start": 1333.159,
+    "duration": 5.521
+  },
+  {
+    "text": "question um it would",
+    "start": 1335.799,
+    "duration": 4.76
+  },
+  {
+    "text": "[Music]",
+    "start": 1338.68,
+    "duration": 5.28
+  },
+  {
+    "text": "be I think that it would be",
+    "start": 1340.559,
+    "duration": 8.441
+  },
+  {
+    "text": "worth 11 or12 a share so how excited",
+    "start": 1343.96,
+    "duration": 8.0
+  },
+  {
+    "text": "would I be to spend and I'm not kind of",
+    "start": 1349.0,
+    "duration": 4.44
+  },
+  {
+    "text": "much of a Trader I kind of have to",
+    "start": 1351.96,
+    "duration": 4.64
+  },
+  {
+    "text": "actually go back and double check um you",
+    "start": 1353.44,
+    "duration": 5.8
+  },
+  {
+    "text": "know spending nine bucks to get",
+    "start": 1356.6,
+    "duration": 7.24
+  },
+  {
+    "text": "12 I I I I wouldn't be scandalized by it",
+    "start": 1359.24,
+    "duration": 7.88
+  },
+  {
+    "text": "but it's not a focus of mine right um",
+    "start": 1363.84,
+    "duration": 5.0
+  },
+  {
+    "text": "spending $9 to get",
+    "start": 1367.12,
+    "duration": 5.76
+  },
+  {
+    "text": "18 um that's a mispricing that I I mean",
+    "start": 1368.84,
+    "duration": 7.0
+  },
+  {
+    "text": "I I'm there there's tens of thousands of",
+    "start": 1372.88,
+    "duration": 4.96
+  },
+  {
+    "text": "Securities that I could buy we have a",
+    "start": 1375.84,
+    "duration": 6.319
+  },
+  {
+    "text": "broad man date and I don't Focus that",
+    "start": 1377.84,
+    "duration": 5.92
+  },
+  {
+    "text": "much kind of on the right of the decimal",
+    "start": 1382.159,
+    "duration": 6.481
+  },
+  {
+    "text": "point Precision I focus on just really",
+    "start": 1383.76,
+    "duration": 8.64
+  },
+  {
+    "text": "underpay um I wasn't that excited about",
+    "start": 1388.64,
+    "duration": 7.48
+  },
+  {
+    "text": "the uh saoba deal because I really",
+    "start": 1392.4,
+    "duration": 5.04
+  },
+  {
+    "text": "thought we should have gotten closer to",
+    "start": 1396.12,
+    "duration": 4.6
+  },
+  {
+    "text": "20 so 14 for me was kind of a real lack",
+    "start": 1397.44,
+    "duration": 5.16
+  },
+  {
+    "text": "of precision on my part in part it's",
+    "start": 1400.72,
+    "duration": 3.199
+  },
+  {
+    "text": "just negotiating Dynamic somebody",
+    "start": 1402.6,
+    "duration": 3.64
+  },
+  {
+    "text": "doesn't want to buy you for uh more than",
+    "start": 1403.919,
+    "duration": 5.88
+  },
+  {
+    "text": "they have to pay um but I think that we",
+    "start": 1406.24,
+    "duration": 5.679
+  },
+  {
+    "text": "massively underpaid and we maybe a",
+    "start": 1409.799,
+    "duration": 4.321
+  },
+  {
+    "text": "little sloppy on the Precision of where",
+    "start": 1411.919,
+    "duration": 3.721
+  },
+  {
+    "text": "it ended up I think the same would be",
+    "start": 1414.12,
+    "duration": 3.28
+  },
+  {
+    "text": "true in ponts I think without esup it",
+    "start": 1415.64,
+    "duration": 5.24
+  },
+  {
+    "text": "would be you're paying Nish to get",
+    "start": 1417.4,
+    "duration": 6.36
+  },
+  {
+    "text": "12ish and with it you're getting",
+    "start": 1420.88,
+    "duration": 5.32
+  },
+  {
+    "text": "18ish but they should really sell it",
+    "start": 1423.76,
+    "duration": 3.88
+  },
+  {
+    "text": "shouldn't be a separate there's no",
+    "start": 1426.2,
+    "duration": 3.32
+  },
+  {
+    "text": "reason to have a $200 million separate",
+    "start": 1427.64,
+    "duration": 4.039
+  },
+  {
+    "text": "Corporation that's silly and wasteful",
+    "start": 1429.52,
+    "duration": 5.96
+  },
+  {
+    "text": "and the expenses are too high so um",
+    "start": 1431.679,
+    "duration": 5.521
+  },
+  {
+    "text": "based on this deal you know we'll get 14",
+    "start": 1435.48,
+    "duration": 4.72
+  },
+  {
+    "text": "instead of 18 but that's still still um",
+    "start": 1437.2,
+    "duration": 5.64
+  },
+  {
+    "text": "you know 12 would be",
+    "start": 1440.2,
+    "duration": 8.12
+  },
+  {
+    "text": "me 18 would be fair and we'll settle for",
+    "start": 1442.84,
+    "duration": 7.6
+  },
+  {
+    "text": "14 all right well Chris that's",
+    "start": 1448.32,
+    "duration": 5.359
+  },
+  {
+    "text": "interesting because I this is what I was",
+    "start": 1450.44,
+    "duration": 4.719
+  },
+  {
+    "text": "kind of thinking as you're talking is",
+    "start": 1453.679,
+    "duration": 3.921
+  },
+  {
+    "text": "you know there's thousands of of uh",
+    "start": 1455.159,
+    "duration": 4.64
+  },
+  {
+    "text": "companies or opportunities probably",
+    "start": 1457.6,
+    "duration": 5.079
+  },
+  {
+    "text": "possibly that you you could look at but",
+    "start": 1459.799,
+    "duration": 6.521
+  },
+  {
+    "text": "I assume that the reward here has to be",
+    "start": 1462.679,
+    "duration": 6.281
+  },
+  {
+    "text": "worth it uh for our listeners just to",
+    "start": 1466.32,
+    "duration": 5.239
+  },
+  {
+    "text": "explain to them like for you to even",
+    "start": 1468.96,
+    "duration": 4.04
+  },
+  {
+    "text": "consider you know because it seems like",
+    "start": 1471.559,
+    "duration": 4.0
+  },
+  {
+    "text": "this is like a lot of a lot of different",
+    "start": 1473.0,
+    "duration": 4.76
+  },
+  {
+    "text": "kind of work than I think what that when",
+    "start": 1475.559,
+    "duration": 4.881
+  },
+  {
+    "text": "we talk to most Traders or just like",
+    "start": 1477.76,
+    "duration": 5.639
+  },
+  {
+    "text": "long-term investors and whatnot so sure",
+    "start": 1480.44,
+    "duration": 4.52
+  },
+  {
+    "text": "yeah no I mean I think if I can find one",
+    "start": 1483.399,
+    "duration": 4.361
+  },
+  {
+    "text": "or two idea I love a year that's fine if",
+    "start": 1484.96,
+    "duration": 5.04
+  },
+  {
+    "text": "I can find one or two ideas that are",
+    "start": 1487.76,
+    "duration": 4.6
+  },
+  {
+    "text": "actionable a quarter that's fine and I",
+    "start": 1490.0,
+    "duration": 5.48
+  },
+  {
+    "text": "like to be able to toss away well over",
+    "start": 1492.36,
+    "duration": 5.08
+  },
+  {
+    "text": "90% of the things that are kind of",
+    "start": 1495.48,
+    "duration": 3.48
+  },
+  {
+    "text": "interesting to me I always have to be",
+    "start": 1497.44,
+    "duration": 2.839
+  },
+  {
+    "text": "careful by the word interesting because",
+    "start": 1498.96,
+    "duration": 2.959
+  },
+  {
+    "text": "I'm so interested in so many of these",
+    "start": 1500.279,
+    "duration": 3.041
+  },
+  {
+    "text": "things oh that's a really interesting",
+    "start": 1501.919,
+    "duration": 3.64
+  },
+  {
+    "text": "idea and somebody puts 10% of their",
+    "start": 1503.32,
+    "duration": 4.719
+  },
+  {
+    "text": "money like oh I would never buy it here",
+    "start": 1505.559,
+    "duration": 3.84
+  },
+  {
+    "text": "I just I just thought it was literally",
+    "start": 1508.039,
+    "duration": 3.681
+  },
+  {
+    "text": "literally interesting um so yeah so I",
+    "start": 1509.399,
+    "duration": 3.88
+  },
+  {
+    "text": "would say I'm super",
+    "start": 1511.72,
+    "duration": 5.319
+  },
+  {
+    "text": "selective um and uh you know we also",
+    "start": 1513.279,
+    "duration": 6.161
+  },
+  {
+    "text": "have a lot of resources to you know I'm",
+    "start": 1517.039,
+    "duration": 3.681
+  },
+  {
+    "text": "very involved in things that are",
+    "start": 1519.44,
+    "duration": 3.32
+  },
+  {
+    "text": "litigation sensitive we have really good",
+    "start": 1520.72,
+    "duration": 4.959
+  },
+  {
+    "text": "lawyers who help us on that um I'm",
+    "start": 1522.76,
+    "duration": 5.24
+  },
+  {
+    "text": "really interested in spin-offs and",
+    "start": 1525.679,
+    "duration": 3.921
+  },
+  {
+    "text": "things where there's just a lot to",
+    "start": 1528.0,
+    "duration": 4.08
+  },
+  {
+    "text": "follow um I would say you know the kind",
+    "start": 1529.6,
+    "duration": 4.319
+  },
+  {
+    "text": "of cliche the value investing cliche is",
+    "start": 1532.08,
+    "duration": 4.079
+  },
+  {
+    "text": "kind of buying a dollar with 50",
+    "start": 1533.919,
+    "duration": 4.841
+  },
+  {
+    "text": "cents I would say we're really literally",
+    "start": 1536.159,
+    "duration": 4.561
+  },
+  {
+    "text": "looking for 50 cents if it's kind of a",
+    "start": 1538.76,
+    "duration": 5.919
+  },
+  {
+    "text": "noisy 50 cents if it got to be very very",
+    "start": 1540.72,
+    "duration": 6.76
+  },
+  {
+    "text": "high signal low noise I could take a 10%",
+    "start": 1544.679,
+    "duration": 7.161
+  },
+  {
+    "text": "discount with a very very clear",
+    "start": 1547.48,
+    "duration": 8.72
+  },
+  {
+    "text": "quick certain outcome but I kind of",
+    "start": 1551.84,
+    "duration": 7.88
+  },
+  {
+    "text": "prefer the subjectively messy",
+    "start": 1556.2,
+    "duration": 6.56
+  },
+  {
+    "text": "ones that are just cheap cheap cheap",
+    "start": 1559.72,
+    "duration": 5.679
+  },
+  {
+    "text": "yeah and I noticed like um you have",
+    "start": 1562.76,
+    "duration": 4.72
+  },
+  {
+    "text": "other of these besides ponts it sounds",
+    "start": 1565.399,
+    "duration": 4.201
+  },
+  {
+    "text": "like ponts reacted to that deal it looks",
+    "start": 1567.48,
+    "duration": 5.52
+  },
+  {
+    "text": "like I mean it really yeah um I I think",
+    "start": 1569.6,
+    "duration": 5.84
+  },
+  {
+    "text": "uh I mean it is just cookie cutter I",
+    "start": 1573.0,
+    "duration": 4.12
+  },
+  {
+    "text": "mean you could almost you we're gonna",
+    "start": 1575.44,
+    "duration": 4.44
+  },
+  {
+    "text": "see a press release it's just funny that",
+    "start": 1577.12,
+    "duration": 4.64
+  },
+  {
+    "text": "it happens to be the same price well",
+    "start": 1579.88,
+    "duration": 4.08
+  },
+  {
+    "text": "it's not a complete coincidence in that",
+    "start": 1581.76,
+    "duration": 4.32
+  },
+  {
+    "text": "uh these things the banks tend to kind",
+    "start": 1583.96,
+    "duration": 3.48
+  },
+  {
+    "text": "of be issued and tend to be priced",
+    "start": 1586.08,
+    "duration": 3.8
+  },
+  {
+    "text": "around the same per share but whatever",
+    "start": 1587.44,
+    "duration": 5.68
+  },
+  {
+    "text": "reason uh we'll have I I think could any",
+    "start": 1589.88,
+    "duration": 5.56
+  },
+  {
+    "text": "point could have an nearly identical uh",
+    "start": 1593.12,
+    "duration": 4.64
+  },
+  {
+    "text": "press release it's just such a similarly",
+    "start": 1595.44,
+    "duration": 7.359
+  },
+  {
+    "text": "situated uh uh Bank um and if not this",
+    "start": 1597.76,
+    "duration": 8.039
+  },
+  {
+    "text": "year then when the deal closes and",
+    "start": 1602.799,
+    "duration": 4.76
+  },
+  {
+    "text": "people can see what it did for the buyer",
+    "start": 1605.799,
+    "duration": 3.401
+  },
+  {
+    "text": "then I think the buyers are going to",
+    "start": 1607.559,
+    "duration": 3.761
+  },
+  {
+    "text": "really just swarm the remaining e at",
+    "start": 1609.2,
+    "duration": 4.24
+  },
+  {
+    "text": "Banks okay so let's get outside the",
+    "start": 1611.32,
+    "duration": 5.599
+  },
+  {
+    "text": "banks um sure what you have anything",
+    "start": 1613.44,
+    "duration": 5.64
+  },
+  {
+    "text": "else that you're especially excited",
+    "start": 1616.919,
+    "duration": 4.081
+  },
+  {
+    "text": "about right now and if not you know we",
+    "start": 1619.08,
+    "duration": 3.92
+  },
+  {
+    "text": "can just take a sort of a generic",
+    "start": 1621.0,
+    "duration": 5.039
+  },
+  {
+    "text": "example from your hopefully recent past",
+    "start": 1623.0,
+    "duration": 6.32
+  },
+  {
+    "text": "I but I I have three recent things that",
+    "start": 1626.039,
+    "duration": 5.841
+  },
+  {
+    "text": "I would say I'm uh very excited about",
+    "start": 1629.32,
+    "duration": 5.0
+  },
+  {
+    "text": "and they're and they're pretty um kind",
+    "start": 1631.88,
+    "duration": 5.36
+  },
+  {
+    "text": "of indicative of",
+    "start": 1634.32,
+    "duration": 5.44
+  },
+  {
+    "text": "the uh kind of spectrum of things I like",
+    "start": 1637.24,
+    "duration": 9.08
+  },
+  {
+    "text": "to look at um outside of the uh Banks um",
+    "start": 1639.76,
+    "duration": 8.639
+  },
+  {
+    "text": "I think the one I'll start with is I've",
+    "start": 1646.32,
+    "duration": 5.4
+  },
+  {
+    "text": "gotten be very interested in um I own I",
+    "start": 1648.399,
+    "duration": 4.681
+  },
+  {
+    "text": "don't know if you guys might already",
+    "start": 1651.72,
+    "duration": 3.679
+  },
+  {
+    "text": "know this and and and we can talk about",
+    "start": 1653.08,
+    "duration": 5.4
+  },
+  {
+    "text": "any number of things but uh uh this is",
+    "start": 1655.399,
+    "duration": 7.12
+  },
+  {
+    "text": "one that is run by a friend uh Mongolia",
+    "start": 1658.48,
+    "duration": 9.28
+  },
+  {
+    "text": "growth group it's MN ggf oh yeah and uh",
+    "start": 1662.519,
+    "duration": 10.921
+  },
+  {
+    "text": "and so cuppy uh Harris cerman um has um",
+    "start": 1667.76,
+    "duration": 9.279
+  },
+  {
+    "text": "uh for the past few years one of the",
+    "start": 1673.44,
+    "duration": 5.839
+  },
+  {
+    "text": "kind of irritating",
+    "start": 1677.039,
+    "duration": 5.401
+  },
+  {
+    "text": "uh tax issues that we have to deal with",
+    "start": 1679.279,
+    "duration": 4.361
+  },
+  {
+    "text": "kind of looking at companies is like one",
+    "start": 1682.44,
+    "duration": 6.719
+  },
+  {
+    "text": "of the worst possible uh tax uh things",
+    "start": 1683.64,
+    "duration": 8.399
+  },
+  {
+    "text": "that you can get has to do with when you",
+    "start": 1689.159,
+    "duration": 7.921
+  },
+  {
+    "text": "are a um uh",
+    "start": 1692.039,
+    "duration": 6.841
+  },
+  {
+    "text": "a",
+    "start": 1697.08,
+    "duration": 5.0
+  },
+  {
+    "text": "foreign uh asset manager that doesn't",
+    "start": 1698.88,
+    "duration": 7.0
+  },
+  {
+    "text": "have a uh operating business so he's",
+    "start": 1702.08,
+    "duration": 6.28
+  },
+  {
+    "text": "been looking for an operating business",
+    "start": 1705.88,
+    "duration": 6.48
+  },
+  {
+    "text": "uh for his um uh for this company tiny",
+    "start": 1708.36,
+    "duration": 6.6
+  },
+  {
+    "text": "tiny company he's his chairman CEO of",
+    "start": 1712.36,
+    "duration": 6.08
+  },
+  {
+    "text": "and hasn't found one yet um and so the",
+    "start": 1714.96,
+    "duration": 5.12
+  },
+  {
+    "text": "status is",
+    "start": 1718.44,
+    "duration": 3.959
+  },
+  {
+    "text": "basically um and the numbers are kind of",
+    "start": 1720.08,
+    "duration": 6.479
+  },
+  {
+    "text": "pretty simple um two bucks Canadian of",
+    "start": 1722.399,
+    "duration": 6.76
+  },
+  {
+    "text": "assets he runs it per Pursuit with his",
+    "start": 1726.559,
+    "duration": 6.48
+  },
+  {
+    "text": "super successful hedge fund uh there's",
+    "start": 1729.159,
+    "duration": 7.081
+  },
+  {
+    "text": "another there's NOS uh and the way to",
+    "start": 1733.039,
+    "duration": 6.0
+  },
+  {
+    "text": "think about it is you know 13ish million",
+    "start": 1736.24,
+    "duration": 5.72
+  },
+  {
+    "text": "dollars of NS twice as many shares 50",
+    "start": 1739.039,
+    "duration": 5.76
+  },
+  {
+    "text": "cents you'll uh burn through those if",
+    "start": 1741.96,
+    "duration": 7.36
+  },
+  {
+    "text": "two can become 250 of uh nav at which",
+    "start": 1744.799,
+    "duration": 6.281
+  },
+  {
+    "text": "point it probably makes sense just to",
+    "start": 1749.32,
+    "duration": 4.839
+  },
+  {
+    "text": "liquidate and that 50 cents of nols",
+    "start": 1751.08,
+    "duration": 5.319
+  },
+  {
+    "text": "could eat through that if there was a",
+    "start": 1754.159,
+    "duration": 4.52
+  },
+  {
+    "text": "big commodity boom because he's fairly",
+    "start": 1756.399,
+    "duration": 4.4
+  },
+  {
+    "text": "commodity heavy could be this year but",
+    "start": 1758.679,
+    "duration": 4.961
+  },
+  {
+    "text": "it'll be this year or next um and in",
+    "start": 1760.799,
+    "duration": 7.081
+  },
+  {
+    "text": "this year next once um the NLS are gone",
+    "start": 1763.64,
+    "duration": 6.919
+  },
+  {
+    "text": "um then I think it's reasonably likely",
+    "start": 1767.88,
+    "duration": 5.72
+  },
+  {
+    "text": "to be liquidated but it trades at a big",
+    "start": 1770.559,
+    "duration": 4.881
+  },
+  {
+    "text": "discount trades like a 25 or 30%",
+    "start": 1773.6,
+    "duration": 5.48
+  },
+  {
+    "text": "discount last I checked to just the",
+    "start": 1775.44,
+    "duration": 6.359
+  },
+  {
+    "text": "asset value it's a great manager it's a",
+    "start": 1779.08,
+    "duration": 4.52
+  },
+  {
+    "text": "great portfolio I know the portfolio",
+    "start": 1781.799,
+    "duration": 4.72
+  },
+  {
+    "text": "really well and like it stuff that I",
+    "start": 1783.6,
+    "duration": 5.0
+  },
+  {
+    "text": "trip over in my own portfolio anyways",
+    "start": 1786.519,
+    "duration": 4.841
+  },
+  {
+    "text": "it's almost all I mean it's very",
+    "start": 1788.6,
+    "duration": 4.559
+  },
+  {
+    "text": "concentrated it's almost all stuff that",
+    "start": 1791.36,
+    "duration": 3.6
+  },
+  {
+    "text": "I there's not a single thing in it that",
+    "start": 1793.159,
+    "duration": 3.801
+  },
+  {
+    "text": "I would Hedge for the sake of the",
+    "start": 1794.96,
+    "duration": 3.4
+  },
+  {
+    "text": "discount which if I was just in it for",
+    "start": 1796.96,
+    "duration": 4.68
+  },
+  {
+    "text": "the discount I would so naked",
+    "start": 1798.36,
+    "duration": 6.199
+  },
+  {
+    "text": "long um that",
+    "start": 1801.64,
+    "duration": 6.759
+  },
+  {
+    "text": "MF um I think is just just great it's a",
+    "start": 1804.559,
+    "duration": 6.801
+  },
+  {
+    "text": "tax efficient and fee efficient",
+    "start": 1808.399,
+    "duration": 6.441
+  },
+  {
+    "text": "equivalent of a top performing hedge",
+    "start": 1811.36,
+    "duration": 6.679
+  },
+  {
+    "text": "fund uh a million dollars that you",
+    "start": 1814.84,
+    "duration": 6.4
+  },
+  {
+    "text": "invested day one in his Fund in 2019",
+    "start": 1818.039,
+    "duration": 6.64
+  },
+  {
+    "text": "would be over $10 million today net of",
+    "start": 1821.24,
+    "duration": 5.159
+  },
+  {
+    "text": "fees another way of saying that is a",
+    "start": 1824.679,
+    "duration": 4.48
+  },
+  {
+    "text": "majority of the assets that he manages",
+    "start": 1826.399,
+    "duration": 6.241
+  },
+  {
+    "text": "money that he has made through profits",
+    "start": 1829.159,
+    "duration": 8.681
+  },
+  {
+    "text": "not uh investor um uh subscriptions uh",
+    "start": 1832.64,
+    "duration": 7.32
+  },
+  {
+    "text": "so it's a somebody",
+    "start": 1837.84,
+    "duration": 4.079
+  },
+  {
+    "text": "who I don't think there's much",
+    "start": 1839.96,
+    "duration": 3.599
+  },
+  {
+    "text": "investment Talent out there I don't",
+    "start": 1841.919,
+    "duration": 4.961
+  },
+  {
+    "text": "think there's many people who really um",
+    "start": 1843.559,
+    "duration": 5.521
+  },
+  {
+    "text": "have investment talent I really think",
+    "start": 1846.88,
+    "duration": 5.639
+  },
+  {
+    "text": "cuppy does and so an actual investor",
+    "start": 1849.08,
+    "duration": 6.64
+  },
+  {
+    "text": "who's variant and who's smart and doing",
+    "start": 1852.519,
+    "duration": 6.4
+  },
+  {
+    "text": "interesting things I think",
+    "start": 1855.72,
+    "duration": 4.72
+  },
+  {
+    "text": "this might sound like faint praise but",
+    "start": 1858.919,
+    "duration": 3.201
+  },
+  {
+    "text": "for me it's kind of",
+    "start": 1860.44,
+    "duration": 3.52
+  },
+  {
+    "text": "1% uh",
+    "start": 1862.12,
+    "duration": 3.679
+  },
+  {
+    "text": "deserves uh he actually doesn't charge",
+    "start": 1863.96,
+    "duration": 3.839
+  },
+  {
+    "text": "220 I always say two and 20 casually but",
+    "start": 1865.799,
+    "duration": 4.321
+  },
+  {
+    "text": "uh management fee which I think is one",
+    "start": 1867.799,
+    "duration": 3.641
+  },
+  {
+    "text": "and a quarter percent something like",
+    "start": 1870.12,
+    "duration": 2.919
+  },
+  {
+    "text": "that he he deserves the management fee",
+    "start": 1871.44,
+    "duration": 3.839
+  },
+  {
+    "text": "he deserves the 20% carry uh and you can",
+    "start": 1873.039,
+    "duration": 3.841
+  },
+  {
+    "text": "sidestep all that by investing in",
+    "start": 1875.279,
+    "duration": 3.64
+  },
+  {
+    "text": "Mongolia which he's managing more or",
+    "start": 1876.88,
+    "duration": 5.0
+  },
+  {
+    "text": "less the same way and which I think not",
+    "start": 1878.919,
+    "duration": 5.921
+  },
+  {
+    "text": "only will have his talent and his",
+    "start": 1881.88,
+    "duration": 6.36
+  },
+  {
+    "text": "portfolio which I like and trip over in",
+    "start": 1884.84,
+    "duration": 5.36
+  },
+  {
+    "text": "terms of knowing what's in it and liking",
+    "start": 1888.24,
+    "duration": 4.0
+  },
+  {
+    "text": "it and owning it separately kind of",
+    "start": 1890.2,
+    "duration": 4.439
+  },
+  {
+    "text": "Texas hedge I own the I own not short",
+    "start": 1892.24,
+    "duration": 4.84
+  },
+  {
+    "text": "out the components and then it's",
+    "start": 1894.639,
+    "duration": 3.601
+  },
+  {
+    "text": "probably GNA liquidate you'll probably",
+    "start": 1897.08,
+    "duration": 3.36
+  },
+  {
+    "text": "capture that whole discount this year or",
+    "start": 1898.24,
+    "duration": 5.36
+  },
+  {
+    "text": "next yeah we've had copy on the show of",
+    "start": 1900.44,
+    "duration": 6.079
+  },
+  {
+    "text": "a couple of times two or three times and",
+    "start": 1903.6,
+    "duration": 6.24
+  },
+  {
+    "text": "and uh Mongolia growth has come up um",
+    "start": 1906.519,
+    "duration": 5.52
+  },
+  {
+    "text": "yeah he's great so I I won't I won't",
+    "start": 1909.84,
+    "duration": 3.799
+  },
+  {
+    "text": "belabor that if you can talk to the man",
+    "start": 1912.039,
+    "duration": 3.6
+  },
+  {
+    "text": "himself there's I don't want to waste",
+    "start": 1913.639,
+    "duration": 5.4
+  },
+  {
+    "text": "too much time on uh over comp menting a",
+    "start": 1915.639,
+    "duration": 7.441
+  },
+  {
+    "text": "friend but I think that that uh I'm glad",
+    "start": 1919.039,
+    "duration": 5.24
+  },
+  {
+    "text": "you've had him on and I think that",
+    "start": 1923.08,
+    "duration": 2.8
+  },
+  {
+    "text": "that's just an interesting way and",
+    "start": 1924.279,
+    "duration": 4.601
+  },
+  {
+    "text": "that's the kind of thing",
+    "start": 1925.88,
+    "duration": 4.639
+  },
+  {
+    "text": "um",
+    "start": 1928.88,
+    "duration": 3.84
+  },
+  {
+    "text": "uh where I can see the value in the",
+    "start": 1930.519,
+    "duration": 3.28
+  },
+  {
+    "text": "underlying thing and then you're just",
+    "start": 1932.72,
+    "duration": 2.64
+  },
+  {
+    "text": "paying this big discount so it's like",
+    "start": 1933.799,
+    "duration": 3.681
+  },
+  {
+    "text": "that's just kind of a layup for the kind",
+    "start": 1935.36,
+    "duration": 3.88
+  },
+  {
+    "text": "of thing that I'm interested in um I'll",
+    "start": 1937.48,
+    "duration": 4.079
+  },
+  {
+    "text": "take off two others um that might be of",
+    "start": 1939.24,
+    "duration": 6.919
+  },
+  {
+    "text": "interest um litigation is a big interest",
+    "start": 1941.559,
+    "duration": 7.041
+  },
+  {
+    "text": "to mine I've been doing a lot of kind of",
+    "start": 1946.159,
+    "duration": 7.281
+  },
+  {
+    "text": "litigation heavy is issues uh often",
+    "start": 1948.6,
+    "duration": 7.4
+  },
+  {
+    "text": "surrounding Latin American I guess",
+    "start": 1953.44,
+    "duration": 5.199
+  },
+  {
+    "text": "nationalization is the friendly way but",
+    "start": 1956.0,
+    "duration": 4.84
+  },
+  {
+    "text": "uh stuff stolen by governments in Latin",
+    "start": 1958.639,
+    "duration": 6.76
+  },
+  {
+    "text": "America and this is Venezuela",
+    "start": 1960.84,
+    "duration": 8.439
+  },
+  {
+    "text": "venezuelana Mexico Guatemala Argentina",
+    "start": 1965.399,
+    "duration": 6.681
+  },
+  {
+    "text": "I've different um situations I'm",
+    "start": 1969.279,
+    "duration": 6.041
+  },
+  {
+    "text": "involved in that are basically uh",
+    "start": 1972.08,
+    "duration": 7.04
+  },
+  {
+    "text": "litigating through the courts um",
+    "start": 1975.32,
+    "duration": 7.52
+  },
+  {
+    "text": "the value of things stolen by",
+    "start": 1979.12,
+    "duration": 8.519
+  },
+  {
+    "text": "sovereigns and the most interesting one",
+    "start": 1982.84,
+    "duration": 6.079
+  },
+  {
+    "text": "is",
+    "start": 1987.639,
+    "duration": 6.081
+  },
+  {
+    "text": "Venezuela um a gold company uh called a",
+    "start": 1988.919,
+    "duration": 7.76
+  },
+  {
+    "text": "rousar um cost about a buck I think",
+    "start": 1993.72,
+    "duration": 5.439
+  },
+  {
+    "text": "we'll get well north of a buck 50 kind",
+    "start": 1996.679,
+    "duration": 5.321
+  },
+  {
+    "text": "of I think it's a buck 65 I'm saying",
+    "start": 1999.159,
+    "duration": 4.921
+  },
+  {
+    "text": "most comfortable saying more than a150",
+    "start": 2002.0,
+    "duration": 3.559
+  },
+  {
+    "text": "but I think I think it works out to A1",
+    "start": 2004.08,
+    "duration": 4.4
+  },
+  {
+    "text": "65 or so per share within the next",
+    "start": 2005.559,
+    "duration": 5.681
+  },
+  {
+    "text": "couple months um unless I completely",
+    "start": 2008.48,
+    "duration": 5.919
+  },
+  {
+    "text": "misunderstand the situation um this was",
+    "start": 2011.24,
+    "duration": 6.36
+  },
+  {
+    "text": "Russian and it was early on I think it",
+    "start": 2014.399,
+    "duration": 4.76
+  },
+  {
+    "text": "was the view of the people who started",
+    "start": 2017.6,
+    "duration": 5.079
+  },
+  {
+    "text": "this project sure Venezuela has a",
+    "start": 2019.159,
+    "duration": 5.36
+  },
+  {
+    "text": "socialist dictator but we're kind of bad",
+    "start": 2022.679,
+    "duration": 4.12
+  },
+  {
+    "text": "guys too so maybe we'll be honor Amongst",
+    "start": 2024.519,
+    "duration": 3.88
+  },
+  {
+    "text": "Thieves well there was no honor Amongst",
+    "start": 2026.799,
+    "duration": 3.88
+  },
+  {
+    "text": "Thieves and they just stole the Russian",
+    "start": 2028.399,
+    "duration": 5.081
+  },
+  {
+    "text": "assets along with everybody else's uh",
+    "start": 2030.679,
+    "duration": 5.521
+  },
+  {
+    "text": "and which kind of scandalized them and",
+    "start": 2033.48,
+    "duration": 5.12
+  },
+  {
+    "text": "um uh this is has been litigated for a",
+    "start": 2036.2,
+    "duration": 6.24
+  },
+  {
+    "text": "long time and the",
+    "start": 2038.6,
+    "duration": 6.84
+  },
+  {
+    "text": "uh difficulty was uh you know the cliche",
+    "start": 2042.44,
+    "duration": 7.8
+  },
+  {
+    "text": "about A Bird in Hand versus uh two in",
+    "start": 2045.44,
+    "duration": 7.84
+  },
+  {
+    "text": "the bush is even a Starker ratio in",
+    "start": 2050.24,
+    "duration": 5.24
+  },
+  {
+    "text": "you're dealing with socialist dictators",
+    "start": 2053.28,
+    "duration": 3.52
+  },
+  {
+    "text": "uh them owing you money is very",
+    "start": 2055.48,
+    "duration": 4.159
+  },
+  {
+    "text": "different than having the money and uh",
+    "start": 2056.8,
+    "duration": 5.559
+  },
+  {
+    "text": "the interesting development in this",
+    "start": 2059.639,
+    "duration": 4.76
+  },
+  {
+    "text": "whole thing I've been following this for",
+    "start": 2062.359,
+    "duration": 4.201
+  },
+  {
+    "text": "years and years and years been an owner",
+    "start": 2064.399,
+    "duration": 4.28
+  },
+  {
+    "text": "for quite some time",
+    "start": 2066.56,
+    "duration": 5.319
+  },
+  {
+    "text": "and the interesting development was when",
+    "start": 2068.679,
+    "duration": 6.68
+  },
+  {
+    "text": "the sitgo assets were attached to our",
+    "start": 2071.879,
+    "duration": 7.561
+  },
+  {
+    "text": "claims so um Sito is you know well-known",
+    "start": 2075.359,
+    "duration": 5.961
+  },
+  {
+    "text": "um I always I've never actually done",
+    "start": 2079.44,
+    "duration": 4.28
+  },
+  {
+    "text": "this but I've always been tempted to uh",
+    "start": 2081.32,
+    "duration": 4.4
+  },
+  {
+    "text": "fill up my truck at sio and to drive",
+    "start": 2083.72,
+    "duration": 3.48
+  },
+  {
+    "text": "away quickly and say well you owe me a",
+    "start": 2085.72,
+    "duration": 3.24
+  },
+  {
+    "text": "billion dollars now I owe you a hundred",
+    "start": 2087.2,
+    "duration": 3.399
+  },
+  {
+    "text": "well and it's not really fair the",
+    "start": 2088.96,
+    "duration": 4.199
+  },
+  {
+    "text": "individual franchise",
+    "start": 2090.599,
+    "duration": 5.121
+  },
+  {
+    "text": "uh I'm sure that if I got pulled over",
+    "start": 2093.159,
+    "duration": 3.881
+  },
+  {
+    "text": "for that I wouldn't be able to explain",
+    "start": 2095.72,
+    "duration": 2.879
+  },
+  {
+    "text": "it to the C why I should be able to",
+    "start": 2097.04,
+    "duration": 4.44
+  },
+  {
+    "text": "steal $100 of oil from them however",
+    "start": 2098.599,
+    "duration": 5.681
+  },
+  {
+    "text": "right they did steal a lot from us or",
+    "start": 2101.48,
+    "duration": 4.879
+  },
+  {
+    "text": "from the people who's you know claims we",
+    "start": 2104.28,
+    "duration": 4.52
+  },
+  {
+    "text": "ended up subsequently buying and they do",
+    "start": 2106.359,
+    "duration": 5.601
+  },
+  {
+    "text": "own Sito and sio is very valuable and a",
+    "start": 2108.8,
+    "duration": 5.36
+  },
+  {
+    "text": "US court is running an auction process",
+    "start": 2111.96,
+    "duration": 6.399
+  },
+  {
+    "text": "right now and we will shortly see what",
+    "start": 2114.16,
+    "duration": 6.72
+  },
+  {
+    "text": "it gets but if it gets enough to cover",
+    "start": 2118.359,
+    "duration": 5.441
+  },
+  {
+    "text": "our claims then we're going to be um you",
+    "start": 2120.88,
+    "duration": 6.959
+  },
+  {
+    "text": "know our claims are huge premium to uh",
+    "start": 2123.8,
+    "duration": 6.12
+  },
+  {
+    "text": "the you know the market price to the",
+    "start": 2127.839,
+    "duration": 3.76
+  },
+  {
+    "text": "extent there's a market it's not you",
+    "start": 2129.92,
+    "duration": 3.439
+  },
+  {
+    "text": "know something that people tend to pay",
+    "start": 2131.599,
+    "duration": 5.081
+  },
+  {
+    "text": "attention to um but our",
+    "start": 2133.359,
+    "duration": 7.201
+  },
+  {
+    "text": "mlff um is rousar mining in Venezuela",
+    "start": 2136.68,
+    "duration": 6.679
+  },
+  {
+    "text": "and it's a small",
+    "start": 2140.56,
+    "duration": 6.039
+  },
+  {
+    "text": "Russian gold company there but more",
+    "start": 2143.359,
+    "duration": 5.081
+  },
+  {
+    "text": "importantly it's likely to get a",
+    "start": 2146.599,
+    "duration": 5.081
+  },
+  {
+    "text": "dividend of you know Buck 65 or so in a",
+    "start": 2148.44,
+    "duration": 6.72
+  },
+  {
+    "text": "few months or so if Sito can fetch a",
+    "start": 2151.68,
+    "duration": 7.24
+  },
+  {
+    "text": "good price I think it will um I think",
+    "start": 2155.16,
+    "duration": 8.08
+  },
+  {
+    "text": "the refineries are good quality I think",
+    "start": 2158.92,
+    "duration": 6.8
+  },
+  {
+    "text": "that there's a ton of strategic value in",
+    "start": 2163.24,
+    "duration": 4.52
+  },
+  {
+    "text": "one of them called Corpus Christi",
+    "start": 2165.72,
+    "duration": 3.92
+  },
+  {
+    "text": "because it could really be a hub for",
+    "start": 2167.76,
+    "duration": 4.8
+  },
+  {
+    "text": "American petrochemical export so I think",
+    "start": 2169.64,
+    "duration": 4.679
+  },
+  {
+    "text": "that that's hugely valuable I think",
+    "start": 2172.56,
+    "duration": 2.92
+  },
+  {
+    "text": "there's a number of biders that are",
+    "start": 2174.319,
+    "duration": 2.8
+  },
+  {
+    "text": "going to really want to own that if we",
+    "start": 2175.48,
+    "duration": 5.56
+  },
+  {
+    "text": "get a good bid on sitgo then um it's",
+    "start": 2177.119,
+    "duration": 6.761
+  },
+  {
+    "text": "going to be a bananza for raro okay I'm",
+    "start": 2181.04,
+    "duration": 4.6
+  },
+  {
+    "text": "sure we don't want to get too deep into",
+    "start": 2183.88,
+    "duration": 6.68
+  },
+  {
+    "text": "this but sure um uh are we talking about",
+    "start": 2185.64,
+    "duration": 7.64
+  },
+  {
+    "text": "making a claim in American courts on a",
+    "start": 2190.56,
+    "duration": 5.92
+  },
+  {
+    "text": "Venezuelan company so how these tend to",
+    "start": 2193.28,
+    "duration": 5.52
+  },
+  {
+    "text": "go is IID so exid is the kind of",
+    "start": 2196.48,
+    "duration": 4.44
+  },
+  {
+    "text": "international Court of settlement and",
+    "start": 2198.8,
+    "duration": 5.0
+  },
+  {
+    "text": "that you know um but um but this is a",
+    "start": 2200.92,
+    "duration": 4.8
+  },
+  {
+    "text": "Delaware Court and so Delaware is",
+    "start": 2203.8,
+    "duration": 5.44
+  },
+  {
+    "text": "particularly good at corporate law sure",
+    "start": 2205.72,
+    "duration": 6.399
+  },
+  {
+    "text": "um and uh there's an issue called alter",
+    "start": 2209.24,
+    "duration": 4.359
+  },
+  {
+    "text": "ego and this is actually the kind of the",
+    "start": 2212.119,
+    "duration": 4.841
+  },
+  {
+    "text": "legal derivation of that common usage",
+    "start": 2213.599,
+    "duration": 4.561
+  },
+  {
+    "text": "phrase",
+    "start": 2216.96,
+    "duration": 3.28
+  },
+  {
+    "text": "uh would you know step into the feto and",
+    "start": 2218.16,
+    "duration": 3.28
+  },
+  {
+    "text": "there was a terrible mistake and it was",
+    "start": 2220.24,
+    "duration": 3.079
+  },
+  {
+    "text": "actually kind of interesting history",
+    "start": 2221.44,
+    "duration": 3.0
+  },
+  {
+    "text": "I'll just give you a sentence or two on",
+    "start": 2223.319,
+    "duration": 3.121
+  },
+  {
+    "text": "it because I thought it was fascinating",
+    "start": 2224.44,
+    "duration": 4.679
+  },
+  {
+    "text": "which is some of the Venezuelans stole a",
+    "start": 2226.44,
+    "duration": 5.639
+  },
+  {
+    "text": "few million bucks from it and that's",
+    "start": 2229.119,
+    "duration": 4.921
+  },
+  {
+    "text": "trivial relative to the many billions of",
+    "start": 2232.079,
+    "duration": 5.24
+  },
+  {
+    "text": "dollars that they stole from",
+    "start": 2234.04,
+    "duration": 6.12
+  },
+  {
+    "text": "uh corporations but what was really",
+    "start": 2237.319,
+    "duration": 4.081
+  },
+  {
+    "text": "interesting about stealing a few million",
+    "start": 2240.16,
+    "duration": 2.72
+  },
+  {
+    "text": "bucks is that's when we were able to go",
+    "start": 2241.4,
+    "duration": 3.48
+  },
+  {
+    "text": "to the American courts and say they",
+    "start": 2242.88,
+    "duration": 4.239
+  },
+  {
+    "text": "think it's theirs they just took some",
+    "start": 2244.88,
+    "duration": 4.199
+  },
+  {
+    "text": "money from it so even though it was a",
+    "start": 2247.119,
+    "duration": 3.48
+  },
+  {
+    "text": "relatively trivial amount they're",
+    "start": 2249.079,
+    "duration": 3.201
+  },
+  {
+    "text": "sticking their hand in the cookie jar",
+    "start": 2250.599,
+    "duration": 4.0
+  },
+  {
+    "text": "said wait if that cookie jar is",
+    "start": 2252.28,
+    "duration": 4.039
+  },
+  {
+    "text": "available shouldn't that be our cookie",
+    "start": 2254.599,
+    "duration": 3.321
+  },
+  {
+    "text": "drawer because they legitimately we have",
+    "start": 2256.319,
+    "duration": 3.52
+  },
+  {
+    "text": "claims against them they they",
+    "start": 2257.92,
+    "duration": 5.72
+  },
+  {
+    "text": "legitimately owe us cumulatively tens of",
+    "start": 2259.839,
+    "duration": 6.041
+  },
+  {
+    "text": "billions of dollars uh the last people",
+    "start": 2263.64,
+    "duration": 4.08
+  },
+  {
+    "text": "in line probably won't get anything but",
+    "start": 2265.88,
+    "duration": 4.16
+  },
+  {
+    "text": "maybe the first 10 billion will that's",
+    "start": 2267.72,
+    "duration": 5.0
+  },
+  {
+    "text": "not for their personal use that's that's",
+    "start": 2270.04,
+    "duration": 4.96
+  },
+  {
+    "text": "our M that's our money they could have",
+    "start": 2272.72,
+    "duration": 4.0
+  },
+  {
+    "text": "claimed that it was at a distance before",
+    "start": 2275.0,
+    "duration": 4.2
+  },
+  {
+    "text": "then but that ego issue came into effect",
+    "start": 2276.72,
+    "duration": 6.2
+  },
+  {
+    "text": "because of financial Shenanigans related",
+    "start": 2279.2,
+    "duration": 8.2
+  },
+  {
+    "text": "to their oil company that that then owns",
+    "start": 2282.92,
+    "duration": 6.88
+  },
+  {
+    "text": "sickos that was kind of the history here",
+    "start": 2287.4,
+    "duration": 4.12
+  },
+  {
+    "text": "um and then there's a bunch of companies",
+    "start": 2289.8,
+    "duration": 3.96
+  },
+  {
+    "text": "in line uh but some of them are so big",
+    "start": 2291.52,
+    "duration": 4.96
+  },
+  {
+    "text": "that it's not as material so you know",
+    "start": 2293.76,
+    "duration": 6.839
+  },
+  {
+    "text": "kico Phillips is one big uh uh claimant",
+    "start": 2296.48,
+    "duration": 6.96
+  },
+  {
+    "text": "um but you know that's not a very",
+    "start": 2300.599,
+    "duration": 4.881
+  },
+  {
+    "text": "complete investment case for a huge",
+    "start": 2303.44,
+    "duration": 5.28
+  },
+  {
+    "text": "company um others are PR",
+    "start": 2305.48,
+    "duration": 6.68
+  },
+  {
+    "text": "um but raro is small and uh is kind of",
+    "start": 2308.72,
+    "duration": 5.04
+  },
+  {
+    "text": "the one that's early on the list that I",
+    "start": 2312.16,
+    "duration": 4.12
+  },
+  {
+    "text": "think is the most impacted by this so",
+    "start": 2313.76,
+    "duration": 6.0
+  },
+  {
+    "text": "kind of an interesting one um and uh so",
+    "start": 2316.28,
+    "duration": 4.76
+  },
+  {
+    "text": "that's the kind of you know we're we're",
+    "start": 2319.76,
+    "duration": 2.839
+  },
+  {
+    "text": "involved in tons of litigation but",
+    "start": 2321.04,
+    "duration": 2.559
+  },
+  {
+    "text": "that's kind of one of the litigation",
+    "start": 2322.599,
+    "duration": 3.76
+  },
+  {
+    "text": "ones that I think is most happens to be",
+    "start": 2323.599,
+    "duration": 6.961
+  },
+  {
+    "text": "soonest um and it's um one that I just",
+    "start": 2326.359,
+    "duration": 7.561
+  },
+  {
+    "text": "love I I think it's fantastic um yeah I",
+    "start": 2330.56,
+    "duration": 4.64
+  },
+  {
+    "text": "had one other I was going to mention but",
+    "start": 2333.92,
+    "duration": 2.199
+  },
+  {
+    "text": "I didn't know if you had any questions",
+    "start": 2335.2,
+    "duration": 2.879
+  },
+  {
+    "text": "on raro or if I",
+    "start": 2336.119,
+    "duration": 4.48
+  },
+  {
+    "text": "no you got one more let's hear it yeah",
+    "start": 2338.079,
+    "duration": 4.161
+  },
+  {
+    "text": "so so I was trying to think of what's",
+    "start": 2340.599,
+    "duration": 6.321
+  },
+  {
+    "text": "kind of indicative of uh current but",
+    "start": 2342.24,
+    "duration": 7.68
+  },
+  {
+    "text": "kind of gets at things that I like um",
+    "start": 2346.92,
+    "duration": 6.32
+  },
+  {
+    "text": "and so the the last one I'd mention um",
+    "start": 2349.92,
+    "duration": 5.8
+  },
+  {
+    "text": "that I've been kind of working on um all",
+    "start": 2353.24,
+    "duration": 5.56
+  },
+  {
+    "text": "morning um is a they do a number of",
+    "start": 2355.72,
+    "duration": 5.84
+  },
+  {
+    "text": "things but it's basically a hospice uh",
+    "start": 2358.8,
+    "duration": 5.24
+  },
+  {
+    "text": "company it's hospice and home uh",
+    "start": 2361.56,
+    "duration": 4.799
+  },
+  {
+    "text": "hospital care most of these have been",
+    "start": 2364.04,
+    "duration": 3.68
+  },
+  {
+    "text": "bought up there's really not that much",
+    "start": 2366.359,
+    "duration": 4.521
+  },
+  {
+    "text": "of a public uh Market uh one of these",
+    "start": 2367.72,
+    "duration": 6.8
+  },
+  {
+    "text": "anymore uh called andh habits it's",
+    "start": 2370.88,
+    "duration": 6.44
+  },
+  {
+    "text": "ehab um and there",
+    "start": 2374.52,
+    "duration": 4.559
+  },
+  {
+    "text": "[Music]",
+    "start": 2377.32,
+    "duration": 4.12
+  },
+  {
+    "text": "are three or four interesting things",
+    "start": 2379.079,
+    "duration": 3.721
+  },
+  {
+    "text": "about this",
+    "start": 2381.44,
+    "duration": 4.879
+  },
+  {
+    "text": "one spin-off normal spin-off Dynamics uh",
+    "start": 2382.8,
+    "duration": 5.76
+  },
+  {
+    "text": "it's coming up on its two-year",
+    "start": 2386.319,
+    "duration": 5.561
+  },
+  {
+    "text": "anniversary for being able to sell uh",
+    "start": 2388.56,
+    "duration": 5.279
+  },
+  {
+    "text": "right at the beginning of the third",
+    "start": 2391.88,
+    "duration": 4.08
+  },
+  {
+    "text": "quarter of this year so we're kind of",
+    "start": 2393.839,
+    "duration": 4.121
+  },
+  {
+    "text": "approaching you know five we weeks or so",
+    "start": 2395.96,
+    "duration": 4.04
+  },
+  {
+    "text": "and then they can sell um I think it",
+    "start": 2397.96,
+    "duration": 5.639
+  },
+  {
+    "text": "will be sold um that's interesting",
+    "start": 2400.0,
+    "duration": 6.359
+  },
+  {
+    "text": "secondly they",
+    "start": 2403.599,
+    "duration": 6.52
+  },
+  {
+    "text": "ran a strategic review that failed they",
+    "start": 2406.359,
+    "duration": 8.121
+  },
+  {
+    "text": "kind of botched it um but the more I",
+    "start": 2410.119,
+    "duration": 7.96
+  },
+  {
+    "text": "kind of go into exactly what happened um",
+    "start": 2414.48,
+    "duration": 5.119
+  },
+  {
+    "text": "one of the things that gets me very very",
+    "start": 2418.079,
+    "duration": 3.201
+  },
+  {
+    "text": "curious when I'm talking to management",
+    "start": 2419.599,
+    "duration": 4.601
+  },
+  {
+    "text": "is when you ask a fair question that has",
+    "start": 2421.28,
+    "duration": 5.52
+  },
+  {
+    "text": "a simple answer and you get something",
+    "start": 2424.2,
+    "duration": 6.68
+  },
+  {
+    "text": "other than a simple answer were their",
+    "start": 2426.8,
+    "duration": 9.76
+  },
+  {
+    "text": "bids at a premium to the market price uh",
+    "start": 2430.88,
+    "duration": 7.76
+  },
+  {
+    "text": "is a fair question with a simple answer",
+    "start": 2436.56,
+    "duration": 3.559
+  },
+  {
+    "text": "and it could have been yes or no and you",
+    "start": 2438.64,
+    "duration": 2.959
+  },
+  {
+    "text": "get a huge number of words but you don't",
+    "start": 2440.119,
+    "duration": 3.041
+  },
+  {
+    "text": "really get a lot of clarity from them on",
+    "start": 2441.599,
+    "duration": 4.561
+  },
+  {
+    "text": "what they did um what it's looking like",
+    "start": 2443.16,
+    "duration": 4.8
+  },
+  {
+    "text": "they did is they kind of ran a process",
+    "start": 2446.16,
+    "duration": 4.64
+  },
+  {
+    "text": "but kind of didn't um they weren't",
+    "start": 2447.96,
+    "duration": 4.84
+  },
+  {
+    "text": "interested in selling to private Equity",
+    "start": 2450.8,
+    "duration": 4.48
+  },
+  {
+    "text": "they wanted to before people got a good",
+    "start": 2452.8,
+    "duration": 5.16
+  },
+  {
+    "text": "sense of the books put a very very high",
+    "start": 2455.28,
+    "duration": 5.6
+  },
+  {
+    "text": "demand that was not realistic and it was",
+    "start": 2457.96,
+    "duration": 4.76
+  },
+  {
+    "text": "disorganized and chaotic to the point",
+    "start": 2460.88,
+    "duration": 3.68
+  },
+  {
+    "text": "that it kind of had a lot of problems",
+    "start": 2462.72,
+    "duration": 4.96
+  },
+  {
+    "text": "there two obvious strategic buyers of",
+    "start": 2464.56,
+    "duration": 6.36
+  },
+  {
+    "text": "this asset and both of them were very",
+    "start": 2467.68,
+    "duration": 5.12
+  },
+  {
+    "text": "temporarily distracted with other deals",
+    "start": 2470.92,
+    "duration": 4.84
+  },
+  {
+    "text": "and situations um but one of the two of",
+    "start": 2472.8,
+    "duration": 5.279
+  },
+  {
+    "text": "them clearly should own this ultimately",
+    "start": 2475.76,
+    "duration": 3.839
+  },
+  {
+    "text": "it's possible that next year could be",
+    "start": 2478.079,
+    "duration": 3.401
+  },
+  {
+    "text": "better than this for regulatory reasons",
+    "start": 2479.599,
+    "duration": 4.801
+  },
+  {
+    "text": "we have a hyper aggressive uh kind of",
+    "start": 2481.48,
+    "duration": 5.0
+  },
+  {
+    "text": "set of regulators in this Administration",
+    "start": 2484.4,
+    "duration": 3.6
+  },
+  {
+    "text": "if there's a change Administration",
+    "start": 2486.48,
+    "duration": 3.04
+  },
+  {
+    "text": "there'd be much more regulatory Clarity",
+    "start": 2488.0,
+    "duration": 4.04
+  },
+  {
+    "text": "on m&a next year might make more sense",
+    "start": 2489.52,
+    "duration": 5.64
+  },
+  {
+    "text": "than this year uh but the stalking horse",
+    "start": 2492.04,
+    "duration": 5.68
+  },
+  {
+    "text": "of a high bid from a strategic",
+    "start": 2495.16,
+    "duration": 6.32
+  },
+  {
+    "text": "buyer really should bring private Equity",
+    "start": 2497.72,
+    "duration": 7.0
+  },
+  {
+    "text": "now um they're it's it's it's it's an",
+    "start": 2501.48,
+    "duration": 5.0
+  },
+  {
+    "text": "undermanaged",
+    "start": 2504.72,
+    "duration": 4.48
+  },
+  {
+    "text": "company the Board needs to be refreshed",
+    "start": 2506.48,
+    "duration": 5.879
+  },
+  {
+    "text": "the management needs to be refreshed and",
+    "start": 2509.2,
+    "duration": 5.52
+  },
+  {
+    "text": "you know it trades a little over nine um",
+    "start": 2512.359,
+    "duration": 5.72
+  },
+  {
+    "text": "kind of my math says that on its own",
+    "start": 2514.72,
+    "duration": 6.359
+  },
+  {
+    "text": "just kind of run well um I think it",
+    "start": 2518.079,
+    "duration": 4.801
+  },
+  {
+    "text": "could recover to kind of 12 as a",
+    "start": 2521.079,
+    "duration": 5.121
+  },
+  {
+    "text": "standalone a mid to high teens in a",
+    "start": 2522.88,
+    "duration": 7.4
+  },
+  {
+    "text": "deal and the thing about a deal",
+    "start": 2526.2,
+    "duration": 7.72
+  },
+  {
+    "text": "is the company needs to get fixed before",
+    "start": 2530.28,
+    "duration": 8.68
+  },
+  {
+    "text": "we'd get a good price from United Health",
+    "start": 2533.92,
+    "duration": 7.08
+  },
+  {
+    "text": "Human",
+    "start": 2538.96,
+    "duration": 4.119
+  },
+  {
+    "text": "uh",
+    "start": 2541.0,
+    "duration": 6.2
+  },
+  {
+    "text": "the private Equity could fix it or",
+    "start": 2543.079,
+    "duration": 6.04
+  },
+  {
+    "text": "public Equity could fix it um it's going",
+    "start": 2547.2,
+    "duration": 4.48
+  },
+  {
+    "text": "to take a new board um but a large",
+    "start": 2549.119,
+    "duration": 4.72
+  },
+  {
+    "text": "concentrated holder has stepped forward",
+    "start": 2551.68,
+    "duration": 4.24
+  },
+  {
+    "text": "is going to run a process I think in",
+    "start": 2553.839,
+    "duration": 5.76
+  },
+  {
+    "text": "July um uh kick out part of the board",
+    "start": 2555.92,
+    "duration": 5.76
+  },
+  {
+    "text": "refresh the board refresh the management",
+    "start": 2559.599,
+    "duration": 5.24
+  },
+  {
+    "text": "cut costs run it for share holders uh",
+    "start": 2561.68,
+    "duration": 5.56
+  },
+  {
+    "text": "and I think that that would give me much",
+    "start": 2564.839,
+    "duration": 4.24
+  },
+  {
+    "text": "more confidence I think you'd have a",
+    "start": 2567.24,
+    "duration": 4.119
+  },
+  {
+    "text": "huge Improvement in just the Optics of",
+    "start": 2569.079,
+    "duration": 4.361
+  },
+  {
+    "text": "quarterly kind of financials could just",
+    "start": 2571.359,
+    "duration": 3.921
+  },
+  {
+    "text": "be I mean it's just so clear how to fix",
+    "start": 2573.44,
+    "duration": 4.679
+  },
+  {
+    "text": "this company as a public company",
+    "start": 2575.28,
+    "duration": 5.44
+  },
+  {
+    "text": "but it would also bring back all of the",
+    "start": 2578.119,
+    "duration": 5.2
+  },
+  {
+    "text": "uh strategic biders uh because they",
+    "start": 2580.72,
+    "duration": 4.119
+  },
+  {
+    "text": "could finish up their other deals we",
+    "start": 2583.319,
+    "duration": 3.081
+  },
+  {
+    "text": "might have a different regulator and",
+    "start": 2584.839,
+    "duration": 3.121
+  },
+  {
+    "text": "then it's just a matter of does Private",
+    "start": 2586.4,
+    "duration": 3.76
+  },
+  {
+    "text": "Equity want to pay a premium here to",
+    "start": 2587.96,
+    "duration": 3.72
+  },
+  {
+    "text": "Simply do the work and then flip it to",
+    "start": 2590.16,
+    "duration": 3.56
+  },
+  {
+    "text": "the Strategic guys in two or three years",
+    "start": 2591.68,
+    "duration": 3.879
+  },
+  {
+    "text": "so there's a lot of ways to win there's",
+    "start": 2593.72,
+    "duration": 6.68
+  },
+  {
+    "text": "a lot of moving Parts um but for a",
+    "start": 2595.559,
+    "duration": 8.441
+  },
+  {
+    "text": "valuable business for a cheap stock",
+    "start": 2600.4,
+    "duration": 5.28
+  },
+  {
+    "text": "everything has gone wrong to this point",
+    "start": 2604.0,
+    "duration": 4.359
+  },
+  {
+    "text": "I mean you just can't like if your job",
+    "start": 2605.68,
+    "duration": 6.32
+  },
+  {
+    "text": "was to goof this up um it would be hard",
+    "start": 2608.359,
+    "duration": 7.441
+  },
+  {
+    "text": "to um it'd be hard to fail as well as",
+    "start": 2612.0,
+    "duration": 7.2
+  },
+  {
+    "text": "they have um I mean I think it's down",
+    "start": 2615.8,
+    "duration": 7.519
+  },
+  {
+    "text": "almost 60% 59% something like that since",
+    "start": 2619.2,
+    "duration": 7.2
+  },
+  {
+    "text": "it was spun off and and it's kind",
+    "start": 2623.319,
+    "duration": 5.441
+  },
+  {
+    "text": "of uh you don't want to be more of it",
+    "start": 2626.4,
+    "duration": 6.0
+  },
+  {
+    "text": "about hospice but it's hardly a um yeah",
+    "start": 2628.76,
+    "duration": 6.48
+  },
+  {
+    "text": "that's hardly a kind of business that",
+    "start": 2632.4,
+    "duration": 5.679
+  },
+  {
+    "text": "goes out of style uh",
+    "start": 2635.24,
+    "duration": 5.879
+  },
+  {
+    "text": "and kind of definition of like Earth",
+    "start": 2638.079,
+    "duration": 4.48
+  },
+  {
+    "text": "session proof business that should be",
+    "start": 2641.119,
+    "duration": 3.44
+  },
+  {
+    "text": "kind of easy as a business and the the",
+    "start": 2642.559,
+    "duration": 3.8
+  },
+  {
+    "text": "captive ones have been doing wonderfully",
+    "start": 2644.559,
+    "duration": 4.28
+  },
+  {
+    "text": "well with the large company so run right",
+    "start": 2646.359,
+    "duration": 3.96
+  },
+  {
+    "text": "I know exactly what this business looks",
+    "start": 2648.839,
+    "duration": 3.321
+  },
+  {
+    "text": "like when it's run right it's worth a",
+    "start": 2650.319,
+    "duration": 4.681
+  },
+  {
+    "text": "lot more than it costs with a modicum of",
+    "start": 2652.16,
+    "duration": 4.6
+  },
+  {
+    "text": "seriousness on the board or management I",
+    "start": 2655.0,
+    "duration": 3.119
+  },
+  {
+    "text": "think we're going to get that in a",
+    "start": 2656.76,
+    "duration": 4.359
+  },
+  {
+    "text": "couple months and coincidentally we",
+    "start": 2658.119,
+    "duration": 5.521
+  },
+  {
+    "text": "could get a new board in management that",
+    "start": 2661.119,
+    "duration": 4.24
+  },
+  {
+    "text": "is supplying something that's going to",
+    "start": 2663.64,
+    "duration": 3.919
+  },
+  {
+    "text": "be and look much more valuable",
+    "start": 2665.359,
+    "duration": 4.561
+  },
+  {
+    "text": "the same month as we're allowed to sell",
+    "start": 2667.559,
+    "duration": 4.601
+  },
+  {
+    "text": "it so we're going to get new Supply",
+    "start": 2669.92,
+    "duration": 3.36
+  },
+  {
+    "text": "we're going to be supplying something",
+    "start": 2672.16,
+    "duration": 2.12
+  },
+  {
+    "text": "better and we're going to have new",
+    "start": 2673.28,
+    "duration": 2.079
+  },
+  {
+    "text": "demand and we're going to be able to",
+    "start": 2674.28,
+    "duration": 3.24
+  },
+  {
+    "text": "refresh demand from the biders that were",
+    "start": 2675.359,
+    "duration": 4.041
+  },
+  {
+    "text": "unable to participate because of a",
+    "start": 2677.52,
+    "duration": 5.16
+  },
+  {
+    "text": "botched process run a process well and",
+    "start": 2679.4,
+    "duration": 7.32
+  },
+  {
+    "text": "sell this for what I think could be uh a",
+    "start": 2682.68,
+    "duration": 5.24
+  },
+  {
+    "text": "lot of",
+    "start": 2686.72,
+    "duration": 5.119
+  },
+  {
+    "text": "money sounds good well you've certainly",
+    "start": 2687.92,
+    "duration": 5.56
+  },
+  {
+    "text": "delivered you you've taught us a little",
+    "start": 2691.839,
+    "duration": 3.361
+  },
+  {
+    "text": "bit how to fish and you've given us some",
+    "start": 2693.48,
+    "duration": 4.56
+  },
+  {
+    "text": "very interesting fish um and and I thank",
+    "start": 2695.2,
+    "duration": 4.76
+  },
+  {
+    "text": "you for that because our listeners love",
+    "start": 2698.04,
+    "duration": 3.44
+  },
+  {
+    "text": "that I promise you they're writing down",
+    "start": 2699.96,
+    "duration": 3.48
+  },
+  {
+    "text": "all these tickers and looking things up",
+    "start": 2701.48,
+    "duration": 6.119
+  },
+  {
+    "text": "right now as we're speaking um so uh",
+    "start": 2703.44,
+    "duration": 5.84
+  },
+  {
+    "text": "listen thanks a lot for being here Chris",
+    "start": 2707.599,
+    "duration": 4.441
+  },
+  {
+    "text": "it's time for our final question though",
+    "start": 2709.28,
+    "duration": 4.44
+  },
+  {
+    "text": "everybody has to answer this one it's",
+    "start": 2712.04,
+    "duration": 4.559
+  },
+  {
+    "text": "it's the uh identical question for every",
+    "start": 2713.72,
+    "duration": 6.04
+  },
+  {
+    "text": "guest even if it's a non-financial guest",
+    "start": 2716.599,
+    "duration": 5.281
+  },
+  {
+    "text": "exact same question and if you've",
+    "start": 2719.76,
+    "duration": 3.68
+  },
+  {
+    "text": "already said the answer by all means",
+    "start": 2721.88,
+    "duration": 3.64
+  },
+  {
+    "text": "feel free to repeat it and you know we",
+    "start": 2723.44,
+    "duration": 3.8
+  },
+  {
+    "text": "can edit if you need to take us second",
+    "start": 2725.52,
+    "duration": 4.0
+  },
+  {
+    "text": "and think about it um and the question",
+    "start": 2727.24,
+    "duration": 3.68
+  },
+  {
+    "text": "is real simple if you could leave our",
+    "start": 2729.52,
+    "duration": 3.2
+  },
+  {
+    "text": "listeners with a single thought today",
+    "start": 2730.92,
+    "duration": 3.32
+  },
+  {
+    "text": "what would it",
+    "start": 2732.72,
+    "duration": 4.16
+  },
+  {
+    "text": "be I'd love to give 10 answers and then",
+    "start": 2734.24,
+    "duration": 6.48
+  },
+  {
+    "text": "you could edit out the D good strategy I",
+    "start": 2736.88,
+    "duration": 6.76
+  },
+  {
+    "text": "like that yeah after we after we after",
+    "start": 2740.72,
+    "duration": 4.8
+  },
+  {
+    "text": "events unfold maybe I could even give",
+    "start": 2743.64,
+    "duration": 6.8
+  },
+  {
+    "text": "opposite answers and you could um that's",
+    "start": 2745.52,
+    "duration": 4.92
+  },
+  {
+    "text": "right well I",
+    "start": 2751.559,
+    "duration": 6.361
+  },
+  {
+    "text": "think to me it's all about",
+    "start": 2753.88,
+    "duration": 6.199
+  },
+  {
+    "text": "finding an",
+    "start": 2757.92,
+    "duration": 6.679
+  },
+  {
+    "text": "area where you have enough interest and",
+    "start": 2760.079,
+    "duration": 7.361
+  },
+  {
+    "text": "expertise that you can be wildly",
+    "start": 2764.599,
+    "duration": 5.561
+  },
+  {
+    "text": "radically selective and have so much fun",
+    "start": 2767.44,
+    "duration": 4.96
+  },
+  {
+    "text": "in the research process that that's not",
+    "start": 2770.16,
+    "duration": 4.159
+  },
+  {
+    "text": "even downside because when nobody's",
+    "start": 2772.4,
+    "duration": 5.48
+  },
+  {
+    "text": "looking you're so interested that",
+    "start": 2774.319,
+    "duration": 5.121
+  },
+  {
+    "text": "without making a penny you just want to",
+    "start": 2777.88,
+    "duration": 5.8
+  },
+  {
+    "text": "do it um the analogy I tend to give even",
+    "start": 2779.44,
+    "duration": 5.96
+  },
+  {
+    "text": "though it's not one that fits me at all",
+    "start": 2783.68,
+    "duration": 4.36
+  },
+  {
+    "text": "i' I've never once walked through",
+    "start": 2785.4,
+    "duration": 4.52
+  },
+  {
+    "text": "an antique shop and I don't care and",
+    "start": 2788.04,
+    "duration": 3.12
+  },
+  {
+    "text": "even if you could told me I make a lot",
+    "start": 2789.92,
+    "duration": 4.84
+  },
+  {
+    "text": "of money doing it I wouldn't care uh is",
+    "start": 2791.16,
+    "duration": 8.88
+  },
+  {
+    "text": "there are $10 knockoff cheap kind of",
+    "start": 2794.76,
+    "duration": 8.24
+  },
+  {
+    "text": "Chinese vases that are worth $10 you can",
+    "start": 2800.04,
+    "duration": 4.12
+  },
+  {
+    "text": "find those all around the world you can",
+    "start": 2803.0,
+    "duration": 3.319
+  },
+  {
+    "text": "go to China and there there's the nice",
+    "start": 2804.16,
+    "duration": 4.36
+  },
+  {
+    "text": "way I have a friend who does uh Asian",
+    "start": 2806.319,
+    "duration": 4.081
+  },
+  {
+    "text": "art and she says well we have a lot of",
+    "start": 2808.52,
+    "duration": 3.839
+  },
+  {
+    "text": "art that is for a western audience you",
+    "start": 2810.4,
+    "duration": 3.56
+  },
+  {
+    "text": "know they they will supply as much as",
+    "start": 2812.359,
+    "duration": 2.96
+  },
+  {
+    "text": "you demand and they'll make it look",
+    "start": 2813.96,
+    "duration": 3.56
+  },
+  {
+    "text": "however you want but it's cheap cheap",
+    "start": 2815.319,
+    "duration": 4.52
+  },
+  {
+    "text": "price and cheap value and then you can",
+    "start": 2817.52,
+    "duration": 5.839
+  },
+  {
+    "text": "spend $100,000 or millions of dollars on",
+    "start": 2819.839,
+    "duration": 6.441
+  },
+  {
+    "text": "a real antique and all being equal is",
+    "start": 2823.359,
+    "duration": 4.24
+  },
+  {
+    "text": "probably worth that but if you're",
+    "start": 2826.28,
+    "duration": 2.44
+  },
+  {
+    "text": "willing to look through hundreds and",
+    "start": 2827.599,
+    "duration": 2.48
+  },
+  {
+    "text": "hundreds of these things every once in a",
+    "start": 2828.72,
+    "duration": 2.359
+  },
+  {
+    "text": "while you find something that's just",
+    "start": 2830.079,
+    "duration": 4.28
+  },
+  {
+    "text": "mislabeled this is wrong right and I",
+    "start": 2831.079,
+    "duration": 7.48
+  },
+  {
+    "text": "live for that and I I that's where I",
+    "start": 2834.359,
+    "duration": 7.321
+  },
+  {
+    "text": "Look to make money for my investors and",
+    "start": 2838.559,
+    "duration": 5.76
+  },
+  {
+    "text": "myself but I'm having fun all the other",
+    "start": 2841.68,
+    "duration": 4.879
+  },
+  {
+    "text": "times all the all the cheap Chach keys",
+    "start": 2844.319,
+    "duration": 4.201
+  },
+  {
+    "text": "that I paw through I don't want to spend",
+    "start": 2846.559,
+    "duration": 3.881
+  },
+  {
+    "text": "any I don't want to spend $10 in a $10",
+    "start": 2848.52,
+    "duration": 4.44
+  },
+  {
+    "text": "vase but I enjoy pawing through them and",
+    "start": 2850.44,
+    "duration": 3.8
+  },
+  {
+    "text": "I enjoy looking at something that's",
+    "start": 2852.96,
+    "duration": 3.8
+  },
+  {
+    "text": "beautifully and hugely valuable and most",
+    "start": 2854.24,
+    "duration": 5.879
+  },
+  {
+    "text": "things make sense and it's mindblowing",
+    "start": 2856.76,
+    "duration": 4.44
+  },
+  {
+    "text": "for me that every once in a while",
+    "start": 2860.119,
+    "duration": 3.641
+  },
+  {
+    "text": "something's just wrong and uh I think",
+    "start": 2861.2,
+    "duration": 4.119
+  },
+  {
+    "text": "the examples I mentioned today I think",
+    "start": 2863.76,
+    "duration": 4.319
+  },
+  {
+    "text": "the price for inhabits wrong I think the",
+    "start": 2865.319,
+    "duration": 4.721
+  },
+  {
+    "text": "price for rousar is wrong I think the",
+    "start": 2868.079,
+    "duration": 4.601
+  },
+  {
+    "text": "price for ponts is wrong but I just paw",
+    "start": 2870.04,
+    "duration": 5.799
+  },
+  {
+    "text": "through these things all day and night",
+    "start": 2872.68,
+    "duration": 5.639
+  },
+  {
+    "text": "and many labels are right but every once",
+    "start": 2875.839,
+    "duration": 4.201
+  },
+  {
+    "text": "in a while there's some little anomaly",
+    "start": 2878.319,
+    "duration": 3.76
+  },
+  {
+    "text": "so find something that you love enough",
+    "start": 2880.04,
+    "duration": 3.88
+  },
+  {
+    "text": "that you don't have to have any",
+    "start": 2882.079,
+    "duration": 4.081
+  },
+  {
+    "text": "desperation to need to find something",
+    "start": 2883.92,
+    "duration": 3.84
+  },
+  {
+    "text": "I'm perfectly happy the days I find",
+    "start": 2886.16,
+    "duration": 2.8
+  },
+  {
+    "text": "nothing and that's good thing because",
+    "start": 2887.76,
+    "duration": 4.64
+  },
+  {
+    "text": "that's most days all right great answer",
+    "start": 2888.96,
+    "duration": 5.72
+  },
+  {
+    "text": "Chris thank you and and once again",
+    "start": 2892.4,
+    "duration": 4.0
+  },
+  {
+    "text": "thanks for being here I can tell you",
+    "start": 2894.68,
+    "duration": 3.679
+  },
+  {
+    "text": "from the way this went that you will",
+    "start": 2896.4,
+    "duration": 4.199
+  },
+  {
+    "text": "definitely be getting an invite back um",
+    "start": 2898.359,
+    "duration": 4.561
+  },
+  {
+    "text": "in the next you know six or 12 months or",
+    "start": 2900.599,
+    "duration": 4.96
+  },
+  {
+    "text": "so thank you Dan thank you Corey I",
+    "start": 2902.92,
+    "duration": 7.08
+  },
+  {
+    "text": "really um grateful uh for your time uh",
+    "start": 2905.559,
+    "duration": 6.321
+  },
+  {
+    "text": "my wife sometimes kicks me under the",
+    "start": 2910.0,
+    "duration": 4.119
+  },
+  {
+    "text": "table at a dinner party or something",
+    "start": 2911.88,
+    "duration": 4.92
+  },
+  {
+    "text": "because I'm so excited about some",
+    "start": 2914.119,
+    "duration": 5.401
+  },
+  {
+    "text": "obscure stock and she's like can you",
+    "start": 2916.8,
+    "duration": 5.519
+  },
+  {
+    "text": "please at least wait until people ask",
+    "start": 2919.52,
+    "duration": 5.039
+  },
+  {
+    "text": "some people are only a she had a",
+    "start": 2922.319,
+    "duration": 3.321
+  },
+  {
+    "text": "somewhat nice way of saying this she",
+    "start": 2924.559,
+    "duration": 2.8
+  },
+  {
+    "text": "said some people are only a little bit",
+    "start": 2925.64,
+    "duration": 4.56
+  },
+  {
+    "text": "interested in what you're working",
+    "start": 2927.359,
+    "duration": 5.881
+  },
+  {
+    "text": "on that's that's very nice of her to put",
+    "start": 2930.2,
+    "duration": 4.879
+  },
+  {
+    "text": "it that way because we know the truth is",
+    "start": 2933.24,
+    "duration": 3.879
+  },
+  {
+    "text": "putting it yes yeah some people learn it",
+    "start": 2935.079,
+    "duration": 6.561
+  },
+  {
+    "text": "all uh and I I get the same thing um so",
+    "start": 2937.119,
+    "duration": 7.161
+  },
+  {
+    "text": "yeah that that's that's funny but uh",
+    "start": 2941.64,
+    "duration": 4.12
+  },
+  {
+    "text": "thanks a lot Chris I really appreciate",
+    "start": 2944.28,
+    "duration": 4.039
+  },
+  {
+    "text": "you being here thanks fellas stay in",
+    "start": 2945.76,
+    "duration": 4.64
+  },
+  {
+    "text": "touch appreciate your time opinions",
+    "start": 2948.319,
+    "duration": 3.361
+  },
+  {
+    "text": "expressed on this program are solely",
+    "start": 2950.4,
+    "duration": 2.64
+  },
+  {
+    "text": "those of the contributor and do not",
+    "start": 2951.68,
+    "duration": 2.8
+  },
+  {
+    "text": "necessarily reflect the opinions of",
+    "start": 2953.04,
+    "duration": 3.4
+  },
+  {
+    "text": "stanbury research its parent company or",
+    "start": 2954.48,
+    "duration": 4.96
+  },
+  {
+    "text": "affiliates",
+    "start": 2956.44,
+    "duration": 3.0
+  }
+]

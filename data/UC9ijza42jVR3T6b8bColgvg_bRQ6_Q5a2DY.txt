@@ -1,0 +1,6707 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.04,
+    "duration": 3.719
+  },
+  {
+    "text": "getco News special coverage of consensus",
+    "start": 0.599,
+    "duration": 7.051
+  },
+  {
+    "text": "2024 is brought to you by Diamond",
+    "start": 3.759,
+    "duration": 8.231
+  },
+  {
+    "text": "[Music]",
+    "start": 7.65,
+    "duration": 4.34
+  },
+  {
+    "text": "standard We are continuing our coverage",
+    "start": 12.12,
+    "duration": 5.88
+  },
+  {
+    "text": "of consensus 2024 here in Austin Texas",
+    "start": 14.639,
+    "duration": 5.72
+  },
+  {
+    "text": "and I am very pleased to now welcome",
+    "start": 18.0,
+    "duration": 5.599
+  },
+  {
+    "text": "James safer to the show James is a",
+    "start": 20.359,
+    "duration": 4.68
+  },
+  {
+    "text": "research analyst at Bloomberg",
+    "start": 23.599,
+    "duration": 3.361
+  },
+  {
+    "text": "intelligence James good to have you with",
+    "start": 25.039,
+    "duration": 3.281
+  },
+  {
+    "text": "us yeah thanks for having me Michelle",
+    "start": 26.96,
+    "duration": 3.84
+  },
+  {
+    "text": "happy to be here so James a lot of Buzz",
+    "start": 28.32,
+    "duration": 4.0
+  },
+  {
+    "text": "at this year's conference obviously",
+    "start": 30.8,
+    "duration": 5.84
+  },
+  {
+    "text": "following the approval of the E ETF some",
+    "start": 32.32,
+    "duration": 6.88
+  },
+  {
+    "text": "speculation that we could see a salana",
+    "start": 36.64,
+    "duration": 6.079
+  },
+  {
+    "text": "ETF next an xrp Ripple ETF next before",
+    "start": 39.2,
+    "duration": 8.12
+  },
+  {
+    "text": "we dig into that let's focus on this e",
+    "start": 42.719,
+    "duration": 8.16
+  },
+  {
+    "text": "ETF approval Kathy Wood was on the stage",
+    "start": 47.32,
+    "duration": 7.44
+  },
+  {
+    "text": "and she implied that this was a",
+    "start": 50.879,
+    "duration": 6.0
+  },
+  {
+    "text": "political decision this took many people",
+    "start": 54.76,
+    "duration": 4.479
+  },
+  {
+    "text": "by surprise it was a complete 180 from",
+    "start": 56.879,
+    "duration": 4.281
+  },
+  {
+    "text": "the SEC and there's been a lot of",
+    "start": 59.239,
+    "duration": 3.32
+  },
+  {
+    "text": "speculation that this may have been a",
+    "start": 61.16,
+    "duration": 3.88
+  },
+  {
+    "text": "move by the Democrats to win favor with",
+    "start": 62.559,
+    "duration": 4.641
+  },
+  {
+    "text": "the crypto Community what are your",
+    "start": 65.04,
+    "duration": 5.6
+  },
+  {
+    "text": "thoughts there yeah I mean I'm 100% in",
+    "start": 67.2,
+    "duration": 4.84
+  },
+  {
+    "text": "that camp I actually talked to Kathy",
+    "start": 70.64,
+    "duration": 4.08
+  },
+  {
+    "text": "Wood for about 20 minutes two nights ago",
+    "start": 72.04,
+    "duration": 4.32
+  },
+  {
+    "text": "in the hotel lobby about this exact",
+    "start": 74.72,
+    "duration": 4.36
+  },
+  {
+    "text": "topic I was on the stage yesterday with",
+    "start": 76.36,
+    "duration": 5.84
+  },
+  {
+    "text": "people from Black Rock Fidelity bitwise",
+    "start": 79.08,
+    "duration": 5.12
+  },
+  {
+    "text": "and Bank of New York melon all of them",
+    "start": 82.2,
+    "duration": 3.4
+  },
+  {
+    "text": "were completely caught off guard by this",
+    "start": 84.2,
+    "duration": 3.879
+  },
+  {
+    "text": "move um I was down in DC the week before",
+    "start": 85.6,
+    "duration": 4.159
+  },
+  {
+    "text": "the approval talking with people that",
+    "start": 88.079,
+    "duration": 3.761
+  },
+  {
+    "text": "are are policy analysts staffers like",
+    "start": 89.759,
+    "duration": 3.841
+  },
+  {
+    "text": "some of these congressmen and women that",
+    "start": 91.84,
+    "duration": 3.88
+  },
+  {
+    "text": "were involved in this no one thought",
+    "start": 93.6,
+    "duration": 4.64
+  },
+  {
+    "text": "this was happening for the most part um",
+    "start": 95.72,
+    "duration": 4.8
+  },
+  {
+    "text": "uh so I'm 100% in the camp this was a",
+    "start": 98.24,
+    "duration": 3.72
+  },
+  {
+    "text": "political move I know some people still",
+    "start": 100.52,
+    "duration": 3.52
+  },
+  {
+    "text": "think this is always the plan uh this is",
+    "start": 101.96,
+    "duration": 4.159
+  },
+  {
+    "text": "just not the way the SEC operates uh we",
+    "start": 104.04,
+    "duration": 4.24
+  },
+  {
+    "text": "only got a 19 B4 approval order so",
+    "start": 106.119,
+    "duration": 3.521
+  },
+  {
+    "text": "there's two things you need for an",
+    "start": 108.28,
+    "duration": 3.879
+  },
+  {
+    "text": "ethereum ETF or any ETF uh that's going",
+    "start": 109.64,
+    "duration": 4.479
+  },
+  {
+    "text": "to hold spot cryptocurrency you need the",
+    "start": 112.159,
+    "duration": 4.361
+  },
+  {
+    "text": "19 before approval order which is a rule",
+    "start": 114.119,
+    "duration": 4.161
+  },
+  {
+    "text": "change it's basically the exchange is",
+    "start": 116.52,
+    "duration": 3.44
+  },
+  {
+    "text": "reaching out the SEC and saying can we",
+    "start": 118.28,
+    "duration": 2.879
+  },
+  {
+    "text": "do this we want to be able to do this",
+    "start": 119.96,
+    "duration": 3.32
+  },
+  {
+    "text": "our rules don't explicitly say it's okay",
+    "start": 121.159,
+    "duration": 3.721
+  },
+  {
+    "text": "in the case of Bitcoin ETF says we want",
+    "start": 123.28,
+    "duration": 3.759
+  },
+  {
+    "text": "to trade spot Bitcoin in the case of",
+    "start": 124.88,
+    "duration": 3.92
+  },
+  {
+    "text": "ethereum it's we want to trade ethereum",
+    "start": 127.039,
+    "duration": 3.881
+  },
+  {
+    "text": "it's pretty simple but you also need",
+    "start": 128.8,
+    "duration": 3.76
+  },
+  {
+    "text": "what's known as an S1 approval or",
+    "start": 130.92,
+    "duration": 3.679
+  },
+  {
+    "text": "prospectus approval uh a different",
+    "start": 132.56,
+    "duration": 4.959
+  },
+  {
+    "text": "division of the SEC um the division of",
+    "start": 134.599,
+    "duration": 4.321
+  },
+  {
+    "text": "corporate finance needs to go through",
+    "start": 137.519,
+    "duration": 2.881
+  },
+  {
+    "text": "all those risk disclosures all the",
+    "start": 138.92,
+    "duration": 3.16
+  },
+  {
+    "text": "information about the fund and say this",
+    "start": 140.4,
+    "duration": 3.919
+  },
+  {
+    "text": "is okay that process did not start until",
+    "start": 142.08,
+    "duration": 4.92
+  },
+  {
+    "text": "very recently um we know today issuers",
+    "start": 144.319,
+    "duration": 5.041
+  },
+  {
+    "text": "are expected to file those s1s so the",
+    "start": 147.0,
+    "duration": 4.519
+  },
+  {
+    "text": "process is started it's underway that",
+    "start": 149.36,
+    "duration": 3.64
+  },
+  {
+    "text": "process has taken up to 5 months I've",
+    "start": 151.519,
+    "duration": 3.041
+  },
+  {
+    "text": "Seen It Go as quick as like a couple",
+    "start": 153.0,
+    "duration": 3.0
+  },
+  {
+    "text": "months but we're still going to be a",
+    "start": 154.56,
+    "duration": 2.959
+  },
+  {
+    "text": "long way out from these things actually",
+    "start": 156.0,
+    "duration": 3.72
+  },
+  {
+    "text": "launching despite the fact that Gary",
+    "start": 157.519,
+    "duration": 3.72
+  },
+  {
+    "text": "gensler's SEC has now approved them",
+    "start": 159.72,
+    "duration": 3.76
+  },
+  {
+    "text": "under those 194s right before we get",
+    "start": 161.239,
+    "duration": 4.92
+  },
+  {
+    "text": "into the timeline of of the launch more",
+    "start": 163.48,
+    "duration": 4.399
+  },
+  {
+    "text": "on this political angle because it is",
+    "start": 166.159,
+    "duration": 4.961
+  },
+  {
+    "text": "very interesting how it played out from",
+    "start": 167.879,
+    "duration": 7.28
+  },
+  {
+    "text": "your sources what actually went down",
+    "start": 171.12,
+    "duration": 6.32
+  },
+  {
+    "text": "what is the speculation in terms of did",
+    "start": 175.159,
+    "duration": 4.401
+  },
+  {
+    "text": "someone give Gary Gensler a call and say",
+    "start": 177.44,
+    "duration": 4.64
+  },
+  {
+    "text": "hey this crypto voting block is pretty",
+    "start": 179.56,
+    "duration": 5.28
+  },
+  {
+    "text": "important we've heard president former",
+    "start": 182.08,
+    "duration": 4.439
+  },
+  {
+    "text": "president Trump come out strongly in",
+    "start": 184.84,
+    "duration": 4.52
+  },
+  {
+    "text": "favor of crypto we better start",
+    "start": 186.519,
+    "duration": 4.64
+  },
+  {
+    "text": "pandering to this crowd like what do you",
+    "start": 189.36,
+    "duration": 3.599
+  },
+  {
+    "text": "think went on behind the scenes so",
+    "start": 191.159,
+    "duration": 4.401
+  },
+  {
+    "text": "that's probably the most common theory",
+    "start": 192.959,
+    "duration": 4.92
+  },
+  {
+    "text": "um basically the Dem saw was happening I",
+    "start": 195.56,
+    "duration": 4.12
+  },
+  {
+    "text": "think also just raising an anti- crypto",
+    "start": 197.879,
+    "duration": 3.761
+  },
+  {
+    "text": "Army was a bad idea to go on like",
+    "start": 199.68,
+    "duration": 3.8
+  },
+  {
+    "text": "there's a lot of people that are very",
+    "start": 201.64,
+    "duration": 4.319
+  },
+  {
+    "text": "pro- crypto um are they single-issue",
+    "start": 203.48,
+    "duration": 3.96
+  },
+  {
+    "text": "voters will they if they were going to",
+    "start": 205.959,
+    "duration": 2.681
+  },
+  {
+    "text": "vote for Biden are they now going to",
+    "start": 207.44,
+    "duration": 2.879
+  },
+  {
+    "text": "vote for Trump simply over crypto",
+    "start": 208.64,
+    "duration": 2.799
+  },
+  {
+    "text": "there's definitely people out there like",
+    "start": 210.319,
+    "duration": 2.241
+  },
+  {
+    "text": "that there's people at this conference",
+    "start": 211.439,
+    "duration": 2.72
+  },
+  {
+    "text": "that I spoke to like that so that",
+    "start": 212.56,
+    "duration": 4.56
+  },
+  {
+    "text": "definitely SED their vote correct now is",
+    "start": 214.159,
+    "duration": 4.241
+  },
+  {
+    "text": "that enough to actually change the",
+    "start": 217.12,
+    "duration": 3.24
+  },
+  {
+    "text": "election who fully knows but I just",
+    "start": 218.4,
+    "duration": 3.28
+  },
+  {
+    "text": "don't think there's a lot of people out",
+    "start": 220.36,
+    "duration": 2.92
+  },
+  {
+    "text": "there that they're a single issue voter",
+    "start": 221.68,
+    "duration": 3.68
+  },
+  {
+    "text": "against crypto like their their defining",
+    "start": 223.28,
+    "duration": 3.519
+  },
+  {
+    "text": "issue is that they don't want to vote",
+    "start": 225.36,
+    "duration": 2.799
+  },
+  {
+    "text": "for anybody that who thinks that crypto",
+    "start": 226.799,
+    "duration": 3.8
+  },
+  {
+    "text": "is a good thing um so the the thing is",
+    "start": 228.159,
+    "duration": 3.761
+  },
+  {
+    "text": "the first option is yeah that's what",
+    "start": 230.599,
+    "duration": 3.041
+  },
+  {
+    "text": "happened basically you look at what",
+    "start": 231.92,
+    "duration": 3.56
+  },
+  {
+    "text": "happened on May 8th that was when Sab",
+    "start": 233.64,
+    "duration": 4.28
+  },
+  {
+    "text": "121 came up for a vote in the house that",
+    "start": 235.48,
+    "duration": 4.479
+  },
+  {
+    "text": "was also the day so before that vot even",
+    "start": 237.92,
+    "duration": 3.48
+  },
+  {
+    "text": "came up the Biden admin came out and",
+    "start": 239.959,
+    "duration": 3.761
+  },
+  {
+    "text": "said continued their harsh things going",
+    "start": 241.4,
+    "duration": 4.32
+  },
+  {
+    "text": "against crypto and said if you pass this",
+    "start": 243.72,
+    "duration": 4.12
+  },
+  {
+    "text": "we're going to veto it um and then the",
+    "start": 245.72,
+    "duration": 4.239
+  },
+  {
+    "text": "house still had a bunch of Democrats",
+    "start": 247.84,
+    "duration": 3.64
+  },
+  {
+    "text": "come over and vote with the Republicans",
+    "start": 249.959,
+    "duration": 3.801
+  },
+  {
+    "text": "and pass that um and then you also that",
+    "start": 251.48,
+    "duration": 4.0
+  },
+  {
+    "text": "same day or the next day you had Trump",
+    "start": 253.76,
+    "duration": 3.479
+  },
+  {
+    "text": "at maralago with a bunch of crypto",
+    "start": 255.48,
+    "duration": 3.24
+  },
+  {
+    "text": "Executives and crypto people doing an",
+    "start": 257.239,
+    "duration": 4.081
+  },
+  {
+    "text": "nft fundraiser saying if you like crypto",
+    "start": 258.72,
+    "duration": 4.36
+  },
+  {
+    "text": "vote for Trump I'm Pro crypto he's since",
+    "start": 261.32,
+    "duration": 3.159
+  },
+  {
+    "text": "come out and said even more positive",
+    "start": 263.08,
+    "duration": 3.64
+  },
+  {
+    "text": "things then you had the Senate vote on",
+    "start": 264.479,
+    "duration": 6.241
+  },
+  {
+    "text": "that sab1 121 vote and that also had I",
+    "start": 266.72,
+    "duration": 5.6
+  },
+  {
+    "text": "12 Democrats from the Senate come over",
+    "start": 270.72,
+    "duration": 3.16
+  },
+  {
+    "text": "including Senate Majority Leader Chuck",
+    "start": 272.32,
+    "duration": 3.4
+  },
+  {
+    "text": "Schumer arguably the second most",
+    "start": 273.88,
+    "duration": 3.72
+  },
+  {
+    "text": "powerful Democrat in the country so I",
+    "start": 275.72,
+    "duration": 4.479
+  },
+  {
+    "text": "think that that happened on Thursday",
+    "start": 277.6,
+    "duration": 4.72
+  },
+  {
+    "text": "right and Friday is when we heard from",
+    "start": 280.199,
+    "duration": 4.44
+  },
+  {
+    "text": "the the SEC started making changes that",
+    "start": 282.32,
+    "duration": 4.2
+  },
+  {
+    "text": "so that Thursday was when the Senate",
+    "start": 284.639,
+    "duration": 4.201
+  },
+  {
+    "text": "vote happened from what I understand",
+    "start": 286.52,
+    "duration": 4.16
+  },
+  {
+    "text": "everybody at the SEC was expecting a",
+    "start": 288.84,
+    "duration": 4.16
+  },
+  {
+    "text": "denial order the plans were for to deny",
+    "start": 290.68,
+    "duration": 3.959
+  },
+  {
+    "text": "these ethereum ETFs that were due on May",
+    "start": 293.0,
+    "duration": 5.6
+  },
+  {
+    "text": "23rd and some call came in at some point",
+    "start": 294.639,
+    "duration": 5.641
+  },
+  {
+    "text": "that we're going to approve these things",
+    "start": 298.6,
+    "duration": 3.24
+  },
+  {
+    "text": "and some parts of the SEC didn't find",
+    "start": 300.28,
+    "duration": 3.96
+  },
+  {
+    "text": "out until my boss Eric balunis and I put",
+    "start": 301.84,
+    "duration": 3.88
+  },
+  {
+    "text": "out tweets on Twitter breaking the news",
+    "start": 304.24,
+    "duration": 3.2
+  },
+  {
+    "text": "that the SEC was doing a complete about",
+    "start": 305.72,
+    "duration": 4.84
+  },
+  {
+    "text": "face at 180 right well here's the",
+    "start": 307.44,
+    "duration": 6.039
+  },
+  {
+    "text": "concern because the SEC is supposed to",
+    "start": 310.56,
+    "duration": 5.84
+  },
+  {
+    "text": "be apolitical it is supposed to be a",
+    "start": 313.479,
+    "duration": 5.641
+  },
+  {
+    "text": "neutral body of government it should not",
+    "start": 316.4,
+    "duration": 4.48
+  },
+  {
+    "text": "be swayed by a phone call from a",
+    "start": 319.12,
+    "duration": 4.24
+  },
+  {
+    "text": "Democrat or from a republican now here",
+    "start": 320.88,
+    "duration": 4.039
+  },
+  {
+    "text": "in the crypto spaces may have been",
+    "start": 323.36,
+    "duration": 3.399
+  },
+  {
+    "text": "celebrated as a positive because it",
+    "start": 324.919,
+    "duration": 4.201
+  },
+  {
+    "text": "falls in line with what many in the",
+    "start": 326.759,
+    "duration": 5.201
+  },
+  {
+    "text": "crypto want but should we be very",
+    "start": 329.12,
+    "duration": 5.76
+  },
+  {
+    "text": "concerned that we practically now have",
+    "start": 331.96,
+    "duration": 5.44
+  },
+  {
+    "text": "confirmation that a lot of the sec's",
+    "start": 334.88,
+    "duration": 4.439
+  },
+  {
+    "text": "positions are very politically",
+    "start": 337.4,
+    "duration": 3.639
+  },
+  {
+    "text": "influenced it's in the crypto space's",
+    "start": 339.319,
+    "duration": 3.72
+  },
+  {
+    "text": "favor this time but there's been",
+    "start": 341.039,
+    "duration": 4.641
+  },
+  {
+    "text": "speculation in the past like operation",
+    "start": 343.039,
+    "duration": 5.641
+  },
+  {
+    "text": "chokepoint 2.0 that has been against",
+    "start": 345.68,
+    "duration": 6.32
+  },
+  {
+    "text": "crypto does this now in a way confirm",
+    "start": 348.68,
+    "duration": 6.72
+  },
+  {
+    "text": "that the SEC at the very best is not a",
+    "start": 352.0,
+    "duration": 5.36
+  },
+  {
+    "text": "political yes for sure I mean I've",
+    "start": 355.4,
+    "duration": 3.919
+  },
+  {
+    "text": "talked to former people that were very",
+    "start": 357.36,
+    "duration": 3.279
+  },
+  {
+    "text": "high up of the SEC and they've been",
+    "start": 359.319,
+    "duration": 2.681
+  },
+  {
+    "text": "unhappy with this admin and the way",
+    "start": 360.639,
+    "duration": 3.56
+  },
+  {
+    "text": "they've conducted many different things",
+    "start": 362.0,
+    "duration": 4.199
+  },
+  {
+    "text": "um it's not just crypto related there's",
+    "start": 364.199,
+    "duration": 3.12
+  },
+  {
+    "text": "a lot of things they're doing with hedge",
+    "start": 366.199,
+    "duration": 2.72
+  },
+  {
+    "text": "funds and private funds and different",
+    "start": 367.319,
+    "duration": 2.681
+  },
+  {
+    "text": "areas there's a lot of people that are",
+    "start": 368.919,
+    "duration": 2.641
+  },
+  {
+    "text": "upset with how political this",
+    "start": 370.0,
+    "duration": 4.16
+  },
+  {
+    "text": "Administration has been um and this look",
+    "start": 371.56,
+    "duration": 3.88
+  },
+  {
+    "text": "we don't have a Smoking Gun we don't",
+    "start": 374.16,
+    "duration": 2.599
+  },
+  {
+    "text": "know exactly what happened like I said",
+    "start": 375.44,
+    "duration": 2.599
+  },
+  {
+    "text": "the leading theory is somebody called",
+    "start": 376.759,
+    "duration": 3.16
+  },
+  {
+    "text": "geszler possibly from the Biden admin",
+    "start": 378.039,
+    "duration": 3.16
+  },
+  {
+    "text": "I've heard another theory so the way",
+    "start": 379.919,
+    "duration": 2.68
+  },
+  {
+    "text": "that the commission works it's two",
+    "start": 381.199,
+    "duration": 3.241
+  },
+  {
+    "text": "Democratic Commissioners two Republican",
+    "start": 382.599,
+    "duration": 3.6
+  },
+  {
+    "text": "Commissioners and then the president",
+    "start": 384.44,
+    "duration": 3.159
+  },
+  {
+    "text": "puts somebody at the head to be the",
+    "start": 386.199,
+    "duration": 3.44
+  },
+  {
+    "text": "chairman in this case Gary gendler if",
+    "start": 387.599,
+    "duration": 3.801
+  },
+  {
+    "text": "somehow you swung one of those other",
+    "start": 389.639,
+    "duration": 3.161
+  },
+  {
+    "text": "Democratic Commissioners who voted",
+    "start": 391.4,
+    "duration": 5.04
+  },
+  {
+    "text": "against approving the Bitcoin ETF namely",
+    "start": 392.8,
+    "duration": 6.399
+  },
+  {
+    "text": "lizarraga if he was somehow decided that",
+    "start": 396.44,
+    "duration": 4.8
+  },
+  {
+    "text": "he can't vote for this he can't vote to",
+    "start": 399.199,
+    "duration": 4.201
+  },
+  {
+    "text": "deny these ethereum ETFs all of a sudden",
+    "start": 401.24,
+    "duration": 3.679
+  },
+  {
+    "text": "that switched the boote even no matter",
+    "start": 403.4,
+    "duration": 2.799
+  },
+  {
+    "text": "what gendler wanted to do was going to",
+    "start": 404.919,
+    "duration": 3.521
+  },
+  {
+    "text": "get approved ironically usually so if we",
+    "start": 406.199,
+    "duration": 4.321
+  },
+  {
+    "text": "looked at the spot Bitcoin ETF approval",
+    "start": 408.44,
+    "duration": 5.879
+  },
+  {
+    "text": "we saw that they they did a vote on this",
+    "start": 410.52,
+    "duration": 5.359
+  },
+  {
+    "text": "and it was the two Republic",
+    "start": 414.319,
+    "duration": 4.481
+  },
+  {
+    "text": "Commissioners UA and Hester Pur and",
+    "start": 415.879,
+    "duration": 4.641
+  },
+  {
+    "text": "gendler was the deciding vote to approve",
+    "start": 418.8,
+    "duration": 3.679
+  },
+  {
+    "text": "them usually on big things like that",
+    "start": 420.52,
+    "duration": 3.76
+  },
+  {
+    "text": "they vote the vast majority of other",
+    "start": 422.479,
+    "duration": 3.321
+  },
+  {
+    "text": "things they do something called Des",
+    "start": 424.28,
+    "duration": 3.16
+  },
+  {
+    "text": "delegated authority which basically lets",
+    "start": 425.8,
+    "duration": 4.0
+  },
+  {
+    "text": "the SEC staff make the decision for",
+    "start": 427.44,
+    "duration": 3.599
+  },
+  {
+    "text": "something like this they don't usually",
+    "start": 429.8,
+    "duration": 3.839
+  },
+  {
+    "text": "do delegated authority and they did it",
+    "start": 431.039,
+    "duration": 4.041
+  },
+  {
+    "text": "here so we don't know what the voting",
+    "start": 433.639,
+    "duration": 3.481
+  },
+  {
+    "text": "breakdown was so it's possible that it",
+    "start": 435.08,
+    "duration": 4.119
+  },
+  {
+    "text": "wasn't Gary that was deciding vote here",
+    "start": 437.12,
+    "duration": 3.44
+  },
+  {
+    "text": "it's possible it could have been 4-1 or",
+    "start": 439.199,
+    "duration": 3.361
+  },
+  {
+    "text": "3-2 and Gary would have voted against",
+    "start": 440.56,
+    "duration": 3.319
+  },
+  {
+    "text": "but there's no way to know because we",
+    "start": 442.56,
+    "duration": 2.919
+  },
+  {
+    "text": "don't actually see that voting and one",
+    "start": 443.879,
+    "duration": 3.521
+  },
+  {
+    "text": "of the unique things here is we just had",
+    "start": 445.479,
+    "duration": 4.241
+  },
+  {
+    "text": "the fit 21 vote come out after this",
+    "start": 447.4,
+    "duration": 4.72
+  },
+  {
+    "text": "Nancy Peli voted for it too she voted to",
+    "start": 449.72,
+    "duration": 4.4
+  },
+  {
+    "text": "do a market structure bill there's",
+    "start": 452.12,
+    "duration": 3.759
+  },
+  {
+    "text": "problems with that but it signals that",
+    "start": 454.12,
+    "duration": 3.68
+  },
+  {
+    "text": "there's more positive things coming and",
+    "start": 455.879,
+    "duration": 3.641
+  },
+  {
+    "text": "lizar Raga is very much in Nancy",
+    "start": 457.8,
+    "duration": 4.0
+  },
+  {
+    "text": "Pelosi's Camp not a um you know",
+    "start": 459.52,
+    "duration": 4.519
+  },
+  {
+    "text": "Elizabeth Warren style uh uh",
+    "start": 461.8,
+    "duration": 3.92
+  },
+  {
+    "text": "commissioner from what I understand so",
+    "start": 464.039,
+    "duration": 3.081
+  },
+  {
+    "text": "there's a lot of theories here about",
+    "start": 465.72,
+    "duration": 3.52
+  },
+  {
+    "text": "exactly who pulled the trigger here on",
+    "start": 467.12,
+    "duration": 4.039
+  },
+  {
+    "text": "making this happen but it as far as I'm",
+    "start": 469.24,
+    "duration": 4.079
+  },
+  {
+    "text": "concerned until I have somebody come out",
+    "start": 471.159,
+    "duration": 4.401
+  },
+  {
+    "text": "and show me a Smoking Gun evidence uh",
+    "start": 473.319,
+    "duration": 3.681
+  },
+  {
+    "text": "this was political and I even think they",
+    "start": 475.56,
+    "duration": 3.24
+  },
+  {
+    "text": "had denial orders written up I bet you",
+    "start": 477.0,
+    "duration": 2.919
+  },
+  {
+    "text": "there's drafts out there are people",
+    "start": 478.8,
+    "duration": 2.56
+  },
+  {
+    "text": "should be doing foyer requests to look",
+    "start": 479.919,
+    "duration": 3.641
+  },
+  {
+    "text": "for emails calls anyone that had",
+    "start": 481.36,
+    "duration": 4.279
+  },
+  {
+    "text": "conversation with Gary gendler um to try",
+    "start": 483.56,
+    "duration": 3.319
+  },
+  {
+    "text": "and figure out what happened here cuz",
+    "start": 485.639,
+    "duration": 2.96
+  },
+  {
+    "text": "there there was a 180 right before",
+    "start": 486.879,
+    "duration": 3.401
+  },
+  {
+    "text": "everything started changing yeah like we",
+    "start": 488.599,
+    "duration": 4.521
+  },
+  {
+    "text": "said took Everyone by surprise doesn't",
+    "start": 490.28,
+    "duration": 5.24
+  },
+  {
+    "text": "matter if it was Gary Gensler or someone",
+    "start": 493.12,
+    "duration": 6.28
+  },
+  {
+    "text": "else that seded it in the sense that we",
+    "start": 495.52,
+    "duration": 6.84
+  },
+  {
+    "text": "now see that this is subject to",
+    "start": 499.4,
+    "duration": 5.359
+  },
+  {
+    "text": "political maneuvering yeah it doesn't",
+    "start": 502.36,
+    "duration": 4.119
+  },
+  {
+    "text": "really matter it doesn't matter it I",
+    "start": 504.759,
+    "duration": 3.321
+  },
+  {
+    "text": "mean in my point of view our argument",
+    "start": 506.479,
+    "duration": 3.481
+  },
+  {
+    "text": "for a long time now has these things",
+    "start": 508.08,
+    "duration": 4.92
+  },
+  {
+    "text": "should just be approved um the should",
+    "start": 509.96,
+    "duration": 4.6
+  },
+  {
+    "text": "there be more transparency in this",
+    "start": 513.0,
+    "duration": 5.399
+  },
+  {
+    "text": "process should you know the senate or",
+    "start": 514.56,
+    "duration": 6.039
+  },
+  {
+    "text": "someone in the Banking Committee say we",
+    "start": 518.399,
+    "duration": 4.76
+  },
+  {
+    "text": "need to see how these SEC decisions are",
+    "start": 520.599,
+    "duration": 4.121
+  },
+  {
+    "text": "are voted on so at least there's more",
+    "start": 523.159,
+    "duration": 3.161
+  },
+  {
+    "text": "transparency so we're not left in the",
+    "start": 524.72,
+    "duration": 3.08
+  },
+  {
+    "text": "dock guessing who voted which who",
+    "start": 526.32,
+    "duration": 3.24
+  },
+  {
+    "text": "switched their vote yeah so",
+    "start": 527.8,
+    "duration": 3.479
+  },
+  {
+    "text": "theoretically another commissioner could",
+    "start": 529.56,
+    "duration": 3.399
+  },
+  {
+    "text": "basically force a vote they can um",
+    "start": 531.279,
+    "duration": 3.201
+  },
+  {
+    "text": "challenge it and basically say we would",
+    "start": 532.959,
+    "duration": 2.681
+  },
+  {
+    "text": "need to see a vote so anything that's",
+    "start": 534.48,
+    "duration": 2.919
+  },
+  {
+    "text": "done via delegated authority I'm not a",
+    "start": 535.64,
+    "duration": 3.96
+  },
+  {
+    "text": "lawyer I don't know the exact term it's",
+    "start": 537.399,
+    "duration": 3.961
+  },
+  {
+    "text": "like a number and a letter and some some",
+    "start": 539.6,
+    "duration": 3.4
+  },
+  {
+    "text": "rule that like a commissioner could come",
+    "start": 541.36,
+    "duration": 3.28
+  },
+  {
+    "text": "in and force everyone to vote and then",
+    "start": 543.0,
+    "duration": 3.2
+  },
+  {
+    "text": "we would see where people's votes",
+    "start": 544.64,
+    "duration": 4.439
+  },
+  {
+    "text": "actually fall on this um but i' you",
+    "start": 546.2,
+    "duration": 4.28
+  },
+  {
+    "text": "would only do that for political reasons",
+    "start": 549.079,
+    "duration": 2.721
+  },
+  {
+    "text": "and I'm not sure what you would be",
+    "start": 550.48,
+    "duration": 2.359
+  },
+  {
+    "text": "winning if you're a democratic",
+    "start": 551.8,
+    "duration": 2.56
+  },
+  {
+    "text": "commissioner and you want to force",
+    "start": 552.839,
+    "duration": 3.321
+  },
+  {
+    "text": "people to show like who was actually",
+    "start": 554.36,
+    "duration": 4.44
+  },
+  {
+    "text": "voting for and against and it's I think",
+    "start": 556.16,
+    "duration": 4.679
+  },
+  {
+    "text": "the Democrats have now realized being",
+    "start": 558.8,
+    "duration": 4.32
+  },
+  {
+    "text": "vehemently anti-crypto even if it's",
+    "start": 560.839,
+    "duration": 4.44
+  },
+  {
+    "text": "against Common Sense Ru making and going",
+    "start": 563.12,
+    "duration": 3.839
+  },
+  {
+    "text": "out and doing things it's it's it's not",
+    "start": 565.279,
+    "duration": 3.641
+  },
+  {
+    "text": "a good look so I don't think they want",
+    "start": 566.959,
+    "duration": 3.921
+  },
+  {
+    "text": "to do that so I doubt it's going to",
+    "start": 568.92,
+    "duration": 2.96
+  },
+  {
+    "text": "happen it could happen and we'll",
+    "start": 570.88,
+    "duration": 3.56
+  },
+  {
+    "text": "actually see a vote but yeah it's it's",
+    "start": 571.88,
+    "duration": 4.92
+  },
+  {
+    "text": "it's it's unfortunate in my opinion yeah",
+    "start": 574.44,
+    "duration": 6.12
+  },
+  {
+    "text": "and again it's perhaps good that the",
+    "start": 576.8,
+    "duration": 6.719
+  },
+  {
+    "text": "Democrats have re-educated themselves",
+    "start": 580.56,
+    "duration": 4.399
+  },
+  {
+    "text": "come to see the light in some crypto",
+    "start": 583.519,
+    "duration": 3.44
+  },
+  {
+    "text": "matters but what isn't good is that that",
+    "start": 584.959,
+    "duration": 5.081
+  },
+  {
+    "text": "political sway impacted an SEC that's",
+    "start": 586.959,
+    "duration": 5.201
+  },
+  {
+    "text": "supposed to be apolitical it also brings",
+    "start": 590.04,
+    "duration": 4.919
+  },
+  {
+    "text": "up the question though you know how many",
+    "start": 592.16,
+    "duration": 6.119
+  },
+  {
+    "text": "other regulatory authorities are swayed",
+    "start": 594.959,
+    "duration": 5.641
+  },
+  {
+    "text": "by politics yeah I would also say it's",
+    "start": 598.279,
+    "duration": 4.081
+  },
+  {
+    "text": "not I wouldn't say it's supposed to be",
+    "start": 600.6,
+    "duration": 4.16
+  },
+  {
+    "text": "apolitical because it is there it you do",
+    "start": 602.36,
+    "duration": 3.76
+  },
+  {
+    "text": "have two Republican Commissioners two",
+    "start": 604.76,
+    "duration": 2.6
+  },
+  {
+    "text": "Democratic Commissioners and then",
+    "start": 606.12,
+    "duration": 3.24
+  },
+  {
+    "text": "somebody who's elected by the president",
+    "start": 607.36,
+    "duration": 4.159
+  },
+  {
+    "text": "or chosen by the president so like but",
+    "start": 609.36,
+    "duration": 3.76
+  },
+  {
+    "text": "it's not supposed to be as political as",
+    "start": 611.519,
+    "duration": 2.76
+  },
+  {
+    "text": "it is it's supposed to be like the",
+    "start": 613.12,
+    "duration": 2.959
+  },
+  {
+    "text": "chairman theoretically is like going to",
+    "start": 614.279,
+    "duration": 3.441
+  },
+  {
+    "text": "pick the issues that matter focus on",
+    "start": 616.079,
+    "duration": 3.76
+  },
+  {
+    "text": "different things it shouldn't be like",
+    "start": 617.72,
+    "duration": 3.88
+  },
+  {
+    "text": "this is the legal reasoning so basically",
+    "start": 619.839,
+    "duration": 3.201
+  },
+  {
+    "text": "what's happened with these Bitcoin ETFs",
+    "start": 621.6,
+    "duration": 4.12
+  },
+  {
+    "text": "in the past it wasn't you should go to",
+    "start": 623.04,
+    "duration": 4.239
+  },
+  {
+    "text": "the staff for legal reasoning and",
+    "start": 625.72,
+    "duration": 2.44
+  },
+  {
+    "text": "understand why you should be doing",
+    "start": 627.279,
+    "duration": 2.24
+  },
+  {
+    "text": "something this is what should happen",
+    "start": 628.16,
+    "duration": 2.72
+  },
+  {
+    "text": "legally this is what should happen based",
+    "start": 629.519,
+    "duration": 3.801
+  },
+  {
+    "text": "on logic and reason um but what's",
+    "start": 630.88,
+    "duration": 4.12
+  },
+  {
+    "text": "happened so far under this",
+    "start": 633.32,
+    "duration": 4.04
+  },
+  {
+    "text": "Administration is this is our decision",
+    "start": 635.0,
+    "duration": 4.48
+  },
+  {
+    "text": "we want to deny these things back into",
+    "start": 637.36,
+    "duration": 3.88
+  },
+  {
+    "text": "that legally figure out a way to do it",
+    "start": 639.48,
+    "duration": 3.24
+  },
+  {
+    "text": "correct which is not the right way to do",
+    "start": 641.24,
+    "duration": 2.92
+  },
+  {
+    "text": "it so I wouldn't say it should have been",
+    "start": 642.72,
+    "duration": 3.359
+  },
+  {
+    "text": "apolitical but it should be a lot less",
+    "start": 644.16,
+    "duration": 3.359
+  },
+  {
+    "text": "political than it is I guess is the way",
+    "start": 646.079,
+    "duration": 4.56
+  },
+  {
+    "text": "I would describe it all right well uh",
+    "start": 647.519,
+    "duration": 5.841
+  },
+  {
+    "text": "see how that story develops as we said",
+    "start": 650.639,
+    "duration": 5.161
+  },
+  {
+    "text": "let's focus on what comes next in terms",
+    "start": 653.36,
+    "duration": 6.08
+  },
+  {
+    "text": "of stages here because it took uh many",
+    "start": 655.8,
+    "duration": 5.4
+  },
+  {
+    "text": "people by surprise you said we're",
+    "start": 659.44,
+    "duration": 4.04
+  },
+  {
+    "text": "expecting the launch of ETFs by when",
+    "start": 661.2,
+    "duration": 5.48
+  },
+  {
+    "text": "early July um so the over under my boss",
+    "start": 663.48,
+    "duration": 6.08
+  },
+  {
+    "text": "said is July Fourth um we the problem is",
+    "start": 666.68,
+    "duration": 5.2
+  },
+  {
+    "text": "no one really knows um everyone had to",
+    "start": 669.56,
+    "duration": 5.719
+  },
+  {
+    "text": "file those S1 documents and usually so",
+    "start": 671.88,
+    "duration": 5.8
+  },
+  {
+    "text": "for example we had the Bitcoin ETFs Eric",
+    "start": 675.279,
+    "duration": 3.761
+  },
+  {
+    "text": "and I were the first ones to go really",
+    "start": 677.68,
+    "duration": 2.44
+  },
+  {
+    "text": "aggressive and saying that they were",
+    "start": 679.04,
+    "duration": 3.0
+  },
+  {
+    "text": "going to be approved in early October",
+    "start": 680.12,
+    "duration": 3.36
+  },
+  {
+    "text": "that was because the division of Corp",
+    "start": 682.04,
+    "duration": 3.359
+  },
+  {
+    "text": "Finance reached out and started having",
+    "start": 683.48,
+    "duration": 3.919
+  },
+  {
+    "text": "conversations and giving comments to",
+    "start": 685.399,
+    "duration": 4.0
+  },
+  {
+    "text": "these issuers on those documents which",
+    "start": 687.399,
+    "duration": 3.721
+  },
+  {
+    "text": "never happened before in the 10 years of",
+    "start": 689.399,
+    "duration": 3.44
+  },
+  {
+    "text": "trying to launch a Bitcoin ETF so we're",
+    "start": 691.12,
+    "duration": 3.56
+  },
+  {
+    "text": "like this is a full change from the SEC",
+    "start": 692.839,
+    "duration": 3.201
+  },
+  {
+    "text": "they're going to prove Grace scale just",
+    "start": 694.68,
+    "duration": 3.36
+  },
+  {
+    "text": "won their lawsuit the SEC didn't an",
+    "start": 696.04,
+    "duration": 4.16
+  },
+  {
+    "text": "appeal so all those things lined up that",
+    "start": 698.04,
+    "duration": 3.76
+  },
+  {
+    "text": "process started in early October they",
+    "start": 700.2,
+    "duration": 3.8
+  },
+  {
+    "text": "were doing amendments they did five or",
+    "start": 701.8,
+    "duration": 3.719
+  },
+  {
+    "text": "six different rounds of amendments so we",
+    "start": 704.0,
+    "duration": 3.12
+  },
+  {
+    "text": "changed these this language and the secs",
+    "start": 705.519,
+    "duration": 3.0
+  },
+  {
+    "text": "you need to change this language you",
+    "start": 707.12,
+    "duration": 3.2
+  },
+  {
+    "text": "need to do this differently that went",
+    "start": 708.519,
+    "duration": 4.0
+  },
+  {
+    "text": "all the way through until January 10th",
+    "start": 710.32,
+    "duration": 3.24
+  },
+  {
+    "text": "when it was approved like they were",
+    "start": 712.519,
+    "duration": 3.0
+  },
+  {
+    "text": "doing every night there was there were",
+    "start": 713.56,
+    "duration": 3.6
+  },
+  {
+    "text": "lawyers pulling all miters to get stuff",
+    "start": 715.519,
+    "duration": 4.041
+  },
+  {
+    "text": "done and sent over to the SEC so so it",
+    "start": 717.16,
+    "duration": 5.04
+  },
+  {
+    "text": "takes a long time now who knows how long",
+    "start": 719.56,
+    "duration": 3.719
+  },
+  {
+    "text": "it's going to take you make the argument",
+    "start": 722.2,
+    "duration": 2.199
+  },
+  {
+    "text": "that we already have spot Bitcoin",
+    "start": 723.279,
+    "duration": 2.601
+  },
+  {
+    "text": "ethereum is somewhat similar but there's",
+    "start": 724.399,
+    "duration": 2.921
+  },
+  {
+    "text": "still a lot of differences here you need",
+    "start": 725.88,
+    "duration": 3.759
+  },
+  {
+    "text": "to do a lot of unique type of working um",
+    "start": 727.32,
+    "duration": 4.12
+  },
+  {
+    "text": "so it should be theoretically could be",
+    "start": 729.639,
+    "duration": 3.521
+  },
+  {
+    "text": "less than that but like I said they were",
+    "start": 731.44,
+    "duration": 3.759
+  },
+  {
+    "text": "pulling all nighters like over Christmas",
+    "start": 733.16,
+    "duration": 4.239
+  },
+  {
+    "text": "break and into January 10th so it could",
+    "start": 735.199,
+    "duration": 4.361
+  },
+  {
+    "text": "take a while I my guess would be early",
+    "start": 737.399,
+    "duration": 3.921
+  },
+  {
+    "text": "July I think they could launch by but",
+    "start": 739.56,
+    "duration": 3.12
+  },
+  {
+    "text": "there's no guarantee and there is no",
+    "start": 741.32,
+    "duration": 3.6
+  },
+  {
+    "text": "clock there is no like this needs to be",
+    "start": 742.68,
+    "duration": 3.839
+  },
+  {
+    "text": "approved by this deadline like those 19",
+    "start": 744.92,
+    "duration": 3.88
+  },
+  {
+    "text": "before approvals they have a deadline um",
+    "start": 746.519,
+    "duration": 4.201
+  },
+  {
+    "text": "but what this does mean is it's a matter",
+    "start": 748.8,
+    "duration": 3.68
+  },
+  {
+    "text": "of when not if it's going to be approved",
+    "start": 750.72,
+    "duration": 3.119
+  },
+  {
+    "text": "they're just working through the process",
+    "start": 752.48,
+    "duration": 3.76
+  },
+  {
+    "text": "of making sure they're aligned how many",
+    "start": 753.839,
+    "duration": 5.721
+  },
+  {
+    "text": "ETFs are we expecting and who are the",
+    "start": 756.24,
+    "duration": 5.399
+  },
+  {
+    "text": "key players here yeah so there's eight",
+    "start": 759.56,
+    "duration": 3.56
+  },
+  {
+    "text": "ETFs so it's a little bit different than",
+    "start": 761.639,
+    "duration": 4.44
+  },
+  {
+    "text": "the 10 or 11 uh well it's seven issuers",
+    "start": 763.12,
+    "duration": 4.76
+  },
+  {
+    "text": "um but it's mostly the same players that",
+    "start": 766.079,
+    "duration": 4.12
+  },
+  {
+    "text": "were involved in spot Bitcoin ETF Ray so",
+    "start": 767.88,
+    "duration": 3.68
+  },
+  {
+    "text": "you have gry skill which is also going",
+    "start": 770.199,
+    "duration": 3.041
+  },
+  {
+    "text": "to be converting e which is an$ 11",
+    "start": 771.56,
+    "duration": 4.0
+  },
+  {
+    "text": "billion product uh which is similar to",
+    "start": 773.24,
+    "duration": 5.0
+  },
+  {
+    "text": "the gbtc conversion um you have black",
+    "start": 775.56,
+    "duration": 4.399
+  },
+  {
+    "text": "rock fidelity",
+    "start": 778.24,
+    "duration": 3.36
+  },
+  {
+    "text": "bitwise",
+    "start": 779.959,
+    "duration": 6.481
+  },
+  {
+    "text": "um uh vanc Invesco um you name it all",
+    "start": 781.6,
+    "duration": 6.64
+  },
+  {
+    "text": "those guys are are most of the bigger",
+    "start": 786.44,
+    "duration": 4.12
+  },
+  {
+    "text": "players involved in spot Bitcoin ET ETF",
+    "start": 788.24,
+    "duration": 3.839
+  },
+  {
+    "text": "race are going to be here um but",
+    "start": 790.56,
+    "duration": 4.959
+  },
+  {
+    "text": "grayscale also filed for um a mini trust",
+    "start": 792.079,
+    "duration": 4.88
+  },
+  {
+    "text": "so they're going to launch an ethereum",
+    "start": 795.519,
+    "duration": 3.12
+  },
+  {
+    "text": "mini trust which is the same thing",
+    "start": 796.959,
+    "duration": 3.281
+  },
+  {
+    "text": "they're trying to do with their Bitcoin",
+    "start": 798.639,
+    "duration": 3.241
+  },
+  {
+    "text": "trust they're they're launching a mini",
+    "start": 800.24,
+    "duration": 4.88
+  },
+  {
+    "text": "version um what's the Mini version it's",
+    "start": 801.88,
+    "duration": 6.399
+  },
+  {
+    "text": "basically it's a common uh tactical move",
+    "start": 805.12,
+    "duration": 5.519
+  },
+  {
+    "text": "that issuers use in in the ETF space so",
+    "start": 808.279,
+    "duration": 4.24
+  },
+  {
+    "text": "for example Black Rock was I think the",
+    "start": 810.639,
+    "duration": 2.961
+  },
+  {
+    "text": "first one to do this they did it with",
+    "start": 812.519,
+    "duration": 2.76
+  },
+  {
+    "text": "their Emerging Markets ETF that thing",
+    "start": 813.6,
+    "duration": 4.2
+  },
+  {
+    "text": "charges 75 basis points hedge funds use",
+    "start": 815.279,
+    "duration": 4.161
+  },
+  {
+    "text": "it to trade everyone use it to trade",
+    "start": 817.8,
+    "duration": 4.64
+  },
+  {
+    "text": "against Emerging Market exposure um they",
+    "start": 819.44,
+    "duration": 4.639
+  },
+  {
+    "text": "also but everyone launch much cheaper",
+    "start": 822.44,
+    "duration": 3.8
+  },
+  {
+    "text": "products charging 20 bips so what black",
+    "start": 824.079,
+    "duration": 3.481
+  },
+  {
+    "text": "Ruck did was we're not going to lower",
+    "start": 826.24,
+    "duration": 2.719
+  },
+  {
+    "text": "the fee on this because we have tens of",
+    "start": 827.56,
+    "duration": 3.56
+  },
+  {
+    "text": "billions of dollars in here um we're",
+    "start": 828.959,
+    "duration": 3.44
+  },
+  {
+    "text": "going to keep the fee high this is the",
+    "start": 831.12,
+    "duration": 2.56
+  },
+  {
+    "text": "most liquid product is where all the",
+    "start": 832.399,
+    "duration": 2.44
+  },
+  {
+    "text": "options are this is when everyone uses",
+    "start": 833.68,
+    "duration": 2.599
+  },
+  {
+    "text": "the trade we're going to launch a",
+    "start": 834.839,
+    "duration": 2.8
+  },
+  {
+    "text": "product that's as cheaper cheaper than",
+    "start": 836.279,
+    "duration": 2.961
+  },
+  {
+    "text": "everything else on the market this is I",
+    "start": 837.639,
+    "duration": 4.2
+  },
+  {
+    "text": "G and rather than letting other",
+    "start": 839.24,
+    "duration": 4.0
+  },
+  {
+    "text": "competitors cannibalize us we'll just",
+    "start": 841.839,
+    "duration": 3.36
+  },
+  {
+    "text": "cannibalize ourselves and still eek out",
+    "start": 843.24,
+    "duration": 3.36
+  },
+  {
+    "text": "the high profit margins that we're",
+    "start": 845.199,
+    "duration": 3.2
+  },
+  {
+    "text": "getting on this other product so that's",
+    "start": 846.6,
+    "duration": 3.32
+  },
+  {
+    "text": "kind of what grayscale is going to do",
+    "start": 848.399,
+    "duration": 3.44
+  },
+  {
+    "text": "with gbtc when they they're spinning off",
+    "start": 849.92,
+    "duration": 4.599
+  },
+  {
+    "text": "10% of it into another ETF that will be",
+    "start": 851.839,
+    "duration": 4.641
+  },
+  {
+    "text": "BTC I don't know the timeline of when",
+    "start": 854.519,
+    "duration": 3.081
+  },
+  {
+    "text": "that's happening but it will probably",
+    "start": 856.48,
+    "duration": 2.4
+  },
+  {
+    "text": "happen at some point this year maybe",
+    "start": 857.6,
+    "duration": 4.32
+  },
+  {
+    "text": "later this year um and then ethereum is",
+    "start": 858.88,
+    "duration": 4.639
+  },
+  {
+    "text": "going to be doing the same thing but we",
+    "start": 861.92,
+    "duration": 3.08
+  },
+  {
+    "text": "again we don't know when that mini trust",
+    "start": 863.519,
+    "duration": 4.081
+  },
+  {
+    "text": "is going to launch right um what does",
+    "start": 865.0,
+    "duration": 4.68
+  },
+  {
+    "text": "this mean regarding",
+    "start": 867.6,
+    "duration": 4.52
+  },
+  {
+    "text": "the whole debate is eth a security is",
+    "start": 869.68,
+    "duration": 6.279
+  },
+  {
+    "text": "eth a commodity because you know eth",
+    "start": 872.12,
+    "duration": 6.56
+  },
+  {
+    "text": "staked eth is not part of this ETF",
+    "start": 875.959,
+    "duration": 5.081
+  },
+  {
+    "text": "correct and of course that's how the",
+    "start": 878.68,
+    "duration": 4.76
+  },
+  {
+    "text": "transactions on the eth blockchain are",
+    "start": 881.04,
+    "duration": 4.159
+  },
+  {
+    "text": "validated and people get yielded for",
+    "start": 883.44,
+    "duration": 4.56
+  },
+  {
+    "text": "staking their e so explain how this",
+    "start": 885.199,
+    "duration": 4.56
+  },
+  {
+    "text": "whole situation works out now with these",
+    "start": 888.0,
+    "duration": 4.44
+  },
+  {
+    "text": "ETFs yeah so I've actually had this",
+    "start": 889.759,
+    "duration": 4.2
+  },
+  {
+    "text": "theory that I've put out there since",
+    "start": 892.44,
+    "duration": 4.28
+  },
+  {
+    "text": "March that I do you remember there was",
+    "start": 893.959,
+    "duration": 5.32
+  },
+  {
+    "text": "this whole bunch of worry about like the",
+    "start": 896.72,
+    "duration": 4.359
+  },
+  {
+    "text": "SEC is going to claim ethereum to be a",
+    "start": 899.279,
+    "duration": 3.321
+  },
+  {
+    "text": "security they were going after cons Joe",
+    "start": 901.079,
+    "duration": 4.921
+  },
+  {
+    "text": "lubin's consensus there was a how test",
+    "start": 902.6,
+    "duration": 5.679
+  },
+  {
+    "text": "exactly so there I my whole my I thought",
+    "start": 906.0,
+    "duration": 3.68
+  },
+  {
+    "text": "they were I didn't never think they were",
+    "start": 908.279,
+    "duration": 2.841
+  },
+  {
+    "text": "actually going to claim ethereum to be a",
+    "start": 909.68,
+    "duration": 4.079
+  },
+  {
+    "text": "security the cftc has designated it as a",
+    "start": 911.12,
+    "duration": 6.12
+  },
+  {
+    "text": "commodity um the SEC has approved",
+    "start": 913.759,
+    "duration": 7.88
+  },
+  {
+    "text": "ethereum Futures ETFs so that means they",
+    "start": 917.24,
+    "duration": 6.039
+  },
+  {
+    "text": "de facto accept the status of those",
+    "start": 921.639,
+    "duration": 3.56
+  },
+  {
+    "text": "ethereum Futures and when you file for a",
+    "start": 923.279,
+    "duration": 3.881
+  },
+  {
+    "text": "Futures Contract to begin listing the",
+    "start": 925.199,
+    "duration": 4.161
+  },
+  {
+    "text": "CME filed for spot Bitcoin SP Bitcoin",
+    "start": 927.16,
+    "duration": 3.72
+  },
+  {
+    "text": "mini whatever they filed for those",
+    "start": 929.36,
+    "duration": 2.68
+  },
+  {
+    "text": "Futures contracts they did it for",
+    "start": 930.88,
+    "duration": 3.079
+  },
+  {
+    "text": "ethereum when you register those with",
+    "start": 932.04,
+    "duration": 5.12
+  },
+  {
+    "text": "the cftc the sec's sister commission um",
+    "start": 933.959,
+    "duration": 5.481
+  },
+  {
+    "text": "that covers Commodities you you you",
+    "start": 937.16,
+    "duration": 4.56
+  },
+  {
+    "text": "check a box on what type of Futures this",
+    "start": 939.44,
+    "duration": 3.879
+  },
+  {
+    "text": "is and when they did that for Bitcoin",
+    "start": 941.72,
+    "duration": 2.96
+  },
+  {
+    "text": "and when they did that for ethereum they",
+    "start": 943.319,
+    "duration": 4.121
+  },
+  {
+    "text": "checked it off as a commodi future",
+    "start": 944.68,
+    "duration": 4.159
+  },
+  {
+    "text": "there's another box for Securities",
+    "start": 947.44,
+    "duration": 2.8
+  },
+  {
+    "text": "future which would mean like something",
+    "start": 948.839,
+    "duration": 4.12
+  },
+  {
+    "text": "like a Futures Contract on like on ETF",
+    "start": 950.24,
+    "duration": 6.399
+  },
+  {
+    "text": "or on a equity security um that means",
+    "start": 952.959,
+    "duration": 6.68
+  },
+  {
+    "text": "there's dual coverage the SEC and CF",
+    "start": 956.639,
+    "duration": 5.32
+  },
+  {
+    "text": "has uh they they they both would cover",
+    "start": 959.639,
+    "duration": 3.76
+  },
+  {
+    "text": "it and the SEC can challenge anything",
+    "start": 961.959,
+    "duration": 3.0
+  },
+  {
+    "text": "that files so basically they didn't",
+    "start": 963.399,
+    "duration": 3.24
+  },
+  {
+    "text": "challenge it when the Futures were filed",
+    "start": 964.959,
+    "duration": 2.601
+  },
+  {
+    "text": "they didn't challenge it when the",
+    "start": 966.639,
+    "duration": 2.68
+  },
+  {
+    "text": "ethereum Futures were approved in early",
+    "start": 967.56,
+    "duration": 4.079
+  },
+  {
+    "text": "October um so like I never really",
+    "start": 969.319,
+    "duration": 3.481
+  },
+  {
+    "text": "thought they were fully going to call it",
+    "start": 971.639,
+    "duration": 4.081
+  },
+  {
+    "text": "a security though that was a concern I'm",
+    "start": 972.8,
+    "duration": 4.32
+  },
+  {
+    "text": "I'm of the opinion and still of the",
+    "start": 975.72,
+    "duration": 3.039
+  },
+  {
+    "text": "opinion that this",
+    "start": 977.12,
+    "duration": 4.279
+  },
+  {
+    "text": "SEC is going to go after Stak ethereum",
+    "start": 978.759,
+    "duration": 3.921
+  },
+  {
+    "text": "they're going to try to make an argument",
+    "start": 981.399,
+    "duration": 4.081
+  },
+  {
+    "text": "that okay this and and by approving",
+    "start": 982.68,
+    "duration": 4.48
+  },
+  {
+    "text": "these they approv these as Commodities",
+    "start": 985.48,
+    "duration": 4.2
+  },
+  {
+    "text": "based Futures trust commodities",
+    "start": 987.16,
+    "duration": 5.52
+  },
+  {
+    "text": "e staking allowed on these ETFs correct",
+    "start": 989.68,
+    "duration": 4.959
+  },
+  {
+    "text": "so we know that definitively because it",
+    "start": 992.68,
+    "duration": 3.639
+  },
+  {
+    "text": "was in the filing correct that was one",
+    "start": 994.639,
+    "duration": 3.841
+  },
+  {
+    "text": "of the so those documents that came in",
+    "start": 996.319,
+    "duration": 4.44
+  },
+  {
+    "text": "the 19 before it was a 180 we got notice",
+    "start": 998.48,
+    "duration": 4.44
+  },
+  {
+    "text": "on on Monday that they were going to",
+    "start": 1000.759,
+    "duration": 3.841
+  },
+  {
+    "text": "approve them the only changes there was",
+    "start": 1002.92,
+    "duration": 3.56
+  },
+  {
+    "text": "a bunch of changes on those documents",
+    "start": 1004.6,
+    "duration": 4.479
+  },
+  {
+    "text": "the main change was take out staking",
+    "start": 1006.48,
+    "duration": 3.599
+  },
+  {
+    "text": "there was a few other stuff but that was",
+    "start": 1009.079,
+    "duration": 2.041
+  },
+  {
+    "text": "the main thing that's also what's",
+    "start": 1010.079,
+    "duration": 2.2
+  },
+  {
+    "text": "happening with these s1s that we're",
+    "start": 1011.12,
+    "duration": 2.959
+  },
+  {
+    "text": "seeing come through staking is not going",
+    "start": 1012.279,
+    "duration": 5.0
+  },
+  {
+    "text": "to happen but they approved them as",
+    "start": 1014.079,
+    "duration": 5.361
+  },
+  {
+    "text": "Commodities based trust Shar",
+    "start": 1017.279,
+    "duration": 4.201
+  },
+  {
+    "text": "which means ethereum itself is no longer",
+    "start": 1019.44,
+    "duration": 3.92
+  },
+  {
+    "text": "as far as the SEC is concerned it's a",
+    "start": 1021.48,
+    "duration": 3.92
+  },
+  {
+    "text": "done deal ethereum the asset the token",
+    "start": 1023.36,
+    "duration": 4.52
+  },
+  {
+    "text": "whatever you want to call it that is a",
+    "start": 1025.4,
+    "duration": 5.6
+  },
+  {
+    "text": "commodity it is not a security that said",
+    "start": 1027.88,
+    "duration": 4.959
+  },
+  {
+    "text": "staking is a whole different story they",
+    "start": 1031.0,
+    "duration": 3.199
+  },
+  {
+    "text": "don't like staking we've seen them go",
+    "start": 1032.839,
+    "duration": 3.281
+  },
+  {
+    "text": "after coinbase and Kraken on staking as",
+    "start": 1034.199,
+    "duration": 3.961
+  },
+  {
+    "text": "a service and I think they're going to",
+    "start": 1036.12,
+    "duration": 3.719
+  },
+  {
+    "text": "try to make an argument that staking is",
+    "start": 1038.16,
+    "duration": 2.879
+  },
+  {
+    "text": "like an investment contract because",
+    "start": 1039.839,
+    "duration": 3.12
+  },
+  {
+    "text": "you're getting expected return so I",
+    "start": 1041.039,
+    "duration": 2.8
+  },
+  {
+    "text": "think they're going to try to thread a",
+    "start": 1042.959,
+    "duration": 2.641
+  },
+  {
+    "text": "needle by saying ethereum itself is not",
+    "start": 1043.839,
+    "duration": 4.08
+  },
+  {
+    "text": "a security but staked ethereum is a",
+    "start": 1045.6,
+    "duration": 4.12
+  },
+  {
+    "text": "security so I think where they're going",
+    "start": 1047.919,
+    "duration": 3.161
+  },
+  {
+    "text": "and I thought that was the case for the",
+    "start": 1049.72,
+    "duration": 4.76
+  },
+  {
+    "text": "last few months so given that staking is",
+    "start": 1051.08,
+    "duration": 5.88
+  },
+  {
+    "text": "necessary to validate transactions on",
+    "start": 1054.48,
+    "duration": 5.439
+  },
+  {
+    "text": "the ethereum blockchain it brings up two",
+    "start": 1056.96,
+    "duration": 6.88
+  },
+  {
+    "text": "questions one is what would be the",
+    "start": 1059.919,
+    "duration": 7.841
+  },
+  {
+    "text": "impact if you have a whole bunch of eth",
+    "start": 1063.84,
+    "duration": 7.64
+  },
+  {
+    "text": "centralized in a non-st capacity tied up",
+    "start": 1067.76,
+    "duration": 6.159
+  },
+  {
+    "text": "in these ETFs does that impact the",
+    "start": 1071.48,
+    "duration": 4.319
+  },
+  {
+    "text": "validation process the validation",
+    "start": 1073.919,
+    "duration": 4.321
+  },
+  {
+    "text": "efficiency of the blockchain in any way",
+    "start": 1075.799,
+    "duration": 5.081
+  },
+  {
+    "text": "so I am definitely not the person to",
+    "start": 1078.24,
+    "duration": 4.04
+  },
+  {
+    "text": "answer this question but I will answer",
+    "start": 1080.88,
+    "duration": 2.84
+  },
+  {
+    "text": "it anyway based on my understanding I",
+    "start": 1082.28,
+    "duration": 3.08
+  },
+  {
+    "text": "don't think it will I mean I guess",
+    "start": 1083.72,
+    "duration": 2.88
+  },
+  {
+    "text": "theoretically if you get to a point",
+    "start": 1085.36,
+    "duration": 3.16
+  },
+  {
+    "text": "where like 50% of the eth is somehow",
+    "start": 1086.6,
+    "duration": 4.68
+  },
+  {
+    "text": "locked up in these spot ETFs um I don't",
+    "start": 1088.52,
+    "duration": 4.44
+  },
+  {
+    "text": "see that happening it could I guess it",
+    "start": 1091.28,
+    "duration": 3.8
+  },
+  {
+    "text": "could impact things but the the the way",
+    "start": 1092.96,
+    "duration": 4.48
+  },
+  {
+    "text": "that you would affect those types of",
+    "start": 1095.08,
+    "duration": 4.8
+  },
+  {
+    "text": "situations is like overuse of the chain",
+    "start": 1097.44,
+    "duration": 3.84
+  },
+  {
+    "text": "or drastic use of the chain because then",
+    "start": 1099.88,
+    "duration": 3.039
+  },
+  {
+    "text": "you're going to drive up gas fees",
+    "start": 1101.28,
+    "duration": 3.12
+  },
+  {
+    "text": "because the ethereum blockchain is going",
+    "start": 1102.919,
+    "duration": 3.281
+  },
+  {
+    "text": "to be used more and more and more in",
+    "start": 1104.4,
+    "duration": 2.88
+  },
+  {
+    "text": "this case you're not actually going to",
+    "start": 1106.2,
+    "duration": 3.08
+  },
+  {
+    "text": "be using the blockchain these ETFs",
+    "start": 1107.28,
+    "duration": 4.279
+  },
+  {
+    "text": "particularly because they're not staking",
+    "start": 1109.28,
+    "duration": 3.48
+  },
+  {
+    "text": "that ethereum is just going to be",
+    "start": 1111.559,
+    "duration": 3.161
+  },
+  {
+    "text": "sitting in a vault essentially some",
+    "start": 1112.76,
+    "duration": 3.24
+  },
+  {
+    "text": "wallet somewhere it's not going to be",
+    "start": 1114.72,
+    "duration": 2.4
+  },
+  {
+    "text": "doing anything it's not going to be",
+    "start": 1116.0,
+    "duration": 3.28
+  },
+  {
+    "text": "affecting the chain um and so as long as",
+    "start": 1117.12,
+    "duration": 3.439
+  },
+  {
+    "text": "you have people going out there and",
+    "start": 1119.28,
+    "duration": 2.6
+  },
+  {
+    "text": "staking trying to earn return and",
+    "start": 1120.559,
+    "duration": 4.041
+  },
+  {
+    "text": "validate the nodes um and transactions",
+    "start": 1121.88,
+    "duration": 5.039
+  },
+  {
+    "text": "it should operate just fine shouldn't",
+    "start": 1124.6,
+    "duration": 4.36
+  },
+  {
+    "text": "like cause like a traffic jam if you",
+    "start": 1126.919,
+    "duration": 4.161
+  },
+  {
+    "text": "because we we have fewer e to I mean the",
+    "start": 1128.96,
+    "duration": 3.68
+  },
+  {
+    "text": "impact would be more on price right",
+    "start": 1131.08,
+    "duration": 3.12
+  },
+  {
+    "text": "because you're because the demand and",
+    "start": 1132.64,
+    "duration": 3.159
+  },
+  {
+    "text": "Supply effects that you're having on",
+    "start": 1134.2,
+    "duration": 4.92
+  },
+  {
+    "text": "that front so part of the appeal of",
+    "start": 1135.799,
+    "duration": 5.401
+  },
+  {
+    "text": "ethereum is the yield that you get by",
+    "start": 1139.12,
+    "duration": 4.88
+  },
+  {
+    "text": "staking what is the upside then of",
+    "start": 1141.2,
+    "duration": 5.44
+  },
+  {
+    "text": "having it in a in a spot ETF is it just",
+    "start": 1144.0,
+    "duration": 4.32
+  },
+  {
+    "text": "for retail investors that wouldn't be",
+    "start": 1146.64,
+    "duration": 4.159
+  },
+  {
+    "text": "able to figure out staking and yield",
+    "start": 1148.32,
+    "duration": 5.04
+  },
+  {
+    "text": "anyway yeah I mean it definitely hinders",
+    "start": 1150.799,
+    "duration": 4.88
+  },
+  {
+    "text": "the appeal of these products so we we",
+    "start": 1153.36,
+    "duration": 3.4
+  },
+  {
+    "text": "can get into like what we think the",
+    "start": 1155.679,
+    "duration": 3.281
+  },
+  {
+    "text": "demand is for this but if you look at",
+    "start": 1156.76,
+    "duration": 3.88
+  },
+  {
+    "text": "Bitcoin and you take Bitcoin and put it",
+    "start": 1158.96,
+    "duration": 3.52
+  },
+  {
+    "text": "into an ETF wrapper there's a little bit",
+    "start": 1160.64,
+    "duration": 3.44
+  },
+  {
+    "text": "of a gap you lose some utility of",
+    "start": 1162.48,
+    "duration": 2.84
+  },
+  {
+    "text": "Bitcoin because you don't have self-",
+    "start": 1164.08,
+    "duration": 2.68
+  },
+  {
+    "text": "custody you can't send and use it",
+    "start": 1165.32,
+    "duration": 3.76
+  },
+  {
+    "text": "yourself but that gap between between",
+    "start": 1166.76,
+    "duration": 4.52
+  },
+  {
+    "text": "those two things is a lot less narrow",
+    "start": 1169.08,
+    "duration": 4.0
+  },
+  {
+    "text": "than in my view what ethereum you lose a",
+    "start": 1171.28,
+    "duration": 3.24
+  },
+  {
+    "text": "lot more utility with ethereum because",
+    "start": 1173.08,
+    "duration": 3.16
+  },
+  {
+    "text": "theoretically ethereum does have more",
+    "start": 1174.52,
+    "duration": 3.519
+  },
+  {
+    "text": "utility you use it to Mint things you",
+    "start": 1176.24,
+    "duration": 4.72
+  },
+  {
+    "text": "have erc20 tokens uh you can do staking",
+    "start": 1178.039,
+    "duration": 4.88
+  },
+  {
+    "text": "so that there's a much larger Gap so the",
+    "start": 1180.96,
+    "duration": 3.92
+  },
+  {
+    "text": "people that this will appeal to is",
+    "start": 1182.919,
+    "duration": 3.801
+  },
+  {
+    "text": "people who want exposure investment",
+    "start": 1184.88,
+    "duration": 3.76
+  },
+  {
+    "text": "exposure on the traditional Financial",
+    "start": 1186.72,
+    "duration": 3.76
+  },
+  {
+    "text": "rails that's what this is all about",
+    "start": 1188.64,
+    "duration": 3.24
+  },
+  {
+    "text": "that's what the spot Bitcoin ETF was",
+    "start": 1190.48,
+    "duration": 3.079
+  },
+  {
+    "text": "about that's what this ethereum ETF is",
+    "start": 1191.88,
+    "duration": 3.64
+  },
+  {
+    "text": "about in many cases maybe you have money",
+    "start": 1193.559,
+    "duration": 4.12
+  },
+  {
+    "text": "in an IRA on a traditional Financial",
+    "start": 1195.52,
+    "duration": 4.2
+  },
+  {
+    "text": "platform where",
+    "start": 1197.679,
+    "duration": 4.441
+  },
+  {
+    "text": "um you name it Fidelity you want to get",
+    "start": 1199.72,
+    "duration": 4.88
+  },
+  {
+    "text": "exposure to an asset class there this",
+    "start": 1202.12,
+    "duration": 4.039
+  },
+  {
+    "text": "ETF is going to be the most efficient",
+    "start": 1204.6,
+    "duration": 3.079
+  },
+  {
+    "text": "way to do that or if you're an",
+    "start": 1206.159,
+    "duration": 3.561
+  },
+  {
+    "text": "institution you can't just buy ethereum",
+    "start": 1207.679,
+    "duration": 4.081
+  },
+  {
+    "text": "necessarily or what what have you so",
+    "start": 1209.72,
+    "duration": 3.48
+  },
+  {
+    "text": "this makes it easier for you to get",
+    "start": 1211.76,
+    "duration": 3.88
+  },
+  {
+    "text": "exposure it's just not the best form of",
+    "start": 1213.2,
+    "duration": 3.599
+  },
+  {
+    "text": "exposure you can get but if it's the",
+    "start": 1215.64,
+    "duration": 2.36
+  },
+  {
+    "text": "only way you can get exposure it's",
+    "start": 1216.799,
+    "duration": 3.36
+  },
+  {
+    "text": "better than nothing right and we're",
+    "start": 1218.0,
+    "duration": 4.24
+  },
+  {
+    "text": "going to touch on demand but if we did",
+    "start": 1220.159,
+    "duration": 5.64
+  },
+  {
+    "text": "have Stak e ETFs that would also be a",
+    "start": 1222.24,
+    "duration": 5.72
+  },
+  {
+    "text": "problem in that it would centralize so",
+    "start": 1225.799,
+    "duration": 3.481
+  },
+  {
+    "text": "much validation",
+    "start": 1227.96,
+    "duration": 3.36
+  },
+  {
+    "text": "power right yeah I would I mean if you",
+    "start": 1229.28,
+    "duration": 4.279
+  },
+  {
+    "text": "see immense demand and these things get",
+    "start": 1231.32,
+    "duration": 3.839
+  },
+  {
+    "text": "tens and tens of billions of dollars",
+    "start": 1233.559,
+    "duration": 2.881
+  },
+  {
+    "text": "hundreds of billions of dollars at some",
+    "start": 1235.159,
+    "duration": 3.081
+  },
+  {
+    "text": "point down the line yeah theoretically",
+    "start": 1236.44,
+    "duration": 3.08
+  },
+  {
+    "text": "and they're all staking like that could",
+    "start": 1238.24,
+    "duration": 3.08
+  },
+  {
+    "text": "be a centralization issue that like the",
+    "start": 1239.52,
+    "duration": 3.159
+  },
+  {
+    "text": "ethereum protocol would have to worry",
+    "start": 1241.32,
+    "duration": 4.0
+  },
+  {
+    "text": "about um but again even if that even if",
+    "start": 1242.679,
+    "duration": 3.841
+  },
+  {
+    "text": "they do allow staking I think we're",
+    "start": 1245.32,
+    "duration": 3.359
+  },
+  {
+    "text": "years away we have ETFs in Canada that",
+    "start": 1246.52,
+    "duration": 4.399
+  },
+  {
+    "text": "allow staking uh and we have ETFs in",
+    "start": 1248.679,
+    "duration": 5.521
+  },
+  {
+    "text": "Europe that allow staking um and I I'm",
+    "start": 1250.919,
+    "duration": 6.0
+  },
+  {
+    "text": "not sure if Hong Kong I think Hong Kong",
+    "start": 1254.2,
+    "duration": 4.359
+  },
+  {
+    "text": "they launched I don't think they they're",
+    "start": 1256.919,
+    "duration": 3.961
+  },
+  {
+    "text": "staking it but they might um the one",
+    "start": 1258.559,
+    "duration": 4.881
+  },
+  {
+    "text": "difference is in the US these spot",
+    "start": 1260.88,
+    "duration": 4.48
+  },
+  {
+    "text": "products they don't allow for in kind",
+    "start": 1263.44,
+    "duration": 3.599
+  },
+  {
+    "text": "transactions which is how most ETFs work",
+    "start": 1265.36,
+    "duration": 3.04
+  },
+  {
+    "text": "so theoretically with Bitcoin or",
+    "start": 1267.039,
+    "duration": 2.841
+  },
+  {
+    "text": "ethereum you would hand over the",
+    "start": 1268.4,
+    "duration": 2.84
+  },
+  {
+    "text": "underlying asset and in return you get",
+    "start": 1269.88,
+    "duration": 3.279
+  },
+  {
+    "text": "shares at the ETF yeah that process of",
+    "start": 1271.24,
+    "duration": 3.16
+  },
+  {
+    "text": "creation Redemption is what keeps the",
+    "start": 1273.159,
+    "duration": 3.481
+  },
+  {
+    "text": "ETF in line the SEC wasn't comfortable",
+    "start": 1274.4,
+    "duration": 3.8
+  },
+  {
+    "text": "with that so the only way you can do it",
+    "start": 1276.64,
+    "duration": 3.08
+  },
+  {
+    "text": "is by doing cash create so you have to",
+    "start": 1278.2,
+    "duration": 3.52
+  },
+  {
+    "text": "send money over then the ETF issuer",
+    "start": 1279.72,
+    "duration": 4.439
+  },
+  {
+    "text": "itself or some third party person goes",
+    "start": 1281.72,
+    "duration": 4.36
+  },
+  {
+    "text": "out and buys the asset and vice versa",
+    "start": 1284.159,
+    "duration": 3.681
+  },
+  {
+    "text": "when money leaves you have to sell the",
+    "start": 1286.08,
+    "duration": 3.16
+  },
+  {
+    "text": "asset and then hand over cash which",
+    "start": 1287.84,
+    "duration": 3.079
+  },
+  {
+    "text": "makes it a less efficient process",
+    "start": 1289.24,
+    "duration": 2.96
+  },
+  {
+    "text": "they're still great they're still",
+    "start": 1290.919,
+    "duration": 3.88
+  },
+  {
+    "text": "working super efficiently um but that",
+    "start": 1292.2,
+    "duration": 4.479
+  },
+  {
+    "text": "that is one other detriment to to these",
+    "start": 1294.799,
+    "duration": 4.041
+  },
+  {
+    "text": "ETF rappers that we have here in the US",
+    "start": 1296.679,
+    "duration": 4.401
+  },
+  {
+    "text": "so let's talk about demand because",
+    "start": 1298.84,
+    "duration": 6.199
+  },
+  {
+    "text": "Bitcoin ETFs um pitched store of value",
+    "start": 1301.08,
+    "duration": 7.479
+  },
+  {
+    "text": "digital gold and the narrative and",
+    "start": 1305.039,
+    "duration": 5.321
+  },
+  {
+    "text": "education process for that has been a",
+    "start": 1308.559,
+    "duration": 4.761
+  },
+  {
+    "text": "long time coming right A lot of people",
+    "start": 1310.36,
+    "duration": 5.28
+  },
+  {
+    "text": "that are not in the space have no idea",
+    "start": 1313.32,
+    "duration": 5.68
+  },
+  {
+    "text": "what eth is they don't have that eth",
+    "start": 1315.64,
+    "duration": 5.88
+  },
+  {
+    "text": "digital gold I mean some in the space",
+    "start": 1319.0,
+    "duration": 4.24
+  },
+  {
+    "text": "call it Digital Silver for industrial",
+    "start": 1321.52,
+    "duration": 3.6
+  },
+  {
+    "text": "uses but that narrative hasn't really",
+    "start": 1323.24,
+    "duration": 4.28
+  },
+  {
+    "text": "hit the mainstream either I would say so",
+    "start": 1325.12,
+    "duration": 4.32
+  },
+  {
+    "text": "what are you expecting then in terms of",
+    "start": 1327.52,
+    "duration": 4.0
+  },
+  {
+    "text": "demand yeah we've heard digital oil out",
+    "start": 1329.44,
+    "duration": 4.92
+  },
+  {
+    "text": "there I mean Eric um Eric mun my boss",
+    "start": 1331.52,
+    "duration": 4.639
+  },
+  {
+    "text": "and I like we've we've put out polls on",
+    "start": 1334.36,
+    "duration": 2.88
+  },
+  {
+    "text": "Twitter trying to get people like what",
+    "start": 1336.159,
+    "duration": 3.0
+  },
+  {
+    "text": "is the oneliner that's equivalent to",
+    "start": 1337.24,
+    "duration": 3.36
+  },
+  {
+    "text": "bitcoin's digital gold and there's like",
+    "start": 1339.159,
+    "duration": 2.601
+  },
+  {
+    "text": "eight different things out there an",
+    "start": 1340.6,
+    "duration": 3.679
+  },
+  {
+    "text": "application platform for the internet",
+    "start": 1341.76,
+    "duration": 4.56
+  },
+  {
+    "text": "that's a that's a clumsy one liner to be",
+    "start": 1344.279,
+    "duration": 4.801
+  },
+  {
+    "text": "catchier yeah it's like digital oil like",
+    "start": 1346.32,
+    "duration": 4.8
+  },
+  {
+    "text": "yeah yeah so there's there's a whole",
+    "start": 1349.08,
+    "duration": 5.079
+  },
+  {
+    "text": "it's it's hard right um but what does",
+    "start": 1351.12,
+    "duration": 5.159
+  },
+  {
+    "text": "demand look like one I will say there's",
+    "start": 1354.159,
+    "duration": 3.52
+  },
+  {
+    "text": "there's there's a few ways to look at",
+    "start": 1356.279,
+    "duration": 4.52
+  },
+  {
+    "text": "this one is when we talk to advisers and",
+    "start": 1357.679,
+    "duration": 4.721
+  },
+  {
+    "text": "the advisers are typically the most",
+    "start": 1360.799,
+    "duration": 3.88
+  },
+  {
+    "text": "common users of these ETFs uh and",
+    "start": 1362.4,
+    "duration": 5.96
+  },
+  {
+    "text": "institutions the demand thus far hasn't",
+    "start": 1364.679,
+    "duration": 5.441
+  },
+  {
+    "text": "doesn't seem they're not as interested",
+    "start": 1368.36,
+    "duration": 4.12
+  },
+  {
+    "text": "in ethereum digital gold digital store",
+    "start": 1370.12,
+    "duration": 4.0
+  },
+  {
+    "text": "value is just simpler easier to",
+    "start": 1372.48,
+    "duration": 3.76
+  },
+  {
+    "text": "understand it's what they focused on I",
+    "start": 1374.12,
+    "duration": 3.48
+  },
+  {
+    "text": "think that will change at some point cuz",
+    "start": 1376.24,
+    "duration": 2.88
+  },
+  {
+    "text": "it's much easier if used to being a",
+    "start": 1377.6,
+    "duration": 3.439
+  },
+  {
+    "text": "fundamental analyst if you can look at",
+    "start": 1379.12,
+    "duration": 3.559
+  },
+  {
+    "text": "the cash flow yield of like some of",
+    "start": 1381.039,
+    "duration": 3.161
+  },
+  {
+    "text": "these protocols that you have on",
+    "start": 1382.679,
+    "duration": 3.801
+  },
+  {
+    "text": "ethereum it kind of makes more sense in",
+    "start": 1384.2,
+    "duration": 3.56
+  },
+  {
+    "text": "some ways to some of those people so I",
+    "start": 1386.48,
+    "duration": 2.84
+  },
+  {
+    "text": "think it will get through but for now",
+    "start": 1387.76,
+    "duration": 2.84
+  },
+  {
+    "text": "we're just not seeing the demand or",
+    "start": 1389.32,
+    "duration": 3.28
+  },
+  {
+    "text": "interest that we did see so what I like",
+    "start": 1390.6,
+    "duration": 3.959
+  },
+  {
+    "text": "to do is one we look at markets where we",
+    "start": 1392.6,
+    "duration": 3.92
+  },
+  {
+    "text": "do have ethereum and Bitcoin and the",
+    "start": 1394.559,
+    "duration": 4.48
+  },
+  {
+    "text": "markets the the asset range ranges from",
+    "start": 1396.52,
+    "duration": 5.48
+  },
+  {
+    "text": "somewhere from 15% to 30 to 40% of the",
+    "start": 1399.039,
+    "duration": 5.321
+  },
+  {
+    "text": "assets of the Bitcoin ETFs um if you",
+    "start": 1402.0,
+    "duration": 5.24
+  },
+  {
+    "text": "look at ethereum market cap versus",
+    "start": 1404.36,
+    "duration": 5.84
+  },
+  {
+    "text": "Bitcoin market cap about 30% right now I",
+    "start": 1407.24,
+    "duration": 4.36
+  },
+  {
+    "text": "think because of those issues with the",
+    "start": 1410.2,
+    "duration": 4.8
+  },
+  {
+    "text": "utility that you lose um no staking all",
+    "start": 1411.6,
+    "duration": 4.52
+  },
+  {
+    "text": "the other things that you lose by",
+    "start": 1415.0,
+    "duration": 3.08
+  },
+  {
+    "text": "putting ethereum and an ETF rapper I'm",
+    "start": 1416.12,
+    "duration": 3.36
+  },
+  {
+    "text": "probably going to discount it so I think",
+    "start": 1418.08,
+    "duration": 4.56
+  },
+  {
+    "text": "you see about 25 20% of the demand that",
+    "start": 1419.48,
+    "duration": 4.64
+  },
+  {
+    "text": "we saw for the Bitcoin ETFs which is",
+    "start": 1422.64,
+    "duration": 3.0
+  },
+  {
+    "text": "still going to be billions of dollars",
+    "start": 1424.12,
+    "duration": 3.159
+  },
+  {
+    "text": "right like it's going to be there's a",
+    "start": 1425.64,
+    "duration": 4.72
+  },
+  {
+    "text": "lot of interest what does that mean for",
+    "start": 1427.279,
+    "duration": 5.76
+  },
+  {
+    "text": "the price because still hasn't come near",
+    "start": 1430.36,
+    "duration": 4.319
+  },
+  {
+    "text": "its alltime high we've had a rally on",
+    "start": 1433.039,
+    "duration": 3.681
+  },
+  {
+    "text": "this news but if we get disappointing",
+    "start": 1434.679,
+    "duration": 4.041
+  },
+  {
+    "text": "demand which we may because there hasn't",
+    "start": 1436.72,
+    "duration": 3.72
+  },
+  {
+    "text": "been enough time to build up the",
+    "start": 1438.72,
+    "duration": 4.6
+  },
+  {
+    "text": "excitement to arguably you know educate",
+    "start": 1440.44,
+    "duration": 5.359
+  },
+  {
+    "text": "the non- crypto people about this what",
+    "start": 1443.32,
+    "duration": 6.12
+  },
+  {
+    "text": "what is your forecast for the price when",
+    "start": 1445.799,
+    "duration": 6.081
+  },
+  {
+    "text": "the ETFs actually launch so technically",
+    "start": 1449.44,
+    "duration": 3.88
+  },
+  {
+    "text": "I'm not allowed to give any price",
+    "start": 1451.88,
+    "duration": 4.12
+  },
+  {
+    "text": "forecasts uh and honestly you up or down",
+    "start": 1453.32,
+    "duration": 4.16
+  },
+  {
+    "text": "yeah you probably don't want my Price",
+    "start": 1456.0,
+    "duration": 3.679
+  },
+  {
+    "text": "Forecast I'm not I'm not the best",
+    "start": 1457.48,
+    "duration": 5.16
+  },
+  {
+    "text": "Trader but but I mean it depends what",
+    "start": 1459.679,
+    "duration": 5.24
+  },
+  {
+    "text": "for the price on the launch or or yeah",
+    "start": 1462.64,
+    "duration": 3.96
+  },
+  {
+    "text": "so theoretically obviously the approval",
+    "start": 1464.919,
+    "duration": 3.521
+  },
+  {
+    "text": "was bullish we we put that tweet out and",
+    "start": 1466.6,
+    "duration": 4.679
+  },
+  {
+    "text": "it went up like 20% in uh literally a",
+    "start": 1468.44,
+    "duration": 5.0
+  },
+  {
+    "text": "matter less than an hour um so people",
+    "start": 1471.279,
+    "duration": 3.28
+  },
+  {
+    "text": "are very interested in what's going to",
+    "start": 1473.44,
+    "duration": 2.52
+  },
+  {
+    "text": "happen there's two ways to look at this",
+    "start": 1474.559,
+    "duration": 3.0
+  },
+  {
+    "text": "right we have ether we have um",
+    "start": 1475.96,
+    "duration": 3.56
+  },
+  {
+    "text": "grayscales eth their ethereum trust that",
+    "start": 1477.559,
+    "duration": 2.921
+  },
+  {
+    "text": "is$ 11",
+    "start": 1479.52,
+    "duration": 4.2
+  },
+  {
+    "text": "billion um how much of that when we gbtc",
+    "start": 1480.48,
+    "duration": 5.28
+  },
+  {
+    "text": "saw billions of billions of outflows how",
+    "start": 1483.72,
+    "duration": 3.6
+  },
+  {
+    "text": "much of those outflows of e are going to",
+    "start": 1485.76,
+    "duration": 2.88
+  },
+  {
+    "text": "go into other ETFs what's going to",
+    "start": 1487.32,
+    "duration": 3.4
+  },
+  {
+    "text": "happen there that'll impact demand but",
+    "start": 1488.64,
+    "duration": 4.12
+  },
+  {
+    "text": "theoretically this is just opening a new",
+    "start": 1490.72,
+    "duration": 4.4
+  },
+  {
+    "text": "bridge for investing in ethereum the",
+    "start": 1492.76,
+    "duration": 4.88
+  },
+  {
+    "text": "asset so over the long term I can't",
+    "start": 1495.12,
+    "duration": 4.32
+  },
+  {
+    "text": "imagine it would be negative uh short",
+    "start": 1497.64,
+    "duration": 2.919
+  },
+  {
+    "text": "term it could be negative because you're",
+    "start": 1499.44,
+    "duration": 2.56
+  },
+  {
+    "text": "unlocking all those shares people have",
+    "start": 1500.559,
+    "duration": 3.201
+  },
+  {
+    "text": "been stuck in Gray skilles ethereum",
+    "start": 1502.0,
+    "duration": 4.919
+  },
+  {
+    "text": "trust for a long time but um I I can't",
+    "start": 1503.76,
+    "duration": 5.12
+  },
+  {
+    "text": "imagine it's just a new Avenue for",
+    "start": 1506.919,
+    "duration": 3.681
+  },
+  {
+    "text": "demand it's a new Avenue to lock up",
+    "start": 1508.88,
+    "duration": 3.679
+  },
+  {
+    "text": "Supply and if you're getting new demand",
+    "start": 1510.6,
+    "duration": 4.04
+  },
+  {
+    "text": "and getting Supply lock up theoretically",
+    "start": 1512.559,
+    "duration": 3.48
+  },
+  {
+    "text": "that should be positive for price but",
+    "start": 1514.64,
+    "duration": 3.519
+  },
+  {
+    "text": "there's no way to know exactly how long",
+    "start": 1516.039,
+    "duration": 3.441
+  },
+  {
+    "text": "of a time frame that'll take and what",
+    "start": 1518.159,
+    "duration": 3.0
+  },
+  {
+    "text": "the demand will look like like I said",
+    "start": 1519.48,
+    "duration": 3.36
+  },
+  {
+    "text": "the demand in at least initially that",
+    "start": 1521.159,
+    "duration": 3.161
+  },
+  {
+    "text": "we're hearing from the people we talk to",
+    "start": 1522.84,
+    "duration": 2.8
+  },
+  {
+    "text": "who were most interested in the spot",
+    "start": 1524.32,
+    "duration": 3.64
+  },
+  {
+    "text": "Bitcoin ETFs aren't exactly super",
+    "start": 1525.64,
+    "duration": 3.919
+  },
+  {
+    "text": "interested e but I think there will be",
+    "start": 1527.96,
+    "duration": 3.48
+  },
+  {
+    "text": "an interest in all right well I already",
+    "start": 1529.559,
+    "duration": 6.401
+  },
+  {
+    "text": "have 2% in a Bitcoin ETF for this client",
+    "start": 1531.44,
+    "duration": 5.88
+  },
+  {
+    "text": "now that we have ethereum ETFs I should",
+    "start": 1535.96,
+    "duration": 3.599
+  },
+  {
+    "text": "diversify my crypto exposure so I'm",
+    "start": 1537.32,
+    "duration": 3.4
+  },
+  {
+    "text": "going to buy a little bit of the",
+    "start": 1539.559,
+    "duration": 2.6
+  },
+  {
+    "text": "ethereum ETF too so I think there's",
+    "start": 1540.72,
+    "duration": 3.199
+  },
+  {
+    "text": "going to be a lot of that going on uh",
+    "start": 1542.159,
+    "duration": 3.041
+  },
+  {
+    "text": "and you don't need a lot of that to",
+    "start": 1543.919,
+    "duration": 3.721
+  },
+  {
+    "text": "happen for to to have impacts positively",
+    "start": 1545.2,
+    "duration": 6.719
+  },
+  {
+    "text": "on the price so potential dip initially",
+    "start": 1547.64,
+    "duration": 7.2
+  },
+  {
+    "text": "if we see deal not really measure up",
+    "start": 1551.919,
+    "duration": 5.161
+  },
+  {
+    "text": "sort of you know uh Buy on the rumor",
+    "start": 1554.84,
+    "duration": 4.64
+  },
+  {
+    "text": "sell on the news But ultimately you're",
+    "start": 1557.08,
+    "duration": 4.0
+  },
+  {
+    "text": "you're very bullish that this demand",
+    "start": 1559.48,
+    "duration": 4.04
+  },
+  {
+    "text": "will come in and and there will be",
+    "start": 1561.08,
+    "duration": 3.8
+  },
+  {
+    "text": "demand there will be strong demand these",
+    "start": 1563.52,
+    "duration": 3.2
+  },
+  {
+    "text": "are going to the so I also think people",
+    "start": 1564.88,
+    "duration": 3.159
+  },
+  {
+    "text": "in the crypto space have been completely",
+    "start": 1566.72,
+    "duration": 3.28
+  },
+  {
+    "text": "spoiled by the Bitcoin ETFs let's be",
+    "start": 1568.039,
+    "duration": 5.201
+  },
+  {
+    "text": "clear here ibit was it got to I don't",
+    "start": 1570.0,
+    "duration": 5.6
+  },
+  {
+    "text": "know exactly uh 49 days it got to10",
+    "start": 1573.24,
+    "duration": 5.88
+  },
+  {
+    "text": "billion in Assets in 49 days uh Fidelity",
+    "start": 1575.6,
+    "duration": 6.439
+  },
+  {
+    "text": "fbtc uh so ibits black rocks fideli fbtc",
+    "start": 1579.12,
+    "duration": 5.48
+  },
+  {
+    "text": "did in 79 trading days the previous",
+    "start": 1582.039,
+    "duration": 5.12
+  },
+  {
+    "text": "record to 1010 billion was almost 700",
+    "start": 1584.6,
+    "duration": 5.559
+  },
+  {
+    "text": "trading days which is like years so like",
+    "start": 1587.159,
+    "duration": 5.081
+  },
+  {
+    "text": "that those these launches do not happen",
+    "start": 1590.159,
+    "duration": 5.281
+  },
+  {
+    "text": "this is absurd like to have happen so it",
+    "start": 1592.24,
+    "duration": 5.159
+  },
+  {
+    "text": "doesn't people I think are thinking like",
+    "start": 1595.44,
+    "duration": 3.32
+  },
+  {
+    "text": "ethereum is going to have the same thing",
+    "start": 1597.399,
+    "duration": 2.561
+  },
+  {
+    "text": "when it launches or if there's another",
+    "start": 1598.76,
+    "duration": 2.76
+  },
+  {
+    "text": "token that launches at some point like",
+    "start": 1599.96,
+    "duration": 2.839
+  },
+  {
+    "text": "people need to realize that the Bitcoin",
+    "start": 1601.52,
+    "duration": 3.879
+  },
+  {
+    "text": "ETF launch broke every record we have um",
+    "start": 1602.799,
+    "duration": 4.561
+  },
+  {
+    "text": "so even if it's a fraction of that it's",
+    "start": 1605.399,
+    "duration": 4.0
+  },
+  {
+    "text": "still likely to be a successful launch",
+    "start": 1607.36,
+    "duration": 4.36
+  },
+  {
+    "text": "right just not as successful as Bitcoin",
+    "start": 1609.399,
+    "duration": 5.16
+  },
+  {
+    "text": "so so you mentioned people diversifying",
+    "start": 1611.72,
+    "duration": 5.88
+  },
+  {
+    "text": "right could we have an impact on bitcoin",
+    "start": 1614.559,
+    "duration": 5.24
+  },
+  {
+    "text": "demand with people saying all right I'm",
+    "start": 1617.6,
+    "duration": 5.0
+  },
+  {
+    "text": "going to allocate you know 5% of my",
+    "start": 1619.799,
+    "duration": 4.801
+  },
+  {
+    "text": "portfolio to crypto initially I would",
+    "start": 1622.6,
+    "duration": 3.679
+  },
+  {
+    "text": "have gone all in on bitcoin but now I",
+    "start": 1624.6,
+    "duration": 3.48
+  },
+  {
+    "text": "want to diversify so I'll do 2 and a",
+    "start": 1626.279,
+    "duration": 4.76
+  },
+  {
+    "text": "half Bitcoin 2 and a half eth for the",
+    "start": 1628.08,
+    "duration": 4.88
+  },
+  {
+    "text": "you know uh investors that perhaps are",
+    "start": 1631.039,
+    "duration": 3.24
+  },
+  {
+    "text": "not that sophisticated that don't",
+    "start": 1632.96,
+    "duration": 2.92
+  },
+  {
+    "text": "necessarily realize the difference they",
+    "start": 1634.279,
+    "duration": 3.161
+  },
+  {
+    "text": "just want some crypto exposure and",
+    "start": 1635.88,
+    "duration": 3.279
+  },
+  {
+    "text": "thinking that there are two crypto",
+    "start": 1637.44,
+    "duration": 3.16
+  },
+  {
+    "text": "products out there that are relatively",
+    "start": 1639.159,
+    "duration": 4.24
+  },
+  {
+    "text": "easy to get into now so we'll just you",
+    "start": 1640.6,
+    "duration": 4.52
+  },
+  {
+    "text": "know diversify that way do you see it",
+    "start": 1643.399,
+    "duration": 4.241
+  },
+  {
+    "text": "potentially having a negative impact on",
+    "start": 1645.12,
+    "duration": 4.36
+  },
+  {
+    "text": "bitcoin from those players and",
+    "start": 1647.64,
+    "duration": 4.08
+  },
+  {
+    "text": "institutions and on the retail side that",
+    "start": 1649.48,
+    "duration": 5.319
+  },
+  {
+    "text": "hasn't come in yet I personally I think",
+    "start": 1651.72,
+    "duration": 5.079
+  },
+  {
+    "text": "that would be very minimal so um for",
+    "start": 1654.799,
+    "duration": 3.721
+  },
+  {
+    "text": "example bitwise has done studies on like",
+    "start": 1656.799,
+    "duration": 3.561
+  },
+  {
+    "text": "what has happened with their clients",
+    "start": 1658.52,
+    "duration": 3.44
+  },
+  {
+    "text": "that have bought these ETFs or bought",
+    "start": 1660.36,
+    "duration": 2.88
+  },
+  {
+    "text": "Bitcoin even before the ETFs were",
+    "start": 1661.96,
+    "duration": 2.839
+  },
+  {
+    "text": "approved and for the most part they",
+    "start": 1663.24,
+    "duration": 4.12
+  },
+  {
+    "text": "start at a low percentage number like 1",
+    "start": 1664.799,
+    "duration": 4.041
+  },
+  {
+    "text": "2% something like that that's what we're",
+    "start": 1667.36,
+    "duration": 2.64
+  },
+  {
+    "text": "hearing from all the other issuers are",
+    "start": 1668.84,
+    "duration": 2.959
+  },
+  {
+    "text": "talking to people with portfolios and",
+    "start": 1670.0,
+    "duration": 3.12
+  },
+  {
+    "text": "the advisers that are putting this into",
+    "start": 1671.799,
+    "duration": 3.441
+  },
+  {
+    "text": "accounts and institutions the number is",
+    "start": 1673.12,
+    "duration": 4.039
+  },
+  {
+    "text": "that 1 to 5% range but for the most part",
+    "start": 1675.24,
+    "duration": 3.799
+  },
+  {
+    "text": "they start lower and kind of of if it",
+    "start": 1677.159,
+    "duration": 3.841
+  },
+  {
+    "text": "swings up they're not rebalancing back",
+    "start": 1679.039,
+    "duration": 3.801
+  },
+  {
+    "text": "to that lower level so I think it'll be",
+    "start": 1681.0,
+    "duration": 4.039
+  },
+  {
+    "text": "more additional uh they might if they",
+    "start": 1682.84,
+    "duration": 4.24
+  },
+  {
+    "text": "have 2% why not just add an additional",
+    "start": 1685.039,
+    "duration": 3.88
+  },
+  {
+    "text": "1% in their portfolio I think some of",
+    "start": 1687.08,
+    "duration": 3.28
+  },
+  {
+    "text": "what you're talking about will happen I",
+    "start": 1688.919,
+    "duration": 3.161
+  },
+  {
+    "text": "think we'll get Bitcoin and ethereum",
+    "start": 1690.36,
+    "duration": 3.48
+  },
+  {
+    "text": "ETFs together somebody's going to launch",
+    "start": 1692.08,
+    "duration": 3.56
+  },
+  {
+    "text": "a spot Bitcoin ethereum product that's",
+    "start": 1693.84,
+    "duration": 3.8
+  },
+  {
+    "text": "market cap weighted and I'm sure people",
+    "start": 1695.64,
+    "duration": 3.68
+  },
+  {
+    "text": "will move money from these ETFs to there",
+    "start": 1697.64,
+    "duration": 3.48
+  },
+  {
+    "text": "you know we we had a guest on yesterday",
+    "start": 1699.32,
+    "duration": 4.4
+  },
+  {
+    "text": "who was forec costing a hybrid crypto",
+    "start": 1701.12,
+    "duration": 4.52
+  },
+  {
+    "text": "ETF in the not to distant future",
+    "start": 1703.72,
+    "duration": 3.679
+  },
+  {
+    "text": "especially if there's perhaps a third",
+    "start": 1705.64,
+    "duration": 3.879
+  },
+  {
+    "text": "ETF but even with two so you see that as",
+    "start": 1707.399,
+    "duration": 5.601
+  },
+  {
+    "text": "as as a likelihood of a of a bosket of",
+    "start": 1709.519,
+    "duration": 6.28
+  },
+  {
+    "text": "spot crypto ETFs happening I would",
+    "start": 1713.0,
+    "duration": 4.399
+  },
+  {
+    "text": "pretty much guarantee it it it's going",
+    "start": 1715.799,
+    "duration": 3.841
+  },
+  {
+    "text": "to happen yeah 100 we we have it already",
+    "start": 1717.399,
+    "duration": 4.601
+  },
+  {
+    "text": "in the future space so Arc did it with",
+    "start": 1719.64,
+    "duration": 5.12
+  },
+  {
+    "text": "um some things uh Valkyrie did it um",
+    "start": 1722.0,
+    "duration": 4.159
+  },
+  {
+    "text": "when they launched in early October",
+    "start": 1724.76,
+    "duration": 2.44
+  },
+  {
+    "text": "there's not a lot of interest because",
+    "start": 1726.159,
+    "duration": 2.801
+  },
+  {
+    "text": "people don't like Futures I talked about",
+    "start": 1727.2,
+    "duration": 3.12
+  },
+  {
+    "text": "on the traditional Financial rails like",
+    "start": 1728.96,
+    "duration": 3.04
+  },
+  {
+    "text": "these spot ETFs are the best Avenue to",
+    "start": 1730.32,
+    "duration": 3.599
+  },
+  {
+    "text": "do it before the spot products locked",
+    "start": 1732.0,
+    "duration": 3.84
+  },
+  {
+    "text": "the best Avenue was the Futures",
+    "start": 1733.919,
+    "duration": 4.521
+  },
+  {
+    "text": "themselves or Futures ETFs and there's",
+    "start": 1735.84,
+    "duration": 3.959
+  },
+  {
+    "text": "issues with those they you have to roll",
+    "start": 1738.44,
+    "duration": 3.119
+  },
+  {
+    "text": "them there's a lot of costs it's not an",
+    "start": 1739.799,
+    "duration": 3.961
+  },
+  {
+    "text": "efficient way to do it but there there",
+    "start": 1741.559,
+    "duration": 3.84
+  },
+  {
+    "text": "the issuers have already tried to do it",
+    "start": 1743.76,
+    "duration": 3.279
+  },
+  {
+    "text": "in that rapper despite knowing it was",
+    "start": 1745.399,
+    "duration": 2.801
+  },
+  {
+    "text": "not the most efficient way but they",
+    "start": 1747.039,
+    "duration": 2.161
+  },
+  {
+    "text": "wanted to make sure they had a product",
+    "start": 1748.2,
+    "duration": 2.44
+  },
+  {
+    "text": "out there for people who are interested",
+    "start": 1749.2,
+    "duration": 3.199
+  },
+  {
+    "text": "so I would say it's a virtual guarantee",
+    "start": 1750.64,
+    "duration": 3.48
+  },
+  {
+    "text": "that we will see an ETF launch that",
+    "start": 1752.399,
+    "duration": 4.081
+  },
+  {
+    "text": "holds both who's most likely to do that",
+    "start": 1754.12,
+    "duration": 3.96
+  },
+  {
+    "text": "I think any any of these issuers I think",
+    "start": 1756.48,
+    "duration": 4.84
+  },
+  {
+    "text": "bit bit bitwise and Arc who um yeah Arc",
+    "start": 1758.08,
+    "duration": 4.76
+  },
+  {
+    "text": "21 shares that's the they're partner",
+    "start": 1761.32,
+    "duration": 3.32
+  },
+  {
+    "text": "together 21 shares is they have the most",
+    "start": 1762.84,
+    "duration": 3.199
+  },
+  {
+    "text": "crypto ETFs in the world I think they're",
+    "start": 1764.64,
+    "duration": 2.919
+  },
+  {
+    "text": "based out of um Switzerland that's where",
+    "start": 1766.039,
+    "duration": 3.12
+  },
+  {
+    "text": "most of their launched Europe is a lot",
+    "start": 1767.559,
+    "duration": 3.081
+  },
+  {
+    "text": "more liberal with what they'll they'll",
+    "start": 1769.159,
+    "duration": 5.841
+  },
+  {
+    "text": "allow people to launch um so uh I think",
+    "start": 1770.64,
+    "duration": 5.84
+  },
+  {
+    "text": "they'll do it I I I could see anyone",
+    "start": 1775.0,
+    "duration": 3.44
+  },
+  {
+    "text": "doing it I could see black rock bitwise",
+    "start": 1776.48,
+    "duration": 4.079
+  },
+  {
+    "text": "any any of these people Fidelity we'll",
+    "start": 1778.44,
+    "duration": 4.719
+  },
+  {
+    "text": "see so James we're talking about all of",
+    "start": 1780.559,
+    "duration": 5.48
+  },
+  {
+    "text": "these wrapped products derivatives",
+    "start": 1783.159,
+    "duration": 7.321
+  },
+  {
+    "text": "spin-offs ETFs may sound good in theory",
+    "start": 1786.039,
+    "duration": 7.601
+  },
+  {
+    "text": "but is it really contrary to the ethos",
+    "start": 1790.48,
+    "duration": 5.079
+  },
+  {
+    "text": "of what Bitcoin was supposed to be in",
+    "start": 1793.64,
+    "duration": 3.36
+  },
+  {
+    "text": "the first place right this whole",
+    "start": 1795.559,
+    "duration": 3.521
+  },
+  {
+    "text": "cryptocurrency movement was supposed to",
+    "start": 1797.0,
+    "duration": 3.76
+  },
+  {
+    "text": "be a way to get out of the traditional",
+    "start": 1799.08,
+    "duration": 3.92
+  },
+  {
+    "text": "Financial system after the financial",
+    "start": 1800.76,
+    "duration": 4.6
+  },
+  {
+    "text": "crisis of 2008 and all of the",
+    "start": 1803.0,
+    "duration": 5.24
+  },
+  {
+    "text": "derivatives of mortgage backed products",
+    "start": 1805.36,
+    "duration": 4.48
+  },
+  {
+    "text": "that brought down the financial that",
+    "start": 1808.24,
+    "duration": 3.96
+  },
+  {
+    "text": "brought on the financial collapse you",
+    "start": 1809.84,
+    "duration": 4.6
+  },
+  {
+    "text": "know the satosi white paper was like",
+    "start": 1812.2,
+    "duration": 5.0
+  },
+  {
+    "text": "let's come up with a sound form of money",
+    "start": 1814.44,
+    "duration": 5.2
+  },
+  {
+    "text": "peer-to-peer away from all of these",
+    "start": 1817.2,
+    "duration": 4.24
+  },
+  {
+    "text": "spin-offs derivatives traditional",
+    "start": 1819.64,
+    "duration": 4.32
+  },
+  {
+    "text": "institutions getting in synthetic",
+    "start": 1821.44,
+    "duration": 5.28
+  },
+  {
+    "text": "products have we moved too far away from",
+    "start": 1823.96,
+    "duration": 5.16
+  },
+  {
+    "text": "that initial mission so I mean there's",
+    "start": 1826.72,
+    "duration": 4.64
+  },
+  {
+    "text": "no denying that this is like these are",
+    "start": 1829.12,
+    "duration": 4.96
+  },
+  {
+    "text": "kind of against the ethos of what this",
+    "start": 1831.36,
+    "duration": 4.84
+  },
+  {
+    "text": "Mission started as but the other one",
+    "start": 1834.08,
+    "duration": 4.88
+  },
+  {
+    "text": "thing I always tell people is one these",
+    "start": 1836.2,
+    "duration": 4.56
+  },
+  {
+    "text": "are not taking away from that ethos at",
+    "start": 1838.96,
+    "duration": 3.24
+  },
+  {
+    "text": "all it's just another way to get",
+    "start": 1840.76,
+    "duration": 3.519
+  },
+  {
+    "text": "exposure because you're not changing the",
+    "start": 1842.2,
+    "duration": 3.64
+  },
+  {
+    "text": "underlying protocol right like ethereum",
+    "start": 1844.279,
+    "duration": 3.921
+  },
+  {
+    "text": "is not changing because the ETF exists",
+    "start": 1845.84,
+    "duration": 5.16
+  },
+  {
+    "text": "bin is work to proof of stake now we're",
+    "start": 1848.2,
+    "duration": 5.68
+  },
+  {
+    "text": "not able to actually stake the eth in",
+    "start": 1851.0,
+    "duration": 5.559
+  },
+  {
+    "text": "the in the in the spot ETFs you know",
+    "start": 1853.88,
+    "duration": 5.0
+  },
+  {
+    "text": "we're not able to validate so we're kind",
+    "start": 1856.559,
+    "duration": 4.801
+  },
+  {
+    "text": "of moving a long way at least on the E",
+    "start": 1858.88,
+    "duration": 4.48
+  },
+  {
+    "text": "side from from the mission yeah well I'm",
+    "start": 1861.36,
+    "duration": 3.4
+  },
+  {
+    "text": "I wouldn't I wouldn't say that I don't",
+    "start": 1863.36,
+    "duration": 3.319
+  },
+  {
+    "text": "think because you're the the protocol is",
+    "start": 1864.76,
+    "duration": 3.639
+  },
+  {
+    "text": "still operating right like that you need",
+    "start": 1866.679,
+    "duration": 4.321
+  },
+  {
+    "text": "people to stake um no matter what you do",
+    "start": 1868.399,
+    "duration": 4.76
+  },
+  {
+    "text": "the onchain movements is going to stay",
+    "start": 1871.0,
+    "duration": 3.36
+  },
+  {
+    "text": "the way they are this is just another",
+    "start": 1873.159,
+    "duration": 3.161
+  },
+  {
+    "text": "way to get exposure and if you look at a",
+    "start": 1874.36,
+    "duration": 3.48
+  },
+  {
+    "text": "lot of people you talk you probably can",
+    "start": 1876.32,
+    "duration": 2.88
+  },
+  {
+    "text": "talk to people around here at this",
+    "start": 1877.84,
+    "duration": 3.319
+  },
+  {
+    "text": "conference a lot of them probably own",
+    "start": 1879.2,
+    "duration": 3.719
+  },
+  {
+    "text": "stuff in their own Ledger or their own",
+    "start": 1881.159,
+    "duration": 4.201
+  },
+  {
+    "text": "cold wallet or on on an exchange or",
+    "start": 1882.919,
+    "duration": 4.321
+  },
+  {
+    "text": "doing whatever with it but they might",
+    "start": 1885.36,
+    "duration": 4.76
+  },
+  {
+    "text": "also have one of these ETFs in an IRA or",
+    "start": 1887.24,
+    "duration": 4.159
+  },
+  {
+    "text": "in a brokerage account that they have",
+    "start": 1890.12,
+    "duration": 2.559
+  },
+  {
+    "text": "money in that they can't really move",
+    "start": 1891.399,
+    "duration": 3.361
+  },
+  {
+    "text": "from so there's other reasons why you",
+    "start": 1892.679,
+    "duration": 3.6
+  },
+  {
+    "text": "would want to own these things even if",
+    "start": 1894.76,
+    "duration": 3.32
+  },
+  {
+    "text": "you do own spot products I've talked to",
+    "start": 1896.279,
+    "duration": 4.041
+  },
+  {
+    "text": "people who are big names in this space",
+    "start": 1898.08,
+    "duration": 4.439
+  },
+  {
+    "text": "who have IRAs from their prior lives and",
+    "start": 1900.32,
+    "duration": 3.44
+  },
+  {
+    "text": "that's the way they're getting exposure",
+    "start": 1902.519,
+    "duration": 3.081
+  },
+  {
+    "text": "to this in those tax defer so there's a",
+    "start": 1903.76,
+    "duration": 3.08
+  },
+  {
+    "text": "PL plenty of other reasons there's",
+    "start": 1905.6,
+    "duration": 3.24
+  },
+  {
+    "text": "institutions they can't hold these ETFs",
+    "start": 1906.84,
+    "duration": 3.959
+  },
+  {
+    "text": "like if you're an if you're an adviser",
+    "start": 1908.84,
+    "duration": 3.64
+  },
+  {
+    "text": "or you're an institution you go to your",
+    "start": 1910.799,
+    "duration": 2.76
+  },
+  {
+    "text": "board and you're telling them you're",
+    "start": 1912.48,
+    "duration": 3.12
+  },
+  {
+    "text": "investing you can't just be like yeah",
+    "start": 1913.559,
+    "duration": 4.041
+  },
+  {
+    "text": "I'm going to put it on this USB stick",
+    "start": 1915.6,
+    "duration": 4.039
+  },
+  {
+    "text": "and store a billion dollars like there's",
+    "start": 1917.6,
+    "duration": 4.439
+  },
+  {
+    "text": "a lot of reasons why this is like kind",
+    "start": 1919.639,
+    "duration": 3.88
+  },
+  {
+    "text": "of forcing them to dip their toes in the",
+    "start": 1922.039,
+    "duration": 4.0
+  },
+  {
+    "text": "water and get exposure and I think the",
+    "start": 1923.519,
+    "duration": 4.0
+  },
+  {
+    "text": "it's it's a way it's almost like a",
+    "start": 1926.039,
+    "duration": 4.081
+  },
+  {
+    "text": "gateway drug this is just these trafi",
+    "start": 1927.519,
+    "duration": 3.88
+  },
+  {
+    "text": "companies are kind of playing this",
+    "start": 1930.12,
+    "duration": 3.039
+  },
+  {
+    "text": "middleman role where they're they're",
+    "start": 1931.399,
+    "duration": 4.681
+  },
+  {
+    "text": "both taking these digital assets Bitcoin",
+    "start": 1933.159,
+    "duration": 4.841
+  },
+  {
+    "text": "ethereum and wrapping them with a trafi",
+    "start": 1936.08,
+    "duration": 3.92
+  },
+  {
+    "text": "wrapper an ETF but we've seen other",
+    "start": 1938.0,
+    "duration": 4.159
+  },
+  {
+    "text": "things Black Rock these other trafi",
+    "start": 1940.0,
+    "duration": 4.519
+  },
+  {
+    "text": "companies Wisdom Tree for example they",
+    "start": 1942.159,
+    "duration": 5.0
+  },
+  {
+    "text": "have done the opposite they are taking",
+    "start": 1944.519,
+    "duration": 4.12
+  },
+  {
+    "text": "things like money Market funds and",
+    "start": 1947.159,
+    "duration": 3.161
+  },
+  {
+    "text": "treasuries and wrapping them and",
+    "start": 1948.639,
+    "duration": 2.88
+  },
+  {
+    "text": "tokenizing them and putting them on",
+    "start": 1950.32,
+    "duration": 2.719
+  },
+  {
+    "text": "chain so I think there's this whole",
+    "start": 1951.519,
+    "duration": 3.561
+  },
+  {
+    "text": "ecosystem where things are there's going",
+    "start": 1953.039,
+    "duration": 4.0
+  },
+  {
+    "text": "to be I obviously people have this Grand",
+    "start": 1955.08,
+    "duration": 2.839
+  },
+  {
+    "text": "future everything's going to be",
+    "start": 1957.039,
+    "duration": 2.12
+  },
+  {
+    "text": "tokenized everything's going to be on",
+    "start": 1957.919,
+    "duration": 3.521
+  },
+  {
+    "text": "chain there's a long way between those",
+    "start": 1959.159,
+    "duration": 3.281
+  },
+  {
+    "text": "two things where there's going to have",
+    "start": 1961.44,
+    "duration": 3.52
+  },
+  {
+    "text": "to be coalescing uh between both are we",
+    "start": 1962.44,
+    "duration": 3.56
+  },
+  {
+    "text": "though",
+    "start": 1964.96,
+    "duration": 4.559
+  },
+  {
+    "text": "effectively nullifying or significantly",
+    "start": 1966.0,
+    "duration": 7.0
+  },
+  {
+    "text": "detracting from bitcoin's role as a a",
+    "start": 1969.519,
+    "duration": 6.241
+  },
+  {
+    "text": "medium of exchange as a currency if so",
+    "start": 1973.0,
+    "duration": 4.36
+  },
+  {
+    "text": "much of it is locked up in a spot",
+    "start": 1975.76,
+    "duration": 4.44
+  },
+  {
+    "text": "Bitcoin ETF like I get store value still",
+    "start": 1977.36,
+    "duration": 5.64
+  },
+  {
+    "text": "applies and yes I mean you know I I was",
+    "start": 1980.2,
+    "duration": 4.76
+  },
+  {
+    "text": "on the panel of global crypto adoption",
+    "start": 1983.0,
+    "duration": 4.639
+  },
+  {
+    "text": "and here in the US we look at",
+    "start": 1984.96,
+    "duration": 4.8
+  },
+  {
+    "text": "cryptocurrencies as an investment tool",
+    "start": 1987.639,
+    "duration": 3.601
+  },
+  {
+    "text": "as a speculative asset whereas in the",
+    "start": 1989.76,
+    "duration": 3.2
+  },
+  {
+    "text": "rest of the world well in many",
+    "start": 1991.24,
+    "duration": 4.0
+  },
+  {
+    "text": "developing countries it's necessary",
+    "start": 1992.96,
+    "duration": 3.88
+  },
+  {
+    "text": "because their money doesn't work because",
+    "start": 1995.24,
+    "duration": 2.88
+  },
+  {
+    "text": "their banking infrastructure doesn't",
+    "start": 1996.84,
+    "duration": 3.439
+  },
+  {
+    "text": "work so it's still a unit of currency",
+    "start": 1998.12,
+    "duration": 5.72
+  },
+  {
+    "text": "elsewhere but if it's blocked up in",
+    "start": 2000.279,
+    "duration": 5.88
+  },
+  {
+    "text": "these ETFs is it hurting that whole",
+    "start": 2003.84,
+    "duration": 6.679
+  },
+  {
+    "text": "peer-to-peer currency uh concept so yes",
+    "start": 2006.159,
+    "duration": 6.12
+  },
+  {
+    "text": "and no I mean again it's it's against",
+    "start": 2010.519,
+    "duration": 3.441
+  },
+  {
+    "text": "the ethos of what Bitcoin was designed",
+    "start": 2012.279,
+    "duration": 4.24
+  },
+  {
+    "text": "to do but it's also not hurting I don't",
+    "start": 2013.96,
+    "duration": 4.36
+  },
+  {
+    "text": "think it's hurting Bitcoin it's not like",
+    "start": 2016.519,
+    "duration": 3.12
+  },
+  {
+    "text": "I said it's just sitting in a wallet",
+    "start": 2018.32,
+    "duration": 2.56
+  },
+  {
+    "text": "somewhere same thing we were talking",
+    "start": 2019.639,
+    "duration": 2.481
+  },
+  {
+    "text": "about e theum if Bitcoin is just sitting",
+    "start": 2020.88,
+    "duration": 2.639
+  },
+  {
+    "text": "in a wallet and you're not transacting",
+    "start": 2022.12,
+    "duration": 3.08
+  },
+  {
+    "text": "you're not driving up the fees to send",
+    "start": 2023.519,
+    "duration": 3.12
+  },
+  {
+    "text": "that money anywhere and the only thing",
+    "start": 2025.2,
+    "duration": 3.8
+  },
+  {
+    "text": "it's doing is taking Supply off and",
+    "start": 2026.639,
+    "duration": 4.241
+  },
+  {
+    "text": "sending doing number it's numberg go up",
+    "start": 2029.0,
+    "duration": 3.919
+  },
+  {
+    "text": "technology essentially if if these ETFs",
+    "start": 2030.88,
+    "duration": 3.44
+  },
+  {
+    "text": "are buying things up and just storing",
+    "start": 2032.919,
+    "duration": 3.801
+  },
+  {
+    "text": "them uh in AOL so let's talk number go",
+    "start": 2034.32,
+    "duration": 4.959
+  },
+  {
+    "text": "up all right we have uh as we said black",
+    "start": 2036.72,
+    "duration": 5.839
+  },
+  {
+    "text": "rocks ey shares Bitcoin trust uh largest",
+    "start": 2039.279,
+    "duration": 6.041
+  },
+  {
+    "text": "Bitcoin Fund in the world now at $2",
+    "start": 2042.559,
+    "duration": 4.921
+  },
+  {
+    "text": "billion in assets since the launch in",
+    "start": 2045.32,
+    "duration": 4.599
+  },
+  {
+    "text": "the beginning of the year as you said",
+    "start": 2047.48,
+    "duration": 5.399
+  },
+  {
+    "text": "unprecedented sort of roaring Al of",
+    "start": 2049.919,
+    "duration": 5.24
+  },
+  {
+    "text": "Assets in in an it's the number it's",
+    "start": 2052.879,
+    "duration": 5.121
+  },
+  {
+    "text": "stupid what what does that mean for the",
+    "start": 2055.159,
+    "duration": 5.361
+  },
+  {
+    "text": "price of Bitcoin within the capacity",
+    "start": 2058.0,
+    "duration": 5.0
+  },
+  {
+    "text": "that you're able to give a for cost how",
+    "start": 2060.52,
+    "duration": 5.04
+  },
+  {
+    "text": "much how let me put it this way how much",
+    "start": 2063.0,
+    "duration": 5.56
+  },
+  {
+    "text": "of the demand is already in like we said",
+    "start": 2065.56,
+    "duration": 5.599
+  },
+  {
+    "text": "you know the floodgates of institutional",
+    "start": 2068.56,
+    "duration": 4.799
+  },
+  {
+    "text": "investors are being opened and Retail",
+    "start": 2071.159,
+    "duration": 3.52
+  },
+  {
+    "text": "investors are being opened with these",
+    "start": 2073.359,
+    "duration": 3.881
+  },
+  {
+    "text": "ETFs how open are these floodgates are",
+    "start": 2074.679,
+    "duration": 6.081
+  },
+  {
+    "text": "we 10% open are we 50% open how much",
+    "start": 2077.24,
+    "duration": 5.56
+  },
+  {
+    "text": "more of a rush of volume or demand do",
+    "start": 2080.76,
+    "duration": 4.0
+  },
+  {
+    "text": "you anticipate coming in here yeah so",
+    "start": 2082.8,
+    "duration": 3.68
+  },
+  {
+    "text": "I'm going to answer your qu but I'm",
+    "start": 2084.76,
+    "duration": 2.919
+  },
+  {
+    "text": "going to say something first so we keep",
+    "start": 2086.48,
+    "duration": 3.119
+  },
+  {
+    "text": "talking about the demand of the ETFs one",
+    "start": 2087.679,
+    "duration": 4.0
+  },
+  {
+    "text": "thing that I find is missed in the",
+    "start": 2089.599,
+    "duration": 3.76
+  },
+  {
+    "text": "crypto crowd is like they think that the",
+    "start": 2091.679,
+    "duration": 3.68
+  },
+  {
+    "text": "ETF flows are like driving the price",
+    "start": 2093.359,
+    "duration": 4.321
+  },
+  {
+    "text": "completely but in reality like the ETF",
+    "start": 2095.359,
+    "duration": 4.081
+  },
+  {
+    "text": "flows are a slice of the pie for the",
+    "start": 2097.68,
+    "duration": 3.439
+  },
+  {
+    "text": "first couple months of the ETF launch",
+    "start": 2099.44,
+    "duration": 3.6
+  },
+  {
+    "text": "those flows were absurd that that slice",
+    "start": 2101.119,
+    "duration": 3.281
+  },
+  {
+    "text": "of the pie that's driving the price of",
+    "start": 2103.04,
+    "duration": 3.84
+  },
+  {
+    "text": "Bitcoin from the ETF was large they've",
+    "start": 2104.4,
+    "duration": 3.84
+  },
+  {
+    "text": "kind of settled down for the most part",
+    "start": 2106.88,
+    "duration": 2.68
+  },
+  {
+    "text": "there's been a lot of interest but if",
+    "start": 2108.24,
+    "duration": 2.72
+  },
+  {
+    "text": "you look at the flows and the assets",
+    "start": 2109.56,
+    "duration": 2.84
+  },
+  {
+    "text": "it's gone largely sideways for the",
+    "start": 2110.96,
+    "duration": 4.0
+  },
+  {
+    "text": "Bitcoin ETFs so yes obviously locking up",
+    "start": 2112.4,
+    "duration": 4.16
+  },
+  {
+    "text": "Bitcoin in there it's going to decrease",
+    "start": 2114.96,
+    "duration": 5.0
+  },
+  {
+    "text": "the supply um that money is coming into",
+    "start": 2116.56,
+    "duration": 5.0
+  },
+  {
+    "text": "offchain and it's not going to be traded",
+    "start": 2119.96,
+    "duration": 4.04
+  },
+  {
+    "text": "essentially right so um one that's",
+    "start": 2121.56,
+    "duration": 4.36
+  },
+  {
+    "text": "obviously positive it has been positive",
+    "start": 2124.0,
+    "duration": 3.68
+  },
+  {
+    "text": "price but the way ETFs work is they're",
+    "start": 2125.92,
+    "duration": 4.159
+  },
+  {
+    "text": "bu to constantly have inflows constantly",
+    "start": 2127.68,
+    "duration": 3.56
+  },
+  {
+    "text": "have outflows and that's what we're",
+    "start": 2130.079,
+    "duration": 2.401
+  },
+  {
+    "text": "going to see happen going forward there",
+    "start": 2131.24,
+    "duration": 2.48
+  },
+  {
+    "text": "are going to be months where we see",
+    "start": 2132.48,
+    "duration": 2.52
+  },
+  {
+    "text": "billions of dollars come out of these",
+    "start": 2133.72,
+    "duration": 4.04
+  },
+  {
+    "text": "things in the future um so it's more so",
+    "start": 2135.0,
+    "duration": 4.24
+  },
+  {
+    "text": "price is going to dictate what happens",
+    "start": 2137.76,
+    "duration": 3.599
+  },
+  {
+    "text": "it's like the ETFs are only a slice of",
+    "start": 2139.24,
+    "duration": 3.4
+  },
+  {
+    "text": "the pie like if people were looking at",
+    "start": 2141.359,
+    "duration": 4.0
+  },
+  {
+    "text": "S&P 500 ETFs there when you talk about",
+    "start": 2142.64,
+    "duration": 4.56
+  },
+  {
+    "text": "those like no one's like oh the S&P 500",
+    "start": 2145.359,
+    "duration": 3.441
+  },
+  {
+    "text": "ETF took in a billion dollars why did",
+    "start": 2147.2,
+    "duration": 4.32
+  },
+  {
+    "text": "the S&P 500 go down and it's like that's",
+    "start": 2148.8,
+    "duration": 4.0
+  },
+  {
+    "text": "the there needs to be somewhat of a",
+    "start": 2151.52,
+    "duration": 3.28
+  },
+  {
+    "text": "disconnect yes the ETS had an outsize",
+    "start": 2152.8,
+    "duration": 3.44
+  },
+  {
+    "text": "impact but at some point they're just",
+    "start": 2154.8,
+    "duration": 3.36
+  },
+  {
+    "text": "going to be more like another part",
+    "start": 2156.24,
+    "duration": 3.56
+  },
+  {
+    "text": "another piece of the pie now you're",
+    "start": 2158.16,
+    "duration": 3.84
+  },
+  {
+    "text": "asking like how much has come in largely",
+    "start": 2159.8,
+    "duration": 3.76
+  },
+  {
+    "text": "the demand we've seen so far has been",
+    "start": 2162.0,
+    "duration": 3.44
+  },
+  {
+    "text": "retail um there has been a lot of",
+    "start": 2163.56,
+    "duration": 4.08
+  },
+  {
+    "text": "advisor so advisers are the most common",
+    "start": 2165.44,
+    "duration": 5.52
+  },
+  {
+    "text": "users of us ETFs institutions also love",
+    "start": 2167.64,
+    "duration": 6.08
+  },
+  {
+    "text": "ETFs uh they provide anonymity there's e",
+    "start": 2170.96,
+    "duration": 6.159
+  },
+  {
+    "text": "it's very easy to trade um but for the",
+    "start": 2173.72,
+    "duration": 6.44
+  },
+  {
+    "text": "most part it's been kind of relatively",
+    "start": 2177.119,
+    "duration": 5.281
+  },
+  {
+    "text": "small but that's to be expected we had",
+    "start": 2180.16,
+    "duration": 4.48
+  },
+  {
+    "text": "so in the US we have these 13 F filings",
+    "start": 2182.4,
+    "duration": 4.12
+  },
+  {
+    "text": "and it basically tells you if you're an",
+    "start": 2184.64,
+    "duration": 4.04
+  },
+  {
+    "text": "institution over an advisor what have",
+    "start": 2186.52,
+    "duration": 3.76
+  },
+  {
+    "text": "you over $100 million in assets you need",
+    "start": 2188.68,
+    "duration": 3.76
+  },
+  {
+    "text": "to report um whatever equities you hold",
+    "start": 2190.28,
+    "duration": 4.559
+  },
+  {
+    "text": "or if you own over 5% there's other",
+    "start": 2192.44,
+    "duration": 4.36
+  },
+  {
+    "text": "things if you f fit those requirements",
+    "start": 2194.839,
+    "duration": 4.321
+  },
+  {
+    "text": "usually when an ETF launches You' be",
+    "start": 2196.8,
+    "duration": 4.039
+  },
+  {
+    "text": "lucky to see like a couple of people",
+    "start": 2199.16,
+    "duration": 4.159
+  },
+  {
+    "text": "file a 13f saying you hold that across",
+    "start": 2200.839,
+    "duration": 6.361
+  },
+  {
+    "text": "these 10 or 11 ETFs we have like 500",
+    "start": 2203.319,
+    "duration": 5.04
+  },
+  {
+    "text": "different holders that number is going",
+    "start": 2207.2,
+    "duration": 3.159
+  },
+  {
+    "text": "to keep going up but what we have now is",
+    "start": 2208.359,
+    "duration": 3.321
+  },
+  {
+    "text": "a lot of these advisers that bought them",
+    "start": 2210.359,
+    "duration": 3.841
+  },
+  {
+    "text": "are independent smaller advisors so",
+    "start": 2211.68,
+    "duration": 4.12
+  },
+  {
+    "text": "somebody maybe down here in Austin who",
+    "start": 2214.2,
+    "duration": 3.6
+  },
+  {
+    "text": "has 40 clients and they do think are",
+    "start": 2215.8,
+    "duration": 3.519
+  },
+  {
+    "text": "mostly on their own and they don't have",
+    "start": 2217.8,
+    "duration": 2.84
+  },
+  {
+    "text": "a massive compliance department they",
+    "start": 2219.319,
+    "duration": 2.961
+  },
+  {
+    "text": "have to work with so they're able to put",
+    "start": 2220.64,
+    "duration": 4.199
+  },
+  {
+    "text": "money into a client account right away",
+    "start": 2222.28,
+    "duration": 3.799
+  },
+  {
+    "text": "those are most of the advisor have",
+    "start": 2224.839,
+    "duration": 2.24
+  },
+  {
+    "text": "bought so far we've seen some",
+    "start": 2226.079,
+    "duration": 2.681
+  },
+  {
+    "text": "institutions we've even seen Wisconsin",
+    "start": 2227.079,
+    "duration": 3.921
+  },
+  {
+    "text": "pension fund bought one of these ETFs",
+    "start": 2228.76,
+    "duration": 4.44
+  },
+  {
+    "text": "that's they're very small potatoes right",
+    "start": 2231.0,
+    "duration": 4.4
+  },
+  {
+    "text": "now it's a big deal but they're not like",
+    "start": 2233.2,
+    "duration": 4.48
+  },
+  {
+    "text": "putting tons of money in what we're",
+    "start": 2235.4,
+    "duration": 4.12
+  },
+  {
+    "text": "expecting to happen so most of those ADV",
+    "start": 2237.68,
+    "duration": 3.6
+  },
+  {
+    "text": "the other advisers that the big ones the",
+    "start": 2239.52,
+    "duration": 3.12
+  },
+  {
+    "text": "big wirehouse the maril lyes of the",
+    "start": 2241.28,
+    "duration": 2.88
+  },
+  {
+    "text": "world the people with tens hundreds of",
+    "start": 2242.64,
+    "duration": 3.679
+  },
+  {
+    "text": "billions of dollars on there they have a",
+    "start": 2244.16,
+    "duration": 4.08
+  },
+  {
+    "text": "lot of advisors and brokers who have",
+    "start": 2246.319,
+    "duration": 3.681
+  },
+  {
+    "text": "rules on what they can and cannot buy",
+    "start": 2248.24,
+    "duration": 4.4
+  },
+  {
+    "text": "the way it usually works is you file for",
+    "start": 2250.0,
+    "duration": 5.16
+  },
+  {
+    "text": "this ETF and this adest this adviser",
+    "start": 2252.64,
+    "duration": 5.32
+  },
+  {
+    "text": "wants to use it you need to get approval",
+    "start": 2255.16,
+    "duration": 4.159
+  },
+  {
+    "text": "from their compliance Department it's",
+    "start": 2257.96,
+    "duration": 2.72
+  },
+  {
+    "text": "called their due diligence department so",
+    "start": 2259.319,
+    "duration": 2.361
+  },
+  {
+    "text": "once it's launched it's not",
+    "start": 2260.68,
+    "duration": 2.32
+  },
+  {
+    "text": "automatically approved usually takes",
+    "start": 2261.68,
+    "duration": 3.96
+  },
+  {
+    "text": "months sometimes three to 5 years before",
+    "start": 2263.0,
+    "duration": 3.96
+  },
+  {
+    "text": "they allow an ETF for one of their",
+    "start": 2265.64,
+    "duration": 2.84
+  },
+  {
+    "text": "advisers or Brokers to buy it for a",
+    "start": 2266.96,
+    "duration": 3.84
+  },
+  {
+    "text": "client so there's usually three steps",
+    "start": 2268.48,
+    "duration": 4.599
+  },
+  {
+    "text": "the first step is red light no one can",
+    "start": 2270.8,
+    "duration": 3.68
+  },
+  {
+    "text": "buy this absolutely not you're not",
+    "start": 2273.079,
+    "duration": 2.321
+  },
+  {
+    "text": "allowed to buy this under any",
+    "start": 2274.48,
+    "duration": 2.599
+  },
+  {
+    "text": "circumstances then there's this whole",
+    "start": 2275.4,
+    "duration": 4.32
+  },
+  {
+    "text": "group in the Middle Ground we're like",
+    "start": 2277.079,
+    "duration": 5.24
+  },
+  {
+    "text": "okay I'm an adviser if my client asks me",
+    "start": 2279.72,
+    "duration": 3.96
+  },
+  {
+    "text": "to buy it I can buy it that's",
+    "start": 2282.319,
+    "duration": 3.441
+  },
+  {
+    "text": "unsolicited or if I just jump through",
+    "start": 2283.68,
+    "duration": 3.399
+  },
+  {
+    "text": "these hoops I can buy it for my client",
+    "start": 2285.76,
+    "duration": 2.72
+  },
+  {
+    "text": "but I can f all all this paperwork and",
+    "start": 2287.079,
+    "duration": 3.201
+  },
+  {
+    "text": "explain why I'm doing it and F all this",
+    "start": 2288.48,
+    "duration": 3.839
+  },
+  {
+    "text": "stuff right it's it's not as easy to buy",
+    "start": 2290.28,
+    "duration": 4.24
+  },
+  {
+    "text": "the top level the full like goahead",
+    "start": 2292.319,
+    "duration": 3.441
+  },
+  {
+    "text": "green light you're good to go it's",
+    "start": 2294.52,
+    "duration": 3.36
+  },
+  {
+    "text": "called solicited and that would be me as",
+    "start": 2295.76,
+    "duration": 4.04
+  },
+  {
+    "text": "an advisor and you as my client me going",
+    "start": 2297.88,
+    "duration": 3.64
+  },
+  {
+    "text": "you I think we need to put 3% of Bitcoin",
+    "start": 2299.8,
+    "duration": 3.799
+  },
+  {
+    "text": "in your account at these big platforms",
+    "start": 2301.52,
+    "duration": 4.079
+  },
+  {
+    "text": "that's not really happening yet that I",
+    "start": 2303.599,
+    "duration": 3.24
+  },
+  {
+    "text": "asked on stage when they think that's",
+    "start": 2305.599,
+    "duration": 2.401
+  },
+  {
+    "text": "going to happen with some of these guys",
+    "start": 2306.839,
+    "duration": 3.641
+  },
+  {
+    "text": "the Black Rock uh Joe salom said he",
+    "start": 2308.0,
+    "duration": 5.2
+  },
+  {
+    "text": "probably Q4 maybe maybe even longer so",
+    "start": 2310.48,
+    "duration": 4.52
+  },
+  {
+    "text": "for the most part these institutions",
+    "start": 2313.2,
+    "duration": 4.6
+  },
+  {
+    "text": "these huge platforms they haven't been",
+    "start": 2315.0,
+    "duration": 4.48
+  },
+  {
+    "text": "okay to recommend this stuff to their",
+    "start": 2317.8,
+    "duration": 4.16
+  },
+  {
+    "text": "clients so it's only just opening really",
+    "start": 2319.48,
+    "duration": 4.04
+  },
+  {
+    "text": "so there's still going to be more demand",
+    "start": 2321.96,
+    "duration": 3.72
+  },
+  {
+    "text": "coming down that route but the people",
+    "start": 2323.52,
+    "duration": 4.68
+  },
+  {
+    "text": "who have clients or ad if I'm an adviser",
+    "start": 2325.68,
+    "duration": 4.399
+  },
+  {
+    "text": "my client you came to me and said I want",
+    "start": 2328.2,
+    "duration": 4.399
+  },
+  {
+    "text": "Bitcoin there's there's still processes",
+    "start": 2330.079,
+    "duration": 4.121
+  },
+  {
+    "text": "being able to get that approved on many",
+    "start": 2332.599,
+    "duration": 3.48
+  },
+  {
+    "text": "different platforms so it's a long",
+    "start": 2334.2,
+    "duration": 3.8
+  },
+  {
+    "text": "process the process has been expedited",
+    "start": 2336.079,
+    "duration": 3.04
+  },
+  {
+    "text": "because people started doing their",
+    "start": 2338.0,
+    "duration": 3.16
+  },
+  {
+    "text": "research on bitcoin and these ETFs",
+    "start": 2339.119,
+    "duration": 4.121
+  },
+  {
+    "text": "months if not years ago in many cases",
+    "start": 2341.16,
+    "duration": 3.919
+  },
+  {
+    "text": "but it's still it's a long process they",
+    "start": 2343.24,
+    "duration": 3.24
+  },
+  {
+    "text": "want to make sure they don't screw",
+    "start": 2345.079,
+    "duration": 3.961
+  },
+  {
+    "text": "anything up so the flood gate are we",
+    "start": 2346.48,
+    "duration": 5.359
+  },
+  {
+    "text": "here are we here so until I see some of",
+    "start": 2349.04,
+    "duration": 4.279
+  },
+  {
+    "text": "these massive wirehouse platforms I'm",
+    "start": 2351.839,
+    "duration": 3.401
+  },
+  {
+    "text": "going to say it's I don't know 20% open",
+    "start": 2353.319,
+    "duration": 3.481
+  },
+  {
+    "text": "I mean for the most part like I said a",
+    "start": 2355.24,
+    "duration": 3.079
+  },
+  {
+    "text": "lot of this has been retail driven I",
+    "start": 2356.8,
+    "duration": 2.72
+  },
+  {
+    "text": "think it's a lot of people like I was",
+    "start": 2358.319,
+    "duration": 2.52
+  },
+  {
+    "text": "talking about with those IRAs those",
+    "start": 2359.52,
+    "duration": 2.559
+  },
+  {
+    "text": "brokerage accounts money on these",
+    "start": 2360.839,
+    "duration": 3.441
+  },
+  {
+    "text": "platforms who like crypto who like",
+    "start": 2362.079,
+    "duration": 4.04
+  },
+  {
+    "text": "Bitcoin and wanted to partake were",
+    "start": 2364.28,
+    "duration": 3.68
+  },
+  {
+    "text": "buying the ETFs in the first few months",
+    "start": 2366.119,
+    "duration": 3.72
+  },
+  {
+    "text": "and I get those small independent",
+    "start": 2367.96,
+    "duration": 3.24
+  },
+  {
+    "text": "advisers they were buying it for their",
+    "start": 2369.839,
+    "duration": 4.321
+  },
+  {
+    "text": "clients um but these huge wirehouses the",
+    "start": 2371.2,
+    "duration": 5.08
+  },
+  {
+    "text": "meril lynches the UBS the Morgan Stanley",
+    "start": 2374.16,
+    "duration": 4.24
+  },
+  {
+    "text": "of the world they're not yet buying it",
+    "start": 2376.28,
+    "duration": 4.12
+  },
+  {
+    "text": "for their clients so I know you can't",
+    "start": 2378.4,
+    "duration": 4.4
+  },
+  {
+    "text": "give an exact price for cost but what",
+    "start": 2380.4,
+    "duration": 5.08
+  },
+  {
+    "text": "can you say in terms of what you think",
+    "start": 2382.8,
+    "duration": 5.039
+  },
+  {
+    "text": "this means yeah I mean so we just had",
+    "start": 2385.48,
+    "duration": 4.4
+  },
+  {
+    "text": "the having right that's the new Supply",
+    "start": 2387.839,
+    "duration": 4.161
+  },
+  {
+    "text": "coming online for the ETF I don't think",
+    "start": 2389.88,
+    "duration": 3.439
+  },
+  {
+    "text": "I think now it's small enough that it's",
+    "start": 2392.0,
+    "duration": 3.16
+  },
+  {
+    "text": "not having a massive impact um but",
+    "start": 2393.319,
+    "duration": 3.28
+  },
+  {
+    "text": "obviously it's taking some amount of",
+    "start": 2395.16,
+    "duration": 2.56
+  },
+  {
+    "text": "Bitcoin that was being DPed on the",
+    "start": 2396.599,
+    "duration": 3.681
+  },
+  {
+    "text": "market by the miners out of being sold",
+    "start": 2397.72,
+    "duration": 3.8
+  },
+  {
+    "text": "on the market on a given day and the",
+    "start": 2400.28,
+    "duration": 3.28
+  },
+  {
+    "text": "ETFs taking in billions of dollars",
+    "start": 2401.52,
+    "duration": 3.079
+  },
+  {
+    "text": "hundreds of millions of dollars on a",
+    "start": 2403.56,
+    "duration": 4.16
+  },
+  {
+    "text": "regular basis is also decreasing Supply",
+    "start": 2404.599,
+    "duration": 5.321
+  },
+  {
+    "text": "so I think anything that's going to",
+    "start": 2407.72,
+    "duration": 4.56
+  },
+  {
+    "text": "basically decrease Supply by the ETF",
+    "start": 2409.92,
+    "duration": 3.88
+  },
+  {
+    "text": "taking inflows so anything that can",
+    "start": 2412.28,
+    "duration": 3.559
+  },
+  {
+    "text": "potentially cause inflows is likely",
+    "start": 2413.8,
+    "duration": 4.08
+  },
+  {
+    "text": "going to be positive for bitcoin's price",
+    "start": 2415.839,
+    "duration": 3.28
+  },
+  {
+    "text": "but again I'm going to go back to the",
+    "start": 2417.88,
+    "duration": 4.32
+  },
+  {
+    "text": "point that these ETFs are a slice of the",
+    "start": 2419.119,
+    "duration": 6.2
+  },
+  {
+    "text": "pie and yes they can be a Big Slice but",
+    "start": 2422.2,
+    "duration": 5.32
+  },
+  {
+    "text": "it's it's much bigger things going on so",
+    "start": 2425.319,
+    "duration": 3.641
+  },
+  {
+    "text": "there were times in the last few months",
+    "start": 2427.52,
+    "duration": 4.0
+  },
+  {
+    "text": "where the Bitcoin ETFs were taking in 10",
+    "start": 2428.96,
+    "duration": 5.6
+  },
+  {
+    "text": "50 hundred million over a couple of days",
+    "start": 2431.52,
+    "duration": 5.24
+  },
+  {
+    "text": "and bitcoin price was tanking down to 60",
+    "start": 2434.56,
+    "duration": 4.48
+  },
+  {
+    "text": "$60,000 and it's people were complaining",
+    "start": 2436.76,
+    "duration": 4.12
+  },
+  {
+    "text": "about the ETFs not seeing enough inflows",
+    "start": 2439.04,
+    "duration": 3.48
+  },
+  {
+    "text": "it's like if the price is going down",
+    "start": 2440.88,
+    "duration": 3.4
+  },
+  {
+    "text": "it's not because the ETFs are are",
+    "start": 2442.52,
+    "duration": 3.2
+  },
+  {
+    "text": "they're seeing inflows over this time",
+    "start": 2444.28,
+    "duration": 3.68
+  },
+  {
+    "text": "period it's it's other people holding",
+    "start": 2445.72,
+    "duration": 4.16
+  },
+  {
+    "text": "Bitcoin the more broader ecosystem of",
+    "start": 2447.96,
+    "duration": 3.96
+  },
+  {
+    "text": "Bitcoin trading that's driving the price",
+    "start": 2449.88,
+    "duration": 4.199
+  },
+  {
+    "text": "all right as we start to wrap up here",
+    "start": 2451.92,
+    "duration": 4.48
+  },
+  {
+    "text": "some speculation that salana could be",
+    "start": 2454.079,
+    "duration": 5.561
+  },
+  {
+    "text": "the next ETF as I said Ripple CEO Brad",
+    "start": 2456.4,
+    "duration": 5.439
+  },
+  {
+    "text": "garlinghouse he was on the stage he sees",
+    "start": 2459.64,
+    "duration": 7.479
+  },
+  {
+    "text": "salana and an xrp a ripple ETF is salana",
+    "start": 2461.839,
+    "duration": 7.961
+  },
+  {
+    "text": "the most likely ETF next what are your",
+    "start": 2467.119,
+    "duration": 4.48
+  },
+  {
+    "text": "thoughts there if at all yeah so my",
+    "start": 2469.8,
+    "duration": 3.76
+  },
+  {
+    "text": "stance for the last year plus has been",
+    "start": 2471.599,
+    "duration": 4.161
+  },
+  {
+    "text": "we're going to get a Bitcoin ETF then",
+    "start": 2473.56,
+    "duration": 4.279
+  },
+  {
+    "text": "we'll get an ethereum ETF at some point",
+    "start": 2475.76,
+    "duration": 3.44
+  },
+  {
+    "text": "and then we'll be years before we see",
+    "start": 2477.839,
+    "duration": 4.121
+  },
+  {
+    "text": "anything else um who knows what's",
+    "start": 2479.2,
+    "duration": 4.56
+  },
+  {
+    "text": "happening now um like I said if you talk",
+    "start": 2481.96,
+    "duration": 4.2
+  },
+  {
+    "text": "to me too uh literally Monday morning",
+    "start": 2483.76,
+    "duration": 4.28
+  },
+  {
+    "text": "before the ETF approval happened on on",
+    "start": 2486.16,
+    "duration": 3.199
+  },
+  {
+    "text": "that Wednesday or Thursday whenever it",
+    "start": 2488.04,
+    "duration": 2.72
+  },
+  {
+    "text": "happened I would have told you that",
+    "start": 2489.359,
+    "duration": 3.161
+  },
+  {
+    "text": "wasn't happening either uh so things are",
+    "start": 2490.76,
+    "duration": 2.92
+  },
+  {
+    "text": "changing quickly particularly",
+    "start": 2492.52,
+    "duration": 3.12
+  },
+  {
+    "text": "politically there are two things that",
+    "start": 2493.68,
+    "duration": 3.28
+  },
+  {
+    "text": "need to be settled here right the first",
+    "start": 2495.64,
+    "duration": 2.84
+  },
+  {
+    "text": "thing under the current admin the",
+    "start": 2496.96,
+    "duration": 4.399
+  },
+  {
+    "text": "current way things are done you need to",
+    "start": 2498.48,
+    "duration": 5.8
+  },
+  {
+    "text": "know the status of the asset so right",
+    "start": 2501.359,
+    "duration": 4.321
+  },
+  {
+    "text": "now ethereum just got its commodity",
+    "start": 2504.28,
+    "duration": 4.68
+  },
+  {
+    "text": "status that is settled the SEC has no",
+    "start": 2505.68,
+    "duration": 5.2
+  },
+  {
+    "text": "problem calling salana a security right",
+    "start": 2508.96,
+    "duration": 3.68
+  },
+  {
+    "text": "now in the Kraken case and the coinbase",
+    "start": 2510.88,
+    "duration": 3.52
+  },
+  {
+    "text": "case they're one of the things named",
+    "start": 2512.64,
+    "duration": 3.64
+  },
+  {
+    "text": "they never named ethereum as being a",
+    "start": 2514.4,
+    "duration": 4.52
+  },
+  {
+    "text": "security so this question of is it a",
+    "start": 2516.28,
+    "duration": 4.079
+  },
+  {
+    "text": "security is it a commodity we'll hold up",
+    "start": 2518.92,
+    "duration": 4.439
+  },
+  {
+    "text": "in ETF launching right um that said we",
+    "start": 2520.359,
+    "duration": 4.96
+  },
+  {
+    "text": "have fit 21 Bill there is push to do a",
+    "start": 2523.359,
+    "duration": 3.921
+  },
+  {
+    "text": "market structure Bill in Congress and it",
+    "start": 2525.319,
+    "duration": 3.641
+  },
+  {
+    "text": "seems to be a bipartisan issue at this",
+    "start": 2527.28,
+    "duration": 3.12
+  },
+  {
+    "text": "point so that could clear up that first",
+    "start": 2528.96,
+    "duration": 3.28
+  },
+  {
+    "text": "leg of getting these things approved so",
+    "start": 2530.4,
+    "duration": 3.36
+  },
+  {
+    "text": "if we know this is definitively a",
+    "start": 2532.24,
+    "duration": 3.079
+  },
+  {
+    "text": "commodity or definitive security",
+    "start": 2533.76,
+    "duration": 2.76
+  },
+  {
+    "text": "whatever it is we could theoretically",
+    "start": 2535.319,
+    "duration": 3.081
+  },
+  {
+    "text": "get an ETF on that but that needs to be",
+    "start": 2536.52,
+    "duration": 3.72
+  },
+  {
+    "text": "cleared up which it I don't see that",
+    "start": 2538.4,
+    "duration": 3.28
+  },
+  {
+    "text": "getting cleared up anytime soon",
+    "start": 2540.24,
+    "duration": 3.839
+  },
+  {
+    "text": "personally um it might we could get a",
+    "start": 2541.68,
+    "duration": 4.6
+  },
+  {
+    "text": "market structure Bill in Congress um but",
+    "start": 2544.079,
+    "duration": 3.28
+  },
+  {
+    "text": "yeah I didn't mean you were going to say",
+    "start": 2546.28,
+    "duration": 3.079
+  },
+  {
+    "text": "something no no go ahead go I was just",
+    "start": 2547.359,
+    "duration": 4.601
+  },
+  {
+    "text": "going to say that fit 21 past Congress",
+    "start": 2549.359,
+    "duration": 4.361
+  },
+  {
+    "text": "still not sure what the Fate is in the",
+    "start": 2551.96,
+    "duration": 3.879
+  },
+  {
+    "text": "Senate but may sway now that there seems",
+    "start": 2553.72,
+    "duration": 4.359
+  },
+  {
+    "text": "to be a different take on on uh",
+    "start": 2555.839,
+    "duration": 3.841
+  },
+  {
+    "text": "cryptocurrencies do you think the Senate",
+    "start": 2558.079,
+    "duration": 3.681
+  },
+  {
+    "text": "will pass for 21 so not under the",
+    "start": 2559.68,
+    "duration": 3.24
+  },
+  {
+    "text": "current way it's structured there are",
+    "start": 2561.76,
+    "duration": 4.079
+  },
+  {
+    "text": "still issues with it um my I have a part",
+    "start": 2562.92,
+    "duration": 4.399
+  },
+  {
+    "text": "of the benefit of working at Bloomberg",
+    "start": 2565.839,
+    "duration": 2.72
+  },
+  {
+    "text": "is I have a lot of colleagues",
+    "start": 2567.319,
+    "duration": 2.321
+  },
+  {
+    "text": "particularly Bloomberg intelligence I",
+    "start": 2568.559,
+    "duration": 2.641
+  },
+  {
+    "text": "have a policy analyst down in DC who",
+    "start": 2569.64,
+    "duration": 3.4
+  },
+  {
+    "text": "knows this stuff so he thinks a stable",
+    "start": 2571.2,
+    "duration": 4.48
+  },
+  {
+    "text": "coin bill could get done but he doesn't",
+    "start": 2573.04,
+    "duration": 4.44
+  },
+  {
+    "text": "think fit21 is going to get done or",
+    "start": 2575.68,
+    "duration": 3.439
+  },
+  {
+    "text": "Market structured necessarily but things",
+    "start": 2577.48,
+    "duration": 3.04
+  },
+  {
+    "text": "are changing quick down there as we just",
+    "start": 2579.119,
+    "duration": 3.401
+  },
+  {
+    "text": "said so that's the step one of getting",
+    "start": 2580.52,
+    "duration": 3.88
+  },
+  {
+    "text": "approved right so theoretically if that",
+    "start": 2582.52,
+    "duration": 5.319
+  },
+  {
+    "text": "gets done then we're good on that front",
+    "start": 2584.4,
+    "duration": 5.28
+  },
+  {
+    "text": "so even if so I think then I would say",
+    "start": 2587.839,
+    "duration": 3.681
+  },
+  {
+    "text": "so even if Ripple in this case or salana",
+    "start": 2589.68,
+    "duration": 4.28
+  },
+  {
+    "text": "is deemed to be a commodity uh whether",
+    "start": 2591.52,
+    "duration": 5.72
+  },
+  {
+    "text": "Ripple in a court case or salana via um",
+    "start": 2593.96,
+    "duration": 7.599
+  },
+  {
+    "text": "uh a congressional move um you still",
+    "start": 2597.24,
+    "duration": 6.44
+  },
+  {
+    "text": "need another step so in the right now",
+    "start": 2601.559,
+    "duration": 3.721
+  },
+  {
+    "text": "the way the SEC has structured this is",
+    "start": 2603.68,
+    "duration": 3.48
+  },
+  {
+    "text": "they need a market that they can survey",
+    "start": 2605.28,
+    "duration": 3.92
+  },
+  {
+    "text": "fa so the division of trading a market",
+    "start": 2607.16,
+    "duration": 3.48
+  },
+  {
+    "text": "is the one that does those 19 B4",
+    "start": 2609.2,
+    "duration": 2.96
+  },
+  {
+    "text": "approvals they're worried about fraud",
+    "start": 2610.64,
+    "duration": 3.6
+  },
+  {
+    "text": "manipulation they want orderly markets",
+    "start": 2612.16,
+    "duration": 4.28
+  },
+  {
+    "text": "efficient markets and right now there is",
+    "start": 2614.24,
+    "duration": 5.0
+  },
+  {
+    "text": "no market for like that they can surveil",
+    "start": 2616.44,
+    "duration": 5.48
+  },
+  {
+    "text": "of spot market so theoretically the",
+    "start": 2619.24,
+    "duration": 4.72
+  },
+  {
+    "text": "reason we have Bitcoin ETFs and ethereum",
+    "start": 2621.92,
+    "duration": 4.88
+  },
+  {
+    "text": "ETFs because we have CME Bitcoin Futures",
+    "start": 2623.96,
+    "duration": 5.399
+  },
+  {
+    "text": "and CME ethereum Futures that is what",
+    "start": 2626.8,
+    "duration": 4.08
+  },
+  {
+    "text": "the ACC is leaning on for approving",
+    "start": 2629.359,
+    "duration": 3.0
+  },
+  {
+    "text": "these things they're saying we can use",
+    "start": 2630.88,
+    "duration": 4.04
+  },
+  {
+    "text": "these to surveil the markets and look",
+    "start": 2632.359,
+    "duration": 4.361
+  },
+  {
+    "text": "for potential fraud and manipulation to",
+    "start": 2634.92,
+    "duration": 3.56
+  },
+  {
+    "text": "make sure that anyone buying these ETS",
+    "start": 2636.72,
+    "duration": 3.8
+  },
+  {
+    "text": "which the SEC has approved isn't getting",
+    "start": 2638.48,
+    "duration": 3.56
+  },
+  {
+    "text": "ripped off by fraud and manipulation by",
+    "start": 2640.52,
+    "duration": 2.88
+  },
+  {
+    "text": "people doing stuff on the underlying",
+    "start": 2642.04,
+    "duration": 3.68
+  },
+  {
+    "text": "Market could that change under a",
+    "start": 2643.4,
+    "duration": 3.76
+  },
+  {
+    "text": "potential Trump admin or a different",
+    "start": 2645.72,
+    "duration": 2.879
+  },
+  {
+    "text": "admin at the SEC could they make new",
+    "start": 2647.16,
+    "duration": 3.399
+  },
+  {
+    "text": "rules for what's required maybe but",
+    "start": 2648.599,
+    "duration": 3.281
+  },
+  {
+    "text": "again I still think all of those things",
+    "start": 2650.559,
+    "duration": 4.56
+  },
+  {
+    "text": "are likely to take a long time so I no",
+    "start": 2651.88,
+    "duration": 4.76
+  },
+  {
+    "text": "way it happens this year is what I would",
+    "start": 2655.119,
+    "duration": 2.881
+  },
+  {
+    "text": "say even still even if you filed for a",
+    "start": 2656.64,
+    "duration": 4.16
+  },
+  {
+    "text": "salon ETF today and it were to we",
+    "start": 2658.0,
+    "duration": 4.44
+  },
+  {
+    "text": "decided is going to get approved which I",
+    "start": 2660.8,
+    "duration": 3.12
+  },
+  {
+    "text": "do not think is going to happen there's",
+    "start": 2662.44,
+    "duration": 4.119
+  },
+  {
+    "text": "a 240-day clock we're already into 2025",
+    "start": 2663.92,
+    "duration": 4.84
+  },
+  {
+    "text": "right so I think even still we're",
+    "start": 2666.559,
+    "duration": 5.361
+  },
+  {
+    "text": "looking many multiple years I think 2026",
+    "start": 2668.76,
+    "duration": 6.319
+  },
+  {
+    "text": "potentially at the earliest um but again",
+    "start": 2671.92,
+    "duration": 4.56
+  },
+  {
+    "text": "if we get a different admin in November",
+    "start": 2675.079,
+    "duration": 2.921
+  },
+  {
+    "text": "everything changes so anyone predicting",
+    "start": 2676.48,
+    "duration": 3.76
+  },
+  {
+    "text": "what's going to happen uh it it's so",
+    "start": 2678.0,
+    "duration": 3.76
+  },
+  {
+    "text": "dependent at this point which as you",
+    "start": 2680.24,
+    "duration": 3.0
+  },
+  {
+    "text": "talked about it shouldn't be politically",
+    "start": 2681.76,
+    "duration": 3.559
+  },
+  {
+    "text": "dependent but right now it kind of like",
+    "start": 2683.24,
+    "duration": 3.839
+  },
+  {
+    "text": "political Natures could could really",
+    "start": 2685.319,
+    "duration": 3.401
+  },
+  {
+    "text": "move what's going to happen here right",
+    "start": 2687.079,
+    "duration": 5.721
+  },
+  {
+    "text": "so no salono ETF uh in 2024 maybe 2025",
+    "start": 2688.72,
+    "duration": 6.48
+  },
+  {
+    "text": "and as we started off this interview",
+    "start": 2692.8,
+    "duration": 5.559
+  },
+  {
+    "text": "politics clearly big influence not only",
+    "start": 2695.2,
+    "duration": 4.8
+  },
+  {
+    "text": "at this conference but obviously with",
+    "start": 2698.359,
+    "duration": 4.281
+  },
+  {
+    "text": "the crypto space at large James thank",
+    "start": 2700.0,
+    "duration": 5.119
+  },
+  {
+    "text": "you so much for sharing your insights",
+    "start": 2702.64,
+    "duration": 3.84
+  },
+  {
+    "text": "great to have you on yeah thanks for",
+    "start": 2705.119,
+    "duration": 2.841
+  },
+  {
+    "text": "having me this is fun all right and",
+    "start": 2706.48,
+    "duration": 2.839
+  },
+  {
+    "text": "again regards to all my former",
+    "start": 2707.96,
+    "duration": 3.119
+  },
+  {
+    "text": "colleagues over there at Bloomberg great",
+    "start": 2709.319,
+    "duration": 3.161
+  },
+  {
+    "text": "great that you have all those resources",
+    "start": 2711.079,
+    "duration": 3.0
+  },
+  {
+    "text": "to draw and I I remember my Bloomberg",
+    "start": 2712.48,
+    "duration": 3.56
+  },
+  {
+    "text": "days very fondly yes all right we'll",
+    "start": 2714.079,
+    "duration": 3.121
+  },
+  {
+    "text": "catch up with you again soon thank you",
+    "start": 2716.04,
+    "duration": 3.96
+  },
+  {
+    "text": "so much J this great thank you getco",
+    "start": 2717.2,
+    "duration": 6.44
+  },
+  {
+    "text": "News special coverage of consensus 2024",
+    "start": 2720.0,
+    "duration": 8.64
+  },
+  {
+    "text": "is brought to you by Diamond standard",
+    "start": 2723.64,
+    "duration": 5.0
+  },
+  {
+    "text": "[Music]",
+    "start": 2729.42,
+    "duration": 11.13
+  }
+]

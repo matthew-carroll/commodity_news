@@ -1,0 +1,347 @@
+[
+  {
+    "text": "hey everyone I'm Jeremy saffron this is",
+    "start": 0.12,
+    "duration": 3.319
+  },
+  {
+    "text": "Kiko news let's dive into today's top",
+    "start": 1.439,
+    "duration": 4.081
+  },
+  {
+    "text": "stories well big news from Canada the",
+    "start": 3.439,
+    "duration": 4.041
+  },
+  {
+    "text": "Bank of Canada has cut its key interest",
+    "start": 5.52,
+    "duration": 3.52
+  },
+  {
+    "text": "rates to",
+    "start": 7.48,
+    "duration": 4.52
+  },
+  {
+    "text": "4.75% the first cut in over four years",
+    "start": 9.04,
+    "duration": 4.559
+  },
+  {
+    "text": "this move is aimed at stimulating",
+    "start": 12.0,
+    "duration": 3.839
+  },
+  {
+    "text": "economic growth as inflation shows signs",
+    "start": 13.599,
+    "duration": 4.481
+  },
+  {
+    "text": "of cooling providing much needed relief",
+    "start": 15.839,
+    "duration": 4.561
+  },
+  {
+    "text": "for borrowers Governor Tiff mckam",
+    "start": 18.08,
+    "duration": 4.0
+  },
+  {
+    "text": "emphasized the need for sustained",
+    "start": 20.4,
+    "duration": 3.68
+  },
+  {
+    "text": "Improvement before considering further",
+    "start": 22.08,
+    "duration": 4.199
+  },
+  {
+    "text": "rate Cuts take a listen that is going to",
+    "start": 24.08,
+    "duration": 5.08
+  },
+  {
+    "text": "depend how things evolve uh what I can",
+    "start": 26.279,
+    "duration": 5.601
+  },
+  {
+    "text": "say is that if the economy continues to",
+    "start": 29.16,
+    "duration": 6.44
+  },
+  {
+    "text": "evolve broadly as we have expected as we",
+    "start": 31.88,
+    "duration": 8.44
+  },
+  {
+    "text": "expect and we continue to see a broad",
+    "start": 35.6,
+    "duration": 6.88
+  },
+  {
+    "text": "easing in inflationary pressures it is",
+    "start": 40.32,
+    "duration": 5.2
+  },
+  {
+    "text": "reasonable to expect further Cuts in our",
+    "start": 42.48,
+    "duration": 6.16
+  },
+  {
+    "text": "policy rate but and I want to stress",
+    "start": 45.52,
+    "duration": 6.16
+  },
+  {
+    "text": "this the timing of any further Cuts is",
+    "start": 48.64,
+    "duration": 7.12
+  },
+  {
+    "text": "going to depend on incoming data uh it",
+    "start": 51.68,
+    "duration": 7.359
+  },
+  {
+    "text": "it in particular is going to depend on",
+    "start": 55.76,
+    "duration": 6.599
+  },
+  {
+    "text": "what those income data tell us about the",
+    "start": 59.039,
+    "duration": 5.961
+  },
+  {
+    "text": "most likely future path for inflation we",
+    "start": 62.359,
+    "duration": 4.281
+  },
+  {
+    "text": "are determined to get inflation back to",
+    "start": 65.0,
+    "duration": 6.08
+  },
+  {
+    "text": "the 2% Target uh we know it we know we",
+    "start": 66.64,
+    "duration": 5.68
+  },
+  {
+    "text": "know there can be some bumps along the",
+    "start": 71.08,
+    "duration": 3.52
+  },
+  {
+    "text": "way and in Europe the European Central",
+    "start": 72.32,
+    "duration": 4.839
+  },
+  {
+    "text": "Bank is set to meet on June 6 with",
+    "start": 74.6,
+    "duration": 4.48
+  },
+  {
+    "text": "expectations of a rate cut despite",
+    "start": 77.159,
+    "duration": 3.92
+  },
+  {
+    "text": "Rising inflation now this decision",
+    "start": 79.08,
+    "duration": 3.92
+  },
+  {
+    "text": "reflects the broader challenge central",
+    "start": 81.079,
+    "duration": 4.281
+  },
+  {
+    "text": "banks face globally in managing economic",
+    "start": 83.0,
+    "duration": 5.28
+  },
+  {
+    "text": "growth and inflation and in India",
+    "start": 85.36,
+    "duration": 4.52
+  },
+  {
+    "text": "markets have bounced back after po",
+    "start": 88.28,
+    "duration": 4.24
+  },
+  {
+    "text": "political stability returns an alliance",
+    "start": 89.88,
+    "duration": 5.559
+  },
+  {
+    "text": "partner of prime minister Mod's party",
+    "start": 92.52,
+    "duration": 4.8
+  },
+  {
+    "text": "affirmed support to form a coalition",
+    "start": 95.439,
+    "duration": 4.68
+  },
+  {
+    "text": "government now the nifty50 index surged",
+    "start": 97.32,
+    "duration": 5.28
+  },
+  {
+    "text": "over 2% recovering from recent",
+    "start": 100.119,
+    "duration": 4.801
+  },
+  {
+    "text": "significant losses and finally",
+    "start": 102.6,
+    "duration": 4.64
+  },
+  {
+    "text": "billionaire investor Ray doio has issued",
+    "start": 104.92,
+    "duration": 4.64
+  },
+  {
+    "text": "a stark warning about the global economy",
+    "start": 107.24,
+    "duration": 4.36
+  },
+  {
+    "text": "he points to increasing risks from high",
+    "start": 109.56,
+    "duration": 4.44
+  },
+  {
+    "text": "levels of debt internal conflicts in",
+    "start": 111.6,
+    "duration": 4.6
+  },
+  {
+    "text": "developed countries and the potential",
+    "start": 114.0,
+    "duration": 4.28
+  },
+  {
+    "text": "economic sanctions between major powers",
+    "start": 116.2,
+    "duration": 4.879
+  },
+  {
+    "text": "like the United States and China Delio",
+    "start": 118.28,
+    "duration": 4.64
+  },
+  {
+    "text": "highlights these factors as significant",
+    "start": 121.079,
+    "duration": 4.281
+  },
+  {
+    "text": "threats with far-reaching consequences",
+    "start": 122.92,
+    "duration": 4.119
+  },
+  {
+    "text": "here's more of what he had to say during",
+    "start": 125.36,
+    "duration": 3.44
+  },
+  {
+    "text": "a video speech at the green witch",
+    "start": 127.039,
+    "duration": 4.361
+  },
+  {
+    "text": "economic Forum in Hong Kong internal",
+    "start": 128.8,
+    "duration": 5.519
+  },
+  {
+    "text": "conflict and and of course that is uh",
+    "start": 131.4,
+    "duration": 5.919
+  },
+  {
+    "text": "the highlight of this year um the you",
+    "start": 134.319,
+    "duration": 6.841
+  },
+  {
+    "text": "know how will particularly the elections",
+    "start": 137.319,
+    "duration": 7.041
+  },
+  {
+    "text": "in the United States go um you know",
+    "start": 141.16,
+    "duration": 5.799
+  },
+  {
+    "text": "there are two questions related to that",
+    "start": 144.36,
+    "duration": 5.68
+  },
+  {
+    "text": "uh will the elections be accepted by",
+    "start": 146.959,
+    "duration": 7.201
+  },
+  {
+    "text": "both sides and uh what are the",
+    "start": 150.04,
+    "duration": 6.839
+  },
+  {
+    "text": "consequences of that and that wraps up",
+    "start": 154.16,
+    "duration": 4.799
+  },
+  {
+    "text": "our top story stay tuned to goo news for",
+    "start": 156.879,
+    "duration": 4.121
+  },
+  {
+    "text": "the latest updates and Analysis don't",
+    "start": 158.959,
+    "duration": 3.441
+  },
+  {
+    "text": "forget to subscribe and hit that",
+    "start": 161.0,
+    "duration": 3.56
+  },
+  {
+    "text": "notification Bell to stay informed I'm",
+    "start": 162.4,
+    "duration": 3.559
+  },
+  {
+    "text": "Jeremy saffron and we'll see you next",
+    "start": 164.56,
+    "duration": 4.399
+  },
+  {
+    "text": "time",
+    "start": 165.959,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 173.09,
+    "duration": 5.049
+  }
+]

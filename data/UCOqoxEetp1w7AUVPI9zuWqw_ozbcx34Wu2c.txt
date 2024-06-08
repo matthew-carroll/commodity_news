@@ -1,0 +1,1342 @@
+[
+  {
+    "text": "so maybe you don't think gold and silver",
+    "start": 0.08,
+    "duration": 4.0
+  },
+  {
+    "text": "and Central Bank digital currencies are",
+    "start": 1.719,
+    "duration": 4.521
+  },
+  {
+    "text": "related things that go together but",
+    "start": 4.08,
+    "duration": 4.639
+  },
+  {
+    "text": "that's not been the story around here",
+    "start": 6.24,
+    "duration": 4.319
+  },
+  {
+    "text": "people like you to be afraid of weird",
+    "start": 8.719,
+    "duration": 3.321
+  },
+  {
+    "text": "things so we're going to drop some big",
+    "start": 10.559,
+    "duration": 4.481
+  },
+  {
+    "text": "facts on the topic try to flush out some",
+    "start": 12.04,
+    "duration": 5.32
+  },
+  {
+    "text": "of the",
+    "start": 15.04,
+    "duration": 2.32
+  },
+  {
+    "text": "[Music]",
+    "start": 18.15,
+    "duration": 3.51
+  },
+  {
+    "text": "weird so we've talked about Central Bank",
+    "start": 22.24,
+    "duration": 5.72
+  },
+  {
+    "text": "digital currencies here a fair amount",
+    "start": 25.68,
+    "duration": 5.24
+  },
+  {
+    "text": "talked about what they are how one might",
+    "start": 27.96,
+    "duration": 4.599
+  },
+  {
+    "text": "function here in the United States we've",
+    "start": 30.92,
+    "duration": 3.72
+  },
+  {
+    "text": "talked about what they aren't how fed",
+    "start": 32.559,
+    "duration": 4.561
+  },
+  {
+    "text": "now is not a cbdc even though certain",
+    "start": 34.64,
+    "duration": 4.72
+  },
+  {
+    "text": "channels were frantically warning us",
+    "start": 37.12,
+    "duration": 5.72
+  },
+  {
+    "text": "last July that it's all over Freedom has",
+    "start": 39.36,
+    "duration": 7.24
+  },
+  {
+    "text": "been taken away well somehow we made it",
+    "start": 42.84,
+    "duration": 5.96
+  },
+  {
+    "text": "through it what else we talk about well",
+    "start": 46.6,
+    "duration": 3.959
+  },
+  {
+    "text": "we've covered where other countries are",
+    "start": 48.8,
+    "duration": 3.759
+  },
+  {
+    "text": "at in this mix three countries have",
+    "start": 50.559,
+    "duration": 4.401
+  },
+  {
+    "text": "implemented them another hundred are",
+    "start": 52.559,
+    "duration": 4.48
+  },
+  {
+    "text": "exploring them and that includes the",
+    "start": 54.96,
+    "duration": 4.2
+  },
+  {
+    "text": "United States the Atlantic Council says",
+    "start": 57.039,
+    "duration": 3.881
+  },
+  {
+    "text": "that the United States St is in",
+    "start": 59.16,
+    "duration": 3.919
+  },
+  {
+    "text": "development but we've also talked about",
+    "start": 60.92,
+    "duration": 4.879
+  },
+  {
+    "text": "the need for Congressional approval that",
+    "start": 63.079,
+    "duration": 5.121
+  },
+  {
+    "text": "makes this next bit of information",
+    "start": 65.799,
+    "duration": 3.96
+  },
+  {
+    "text": "interesting at least maybe you saw the",
+    "start": 68.2,
+    "duration": 3.559
+  },
+  {
+    "text": "House of Representatives just voted to",
+    "start": 69.759,
+    "duration": 4.321
+  },
+  {
+    "text": "ban the Federal Reserve from creating",
+    "start": 71.759,
+    "duration": 4.0
+  },
+  {
+    "text": "the digital dollar and that bill has to",
+    "start": 74.08,
+    "duration": 3.48
+  },
+  {
+    "text": "go onto the Senate has to survive a",
+    "start": 75.759,
+    "duration": 3.961
+  },
+  {
+    "text": "presidential veto but it's a good",
+    "start": 77.56,
+    "duration": 3.96
+  },
+  {
+    "text": "example of what we've talked about here",
+    "start": 79.72,
+    "duration": 3.6
+  },
+  {
+    "text": "the United States is not on the verge of",
+    "start": 81.52,
+    "duration": 4.04
+  },
+  {
+    "text": "a cbdc roll out and I'm going to tell",
+    "start": 83.32,
+    "duration": 4.64
+  },
+  {
+    "text": "you why that's important before we get",
+    "start": 85.56,
+    "duration": 3.68
+  },
+  {
+    "text": "back to it if you're looking for gold",
+    "start": 87.96,
+    "duration": 3.64
+  },
+  {
+    "text": "and silver hit up SD bullion new",
+    "start": 89.24,
+    "duration": 4.04
+  },
+  {
+    "text": "customers can even get gold and silver",
+    "start": 91.6,
+    "duration": 4.72
+  },
+  {
+    "text": "for spot that's sdbullion.com",
+    "start": 93.28,
+    "duration": 5.479
+  },
+  {
+    "text": "slne so the line that people seem to be",
+    "start": 96.32,
+    "duration": 5.52
+  },
+  {
+    "text": "using is that a cbdc is coming so get",
+    "start": 98.759,
+    "duration": 6.36
+  },
+  {
+    "text": "your money outside the system right now",
+    "start": 101.84,
+    "duration": 5.2
+  },
+  {
+    "text": "that's the line at least if you were to",
+    "start": 105.119,
+    "duration": 3.921
+  },
+  {
+    "text": "go back to the source sources of course",
+    "start": 107.04,
+    "duration": 3.439
+  },
+  {
+    "text": "are going to be selling you Metals now",
+    "start": 109.04,
+    "duration": 4.16
+  },
+  {
+    "text": "the hype chorus is usually more just",
+    "start": 110.479,
+    "duration": 5.081
+  },
+  {
+    "text": "about the fear the government is coming",
+    "start": 113.2,
+    "duration": 4.36
+  },
+  {
+    "text": "for your monies so get it out of the",
+    "start": 115.56,
+    "duration": 4.559
+  },
+  {
+    "text": "banks bury it in the Rose Garden and",
+    "start": 117.56,
+    "duration": 4.76
+  },
+  {
+    "text": "look a little bit of that makes perfect",
+    "start": 120.119,
+    "duration": 4.64
+  },
+  {
+    "text": "sense to me have a backup but my point",
+    "start": 122.32,
+    "duration": 4.439
+  },
+  {
+    "text": "in making this video is just to clear up",
+    "start": 124.759,
+    "duration": 5.321
+  },
+  {
+    "text": "a few things on the overall message the",
+    "start": 126.759,
+    "duration": 6.12
+  },
+  {
+    "text": "part that bugs me on the cbdc topic I",
+    "start": 130.08,
+    "duration": 5.0
+  },
+  {
+    "text": "mean other than people giving completely",
+    "start": 132.879,
+    "duration": 5.241
+  },
+  {
+    "text": "false information is that if a cbdc was",
+    "start": 135.08,
+    "duration": 5.239
+  },
+  {
+    "text": "implemented to enforce this total",
+    "start": 138.12,
+    "duration": 4.839
+  },
+  {
+    "text": "transactional control and surveillance",
+    "start": 140.319,
+    "duration": 4.401
+  },
+  {
+    "text": "then gold and silver just wouldn't make",
+    "start": 142.959,
+    "duration": 3.241
+  },
+  {
+    "text": "a good alternative because it would",
+    "start": 144.72,
+    "duration": 3.76
+  },
+  {
+    "text": "still have to be converted into a unit",
+    "start": 146.2,
+    "duration": 4.0
+  },
+  {
+    "text": "within the digital payment system system",
+    "start": 148.48,
+    "duration": 4.16
+  },
+  {
+    "text": "in order for you to use it either that",
+    "start": 150.2,
+    "duration": 4.16
+  },
+  {
+    "text": "or you'd have to have an entirely",
+    "start": 152.64,
+    "duration": 4.4
+  },
+  {
+    "text": "off-grid alternative payment system and",
+    "start": 154.36,
+    "duration": 4.28
+  },
+  {
+    "text": "that would have to be created that would",
+    "start": 157.04,
+    "duration": 3.76
+  },
+  {
+    "text": "mean all parties agree on the value of",
+    "start": 158.64,
+    "duration": 4.12
+  },
+  {
+    "text": "each physical unit and it would be a lot",
+    "start": 160.8,
+    "duration": 4.64
+  },
+  {
+    "text": "like the idea that goldback is working",
+    "start": 162.76,
+    "duration": 4.96
+  },
+  {
+    "text": "on it's not an easy one and you can see",
+    "start": 165.44,
+    "duration": 4.159
+  },
+  {
+    "text": "in real time that it's taking them a",
+    "start": 167.72,
+    "duration": 4.64
+  },
+  {
+    "text": "long time to get it going so this would",
+    "start": 169.599,
+    "duration": 5.36
+  },
+  {
+    "text": "have to be universally implemented but",
+    "start": 172.36,
+    "duration": 4.72
+  },
+  {
+    "text": "on the down low so the government",
+    "start": 174.959,
+    "duration": 4.601
+  },
+  {
+    "text": "wouldn't know about it now regardless of",
+    "start": 177.08,
+    "duration": 3.799
+  },
+  {
+    "text": "whether or not you see a path to a",
+    "start": 179.56,
+    "duration": 4.64
+  },
+  {
+    "text": "widescale barter system the idea that",
+    "start": 180.879,
+    "duration": 5.241
+  },
+  {
+    "text": "people are promoting here just get your",
+    "start": 184.2,
+    "duration": 3.399
+  },
+  {
+    "text": "money out of the banking system get it",
+    "start": 186.12,
+    "duration": 3.56
+  },
+  {
+    "text": "into gold and silver and do it quickly",
+    "start": 187.599,
+    "duration": 4.761
+  },
+  {
+    "text": "because the cbdc is here well that would",
+    "start": 189.68,
+    "duration": 5.559
+  },
+  {
+    "text": "significantly impact your liquidity what",
+    "start": 192.36,
+    "duration": 4.48
+  },
+  {
+    "text": "do I mean by that well if you blow a",
+    "start": 195.239,
+    "duration": 3.28
+  },
+  {
+    "text": "tire if your furnace breaks if your kid",
+    "start": 196.84,
+    "duration": 4.759
+  },
+  {
+    "text": "needs a loan in 99% of the cases that",
+    "start": 198.519,
+    "duration": 5.08
+  },
+  {
+    "text": "you're going to run into like that you",
+    "start": 201.599,
+    "duration": 3.72
+  },
+  {
+    "text": "will need to convert your gold or silver",
+    "start": 203.599,
+    "duration": 4.161
+  },
+  {
+    "text": "savings back into a cash equivalent in",
+    "start": 205.319,
+    "duration": 4.241
+  },
+  {
+    "text": "order to be able to use them and in the",
+    "start": 207.76,
+    "duration": 4.32
+  },
+  {
+    "text": "case a widescale cbdc that equivalent",
+    "start": 209.56,
+    "duration": 4.16
+  },
+  {
+    "text": "would be the digital dollar so getting",
+    "start": 212.08,
+    "duration": 3.56
+  },
+  {
+    "text": "your money out of the digital dollar",
+    "start": 213.72,
+    "duration": 4.519
+  },
+  {
+    "text": "system and only to put it back in it",
+    "start": 215.64,
+    "duration": 5.64
+  },
+  {
+    "text": "really wouldn't fix much So the plan",
+    "start": 218.239,
+    "duration": 4.881
+  },
+  {
+    "text": "people seem to be promoting is a little",
+    "start": 221.28,
+    "duration": 4.039
+  },
+  {
+    "text": "bit like what goldback is up to but at a",
+    "start": 223.12,
+    "duration": 4.839
+  },
+  {
+    "text": "much much larger scale and it becomes a",
+    "start": 225.319,
+    "duration": 4.361
+  },
+  {
+    "text": "solution to a problem that doesn't",
+    "start": 227.959,
+    "duration": 3.801
+  },
+  {
+    "text": "actually exist now I think it makes a",
+    "start": 229.68,
+    "duration": 4.199
+  },
+  {
+    "text": "lot of sense to save with gold it's just",
+    "start": 231.76,
+    "duration": 4.839
+  },
+  {
+    "text": "be clear about that part silver too but",
+    "start": 233.879,
+    "duration": 4.801
+  },
+  {
+    "text": "to a lesser extent but this is not to",
+    "start": 236.599,
+    "duration": 4.36
+  },
+  {
+    "text": "pay for a blown fire a broken furnace or",
+    "start": 238.68,
+    "duration": 4.639
+  },
+  {
+    "text": "to give my kids a loan I'm not really",
+    "start": 240.959,
+    "duration": 4.041
+  },
+  {
+    "text": "sure why I came up with that one that's",
+    "start": 243.319,
+    "duration": 3.601
+  },
+  {
+    "text": "an example I haven't run into yet but",
+    "start": 245.0,
+    "duration": 4.4
+  },
+  {
+    "text": "converting Dollars to Gold has just been",
+    "start": 246.92,
+    "duration": 3.959
+  },
+  {
+    "text": "a really good way for me to save it",
+    "start": 249.4,
+    "duration": 3.16
+  },
+  {
+    "text": "keeps me motivated I get the same hit",
+    "start": 250.879,
+    "duration": 3.801
+  },
+  {
+    "text": "from buying a gold coin that I might get",
+    "start": 252.56,
+    "duration": 4.0
+  },
+  {
+    "text": "for buying something else it's shiny",
+    "start": 254.68,
+    "duration": 3.76
+  },
+  {
+    "text": "something I don't need and the gold",
+    "start": 256.56,
+    "duration": 4.32
+  },
+  {
+    "text": "doesn't depreciate so the part of the",
+    "start": 258.44,
+    "duration": 4.6
+  },
+  {
+    "text": "hype that I just don't like is that if",
+    "start": 260.88,
+    "duration": 4.64
+  },
+  {
+    "text": "you get caught up in that fear message",
+    "start": 263.04,
+    "duration": 4.2
+  },
+  {
+    "text": "you know get your money out of the banks",
+    "start": 265.52,
+    "duration": 4.84
+  },
+  {
+    "text": "quick because a cbdc is coming but then",
+    "start": 267.24,
+    "duration": 4.44
+  },
+  {
+    "text": "you think through the eventual need to",
+    "start": 270.36,
+    "duration": 3.119
+  },
+  {
+    "text": "use that money well you'll get caught up",
+    "start": 271.68,
+    "duration": 4.2
+  },
+  {
+    "text": "in a catch 22 there's just no way to get",
+    "start": 273.479,
+    "duration": 5.0
+  },
+  {
+    "text": "your money out of a system if you need",
+    "start": 275.88,
+    "duration": 5.12
+  },
+  {
+    "text": "that system to buy your thing so all",
+    "start": 278.479,
+    "duration": 4.841
+  },
+  {
+    "text": "this really does is tell people gold and",
+    "start": 281.0,
+    "duration": 4.759
+  },
+  {
+    "text": "silver have terrible liquidity pull it",
+    "start": 283.32,
+    "duration": 5.2
+  },
+  {
+    "text": "out fast but then don't expect to be",
+    "start": 285.759,
+    "duration": 5.961
+  },
+  {
+    "text": "able to use it ever it just really makes",
+    "start": 288.52,
+    "duration": 5.28
+  },
+  {
+    "text": "no sense now the reason it's a good",
+    "start": 291.72,
+    "duration": 3.96
+  },
+  {
+    "text": "scare topic is because a lot of the",
+    "start": 293.8,
+    "duration": 4.08
+  },
+  {
+    "text": "things that a government could do with a",
+    "start": 295.68,
+    "duration": 5.28
+  },
+  {
+    "text": "cbdc are pretty sh I've talked about",
+    "start": 297.88,
+    "duration": 5.12
+  },
+  {
+    "text": "programmability here and I've made a few",
+    "start": 300.96,
+    "duration": 3.88
+  },
+  {
+    "text": "examples of what that would mean the",
+    "start": 303.0,
+    "duration": 3.919
+  },
+  {
+    "text": "government could limit your purchases by",
+    "start": 304.84,
+    "duration": 5.639
+  },
+  {
+    "text": "category for instance one fur hat a year",
+    "start": 306.919,
+    "duration": 5.28
+  },
+  {
+    "text": "they could set expirations on",
+    "start": 310.479,
+    "duration": 3.481
+  },
+  {
+    "text": "entitlements you get a digital dollar",
+    "start": 312.199,
+    "duration": 3.801
+  },
+  {
+    "text": "stimulus but you have to use it say in",
+    "start": 313.96,
+    "duration": 4.2
+  },
+  {
+    "text": "the next 6 months or maybe you get some",
+    "start": 316.0,
+    "duration": 4.0
+  },
+  {
+    "text": "other entitlement but you can only use",
+    "start": 318.16,
+    "duration": 4.0
+  },
+  {
+    "text": "it for groceries things like that",
+    "start": 320.0,
+    "duration": 4.759
+  },
+  {
+    "text": "programmability means control now to me",
+    "start": 322.16,
+    "duration": 4.44
+  },
+  {
+    "text": "that's an overreach that puts the United",
+    "start": 324.759,
+    "duration": 3.28
+  },
+  {
+    "text": "States in a place where they're no",
+    "start": 326.6,
+    "duration": 3.36
+  },
+  {
+    "text": "longer the United States and a lot of",
+    "start": 328.039,
+    "duration": 3.6
+  },
+  {
+    "text": "politicians are saying the same thing",
+    "start": 329.96,
+    "duration": 3.359
+  },
+  {
+    "text": "now you don't have to trust politicians",
+    "start": 331.639,
+    "duration": 4.441
+  },
+  {
+    "text": "I get it that's fine but the cbdc",
+    "start": 333.319,
+    "duration": 5.16
+  },
+  {
+    "text": "anti-surveillance state act that was",
+    "start": 336.08,
+    "duration": 4.239
+  },
+  {
+    "text": "just passed in the House of",
+    "start": 338.479,
+    "duration": 3.72
+  },
+  {
+    "text": "Representatives that shows that there",
+    "start": 340.319,
+    "duration": 3.841
+  },
+  {
+    "text": "are more people than just us who are",
+    "start": 342.199,
+    "duration": 3.801
+  },
+  {
+    "text": "nervous about this kind of thing that's",
+    "start": 344.16,
+    "duration": 3.92
+  },
+  {
+    "text": "saw three Democrats and all the",
+    "start": 346.0,
+    "duration": 4.52
+  },
+  {
+    "text": "Republicans voting to ensure a cbdc",
+    "start": 348.08,
+    "duration": 5.16
+  },
+  {
+    "text": "cannot be used to implement monetary",
+    "start": 350.52,
+    "duration": 5.799
+  },
+  {
+    "text": "policy in any way so technical",
+    "start": 353.24,
+    "duration": 4.92
+  },
+  {
+    "text": "implementation is boring we're not going",
+    "start": 356.319,
+    "duration": 4.081
+  },
+  {
+    "text": "to dwell on it but real quickly a cbdc",
+    "start": 358.16,
+    "duration": 3.68
+  },
+  {
+    "text": "here in the United States would be made",
+    "start": 360.4,
+    "duration": 3.2
+  },
+  {
+    "text": "up of three things you'd have to have a",
+    "start": 361.84,
+    "duration": 4.56
+  },
+  {
+    "text": "digital dollar the payment structure and",
+    "start": 363.6,
+    "duration": 4.76
+  },
+  {
+    "text": "then you'd have to have member wallets",
+    "start": 366.4,
+    "duration": 3.68
+  },
+  {
+    "text": "those wallets they would be the accounts",
+    "start": 368.36,
+    "duration": 4.959
+  },
+  {
+    "text": "so you have $10,000 digital dollars in",
+    "start": 370.08,
+    "duration": 4.959
+  },
+  {
+    "text": "your account that's your wallet the",
+    "start": 373.319,
+    "duration": 3.841
+  },
+  {
+    "text": "payment infrastructure that would allow",
+    "start": 375.039,
+    "duration": 4.28
+  },
+  {
+    "text": "you to scan your card or the back of",
+    "start": 377.16,
+    "duration": 5.36
+  },
+  {
+    "text": "your neck to buy your Starbucks coffee",
+    "start": 379.319,
+    "duration": 5.88
+  },
+  {
+    "text": "shops auto dealers dollar stores they",
+    "start": 382.52,
+    "duration": 4.799
+  },
+  {
+    "text": "would all have to have that system",
+    "start": 385.199,
+    "duration": 3.761
+  },
+  {
+    "text": "implemented and then the digital dollars",
+    "start": 387.319,
+    "duration": 2.921
+  },
+  {
+    "text": "to make it all work",
+    "start": 388.96,
+    "duration": 3.88
+  },
+  {
+    "text": "they would be an entirely new currency",
+    "start": 390.24,
+    "duration": 4.679
+  },
+  {
+    "text": "requiring Congressional approval so it's",
+    "start": 392.84,
+    "duration": 3.759
+  },
+  {
+    "text": "not a technology roll out that would",
+    "start": 394.919,
+    "duration": 3.801
+  },
+  {
+    "text": "just convert your current dollars into",
+    "start": 396.599,
+    "duration": 4.88
+  },
+  {
+    "text": "these new cbdc digital dollars it'd be a",
+    "start": 398.72,
+    "duration": 5.919
+  },
+  {
+    "text": "completely new thing like Bitcoin or",
+    "start": 401.479,
+    "duration": 6.321
+  },
+  {
+    "text": "like gold so my point there is that you",
+    "start": 404.639,
+    "duration": 5.201
+  },
+  {
+    "text": "would have lines of warning before you'd",
+    "start": 407.8,
+    "duration": 3.799
+  },
+  {
+    "text": "ever be sucked into a system like this",
+    "start": 409.84,
+    "duration": 4.04
+  },
+  {
+    "text": "now people are going to compare",
+    "start": 411.599,
+    "duration": 4.961
+  },
+  {
+    "text": "vaccination requirements to a possible",
+    "start": 413.88,
+    "duration": 5.759
+  },
+  {
+    "text": "cbdc roll out you can't get on a plane",
+    "start": 416.56,
+    "duration": 4.6
+  },
+  {
+    "text": "unless you've been vaccinated you can't",
+    "start": 419.639,
+    "duration": 3.441
+  },
+  {
+    "text": "eat at a restaurant unless you've had a",
+    "start": 421.16,
+    "duration": 4.84
+  },
+  {
+    "text": "booster so yeah there is a precedent for",
+    "start": 423.08,
+    "duration": 4.679
+  },
+  {
+    "text": "things that we hadn't previously",
+    "start": 426.0,
+    "duration": 3.879
+  },
+  {
+    "text": "expected things that felt like they came",
+    "start": 427.759,
+    "duration": 4.56
+  },
+  {
+    "text": "out of nowhere and just steamrolled",
+    "start": 429.879,
+    "duration": 4.201
+  },
+  {
+    "text": "everything but laws like the bill being",
+    "start": 432.319,
+    "duration": 4.121
+  },
+  {
+    "text": "sent to the senate floor now are trying",
+    "start": 434.08,
+    "duration": 4.0
+  },
+  {
+    "text": "to prevent that and you're going to have",
+    "start": 436.44,
+    "duration": 4.199
+  },
+  {
+    "text": "actual warnings if or when any of those",
+    "start": 438.08,
+    "duration": 4.559
+  },
+  {
+    "text": "three components that I mentioned get",
+    "start": 440.639,
+    "duration": 4.12
+  },
+  {
+    "text": "rolled out so the approval the eventual",
+    "start": 442.639,
+    "duration": 4.481
+  },
+  {
+    "text": "creation of a digital dollar that's one",
+    "start": 444.759,
+    "duration": 4.12
+  },
+  {
+    "text": "the roll out of this payment",
+    "start": 447.12,
+    "duration": 3.96
+  },
+  {
+    "text": "infrastructure for all retailers that's",
+    "start": 448.879,
+    "duration": 4.361
+  },
+  {
+    "text": "a big one and then the wallet accounts",
+    "start": 451.08,
+    "duration": 4.119
+  },
+  {
+    "text": "for the entire population I mean these",
+    "start": 453.24,
+    "duration": 3.6
+  },
+  {
+    "text": "aren't things that could happen",
+    "start": 455.199,
+    "duration": 4.081
+  },
+  {
+    "text": "overnight like certain YouTubers seem to",
+    "start": 456.84,
+    "duration": 4.479
+  },
+  {
+    "text": "think now mostly what I wanted to talk",
+    "start": 459.28,
+    "duration": 4.28
+  },
+  {
+    "text": "about here is liquidity don't let people",
+    "start": 461.319,
+    "duration": 3.801
+  },
+  {
+    "text": "convince you that gold and silver are",
+    "start": 463.56,
+    "duration": 3.639
+  },
+  {
+    "text": "these back alley alternatives to",
+    "start": 465.12,
+    "duration": 4.12
+  },
+  {
+    "text": "government tyranny Alternatives that",
+    "start": 467.199,
+    "duration": 3.72
+  },
+  {
+    "text": "would only be able to be used with",
+    "start": 469.24,
+    "duration": 4.12
+  },
+  {
+    "text": "people who believe the same now they can",
+    "start": 470.919,
+    "duration": 4.441
+  },
+  {
+    "text": "fill that role of the alternative if you",
+    "start": 473.36,
+    "duration": 3.839
+  },
+  {
+    "text": "want but they're also widely recognized",
+    "start": 475.36,
+    "duration": 3.72
+  },
+  {
+    "text": "they're also common so sorry if that",
+    "start": 477.199,
+    "duration": 4.56
+  },
+  {
+    "text": "takes some the fun out of it but gold is",
+    "start": 479.08,
+    "duration": 5.36
+  },
+  {
+    "text": "a tier one asset and you can use it in a",
+    "start": 481.759,
+    "duration": 4.88
+  },
+  {
+    "text": "lot of ways today you'll be able to use",
+    "start": 484.44,
+    "duration": 4.039
+  },
+  {
+    "text": "it in a lot of ways tomorrow the",
+    "start": 486.639,
+    "duration": 4.24
+  },
+  {
+    "text": "government is not actively trying to get",
+    "start": 488.479,
+    "duration": 4.4
+  },
+  {
+    "text": "you out of it the US government mints",
+    "start": 490.879,
+    "duration": 5.201
+  },
+  {
+    "text": "and sells millions of ounces of gold and",
+    "start": 492.879,
+    "duration": 5.641
+  },
+  {
+    "text": "silver to the public every single year",
+    "start": 496.08,
+    "duration": 5.2
+  },
+  {
+    "text": "last year the US Mint sold 22 million",
+    "start": 498.52,
+    "duration": 5.079
+  },
+  {
+    "text": "ounces of gold silver and platinum",
+    "start": 501.28,
+    "duration": 5.199
+  },
+  {
+    "text": "bullion alone so there's some weird hype",
+    "start": 503.599,
+    "duration": 4.961
+  },
+  {
+    "text": "in the metals Community most of it is",
+    "start": 506.479,
+    "duration": 4.84
+  },
+  {
+    "text": "just there to views get you scared get",
+    "start": 508.56,
+    "duration": 4.12
+  },
+  {
+    "text": "you watching their videos now I would",
+    "start": 511.319,
+    "duration": 3.121
+  },
+  {
+    "text": "rather put out a message about the",
+    "start": 512.68,
+    "duration": 3.799
+  },
+  {
+    "text": "positives of saving with Metals rather",
+    "start": 514.44,
+    "duration": 3.839
+  },
+  {
+    "text": "than try to scare anyone into buying",
+    "start": 516.479,
+    "duration": 4.281
+  },
+  {
+    "text": "something with limited liquidity that's",
+    "start": 518.279,
+    "duration": 3.841
+  },
+  {
+    "text": "something that's top of mind for me",
+    "start": 520.76,
+    "duration": 2.639
+  },
+  {
+    "text": "something I'm going to have to come back",
+    "start": 522.12,
+    "duration": 2.76
+  },
+  {
+    "text": "to more but I'm just going to say the",
+    "start": 523.399,
+    "duration": 3.201
+  },
+  {
+    "text": "reason that I think that it's important",
+    "start": 524.88,
+    "duration": 4.0
+  },
+  {
+    "text": "to buy certain things certain types of",
+    "start": 526.6,
+    "duration": 5.2
+  },
+  {
+    "text": "gold certain types of silver is because",
+    "start": 528.88,
+    "duration": 4.76
+  },
+  {
+    "text": "if you want to get the value back out",
+    "start": 531.8,
+    "duration": 2.88
+  },
+  {
+    "text": "you're going to need to be able to",
+    "start": 533.64,
+    "duration": 3.28
+  },
+  {
+    "text": "convert it back to your local currency",
+    "start": 534.68,
+    "duration": 5.44
+  },
+  {
+    "text": "at least in 99% of the use cases now",
+    "start": 536.92,
+    "duration": 4.919
+  },
+  {
+    "text": "these American Gold Eagles here they",
+    "start": 540.12,
+    "duration": 3.52
+  },
+  {
+    "text": "might not be the prettiest gold coins on",
+    "start": 541.839,
+    "duration": 4.321
+  },
+  {
+    "text": "the market the Buffalo well maybe they",
+    "start": 543.64,
+    "duration": 5.759
+  },
+  {
+    "text": "are but these are the most liquid you",
+    "start": 546.16,
+    "duration": 5.48
+  },
+  {
+    "text": "don't have to buy these specific coins",
+    "start": 549.399,
+    "duration": 4.521
+  },
+  {
+    "text": "but this idea is definitely something to",
+    "start": 551.64,
+    "duration": 4.84
+  },
+  {
+    "text": "think about and it's a whole new topic",
+    "start": 553.92,
+    "duration": 4.28
+  },
+  {
+    "text": "so let's call it good there let us know",
+    "start": 556.48,
+    "duration": 3.56
+  },
+  {
+    "text": "if you think about these things buying",
+    "start": 558.2,
+    "duration": 3.68
+  },
+  {
+    "text": "gold on somebody's warning of digital",
+    "start": 560.04,
+    "duration": 4.919
+  },
+  {
+    "text": "Tom Foolery or tyranny or if you're",
+    "start": 561.88,
+    "duration": 5.12
+  },
+  {
+    "text": "buying it for more traditional reasons",
+    "start": 564.959,
+    "duration": 4.12
+  },
+  {
+    "text": "maybe it's both let us know and then",
+    "start": 567.0,
+    "duration": 3.76
+  },
+  {
+    "text": "while in the comments be sure to hit",
+    "start": 569.079,
+    "duration": 3.44
+  },
+  {
+    "text": "that like button if you found any of",
+    "start": 570.76,
+    "duration": 3.68
+  },
+  {
+    "text": "this interesting be sure you're",
+    "start": 572.519,
+    "duration": 3.641
+  },
+  {
+    "text": "subscribed with notifications turned on",
+    "start": 574.44,
+    "duration": 3.48
+  },
+  {
+    "text": "if you want to hear more on the topic",
+    "start": 576.16,
+    "duration": 3.6
+  },
+  {
+    "text": "and if you're still here thanks again",
+    "start": 577.92,
+    "duration": 4.159
+  },
+  {
+    "text": "for watching I always appreciate your",
+    "start": 579.76,
+    "duration": 5.0
+  },
+  {
+    "text": "time take care",
+    "start": 582.079,
+    "duration": 16.92
+  },
+  {
+    "text": "[Music]",
+    "start": 584.76,
+    "duration": 14.239
+  },
+  {
+    "text": "ah",
+    "start": 599.519,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 603.22,
+    "duration": 2.409
+  }
+]

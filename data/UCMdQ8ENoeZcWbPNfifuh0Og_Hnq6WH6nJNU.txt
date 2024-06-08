@@ -1,0 +1,1057 @@
+[
+  {
+    "text": "we are heading to a place that is going",
+    "start": 0.08,
+    "duration": 4.92
+  },
+  {
+    "text": "to um change the way of life that people",
+    "start": 2.28,
+    "duration": 5.119
+  },
+  {
+    "text": "in this country um are used to anyway",
+    "start": 5.0,
+    "duration": 3.96
+  },
+  {
+    "text": "it's going to be a different existence",
+    "start": 7.399,
+    "duration": 3.561
+  },
+  {
+    "text": "if things play out the way that I think",
+    "start": 8.96,
+    "duration": 3.48
+  },
+  {
+    "text": "since the end of World War II there's",
+    "start": 10.96,
+    "duration": 3.839
+  },
+  {
+    "text": "been one tier one reserve and that's",
+    "start": 12.44,
+    "duration": 6.16
+  },
+  {
+    "text": "been US Dollars and us treasuries and a",
+    "start": 14.799,
+    "duration": 6.201
+  },
+  {
+    "text": "tier one Reserve is a riskless asset",
+    "start": 18.6,
+    "duration": 4.48
+  },
+  {
+    "text": "according to the central banks and out",
+    "start": 21.0,
+    "duration": 4.519
+  },
+  {
+    "text": "of nowhere the bis the bank of",
+    "start": 23.08,
+    "duration": 4.0
+  },
+  {
+    "text": "international settlements which is the",
+    "start": 25.519,
+    "duration": 3.52
+  },
+  {
+    "text": "central bank or Central Bank decided to",
+    "start": 27.08,
+    "duration": 3.72
+  },
+  {
+    "text": "reclassify gold is the world's only",
+    "start": 29.039,
+    "duration": 3.68
+  },
+  {
+    "text": "other tier one asset let me just say",
+    "start": 30.8,
+    "duration": 5.599
+  },
+  {
+    "text": "that slowly the world's only other tier",
+    "start": 32.719,
+    "duration": 5.601
+  },
+  {
+    "text": "one Reserve asset now let's take a look",
+    "start": 36.399,
+    "duration": 3.401
+  },
+  {
+    "text": "at the three years leading up to that",
+    "start": 38.32,
+    "duration": 4.559
+  },
+  {
+    "text": "does it make sense that the bundus bank",
+    "start": 39.8,
+    "duration": 5.079
+  },
+  {
+    "text": "made a big deal about repatriating it",
+    "start": 42.879,
+    "duration": 4.561
+  },
+  {
+    "text": "its gold does it make sense that Germany",
+    "start": 44.879,
+    "duration": 5.561
+  },
+  {
+    "text": "Austria Hungary Poland Czechoslovakia",
+    "start": 47.44,
+    "duration": 5.959
+  },
+  {
+    "text": "and many other of the Eastern European",
+    "start": 50.44,
+    "duration": 5.919
+  },
+  {
+    "text": "central banks repatriated their gold and",
+    "start": 53.399,
+    "duration": 5.0
+  },
+  {
+    "text": "started going on a gold buying spre two",
+    "start": 56.359,
+    "duration": 4.281
+  },
+  {
+    "text": "and a half years before the bis",
+    "start": 58.399,
+    "duration": 4.48
+  },
+  {
+    "text": "announces that it will be reclassified",
+    "start": 60.64,
+    "duration": 3.879
+  },
+  {
+    "text": "as a tier one or does it seem more",
+    "start": 62.879,
+    "duration": 4.401
+  },
+  {
+    "text": "probable that the bis quietly to their",
+    "start": 64.519,
+    "duration": 5.92
+  },
+  {
+    "text": "members uh Banks laid out a framework of",
+    "start": 67.28,
+    "duration": 5.36
+  },
+  {
+    "text": "what was coming and said you all need to",
+    "start": 70.439,
+    "duration": 4.481
+  },
+  {
+    "text": "get your house in order uh you need to",
+    "start": 72.64,
+    "duration": 5.159
+  },
+  {
+    "text": "start to accumulate gold and repatriate",
+    "start": 74.92,
+    "duration": 5.08
+  },
+  {
+    "text": "that in which is outside the borders",
+    "start": 77.799,
+    "duration": 3.801
+  },
+  {
+    "text": "because gold is going to have a central",
+    "start": 80.0,
+    "duration": 3.96
+  },
+  {
+    "text": "theme in what comes next I would choose",
+    "start": 81.6,
+    "duration": 6.68
+  },
+  {
+    "text": "the latter so in 2020 we get to a point",
+    "start": 83.96,
+    "duration": 6.199
+  },
+  {
+    "text": "where the banks again are are are",
+    "start": 88.28,
+    "duration": 4.519
+  },
+  {
+    "text": "massively accumulating gold but we begin",
+    "start": 90.159,
+    "duration": 5.721
+  },
+  {
+    "text": "to see some other things that make me",
+    "start": 92.799,
+    "duration": 5.481
+  },
+  {
+    "text": "pause and wonder you know something",
+    "start": 95.88,
+    "duration": 5.36
+  },
+  {
+    "text": "bigger is going on here as an example we",
+    "start": 98.28,
+    "duration": 5.439
+  },
+  {
+    "text": "see the international monetary fund",
+    "start": 101.24,
+    "duration": 4.96
+  },
+  {
+    "text": "almost 200 countries from around the",
+    "start": 103.719,
+    "duration": 5.241
+  },
+  {
+    "text": "world that was formulated at the",
+    "start": 106.2,
+    "duration": 4.199
+  },
+  {
+    "text": "brettonwoods convention at the end of",
+    "start": 108.96,
+    "duration": 3.439
+  },
+  {
+    "text": "World War II at the end of World War II",
+    "start": 110.399,
+    "duration": 4.521
+  },
+  {
+    "text": "the Allies met in Breton Woods New",
+    "start": 112.399,
+    "duration": 5.281
+  },
+  {
+    "text": "Hampshire and anointed the dollar the",
+    "start": 114.92,
+    "duration": 4.559
+  },
+  {
+    "text": "world deserve currency taking over for",
+    "start": 117.68,
+    "duration": 5.68
+  },
+  {
+    "text": "the pound Sterling and um did a lot of",
+    "start": 119.479,
+    "duration": 6.28
+  },
+  {
+    "text": "things like Peg gold to the dollar at a",
+    "start": 123.36,
+    "duration": 5.239
+  },
+  {
+    "text": "fixed rate of $35 an ounce classified",
+    "start": 125.759,
+    "duration": 4.961
+  },
+  {
+    "text": "dollars and treasuries as a tier one",
+    "start": 128.599,
+    "duration": 4.401
+  },
+  {
+    "text": "Reserve asset formulated the",
+    "start": 130.72,
+    "duration": 4.879
+  },
+  {
+    "text": "international monetary fund the IMF was",
+    "start": 133.0,
+    "duration": 5.36
+  },
+  {
+    "text": "formulated at bretonwood so here we are",
+    "start": 135.599,
+    "duration": 5.241
+  },
+  {
+    "text": "you know 60 years or 80 years later",
+    "start": 138.36,
+    "duration": 5.239
+  },
+  {
+    "text": "rather and they're saying all these",
+    "start": 140.84,
+    "duration": 4.6
+  },
+  {
+    "text": "countries from around the world say we",
+    "start": 143.599,
+    "duration": 5.201
+  },
+  {
+    "text": "want a new Breton Woods a new system",
+    "start": 145.44,
+    "duration": 5.519
+  },
+  {
+    "text": "they publicly say their website now",
+    "start": 148.8,
+    "duration": 3.799
+  },
+  {
+    "text": "things are really getting interesting",
+    "start": 150.959,
+    "duration": 4.081
+  },
+  {
+    "text": "now you got the IMF saying we want a new",
+    "start": 152.599,
+    "duration": 5.841
+  },
+  {
+    "text": "system we see a rise of a group of",
+    "start": 155.04,
+    "duration": 5.96
+  },
+  {
+    "text": "reportables on the commitment of Traders",
+    "start": 158.44,
+    "duration": 5.04
+  },
+  {
+    "text": "report which let me back up and explain",
+    "start": 161.0,
+    "duration": 4.519
+  },
+  {
+    "text": "what that is the comx market is the",
+    "start": 163.48,
+    "duration": 3.839
+  },
+  {
+    "text": "commodity exchange here in the states",
+    "start": 165.519,
+    "duration": 4.161
+  },
+  {
+    "text": "that sets the worldwide price for",
+    "start": 167.319,
+    "duration": 5.801
+  },
+  {
+    "text": "Commodities and um",
+    "start": 169.68,
+    "duration": 6.24
+  },
+  {
+    "text": "the the exchange publishes something",
+    "start": 173.12,
+    "duration": 4.64
+  },
+  {
+    "text": "every week called the commitment of",
+    "start": 175.92,
+    "duration": 4.92
+  },
+  {
+    "text": "Traders it's a report that shows the",
+    "start": 177.76,
+    "duration": 5.399
+  },
+  {
+    "text": "positioning of the largest Traders on",
+    "start": 180.84,
+    "duration": 3.759
+  },
+  {
+    "text": "the exchange only the",
+    "start": 183.159,
+    "duration": 4.881
+  },
+  {
+    "text": "largest and typically it was two",
+    "start": 184.599,
+    "duration": 5.761
+  },
+  {
+    "text": "brackets you have the commercial Banks",
+    "start": 188.04,
+    "duration": 4.04
+  },
+  {
+    "text": "and the hedge funds they call them the",
+    "start": 190.36,
+    "duration": 7.04
+  },
+  {
+    "text": "specs the specs would be uh big funds um",
+    "start": 192.08,
+    "duration": 7.84
+  },
+  {
+    "text": "money managers that are trading large",
+    "start": 197.4,
+    "duration": 5.399
+  },
+  {
+    "text": "allocations of gold and silver contracts",
+    "start": 199.92,
+    "duration": 6.08
+  },
+  {
+    "text": "for investment the commercials largely",
+    "start": 202.799,
+    "duration": 6.44
+  },
+  {
+    "text": "are the banks now the commercials have a",
+    "start": 206.0,
+    "duration": 4.48
+  },
+  {
+    "text": "wider",
+    "start": 209.239,
+    "duration": 3.401
+  },
+  {
+    "text": "designation uh even a company like",
+    "start": 210.48,
+    "duration": 5.72
+  },
+  {
+    "text": "myself who Hedges gold for legitimate",
+    "start": 212.64,
+    "duration": 4.92
+  },
+  {
+    "text": "purposes would be considered a",
+    "start": 216.2,
+    "duration": 4.319
+  },
+  {
+    "text": "commercial but for the this discussion",
+    "start": 217.56,
+    "duration": 6.239
+  },
+  {
+    "text": "the commercials are JP Goldman City Bank",
+    "start": 220.519,
+    "duration": 6.601
+  },
+  {
+    "text": "of America those types of players and",
+    "start": 223.799,
+    "duration": 6.041
+  },
+  {
+    "text": "the positioning of those largest Traders",
+    "start": 227.12,
+    "duration": 4.679
+  },
+  {
+    "text": "would be on the cop report coot",
+    "start": 229.84,
+    "duration": 4.399
+  },
+  {
+    "text": "commitment of Traders and for all my",
+    "start": 231.799,
+    "duration": 5.241
+  },
+  {
+    "text": "career every week it was just the hedge",
+    "start": 234.239,
+    "duration": 6.041
+  },
+  {
+    "text": "funds or the specs and the commercials",
+    "start": 237.04,
+    "duration": 5.839
+  },
+  {
+    "text": "out of nowhere in 2020 we see the rise",
+    "start": 240.28,
+    "duration": 4.28
+  },
+  {
+    "text": "of a third group of reportables and they",
+    "start": 242.879,
+    "duration": 3.521
+  },
+  {
+    "text": "are called the others and they are",
+    "start": 244.56,
+    "duration": 3.44
+  },
+  {
+    "text": "believed to be Sovereign wealth funds",
+    "start": 246.4,
+    "duration": 3.88
+  },
+  {
+    "text": "and family offices we can call them the",
+    "start": 248.0,
+    "duration": 4.599
+  },
+  {
+    "text": "most well-funded well-informed",
+    "start": 250.28,
+    "duration": 4.519
+  },
+  {
+    "text": "influential private Traders on the",
+    "start": 252.599,
+    "duration": 4.401
+  },
+  {
+    "text": "planet and they start draining the Comax",
+    "start": 254.799,
+    "duration": 4.321
+  },
+  {
+    "text": "Market in 2020 to a degree that no one's",
+    "start": 257.0,
+    "duration": 4.6
+  },
+  {
+    "text": "ever seen before an exchange that was",
+    "start": 259.12,
+    "duration": 4.68
+  },
+  {
+    "text": "never established to be a delivery",
+    "start": 261.6,
+    "duration": 4.48
+  },
+  {
+    "text": "mechanism all of a sudden Pandora's Box",
+    "start": 263.8,
+    "duration": 6.32
+  },
+  {
+    "text": "was open and we see in the year 20 20",
+    "start": 266.08,
+    "duration": 6.8
+  },
+  {
+    "text": "this group The Others the most well",
+    "start": 270.12,
+    "duration": 5.56
+  },
+  {
+    "text": "funded and well informed private Traders",
+    "start": 272.88,
+    "duration": 5.0
+  },
+  {
+    "text": "on the planet now three years previous",
+    "start": 275.68,
+    "duration": 4.239
+  },
+  {
+    "text": "you see all sorts of going Zs with the",
+    "start": 277.88,
+    "duration": 3.84
+  },
+  {
+    "text": "central banks and their clandestine",
+    "start": 279.919,
+    "duration": 4.12
+  },
+  {
+    "text": "accumulation and repatriation of gold",
+    "start": 281.72,
+    "duration": 3.68
+  },
+  {
+    "text": "now out of nowhere there's just a",
+    "start": 284.039,
+    "duration": 3.521
+  },
+  {
+    "text": "coincidence that the others pop up on",
+    "start": 285.4,
+    "duration": 5.92
+  },
+  {
+    "text": "colx and start to drain the exchange I",
+    "start": 287.56,
+    "duration": 5.919
+  },
+  {
+    "text": "would submit that these people either",
+    "start": 291.32,
+    "duration": 3.92
+  },
+  {
+    "text": "are the central banks wearing a",
+    "start": 293.479,
+    "duration": 4.961
+  },
+  {
+    "text": "different hat or are very close to the",
+    "start": 295.24,
+    "duration": 6.2
+  },
+  {
+    "text": "information and and in one year we saw",
+    "start": 298.44,
+    "duration": 6.16
+  },
+  {
+    "text": "as much silver taken off of the exchange",
+    "start": 301.44,
+    "duration": 6.92
+  },
+  {
+    "text": "as we saw in the 10 years preceding uh",
+    "start": 304.6,
+    "duration": 6.2
+  },
+  {
+    "text": "we saw as much gold taken off of the",
+    "start": 308.36,
+    "duration": 4.64
+  },
+  {
+    "text": "exchange as the bank of Japan holds in",
+    "start": 310.8,
+    "duration": 4.64
+  },
+  {
+    "text": "their official Holdings this is a trend",
+    "start": 313.0,
+    "duration": 4.199
+  },
+  {
+    "text": "that we have seen to this day which we",
+    "start": 315.44,
+    "duration": 6.12
+  },
+  {
+    "text": "will get to later on but in 2020 you see",
+    "start": 317.199,
+    "duration": 6.601
+  },
+  {
+    "text": "the IMF say we want a new Breton Woods",
+    "start": 321.56,
+    "duration": 4.04
+  },
+  {
+    "text": "the central banks are still massively",
+    "start": 323.8,
+    "duration": 4.92
+  },
+  {
+    "text": "accumulating gold and now you get these",
+    "start": 325.6,
+    "duration": 5.439
+  },
+  {
+    "text": "private Traders of comx that come up out",
+    "start": 328.72,
+    "duration": 4.039
+  },
+  {
+    "text": "of nowhere that for all the years I've",
+    "start": 331.039,
+    "duration": 4.0
+  },
+  {
+    "text": "been reading the coot report every week",
+    "start": 332.759,
+    "duration": 4.321
+  },
+  {
+    "text": "was just the commercials and the specs",
+    "start": 335.039,
+    "duration": 4.321
+  },
+  {
+    "text": "now there's the others and the others",
+    "start": 337.08,
+    "duration": 5.48
+  },
+  {
+    "text": "are taking possession which is something",
+    "start": 339.36,
+    "duration": 5.64
+  },
+  {
+    "text": "we never have seen before a central bank",
+    "start": 342.56,
+    "duration": 5.04
+  },
+  {
+    "text": "digital currency is coming and I surmise",
+    "start": 345.0,
+    "duration": 4.28
+  },
+  {
+    "text": "it would be pegged to Gold because it's",
+    "start": 347.6,
+    "duration": 4.24
+  },
+  {
+    "text": "the only other tier one Reserve asset in",
+    "start": 349.28,
+    "duration": 3.96
+  },
+  {
+    "text": "the world and why the hell are all the",
+    "start": 351.84,
+    "duration": 2.919
+  },
+  {
+    "text": "central banks gobbling it up and",
+    "start": 353.24,
+    "duration": 3.799
+  },
+  {
+    "text": "repatriating it preceding the",
+    "start": 354.759,
+    "duration": 5.081
+  },
+  {
+    "text": "announcement of its reclassification",
+    "start": 357.039,
+    "duration": 5.081
+  },
+  {
+    "text": "ation and why are these others draining",
+    "start": 359.84,
+    "duration": 4.639
+  },
+  {
+    "text": "the comx and why is the IMF asking for a",
+    "start": 362.12,
+    "duration": 4.12
+  },
+  {
+    "text": "new system do you see these pieces are",
+    "start": 364.479,
+    "duration": 4.481
+  },
+  {
+    "text": "starting to come together I had no idea",
+    "start": 366.24,
+    "duration": 4.079
+  },
+  {
+    "text": "where we would go from there that it",
+    "start": 368.96,
+    "duration": 3.92
+  },
+  {
+    "text": "would actually lead to where we are now",
+    "start": 370.319,
+    "duration": 4.961
+  },
+  {
+    "text": "we'll get there now mile marker number",
+    "start": 372.88,
+    "duration": 5.48
+  },
+  {
+    "text": "two started a little earlier than 2020",
+    "start": 375.28,
+    "duration": 5.919
+  },
+  {
+    "text": "but by 2020 it's really taking shape the",
+    "start": 378.36,
+    "duration": 5.52
+  },
+  {
+    "text": "Chinese Belt Road and rail initiative",
+    "start": 381.199,
+    "duration": 5.28
+  },
+  {
+    "text": "now when I was talking about this in",
+    "start": 383.88,
+    "duration": 6.48
+  },
+  {
+    "text": "2020 no one knew what it was but is",
+    "start": 386.479,
+    "duration": 7.28
+  },
+  {
+    "text": "probably something that everyone should",
+    "start": 390.36,
+    "duration": 6.959
+  },
+  {
+    "text": "understand uh vehemently what it is and",
+    "start": 393.759,
+    "duration": 5.84
+  },
+  {
+    "text": "it is the most ambitious infrastructure",
+    "start": 397.319,
+    "duration": 5.241
+  },
+  {
+    "text": "project ever attempted in human history",
+    "start": 399.599,
+    "duration": 4.72
+  },
+  {
+    "text": "and it is connecting kind of the old",
+    "start": 402.56,
+    "duration": 7.359
+  },
+  {
+    "text": "Silk Road uh Asia uh and Africa uh parts",
+    "start": 404.319,
+    "duration": 9.561
+  },
+  {
+    "text": "of uh Europe and South America and it is",
+    "start": 409.919,
+    "duration": 7.4
+  },
+  {
+    "text": "China's ambition to connect all of these",
+    "start": 413.88,
+    "duration": 6.56
+  },
+  {
+    "text": "countries and build an infrastructure",
+    "start": 417.319,
+    "duration": 5.681
+  },
+  {
+    "text": "uh on the Bel Road initiative you have",
+    "start": 420.44,
+    "duration": 5.36
+  },
+  {
+    "text": "as an example all 13 OPEC producing",
+    "start": 423.0,
+    "duration": 6.08
+  },
+  {
+    "text": "countries it's approaching 70% of global",
+    "start": 425.8,
+    "duration": 7.32
+  },
+  {
+    "text": "human population 45% of global GDP",
+    "start": 429.08,
+    "duration": 6.0
+  },
+  {
+    "text": "before industrialization this is no",
+    "start": 433.12,
+    "duration": 5.56
+  },
+  {
+    "text": "small deal it is not just connecting",
+    "start": 435.08,
+    "duration": 5.36
+  },
+  {
+    "text": "these countries with Bridges and Roads",
+    "start": 438.68,
+    "duration": 3.88
+  },
+  {
+    "text": "and Railways and Maritime channels but",
+    "start": 440.44,
+    "duration": 4.4
+  },
+  {
+    "text": "it's also connecting them digitally so I",
+    "start": 442.56,
+    "duration": 4.639
+  },
+  {
+    "text": "start saying look the need for silver in",
+    "start": 444.84,
+    "duration": 4.759
+  },
+  {
+    "text": "this infrastructure project is enormous",
+    "start": 447.199,
+    "duration": 4.56
+  },
+  {
+    "text": "you are connecting 70% of human",
+    "start": 449.599,
+    "duration": 4.6
+  },
+  {
+    "text": "population digitally as well in a",
+    "start": 451.759,
+    "duration": 4.801
+  },
+  {
+    "text": "digital and green environment silver",
+    "start": 454.199,
+    "duration": 4.521
+  },
+  {
+    "text": "started taking a very significant uh",
+    "start": 456.56,
+    "duration": 4.96
+  },
+  {
+    "text": "role anyway so in 2020 we have the rise",
+    "start": 458.72,
+    "duration": 5.599
+  },
+  {
+    "text": "of the others we have the IMF asking for",
+    "start": 461.52,
+    "duration": 4.76
+  },
+  {
+    "text": "a new system we have the Belt Road",
+    "start": 464.319,
+    "duration": 4.401
+  },
+  {
+    "text": "initiative we have the banks",
+    "start": 466.28,
+    "duration": 4.84
+  },
+  {
+    "text": "accumulating and repatriating gold you",
+    "start": 468.72,
+    "duration": 5.24
+  },
+  {
+    "text": "can see things are starting to really",
+    "start": 471.12,
+    "duration": 8.44
+  },
+  {
+    "text": "take shape 2021 rolls around and we see",
+    "start": 473.96,
+    "duration": 8.32
+  },
+  {
+    "text": "massive gold acquisition by Russia by",
+    "start": 479.56,
+    "duration": 6.199
+  },
+  {
+    "text": "turkey by India by Poland by China by",
+    "start": 482.28,
+    "duration": 5.72
+  },
+  {
+    "text": "Kazakhstan by Hungary by Thailand by",
+    "start": 485.759,
+    "duration": 5.601
+  },
+  {
+    "text": "Japan by Brazil they're all gobbling up",
+    "start": 488.0,
+    "duration": 4.919
+  },
+  {
+    "text": "gold so in",
+    "start": 491.36,
+    "duration": 3.839
+  },
+  {
+    "text": "2022 when you are the steward of the",
+    "start": 492.919,
+    "duration": 4.0
+  },
+  {
+    "text": "world Reserve currency it is not your",
+    "start": 495.199,
+    "duration": 4.801
+  },
+  {
+    "text": "job to tell who can and who cannot use",
+    "start": 496.919,
+    "duration": 5.56
+  },
+  {
+    "text": "it and by weaponizing it it has",
+    "start": 500.0,
+    "duration": 5.4
+  },
+  {
+    "text": "incentivized the majority of the world",
+    "start": 502.479,
+    "duration": 5.601
+  },
+  {
+    "text": "to move away from the US dollar to find",
+    "start": 505.4,
+    "duration": 7.24
+  },
+  {
+    "text": "an a alter alternative source of",
+    "start": 508.08,
+    "duration": 7.879
+  },
+  {
+    "text": "clearing um and not using the Swift",
+    "start": 512.64,
+    "duration": 6.399
+  },
+  {
+    "text": "system because countries like China who",
+    "start": 515.959,
+    "duration": 4.921
+  },
+  {
+    "text": "have sold treasuries for the past eight",
+    "start": 519.039,
+    "duration": 4.281
+  },
+  {
+    "text": "months in a row 150 billion in",
+    "start": 520.88,
+    "duration": 3.76
+  },
+  {
+    "text": "treasuries they're not buying them",
+    "start": 523.32,
+    "duration": 3.199
+  },
+  {
+    "text": "anymore Japan's not buying them Saudi",
+    "start": 524.64,
+    "duration": 4.08
+  },
+  {
+    "text": "Arabia is not buying them Russia's not",
+    "start": 526.519,
+    "duration": 3.921
+  },
+  {
+    "text": "buying them all of these countries are",
+    "start": 528.72,
+    "duration": 4.32
+  },
+  {
+    "text": "selling treasuries why because they're",
+    "start": 530.44,
+    "duration": 6.76
+  },
+  {
+    "text": "thinking H are we next",
+    "start": 533.04,
+    "duration": 4.16
+  }
+]

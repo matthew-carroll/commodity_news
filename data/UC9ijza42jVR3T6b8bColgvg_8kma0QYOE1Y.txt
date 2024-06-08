@@ -1,0 +1,5092 @@
+[
+  {
+    "text": "unfortunately as the US economy moves",
+    "start": 0.599,
+    "duration": 4.961
+  },
+  {
+    "text": "more towards a rickety basis and you",
+    "start": 3.32,
+    "duration": 3.559
+  },
+  {
+    "text": "hear this from great experts I'll",
+    "start": 5.56,
+    "duration": 3.8
+  },
+  {
+    "text": "mention Larry Summers again Ray doio",
+    "start": 6.879,
+    "duration": 5.161
+  },
+  {
+    "text": "again people are calling for like there",
+    "start": 9.36,
+    "duration": 4.359
+  },
+  {
+    "text": "could be some extreme things happening",
+    "start": 12.04,
+    "duration": 3.12
+  },
+  {
+    "text": "in the United States all the way to",
+    "start": 13.719,
+    "duration": 4.32
+  },
+  {
+    "text": "potentially Civil War as you read off",
+    "start": 15.16,
+    "duration": 4.199
+  },
+  {
+    "text": "kind of all those stats I mean I'm",
+    "start": 18.039,
+    "duration": 3.761
+  },
+  {
+    "text": "almost wanting to curse uh here on",
+    "start": 19.359,
+    "duration": 4.92
+  },
+  {
+    "text": "camera um I I don't think any of those",
+    "start": 21.8,
+    "duration": 4.479
+  },
+  {
+    "text": "numbers are real you know Larry Summers",
+    "start": 24.279,
+    "duration": 4.521
+  },
+  {
+    "text": "put out a research report I think about",
+    "start": 26.279,
+    "duration": 4.961
+  },
+  {
+    "text": "3 months ago talking about inflation and",
+    "start": 28.8,
+    "duration": 4.88
+  },
+  {
+    "text": "just how we keep doctoring the numbers",
+    "start": 31.24,
+    "duration": 3.839
+  },
+  {
+    "text": "um and it's moved into the political",
+    "start": 33.68,
+    "duration": 3.28
+  },
+  {
+    "text": "sphere so whatever you're hearing on a",
+    "start": 35.079,
+    "duration": 4.081
+  },
+  {
+    "text": "day-to-day basis on inflation did this",
+    "start": 36.96,
+    "duration": 4.919
+  },
+  {
+    "text": "or did that I don't know what it means",
+    "start": 39.16,
+    "duration": 4.48
+  },
+  {
+    "text": "your dollar is going down my dollar is",
+    "start": 41.879,
+    "duration": 5.721
+  },
+  {
+    "text": "going down get off the dollar getco News",
+    "start": 43.64,
+    "duration": 7.32
+  },
+  {
+    "text": "special coverage of consensus 2024 is",
+    "start": 47.6,
+    "duration": 6.06
+  },
+  {
+    "text": "brought to you by Diamond",
+    "start": 50.96,
+    "duration": 6.96
+  },
+  {
+    "text": "[Music]",
+    "start": 53.66,
+    "duration": 6.98
+  },
+  {
+    "text": "standard hello I'm Michelle Cory this is",
+    "start": 57.92,
+    "duration": 5.2
+  },
+  {
+    "text": "Kitco news here in Austin Texas",
+    "start": 60.64,
+    "duration": 4.96
+  },
+  {
+    "text": "continuing our coverage of consensus",
+    "start": 63.12,
+    "duration": 5.12
+  },
+  {
+    "text": "2024 and I'm very pleased to welcome",
+    "start": 65.6,
+    "duration": 5.44
+  },
+  {
+    "text": "back Mike belshi CEO of bito Mike good",
+    "start": 68.24,
+    "duration": 3.84
+  },
+  {
+    "text": "to have you with us good to see you",
+    "start": 71.04,
+    "duration": 3.119
+  },
+  {
+    "text": "again Michelle how are you I'm great and",
+    "start": 72.08,
+    "duration": 5.2
+  },
+  {
+    "text": "Mike last time you and I met was in",
+    "start": 74.159,
+    "duration": 5.801
+  },
+  {
+    "text": "September of 2023 at the misari",
+    "start": 77.28,
+    "duration": 5.0
+  },
+  {
+    "text": "conference and I'm going to recap what",
+    "start": 79.96,
+    "duration": 4.92
+  },
+  {
+    "text": "you told me back then because you were",
+    "start": 82.28,
+    "duration": 5.68
+  },
+  {
+    "text": "spot on Mike we chatted prior to the",
+    "start": 84.88,
+    "duration": 5.919
+  },
+  {
+    "text": "spot Bitcoin ETF approval you said that",
+    "start": 87.96,
+    "duration": 5.519
+  },
+  {
+    "text": "it was a political delay that all the",
+    "start": 90.799,
+    "duration": 4.28
+  },
+  {
+    "text": "regulatory work was there but the",
+    "start": 93.479,
+    "duration": 3.68
+  },
+  {
+    "text": "political Powers were delaying it you",
+    "start": 95.079,
+    "duration": 4.72
+  },
+  {
+    "text": "said that it would be approved in",
+    "start": 97.159,
+    "duration": 5.64
+  },
+  {
+    "text": "2024 you said that Bitcoin would then",
+    "start": 99.799,
+    "duration": 6.081
+  },
+  {
+    "text": "hit a new all-time high and to remind",
+    "start": 102.799,
+    "duration": 5.121
+  },
+  {
+    "text": "our viewers Bitcoin was around",
+    "start": 105.88,
+    "duration": 4.8
+  },
+  {
+    "text": "$26,000 when we started to chat back in",
+    "start": 107.92,
+    "duration": 5.559
+  },
+  {
+    "text": "September so between the 25 to 30 range",
+    "start": 110.68,
+    "duration": 5.039
+  },
+  {
+    "text": "and you correctly predicted that we will",
+    "start": 113.479,
+    "duration": 5.56
+  },
+  {
+    "text": "get a new all-time high after the spot",
+    "start": 115.719,
+    "duration": 6.801
+  },
+  {
+    "text": "Bitcoin TF approval sometime in 2024",
+    "start": 119.039,
+    "duration": 5.321
+  },
+  {
+    "text": "which of course we did and that it would",
+    "start": 122.52,
+    "duration": 5.04
+  },
+  {
+    "text": "be approved so now that you have such a",
+    "start": 124.36,
+    "duration": 5.36
+  },
+  {
+    "text": "solid track record I'm going to be",
+    "start": 127.56,
+    "duration": 4.039
+  },
+  {
+    "text": "drilling you for specific forec costs",
+    "start": 129.72,
+    "duration": 4.4
+  },
+  {
+    "text": "today I'll try to do as well so let's",
+    "start": 131.599,
+    "duration": 7.161
+  },
+  {
+    "text": "take a step back um how has bitco as a",
+    "start": 134.12,
+    "duration": 7.44
+  },
+  {
+    "text": "custodian received the swap Bitcoin ETF",
+    "start": 138.76,
+    "duration": 4.28
+  },
+  {
+    "text": "approval give us some background in",
+    "start": 141.56,
+    "duration": 3.12
+  },
+  {
+    "text": "terms of what you seeing and and your",
+    "start": 143.04,
+    "duration": 4.08
+  },
+  {
+    "text": "role in all of this sure well look B is",
+    "start": 144.68,
+    "duration": 4.839
+  },
+  {
+    "text": "regulated qualified custodian we got two",
+    "start": 147.12,
+    "duration": 4.08
+  },
+  {
+    "text": "LIC here in the United States we got",
+    "start": 149.519,
+    "duration": 3.921
+  },
+  {
+    "text": "another five abroad in various countries",
+    "start": 151.2,
+    "duration": 4.88
+  },
+  {
+    "text": "as we build our Global custodial Network",
+    "start": 153.44,
+    "duration": 4.799
+  },
+  {
+    "text": "um so obviously we're handling some of",
+    "start": 156.08,
+    "duration": 4.879
+  },
+  {
+    "text": "the custody for existing ETFs uh so the",
+    "start": 158.239,
+    "duration": 4.801
+  },
+  {
+    "text": "Bitcoin ETF you know back when we last",
+    "start": 160.959,
+    "duration": 4.161
+  },
+  {
+    "text": "spoke obviously was a little bit unknown",
+    "start": 163.04,
+    "duration": 3.919
+  },
+  {
+    "text": "as to when it would come about and the",
+    "start": 165.12,
+    "duration": 4.24
+  },
+  {
+    "text": "battle at that time was really about how",
+    "start": 166.959,
+    "duration": 4.521
+  },
+  {
+    "text": "do you just get an application through",
+    "start": 169.36,
+    "duration": 4.239
+  },
+  {
+    "text": "the SEC to approve this thing it wasn't",
+    "start": 171.48,
+    "duration": 4.6
+  },
+  {
+    "text": "about who's cing it um and you know the",
+    "start": 173.599,
+    "duration": 5.841
+  },
+  {
+    "text": "ETF applications I think they go back to",
+    "start": 176.08,
+    "duration": 5.28
+  },
+  {
+    "text": "uh I guess it would be grayscale maybe",
+    "start": 179.44,
+    "duration": 3.36
+  },
+  {
+    "text": "it was Gemini that filed some of the",
+    "start": 181.36,
+    "duration": 5.04
+  },
+  {
+    "text": "first ones 201617 it was a long time ago",
+    "start": 182.8,
+    "duration": 5.719
+  },
+  {
+    "text": "so all of the folks that were trying to",
+    "start": 186.4,
+    "duration": 4.04
+  },
+  {
+    "text": "get an approval and remember there was a",
+    "start": 188.519,
+    "duration": 5.28
+  },
+  {
+    "text": "graveyard of about 20 failed approvals",
+    "start": 190.44,
+    "duration": 5.6
+  },
+  {
+    "text": "um all eyes were on just how do you get",
+    "start": 193.799,
+    "duration": 4.681
+  },
+  {
+    "text": "through the SEC so the first wave that",
+    "start": 196.04,
+    "duration": 4.919
+  },
+  {
+    "text": "we saw for Bitcoin ETF approvals U",
+    "start": 198.48,
+    "duration": 5.479
+  },
+  {
+    "text": "mostly used coinbase uh not 100% a",
+    "start": 200.959,
+    "duration": 5.881
+  },
+  {
+    "text": "couple went to bco um but the reason for",
+    "start": 203.959,
+    "duration": 5.241
+  },
+  {
+    "text": "that is simple I mean coinbase public",
+    "start": 206.84,
+    "duration": 5.16
+  },
+  {
+    "text": "company already approved by the SEC in",
+    "start": 209.2,
+    "duration": 7.44
+  },
+  {
+    "text": "some way and every large scale ETF wants",
+    "start": 212.0,
+    "duration": 6.319
+  },
+  {
+    "text": "to use multiple custodians they want",
+    "start": 216.64,
+    "duration": 3.2
+  },
+  {
+    "text": "this for their own business reasons as",
+    "start": 218.319,
+    "duration": 2.601
+  },
+  {
+    "text": "much as anything else they went up",
+    "start": 219.84,
+    "duration": 4.8
+  },
+  {
+    "text": "pricing leverage and power um but uh",
+    "start": 220.92,
+    "duration": 5.039
+  },
+  {
+    "text": "that was not the concern they were",
+    "start": 224.64,
+    "duration": 3.159
+  },
+  {
+    "text": "starting out of balances of zero and",
+    "start": 225.959,
+    "duration": 3.48
+  },
+  {
+    "text": "they needed a custodian so anyway a lot",
+    "start": 227.799,
+    "duration": 4.28
+  },
+  {
+    "text": "of that went to to clinix uh as of today",
+    "start": 229.439,
+    "duration": 4.121
+  },
+  {
+    "text": "you know there's more coming to boo",
+    "start": 232.079,
+    "duration": 3.281
+  },
+  {
+    "text": "we'll have some announcements uh very",
+    "start": 233.56,
+    "duration": 3.92
+  },
+  {
+    "text": "very soon on on that point as the",
+    "start": 235.36,
+    "duration": 4.12
+  },
+  {
+    "text": "ethereum ETFs come on board some of",
+    "start": 237.48,
+    "duration": 4.319
+  },
+  {
+    "text": "those going to launch straight on Boo",
+    "start": 239.48,
+    "duration": 4.0
+  },
+  {
+    "text": "and the reason for that is cuz we're now",
+    "start": 241.799,
+    "duration": 2.921
+  },
+  {
+    "text": "kind of proven we've kind of gotten",
+    "start": 243.48,
+    "duration": 2.319
+  },
+  {
+    "text": "through that initial how do you get",
+    "start": 244.72,
+    "duration": 2.76
+  },
+  {
+    "text": "through the through the process that's",
+    "start": 245.799,
+    "duration": 3.881
+  },
+  {
+    "text": "well know and understood we'll get to",
+    "start": 247.48,
+    "duration": 4.56
+  },
+  {
+    "text": "the eth ETF and the surprise",
+    "start": 249.68,
+    "duration": 4.24
+  },
+  {
+    "text": "announcement there but let's focus still",
+    "start": 252.04,
+    "duration": 3.8
+  },
+  {
+    "text": "on the spot Bitcoin ETF so you're",
+    "start": 253.92,
+    "duration": 4.599
+  },
+  {
+    "text": "currently the custodian for which ones",
+    "start": 255.84,
+    "duration": 5.639
+  },
+  {
+    "text": "Valkyrie hashtags so what are you seeing",
+    "start": 258.519,
+    "duration": 6.441
+  },
+  {
+    "text": "in terms of demand do you have Insight",
+    "start": 261.479,
+    "duration": 6.16
+  },
+  {
+    "text": "in terms of where we are with the level",
+    "start": 264.96,
+    "duration": 5.48
+  },
+  {
+    "text": "of you know institutional",
+    "start": 267.639,
+    "duration": 5.481
+  },
+  {
+    "text": "demand because the thinking was that",
+    "start": 270.44,
+    "duration": 4.479
+  },
+  {
+    "text": "this opens the flood gate to",
+    "start": 273.12,
+    "duration": 3.84
+  },
+  {
+    "text": "institutional money we know that the",
+    "start": 274.919,
+    "duration": 5.201
+  },
+  {
+    "text": "Black Rock ETF has hit over $20 billion",
+    "start": 276.96,
+    "duration": 6.079
+  },
+  {
+    "text": "the biggest yep where would you say we",
+    "start": 280.12,
+    "duration": 5.639
+  },
+  {
+    "text": "are in terms of volume coming in are we",
+    "start": 283.039,
+    "duration": 5.641
+  },
+  {
+    "text": "like the flood gates opening are they 5%",
+    "start": 285.759,
+    "duration": 6.041
+  },
+  {
+    "text": "open are they 10% open is it 20% like",
+    "start": 288.68,
+    "duration": 5.72
+  },
+  {
+    "text": "how open are the floodgates where we are",
+    "start": 291.8,
+    "duration": 5.16
+  },
+  {
+    "text": "currently and how much more flooding is",
+    "start": 294.4,
+    "duration": 3.84
+  },
+  {
+    "text": "there to come if we're going to use that",
+    "start": 296.96,
+    "duration": 3.2
+  },
+  {
+    "text": "met look I think I have most a good news",
+    "start": 298.24,
+    "duration": 5.56
+  },
+  {
+    "text": "for you um so the ETFs Came live in",
+    "start": 300.16,
+    "duration": 5.479
+  },
+  {
+    "text": "January and then there was a little bit",
+    "start": 303.8,
+    "duration": 4.16
+  },
+  {
+    "text": "of volatility as that kind of shook out",
+    "start": 305.639,
+    "duration": 5.321
+  },
+  {
+    "text": "but institutions move slowly and so yes",
+    "start": 307.96,
+    "duration": 5.72
+  },
+  {
+    "text": "we have a we keep a tight pulse on who's",
+    "start": 310.96,
+    "duration": 5.92
+  },
+  {
+    "text": "buying what sizes are they buying in and",
+    "start": 313.68,
+    "duration": 5.519
+  },
+  {
+    "text": "in late January February really what we",
+    "start": 316.88,
+    "duration": 4.8
+  },
+  {
+    "text": "saw was a lot of small purchases which",
+    "start": 319.199,
+    "duration": 4.56
+  },
+  {
+    "text": "typically indicates that it's retail",
+    "start": 321.68,
+    "duration": 4.079
+  },
+  {
+    "text": "purchases coming through their Brokers",
+    "start": 323.759,
+    "duration": 3.681
+  },
+  {
+    "text": "their Charles Schwabs their TD Mar",
+    "start": 325.759,
+    "duration": 4.401
+  },
+  {
+    "text": "trades Etc to buy that ETF so a lot of",
+    "start": 327.44,
+    "duration": 4.8
+  },
+  {
+    "text": "that early demand was retail based which",
+    "start": 330.16,
+    "duration": 4.08
+  },
+  {
+    "text": "I consider good news because that means",
+    "start": 332.24,
+    "duration": 4.519
+  },
+  {
+    "text": "the institutional is still coming um now",
+    "start": 334.24,
+    "duration": 4.239
+  },
+  {
+    "text": "the institutional is starting to come",
+    "start": 336.759,
+    "duration": 4.241
+  },
+  {
+    "text": "now so why is the institutional slower",
+    "start": 338.479,
+    "duration": 4.961
+  },
+  {
+    "text": "look coming through December like",
+    "start": 341.0,
+    "duration": 4.039
+  },
+  {
+    "text": "anybody's game I mean you mentioned the",
+    "start": 343.44,
+    "duration": 3.8
+  },
+  {
+    "text": "prediction from September there are a",
+    "start": 345.039,
+    "duration": 3.561
+  },
+  {
+    "text": "lot of people saying yes a lot of people",
+    "start": 347.24,
+    "duration": 3.239
+  },
+  {
+    "text": "saying no about when the ETF would be",
+    "start": 348.6,
+    "duration": 4.84
+  },
+  {
+    "text": "approved institutions don't go through",
+    "start": 350.479,
+    "duration": 6.121
+  },
+  {
+    "text": "their processes on maybe right it's not",
+    "start": 353.44,
+    "duration": 5.319
+  },
+  {
+    "text": "like they're so desperate to get this",
+    "start": 356.6,
+    "duration": 3.96
+  },
+  {
+    "text": "investment that like like they're going",
+    "start": 358.759,
+    "duration": 4.56
+  },
+  {
+    "text": "to be there on day one as the ETF",
+    "start": 360.56,
+    "duration": 5.16
+  },
+  {
+    "text": "launches so it takes them time and the",
+    "start": 363.319,
+    "duration": 4.44
+  },
+  {
+    "text": "larger the institution as you get the",
+    "start": 365.72,
+    "duration": 4.64
+  },
+  {
+    "text": "Pension funds Etc the more committees",
+    "start": 367.759,
+    "duration": 4.84
+  },
+  {
+    "text": "the more process the more evaluation",
+    "start": 370.36,
+    "duration": 4.559
+  },
+  {
+    "text": "that happens so that take months and",
+    "start": 372.599,
+    "duration": 4.801
+  },
+  {
+    "text": "what happened was as the floodgates open",
+    "start": 374.919,
+    "duration": 3.881
+  },
+  {
+    "text": "I think it was January",
+    "start": 377.4,
+    "duration": 4.12
+  },
+  {
+    "text": "11th uh initially that's when things",
+    "start": 378.8,
+    "duration": 5.36
+  },
+  {
+    "text": "started then Pension funds are like oh",
+    "start": 381.52,
+    "duration": 3.88
+  },
+  {
+    "text": "let's start our meeting let's pick up",
+    "start": 384.16,
+    "duration": 3.319
+  },
+  {
+    "text": "Bitcoin again take another look at it",
+    "start": 385.4,
+    "duration": 3.6
+  },
+  {
+    "text": "and it starts that process that takes",
+    "start": 387.479,
+    "duration": 3.641
+  },
+  {
+    "text": "months and we're starting to see some of",
+    "start": 389.0,
+    "duration": 3.84
+  },
+  {
+    "text": "that now there's also been a few",
+    "start": 391.12,
+    "duration": 3.96
+  },
+  {
+    "text": "corporate buys that we've seen announced",
+    "start": 392.84,
+    "duration": 4.4
+  },
+  {
+    "text": "just in the last week uh you know like",
+    "start": 395.08,
+    "duration": 3.64
+  },
+  {
+    "text": "micro strategy type of things where",
+    "start": 397.24,
+    "duration": 3.28
+  },
+  {
+    "text": "people are like H maybe I should be",
+    "start": 398.72,
+    "duration": 4.84
+  },
+  {
+    "text": "allocating any a small portion of any",
+    "start": 400.52,
+    "duration": 5.679
+  },
+  {
+    "text": "large treasury uh in into Bitcoin so I",
+    "start": 403.56,
+    "duration": 4.359
+  },
+  {
+    "text": "think there's a lot more to come on the",
+    "start": 406.199,
+    "duration": 4.201
+  },
+  {
+    "text": "institutional and corporate side which",
+    "start": 407.919,
+    "duration": 4.4
+  },
+  {
+    "text": "should spell a lot of good news for",
+    "start": 410.4,
+    "duration": 6.079
+  },
+  {
+    "text": "future of ETF okay so back to you know",
+    "start": 412.319,
+    "duration": 6.841
+  },
+  {
+    "text": "quantifying that we've just seen the",
+    "start": 416.479,
+    "duration": 5.641
+  },
+  {
+    "text": "trick coming in how much more in in a",
+    "start": 419.16,
+    "duration": 4.96
+  },
+  {
+    "text": "number percentage wise do you think we",
+    "start": 422.12,
+    "duration": 4.919
+  },
+  {
+    "text": "can expect I think we're at like 5%",
+    "start": 424.12,
+    "duration": 5.0
+  },
+  {
+    "text": "we're just at 5% we're at the beginning",
+    "start": 427.039,
+    "duration": 3.761
+  },
+  {
+    "text": "okay we're we're only in the beginning",
+    "start": 429.12,
+    "duration": 4.079
+  },
+  {
+    "text": "and you when we say institutions we mean",
+    "start": 430.8,
+    "duration": 5.6
+  },
+  {
+    "text": "you know the big Pension funds the big",
+    "start": 433.199,
+    "duration": 6.761
+  },
+  {
+    "text": "uh hedge funds like the big what who do",
+    "start": 436.4,
+    "duration": 5.479
+  },
+  {
+    "text": "you think is next to sort of jump in",
+    "start": 439.96,
+    "duration": 5.44
+  },
+  {
+    "text": "here so um Investments are all on a",
+    "start": 441.879,
+    "duration": 5.16
+  },
+  {
+    "text": "scale of risk right and so there's",
+    "start": 445.4,
+    "duration": 3.359
+  },
+  {
+    "text": "certainly some number of hedge funds",
+    "start": 447.039,
+    "duration": 3.921
+  },
+  {
+    "text": "that are superg aggressive on risk they",
+    "start": 448.759,
+    "duration": 4.481
+  },
+  {
+    "text": "got into Bitcoin without even having to",
+    "start": 450.96,
+    "duration": 6.239
+  },
+  {
+    "text": "have an ETF what the ETF unlocks is a a",
+    "start": 453.24,
+    "duration": 6.399
+  },
+  {
+    "text": "set that have a lower tolerance for risk",
+    "start": 457.199,
+    "duration": 3.881
+  },
+  {
+    "text": "where they don't know how to assemble",
+    "start": 459.639,
+    "duration": 3.12
+  },
+  {
+    "text": "all of the parts where are they going to",
+    "start": 461.08,
+    "duration": 3.72
+  },
+  {
+    "text": "Source liquidity how are they going to",
+    "start": 462.759,
+    "duration": 3.4
+  },
+  {
+    "text": "manage it who's going to do their custy",
+    "start": 464.8,
+    "duration": 4.0
+  },
+  {
+    "text": "Etc so the ETF provides all of that in a",
+    "start": 466.159,
+    "duration": 5.0
+  },
+  {
+    "text": "bundle in a package that doesn't really",
+    "start": 468.8,
+    "duration": 4.119
+  },
+  {
+    "text": "have any regulatory risk to them because",
+    "start": 471.159,
+    "duration": 4.521
+  },
+  {
+    "text": "it's been vetted by the SEC so it opens",
+    "start": 472.919,
+    "duration": 5.521
+  },
+  {
+    "text": "up the conservative half and ultimately",
+    "start": 475.68,
+    "duration": 4.76
+  },
+  {
+    "text": "that does get to large Pion funds",
+    "start": 478.44,
+    "duration": 4.319
+  },
+  {
+    "text": "retirement funds Etc that's where some",
+    "start": 480.44,
+    "duration": 4.36
+  },
+  {
+    "text": "of the largest pools of money in the",
+    "start": 482.759,
+    "duration": 4.16
+  },
+  {
+    "text": "world are right so um there's a lot to",
+    "start": 484.8,
+    "duration": 5.6
+  },
+  {
+    "text": "be unlocked so given you were so spot on",
+    "start": 486.919,
+    "duration": 6.161
+  },
+  {
+    "text": "with your price forecast last",
+    "start": 490.4,
+    "duration": 5.28
+  },
+  {
+    "text": "time what do you call for the end of",
+    "start": 493.08,
+    "duration": 4.679
+  },
+  {
+    "text": "2024 for the price of",
+    "start": 495.68,
+    "duration": 3.88
+  },
+  {
+    "text": "Bitcoin I think we'll be somewhere",
+    "start": 497.759,
+    "duration": 6.641
+  },
+  {
+    "text": "around 125 to 135k 125 to 135k by the",
+    "start": 499.56,
+    "duration": 7.84
+  },
+  {
+    "text": "end of 2024 and driving what would be",
+    "start": 504.4,
+    "duration": 5.199
+  },
+  {
+    "text": "driving that narrative is it a partic is",
+    "start": 507.4,
+    "duration": 3.799
+  },
+  {
+    "text": "it just this demand coming in what will",
+    "start": 509.599,
+    "duration": 4.401
+  },
+  {
+    "text": "be the the the price driver well I think",
+    "start": 511.199,
+    "duration": 4.96
+  },
+  {
+    "text": "there's two things we still have the",
+    "start": 514.0,
+    "duration": 5.2
+  },
+  {
+    "text": "macroclimate backdrop which is",
+    "start": 516.159,
+    "duration": 5.041
+  },
+  {
+    "text": "constantly verifying the thesis of",
+    "start": 519.2,
+    "duration": 5.12
+  },
+  {
+    "text": "Bitcoin um and you know it's not really",
+    "start": 521.2,
+    "duration": 7.199
+  },
+  {
+    "text": "a debate anymore that the US debt is",
+    "start": 524.32,
+    "duration": 6.12
+  },
+  {
+    "text": "uncontrollable we are currently in a",
+    "start": 528.399,
+    "duration": 4.0
+  },
+  {
+    "text": "massive debate to figure out who is",
+    "start": 530.44,
+    "duration": 3.88
+  },
+  {
+    "text": "going to govern the next 10 billion of",
+    "start": 532.399,
+    "duration": 3.721
+  },
+  {
+    "text": "debt that we create I'm sorry1 trillion",
+    "start": 534.32,
+    "duration": 4.24
+  },
+  {
+    "text": "of debt that we create um it's it's like",
+    "start": 536.12,
+    "duration": 5.08
+  },
+  {
+    "text": "who wants to drive us deepest into uh",
+    "start": 538.56,
+    "duration": 4.2
+  },
+  {
+    "text": "into bankruptcy first I steal that from",
+    "start": 541.2,
+    "duration": 4.28
+  },
+  {
+    "text": "Eric VOR by the way um but well we've",
+    "start": 542.76,
+    "duration": 5.24
+  },
+  {
+    "text": "already $35 trillion in debt and",
+    "start": 545.48,
+    "duration": 4.039
+  },
+  {
+    "text": "Counting you know and the next president",
+    "start": 548.0,
+    "duration": 2.76
+  },
+  {
+    "text": "is going to give us 10 billion 10",
+    "start": 549.519,
+    "duration": 3.56
+  },
+  {
+    "text": "trillion more right so the the election",
+    "start": 550.76,
+    "duration": 3.639
+  },
+  {
+    "text": "is about who's going to spend the next",
+    "start": 553.079,
+    "duration": 3.081
+  },
+  {
+    "text": "trillion 10",
+    "start": 554.399,
+    "duration": 6.241
+  },
+  {
+    "text": "trillion um anyway that macro climate",
+    "start": 556.16,
+    "duration": 6.6
+  },
+  {
+    "text": "influences the idea that gold I'm sorry",
+    "start": 560.64,
+    "duration": 4.08
+  },
+  {
+    "text": "that that Bitcoin is kind of the next",
+    "start": 562.76,
+    "duration": 4.96
+  },
+  {
+    "text": "gold um look there's not an alternative",
+    "start": 564.72,
+    "duration": 5.44
+  },
+  {
+    "text": "Reserve currency that looks super strong",
+    "start": 567.72,
+    "duration": 4.4
+  },
+  {
+    "text": "obviously you've got bricks trying to",
+    "start": 570.16,
+    "duration": 4.48
+  },
+  {
+    "text": "eat away at the dollar demand side by",
+    "start": 572.12,
+    "duration": 4.48
+  },
+  {
+    "text": "doing more purchases outside of the",
+    "start": 574.64,
+    "duration": 4.56
+  },
+  {
+    "text": "dollar so far those have been relatively",
+    "start": 576.6,
+    "duration": 4.4
+  },
+  {
+    "text": "small scale but that's going to continue",
+    "start": 579.2,
+    "duration": 4.879
+  },
+  {
+    "text": "to grow unfortunately the US with",
+    "start": 581.0,
+    "duration": 5.76
+  },
+  {
+    "text": "sanctions controls I'm not not against",
+    "start": 584.079,
+    "duration": 4.641
+  },
+  {
+    "text": "the sanction controls I'm not for it I'm",
+    "start": 586.76,
+    "duration": 5.68
+  },
+  {
+    "text": "just pointing out every time the US says",
+    "start": 588.72,
+    "duration": 5.84
+  },
+  {
+    "text": "we are going to maintain power over your",
+    "start": 592.44,
+    "duration": 4.28
+  },
+  {
+    "text": "dollar and if you don't do what we want",
+    "start": 594.56,
+    "duration": 4.519
+  },
+  {
+    "text": "you to foreign policy-wise we're going",
+    "start": 596.72,
+    "duration": 4.44
+  },
+  {
+    "text": "to take it away which is what we did to",
+    "start": 599.079,
+    "duration": 3.601
+  },
+  {
+    "text": "Russia badly you can love it or hate it",
+    "start": 601.16,
+    "duration": 3.44
+  },
+  {
+    "text": "but that's what we did we put every",
+    "start": 602.68,
+    "duration": 4.44
+  },
+  {
+    "text": "single dollar holder on notice yeah that",
+    "start": 604.6,
+    "duration": 4.0
+  },
+  {
+    "text": "we may do it to them in the future as",
+    "start": 607.12,
+    "duration": 2.92
+  },
+  {
+    "text": "well and so if you don't think the",
+    "start": 608.6,
+    "duration": 4.4
+  },
+  {
+    "text": "Middle East is worried about that well",
+    "start": 610.04,
+    "duration": 5.32
+  },
+  {
+    "text": "you're not paying attention so all right",
+    "start": 613.0,
+    "duration": 4.88
+  },
+  {
+    "text": "the US debt crisis is one thing foreign",
+    "start": 615.36,
+    "duration": 4.64
+  },
+  {
+    "text": "policy and sanctions controls is another",
+    "start": 617.88,
+    "duration": 4.079
+  },
+  {
+    "text": "bricks providing alternate Payment",
+    "start": 620.0,
+    "duration": 5.12
+  },
+  {
+    "text": "Systems frankly digital technology",
+    "start": 621.959,
+    "duration": 4.961
+  },
+  {
+    "text": "providing Payment Systems a go across",
+    "start": 625.12,
+    "duration": 4.2
+  },
+  {
+    "text": "border seamlessly we're now like wait",
+    "start": 626.92,
+    "duration": 3.84
+  },
+  {
+    "text": "wait a minute we don't need these",
+    "start": 629.32,
+    "duration": 3.759
+  },
+  {
+    "text": "financial institution gateway",
+    "start": 630.76,
+    "duration": 5.079
+  },
+  {
+    "text": "powerhouses to necessarily move payments",
+    "start": 633.079,
+    "duration": 4.961
+  },
+  {
+    "text": "between parties so all of this is going",
+    "start": 635.839,
+    "duration": 4.961
+  },
+  {
+    "text": "to eat away at the dollar um that is The",
+    "start": 638.04,
+    "duration": 6.479
+  },
+  {
+    "text": "Narrative of why Bitcoin exists the",
+    "start": 640.8,
+    "duration": 5.52
+  },
+  {
+    "text": "dollar is going to get weaker the",
+    "start": 644.519,
+    "duration": 3.681
+  },
+  {
+    "text": "government of the US will continue to",
+    "start": 646.32,
+    "duration": 4.4
+  },
+  {
+    "text": "print more your dollar is going down my",
+    "start": 648.2,
+    "duration": 5.8
+  },
+  {
+    "text": "dollar is going down get off the dollar",
+    "start": 650.72,
+    "duration": 8.119
+  },
+  {
+    "text": "so a number of factors driving Bitcoin",
+    "start": 654.0,
+    "duration": 8.2
+  },
+  {
+    "text": "in the near term to that 125 to 135,000",
+    "start": 658.839,
+    "duration": 4.881
+  },
+  {
+    "text": "yeah I guess I got distracted there yes",
+    "start": 662.2,
+    "duration": 3.6
+  },
+  {
+    "text": "on the macroclimate it's all there and",
+    "start": 663.72,
+    "duration": 4.559
+  },
+  {
+    "text": "then I think also in the US another good",
+    "start": 665.8,
+    "duration": 5.32
+  },
+  {
+    "text": "thing is happening for for for Bitcoin",
+    "start": 668.279,
+    "duration": 5.201
+  },
+  {
+    "text": "look we got 40 30 to 40 million people",
+    "start": 671.12,
+    "duration": 3.92
+  },
+  {
+    "text": "in the US that are holding Bitcoin",
+    "start": 673.48,
+    "duration": 4.039
+  },
+  {
+    "text": "already the voices are getting louder",
+    "start": 675.04,
+    "duration": 4.2
+  },
+  {
+    "text": "people are getting more knowledgeable",
+    "start": 677.519,
+    "duration": 3.241
+  },
+  {
+    "text": "about what's going to happen to the",
+    "start": 679.24,
+    "duration": 4.12
+  },
+  {
+    "text": "dollar we've got ETF vehicles that they",
+    "start": 680.76,
+    "duration": 4.319
+  },
+  {
+    "text": "can access it through so just call up",
+    "start": 683.36,
+    "duration": 3.68
+  },
+  {
+    "text": "your broker and you've got you've got",
+    "start": 685.079,
+    "duration": 4.88
+  },
+  {
+    "text": "Bitcoin um so yes I think dispells more",
+    "start": 687.04,
+    "duration": 4.88
+  },
+  {
+    "text": "demand for Bitcoin less demand for",
+    "start": 689.959,
+    "duration": 4.0
+  },
+  {
+    "text": "dollars that means the price of Bitcoin",
+    "start": 691.92,
+    "duration": 5.12
+  },
+  {
+    "text": "relative to Dollars goes up right um and",
+    "start": 693.959,
+    "duration": 5.521
+  },
+  {
+    "text": "as you said that was the impetus for the",
+    "start": 697.04,
+    "duration": 5.799
+  },
+  {
+    "text": "creation of Bitcoin to count a dollar or",
+    "start": 699.48,
+    "duration": 6.08
+  },
+  {
+    "text": "fat debasement and devaluation which",
+    "start": 702.839,
+    "duration": 6.841
+  },
+  {
+    "text": "we've seen on steroids post 2020 exactly",
+    "start": 705.56,
+    "duration": 8.12
+  },
+  {
+    "text": "right um okay so you know we've had a",
+    "start": 709.68,
+    "duration": 7.24
+  },
+  {
+    "text": "lot of conversations about Bitcoin then",
+    "start": 713.68,
+    "duration": 6.48
+  },
+  {
+    "text": "becoming a bigger GL Global Reserve",
+    "start": 716.92,
+    "duration": 5.039
+  },
+  {
+    "text": "asset Global Reserve currency you",
+    "start": 720.16,
+    "duration": 2.72
+  },
+  {
+    "text": "mentioned that you're seeing",
+    "start": 721.959,
+    "duration": 3.721
+  },
+  {
+    "text": "corporations now also start to get",
+    "start": 722.88,
+    "duration": 5.199
+  },
+  {
+    "text": "exposure to bitcoin for their assets",
+    "start": 725.68,
+    "duration": 5.32
+  },
+  {
+    "text": "rather than treasuries or cash and that",
+    "start": 728.079,
+    "duration": 5.12
+  },
+  {
+    "text": "spot ETF makes it a lot easier to do",
+    "start": 731.0,
+    "duration": 4.839
+  },
+  {
+    "text": "that do you see that Trend continuing do",
+    "start": 733.199,
+    "duration": 4.401
+  },
+  {
+    "text": "you see public companies I mean",
+    "start": 735.839,
+    "duration": 4.0
+  },
+  {
+    "text": "obviously micro strategy Michael sailor",
+    "start": 737.6,
+    "duration": 4.84
+  },
+  {
+    "text": "led the way that are you seeing that",
+    "start": 739.839,
+    "duration": 3.8
+  },
+  {
+    "text": "Trend",
+    "start": 742.44,
+    "duration": 4.12
+  },
+  {
+    "text": "accelerating everywhere I mean look",
+    "start": 743.639,
+    "duration": 4.76
+  },
+  {
+    "text": "everyone knows that holding dollars is a",
+    "start": 746.56,
+    "duration": 5.88
+  },
+  {
+    "text": "problem so look wealthy people I think",
+    "start": 748.399,
+    "duration": 6.361
+  },
+  {
+    "text": "are perceived as holding lots of dollars",
+    "start": 752.44,
+    "duration": 5.16
+  },
+  {
+    "text": "they don't they hold lots of assets um",
+    "start": 754.76,
+    "duration": 4.319
+  },
+  {
+    "text": "they will hold stocks they will hold",
+    "start": 757.6,
+    "duration": 3.12
+  },
+  {
+    "text": "real estate they will hold whatever they",
+    "start": 759.079,
+    "duration": 3.88
+  },
+  {
+    "text": "can but they tend to try to not hold",
+    "start": 760.72,
+    "duration": 4.44
+  },
+  {
+    "text": "cash uh corporate treasuries that do",
+    "start": 762.959,
+    "duration": 4.281
+  },
+  {
+    "text": "hold a lot of cash remember",
+    "start": 765.16,
+    "duration": 4.44
+  },
+  {
+    "text": "corporations have that cash as a result",
+    "start": 767.24,
+    "duration": 4.159
+  },
+  {
+    "text": "of having run their business and they",
+    "start": 769.6,
+    "duration": 3.96
+  },
+  {
+    "text": "use that cash to operate their business",
+    "start": 771.399,
+    "duration": 5.401
+  },
+  {
+    "text": "pay salaries Etc sometimes they amass",
+    "start": 773.56,
+    "duration": 5.719
+  },
+  {
+    "text": "very large fortunes Apple for instance",
+    "start": 776.8,
+    "duration": 4.8
+  },
+  {
+    "text": "they have what trillion dollars I know",
+    "start": 779.279,
+    "duration": 4.281
+  },
+  {
+    "text": "it's either either High hundreds of",
+    "start": 781.6,
+    "duration": 3.64
+  },
+  {
+    "text": "billions or trillion dollars like",
+    "start": 783.56,
+    "duration": 4.0
+  },
+  {
+    "text": "they've got a massive treasury well now",
+    "start": 785.24,
+    "duration": 3.719
+  },
+  {
+    "text": "they've got a new problem which is just",
+    "start": 787.56,
+    "duration": 2.719
+  },
+  {
+    "text": "how do you manage that now they got a",
+    "start": 788.959,
+    "duration": 2.721
+  },
+  {
+    "text": "global business so they need a lot of",
+    "start": 790.279,
+    "duration": 3.441
+  },
+  {
+    "text": "currency to manage their Global business",
+    "start": 791.68,
+    "duration": 3.88
+  },
+  {
+    "text": "but they've got a lot of excess cash and",
+    "start": 793.72,
+    "duration": 2.88
+  },
+  {
+    "text": "of course they want to preserve the",
+    "start": 795.56,
+    "duration": 2.88
+  },
+  {
+    "text": "value what are they going to do do you",
+    "start": 796.6,
+    "duration": 3.72
+  },
+  {
+    "text": "think they're just going to sit idly by",
+    "start": 798.44,
+    "duration": 3.24
+  },
+  {
+    "text": "while the value of their dollar goes",
+    "start": 800.32,
+    "duration": 3.519
+  },
+  {
+    "text": "down relative to all kinds of other",
+    "start": 801.68,
+    "duration": 3.959
+  },
+  {
+    "text": "assets around the globe no they're going",
+    "start": 803.839,
+    "duration": 4.041
+  },
+  {
+    "text": "to increasingly say you know what just",
+    "start": 805.639,
+    "duration": 3.961
+  },
+  {
+    "text": "like retail just like IND individuals",
+    "start": 807.88,
+    "duration": 4.12
+  },
+  {
+    "text": "need to have today 3 to 5% of their",
+    "start": 809.6,
+    "duration": 4.359
+  },
+  {
+    "text": "portfolio allocated to bitcoin they're",
+    "start": 812.0,
+    "duration": 3.199
+  },
+  {
+    "text": "going to do it too by the way I don't",
+    "start": 813.959,
+    "duration": 3.801
+  },
+  {
+    "text": "know if you saw um Fidelity has a number",
+    "start": 815.199,
+    "duration": 4.32
+  },
+  {
+    "text": "of recommended you know Investment",
+    "start": 817.76,
+    "duration": 4.96
+  },
+  {
+    "text": "Portfolio packages the um the Fidelity",
+    "start": 819.519,
+    "duration": 5.201
+  },
+  {
+    "text": "um I forgotten the name of the fund we",
+    "start": 822.72,
+    "duration": 4.16
+  },
+  {
+    "text": "can look it up later but uh they're",
+    "start": 824.72,
+    "duration": 4.0
+  },
+  {
+    "text": "recommending basically three different",
+    "start": 826.88,
+    "duration": 4.0
+  },
+  {
+    "text": "allocations one is 1% to bitcoin one's",
+    "start": 828.72,
+    "duration": 4.64
+  },
+  {
+    "text": "two to% to bitcoin the other one's 3% to",
+    "start": 830.88,
+    "duration": 4.48
+  },
+  {
+    "text": "bitcoin um just straight up in the",
+    "start": 833.36,
+    "duration": 3.919
+  },
+  {
+    "text": "recommended portfolio allocation so",
+    "start": 835.36,
+    "duration": 3.399
+  },
+  {
+    "text": "we're seeing that from Financial experts",
+    "start": 837.279,
+    "duration": 2.321
+  },
+  {
+    "text": "everywhere",
+    "start": 838.759,
+    "duration": 3.361
+  },
+  {
+    "text": "do you have a bitcoin price target",
+    "start": 839.6,
+    "duration": 6.919
+  },
+  {
+    "text": "for consensus 2025 assuming that it's uh",
+    "start": 842.12,
+    "duration": 6.88
+  },
+  {
+    "text": "same time more or less what are we may",
+    "start": 846.519,
+    "duration": 5.721
+  },
+  {
+    "text": "may next year end of May next year uh",
+    "start": 849.0,
+    "duration": 4.639
+  },
+  {
+    "text": "look I don't know it'll continue to kind",
+    "start": 852.24,
+    "duration": 4.08
+  },
+  {
+    "text": "of March higher it'll sometimes setbacks",
+    "start": 853.639,
+    "duration": 4.161
+  },
+  {
+    "text": "um that might be around the time we have",
+    "start": 856.32,
+    "duration": 3.12
+  },
+  {
+    "text": "a little bit of a a pullback I don't",
+    "start": 857.8,
+    "duration": 3.0
+  },
+  {
+    "text": "know maybe it'll be maybe it'll still be",
+    "start": 859.44,
+    "duration": 3.24
+  },
+  {
+    "text": "around 125 I'm not sure this is what",
+    "start": 860.8,
+    "duration": 4.64
+  },
+  {
+    "text": "happens when you nailed it so correctly",
+    "start": 862.68,
+    "duration": 5.2
+  },
+  {
+    "text": "last time look we will see a rise in",
+    "start": 865.44,
+    "duration": 4.48
+  },
+  {
+    "text": "price there will be massive Spike then",
+    "start": 867.88,
+    "duration": 4.44
+  },
+  {
+    "text": "there will be a massive crash but you",
+    "start": 869.92,
+    "duration": 4.52
+  },
+  {
+    "text": "know for as much as it goes down it's",
+    "start": 872.32,
+    "duration": 3.56
+  },
+  {
+    "text": "going to continue its General path",
+    "start": 874.44,
+    "duration": 3.24
+  },
+  {
+    "text": "remember I think your your audience",
+    "start": 875.88,
+    "duration": 3.84
+  },
+  {
+    "text": "probably knows this super well but the",
+    "start": 877.68,
+    "duration": 3.64
+  },
+  {
+    "text": "top performing asset of the last 10",
+    "start": 879.72,
+    "duration": 3.679
+  },
+  {
+    "text": "years The Last 5 Years last three years",
+    "start": 881.32,
+    "duration": 4.56
+  },
+  {
+    "text": "it's like always Bitcoin um and it's",
+    "start": 883.399,
+    "duration": 4.481
+  },
+  {
+    "text": "going to continue that Trend mainly",
+    "start": 885.88,
+    "duration": 3.759
+  },
+  {
+    "text": "thanks to the dollar",
+    "start": 887.88,
+    "duration": 4.959
+  },
+  {
+    "text": "frankly let's talk about some of the the",
+    "start": 889.639,
+    "duration": 5.281
+  },
+  {
+    "text": "macro data that we got today right",
+    "start": 892.839,
+    "duration": 4.281
+  },
+  {
+    "text": "because we got what um the fed's",
+    "start": 894.92,
+    "duration": 4.08
+  },
+  {
+    "text": "preferred inflation measure Rising zero",
+    "start": 897.12,
+    "duration": 6.519
+  },
+  {
+    "text": "0.2% in April uh core PC up 2.8%",
+    "start": 899.0,
+    "duration": 6.04
+  },
+  {
+    "text": "year-over-year",
+    "start": 903.639,
+    "duration": 4.161
+  },
+  {
+    "text": "0.1% higher than the",
+    "start": 905.04,
+    "duration": 4.84
+  },
+  {
+    "text": "estimate assing you go with these",
+    "start": 907.8,
+    "duration": 3.959
+  },
+  {
+    "text": "figures right and this is core PC",
+    "start": 909.88,
+    "duration": 3.879
+  },
+  {
+    "text": "stripping away energy and food which is",
+    "start": 911.759,
+    "duration": 3.481
+  },
+  {
+    "text": "great because that's what people you",
+    "start": 913.759,
+    "duration": 4.361
+  },
+  {
+    "text": "know really spend their money on uh what",
+    "start": 915.24,
+    "duration": 7.0
+  },
+  {
+    "text": "do you see in terms of the FED doing",
+    "start": 918.12,
+    "duration": 6.48
+  },
+  {
+    "text": "with regards to this now shows like I",
+    "start": 922.24,
+    "duration": 5.12
+  },
+  {
+    "text": "guess you could spin it as inflation is",
+    "start": 924.6,
+    "duration": 5.799
+  },
+  {
+    "text": "under control it's at 2.8% year of a",
+    "start": 927.36,
+    "duration": 4.479
+  },
+  {
+    "text": "year that's discounting the fact that",
+    "start": 930.399,
+    "duration": 4.68
+  },
+  {
+    "text": "it's up like about 16% since uh the",
+    "start": 931.839,
+    "duration": 5.92
+  },
+  {
+    "text": "aggressive uh monetary and fiscal policy",
+    "start": 935.079,
+    "duration": 5.041
+  },
+  {
+    "text": "began but what does this mean in terms",
+    "start": 937.759,
+    "duration": 5.08
+  },
+  {
+    "text": "of Fed rate Cuts what is your",
+    "start": 940.12,
+    "duration": 4.639
+  },
+  {
+    "text": "expectation there should are we getting",
+    "start": 942.839,
+    "duration": 4.961
+  },
+  {
+    "text": "one in in September what's your outlook",
+    "start": 944.759,
+    "duration": 4.401
+  },
+  {
+    "text": "and what we can expect from the fed well",
+    "start": 947.8,
+    "duration": 4.12
+  },
+  {
+    "text": "it's an election year so a lot of things",
+    "start": 949.16,
+    "duration": 6.239
+  },
+  {
+    "text": "can happen um as",
+    "start": 951.92,
+    "duration": 6.08
+  },
+  {
+    "text": "you read off kind of all those stats I",
+    "start": 955.399,
+    "duration": 5.0
+  },
+  {
+    "text": "mean I'm almost wanting to CSE uh here",
+    "start": 958.0,
+    "duration": 5.04
+  },
+  {
+    "text": "on camera um I I don't think any of",
+    "start": 960.399,
+    "duration": 4.281
+  },
+  {
+    "text": "those numbers are real you know Larry",
+    "start": 963.04,
+    "duration": 4.0
+  },
+  {
+    "text": "Summers put out a research report I",
+    "start": 964.68,
+    "duration": 4.36
+  },
+  {
+    "text": "think about 3 months ago talking about",
+    "start": 967.04,
+    "duration": 4.4
+  },
+  {
+    "text": "inflation and just how we keep doctoring",
+    "start": 969.04,
+    "duration": 4.56
+  },
+  {
+    "text": "the numbers um and it's moved into the",
+    "start": 971.44,
+    "duration": 4.0
+  },
+  {
+    "text": "political sphere so whatever you're",
+    "start": 973.6,
+    "duration": 3.76
+  },
+  {
+    "text": "hearing on a day-to-day basis on",
+    "start": 975.44,
+    "duration": 4.199
+  },
+  {
+    "text": "inflation did this or did that I don't",
+    "start": 977.36,
+    "duration": 4.159
+  },
+  {
+    "text": "know what it means uh here's two things",
+    "start": 979.639,
+    "duration": 3.76
+  },
+  {
+    "text": "that I do think matter uh you remember",
+    "start": 981.519,
+    "duration": 4.32
+  },
+  {
+    "text": "the misery index you've heard of this",
+    "start": 983.399,
+    "duration": 5.641
+  },
+  {
+    "text": "number so the misery index uh is is",
+    "start": 985.839,
+    "duration": 5.56
+  },
+  {
+    "text": "basically a combination of inflation",
+    "start": 989.04,
+    "duration": 4.719
+  },
+  {
+    "text": "plus the cost of borrowing money because",
+    "start": 991.399,
+    "duration": 4.161
+  },
+  {
+    "text": "the reality is that Americans borrow",
+    "start": 993.759,
+    "duration": 3.921
+  },
+  {
+    "text": "money we borrow for a mortgages we",
+    "start": 995.56,
+    "duration": 5.56
+  },
+  {
+    "text": "borrow for our cars and so to not count",
+    "start": 997.68,
+    "duration": 6.0
+  },
+  {
+    "text": "the fact that borrowing money is more",
+    "start": 1001.12,
+    "duration": 5.639
+  },
+  {
+    "text": "expensive today by a lot than it was 5",
+    "start": 1003.68,
+    "duration": 5.56
+  },
+  {
+    "text": "years ago is to not reflect the view of",
+    "start": 1006.759,
+    "duration": 4.52
+  },
+  {
+    "text": "the consumer so we're in an election",
+    "start": 1009.24,
+    "duration": 4.159
+  },
+  {
+    "text": "year and you see this stuff coming out",
+    "start": 1011.279,
+    "duration": 4.841
+  },
+  {
+    "text": "in campaigns from the incumbents saying",
+    "start": 1013.399,
+    "duration": 4.68
+  },
+  {
+    "text": "oh the economy is doing great it's never",
+    "start": 1016.12,
+    "duration": 4.199
+  },
+  {
+    "text": "been better right and they're trying to",
+    "start": 1018.079,
+    "duration": 4.88
+  },
+  {
+    "text": "like literally Gaslight all of the",
+    "start": 1020.319,
+    "duration": 4.52
+  },
+  {
+    "text": "American citizens into believing that",
+    "start": 1022.959,
+    "duration": 4.321
+  },
+  {
+    "text": "what they're feeling is not true right",
+    "start": 1024.839,
+    "duration": 5.08
+  },
+  {
+    "text": "look Americans are feeling pain mostly",
+    "start": 1027.28,
+    "duration": 4.2
+  },
+  {
+    "text": "because of borrowing costs which is",
+    "start": 1029.919,
+    "duration": 4.0
+  },
+  {
+    "text": "mostly related to the FED right and then",
+    "start": 1031.48,
+    "duration": 4.52
+  },
+  {
+    "text": "on top of that you've got inflation and",
+    "start": 1033.919,
+    "duration": 3.92
+  },
+  {
+    "text": "the inflation we know is doctored in",
+    "start": 1036.0,
+    "duration": 3.799
+  },
+  {
+    "text": "terms of the numbers that you read so",
+    "start": 1037.839,
+    "duration": 3.84
+  },
+  {
+    "text": "it's even worse whatever you read is",
+    "start": 1039.799,
+    "duration": 3.52
+  },
+  {
+    "text": "what the government's willing to admit",
+    "start": 1041.679,
+    "duration": 3.24
+  },
+  {
+    "text": "and you know it's only worse than that",
+    "start": 1043.319,
+    "duration": 2.801
+  },
+  {
+    "text": "and you know they didn't include the",
+    "start": 1044.919,
+    "duration": 3.4
+  },
+  {
+    "text": "cost of borrowing all right so this is",
+    "start": 1046.12,
+    "duration": 4.679
+  },
+  {
+    "text": "why we see polls from Americans that",
+    "start": 1048.319,
+    "duration": 4.641
+  },
+  {
+    "text": "like they've never been more squeezed",
+    "start": 1050.799,
+    "duration": 4.681
+  },
+  {
+    "text": "and yet we have political regimes that",
+    "start": 1052.96,
+    "duration": 4.2
+  },
+  {
+    "text": "are trying to tell us the economy is",
+    "start": 1055.48,
+    "duration": 4.52
+  },
+  {
+    "text": "doing great um so anyway um what does",
+    "start": 1057.16,
+    "duration": 4.519
+  },
+  {
+    "text": "this mean uh I guess you asked a",
+    "start": 1060.0,
+    "duration": 4.2
+  },
+  {
+    "text": "question um well do you expect the FED",
+    "start": 1061.679,
+    "duration": 6.88
+  },
+  {
+    "text": "to cut rates based on this data and you",
+    "start": 1064.2,
+    "duration": 6.56
+  },
+  {
+    "text": "know yes it's it's a political issue as",
+    "start": 1068.559,
+    "duration": 4.201
+  },
+  {
+    "text": "well right before the elections all",
+    "start": 1070.76,
+    "duration": 3.6
+  },
+  {
+    "text": "right I'll predict for you because you",
+    "start": 1072.76,
+    "duration": 3.68
+  },
+  {
+    "text": "say I'm a good predictor uh but I don't",
+    "start": 1074.36,
+    "duration": 3.12
+  },
+  {
+    "text": "I don't know this is a little out of my",
+    "start": 1076.44,
+    "duration": 3.8
+  },
+  {
+    "text": "element I I would expect that yes we",
+    "start": 1077.48,
+    "duration": 5.48
+  },
+  {
+    "text": "could well see a rate cut sooner than",
+    "start": 1080.24,
+    "duration": 5.319
+  },
+  {
+    "text": "later completely politically motivated I",
+    "start": 1082.96,
+    "duration": 4.24
+  },
+  {
+    "text": "mean it seems like every day you're",
+    "start": 1085.559,
+    "duration": 3.48
+  },
+  {
+    "text": "reading like oh we're going to like",
+    "start": 1087.2,
+    "duration": 3.8
+  },
+  {
+    "text": "forgive student debt oh we're going to",
+    "start": 1089.039,
+    "duration": 4.841
+  },
+  {
+    "text": "add $10,000 to firsttime mortgage buyers",
+    "start": 1091.0,
+    "duration": 4.84
+  },
+  {
+    "text": "I mean there's just all these how do I",
+    "start": 1093.88,
+    "duration": 4.279
+  },
+  {
+    "text": "buy vote campaigns out there and another",
+    "start": 1095.84,
+    "duration": 4.28
+  },
+  {
+    "text": "way to do it right before the election",
+    "start": 1098.159,
+    "duration": 5.121
+  },
+  {
+    "text": "is to cut the rates so um I would not be",
+    "start": 1100.12,
+    "duration": 6.32
+  },
+  {
+    "text": "surprised if we see a cut but look the",
+    "start": 1103.28,
+    "duration": 5.08
+  },
+  {
+    "text": "US government is in a tough place you",
+    "start": 1106.44,
+    "duration": 3.32
+  },
+  {
+    "text": "cut those rates yes we're going to see",
+    "start": 1108.36,
+    "duration": 3.52
+  },
+  {
+    "text": "more inflation I guess they'll doctor",
+    "start": 1109.76,
+    "duration": 4.56
+  },
+  {
+    "text": "the numbers a little bit more um and if",
+    "start": 1111.88,
+    "duration": 4.72
+  },
+  {
+    "text": "they don't cut the rates well then the",
+    "start": 1114.32,
+    "duration": 3.56
+  },
+  {
+    "text": "the uh the interest on the debt is going",
+    "start": 1116.6,
+    "duration": 2.959
+  },
+  {
+    "text": "to go through the roof and and and we",
+    "start": 1117.88,
+    "duration": 4.88
+  },
+  {
+    "text": "got that problem there and rate cutting",
+    "start": 1119.559,
+    "duration": 6.561
+  },
+  {
+    "text": "in terms of the Bitcoin picture I mean",
+    "start": 1122.76,
+    "duration": 5.36
+  },
+  {
+    "text": "obviously bullish for Bitcoin yeah",
+    "start": 1126.12,
+    "duration": 3.64
+  },
+  {
+    "text": "usually the markets react pretty",
+    "start": 1128.12,
+    "duration": 3.48
+  },
+  {
+    "text": "positively so the stock market will go a",
+    "start": 1129.76,
+    "duration": 3.52
+  },
+  {
+    "text": "little higher and and more people will",
+    "start": 1131.6,
+    "duration": 5.0
+  },
+  {
+    "text": "buy Bitcoin that's correct so you said",
+    "start": 1133.28,
+    "duration": 6.519
+  },
+  {
+    "text": "you know buying political sway buying",
+    "start": 1136.6,
+    "duration": 6.24
+  },
+  {
+    "text": "political favors um with rate Cuts",
+    "start": 1139.799,
+    "duration": 4.841
+  },
+  {
+    "text": "because we're in an election",
+    "start": 1142.84,
+    "duration": 4.8
+  },
+  {
+    "text": "year and last time you said that",
+    "start": 1144.64,
+    "duration": 4.8
+  },
+  {
+    "text": "political Powers were keeping the spot",
+    "start": 1147.64,
+    "duration": 4.64
+  },
+  {
+    "text": "Bitcoin ETF at Bay seems that the",
+    "start": 1149.44,
+    "duration": 5.32
+  },
+  {
+    "text": "consensus at consensus is that politics",
+    "start": 1152.28,
+    "duration": 5.04
+  },
+  {
+    "text": "played a very big part with this uh",
+    "start": 1154.76,
+    "duration": 5.039
+  },
+  {
+    "text": "surprise 180 with the SEC giving the",
+    "start": 1157.32,
+    "duration": 6.12
+  },
+  {
+    "text": "green light for the spot eth ETFs I mean",
+    "start": 1159.799,
+    "duration": 5.88
+  },
+  {
+    "text": "we we can't deny it right I mean we got",
+    "start": 1163.44,
+    "duration": 4.719
+  },
+  {
+    "text": "two parties fighting against each other",
+    "start": 1165.679,
+    "duration": 5.041
+  },
+  {
+    "text": "for power control um they've taken",
+    "start": 1168.159,
+    "duration": 5.201
+  },
+  {
+    "text": "different stances and you know the Trump",
+    "start": 1170.72,
+    "duration": 4.24
+  },
+  {
+    "text": "campaign came out and said hey we're",
+    "start": 1173.36,
+    "duration": 4.84
+  },
+  {
+    "text": "going to be Pro crypto and they saw very",
+    "start": 1174.96,
+    "duration": 5.839
+  },
+  {
+    "text": "much a lot of support and then there was",
+    "start": 1178.2,
+    "duration": 3.92
+  },
+  {
+    "text": "a couple of things that the Republicans",
+    "start": 1180.799,
+    "duration": 2.641
+  },
+  {
+    "text": "have been working on already with the",
+    "start": 1182.12,
+    "duration": 4.559
+  },
+  {
+    "text": "Sab 121 repeal uh and Then followed by",
+    "start": 1183.44,
+    "duration": 5.4
+  },
+  {
+    "text": "the fit 21 Market structure",
+    "start": 1186.679,
+    "duration": 4.681
+  },
+  {
+    "text": "bill and we saw Democrats are starting",
+    "start": 1188.84,
+    "duration": 4.52
+  },
+  {
+    "text": "to say like wait a minute I'm not really",
+    "start": 1191.36,
+    "duration": 4.84
+  },
+  {
+    "text": "against this stuff um so all of a sudden",
+    "start": 1193.36,
+    "duration": 4.76
+  },
+  {
+    "text": "yes we we seem to be seeing something",
+    "start": 1196.2,
+    "duration": 2.959
+  },
+  {
+    "text": "very different",
+    "start": 1198.12,
+    "duration": 3.799
+  },
+  {
+    "text": "on the political side and and look I",
+    "start": 1199.159,
+    "duration": 5.601
+  },
+  {
+    "text": "mean I really hate talking about",
+    "start": 1201.919,
+    "duration": 6.0
+  },
+  {
+    "text": "politics with regard to bitcoin Bitcoin",
+    "start": 1204.76,
+    "duration": 6.52
+  },
+  {
+    "text": "is money for the people um frankly if",
+    "start": 1207.919,
+    "duration": 5.12
+  },
+  {
+    "text": "there's any party that would kind of",
+    "start": 1211.28,
+    "duration": 4.639
+  },
+  {
+    "text": "self-identify with for the people it's",
+    "start": 1213.039,
+    "duration": 5.52
+  },
+  {
+    "text": "probably the Democrats if there's any",
+    "start": 1215.919,
+    "duration": 4.24
+  },
+  {
+    "text": "party that would identify with freedom",
+    "start": 1218.559,
+    "duration": 4.801
+  },
+  {
+    "text": "of money it's probably the Republicans",
+    "start": 1220.159,
+    "duration": 5.241
+  },
+  {
+    "text": "both of these parties ought to be",
+    "start": 1223.36,
+    "duration": 4.319
+  },
+  {
+    "text": "running to bitcoin recognizing that",
+    "start": 1225.4,
+    "duration": 3.8
+  },
+  {
+    "text": "what's going on with the Fed",
+    "start": 1227.679,
+    "duration": 3.48
+  },
+  {
+    "text": "is a disaster the problem that you just",
+    "start": 1229.2,
+    "duration": 4.479
+  },
+  {
+    "text": "described it's not solvable humans are",
+    "start": 1231.159,
+    "duration": 4.88
+  },
+  {
+    "text": "not going to get us out of this",
+    "start": 1233.679,
+    "duration": 5.161
+  },
+  {
+    "text": "and everyone can lie to us about the",
+    "start": 1236.039,
+    "duration": 4.841
+  },
+  {
+    "text": "state of the economy but we know what",
+    "start": 1238.84,
+    "duration": 4.04
+  },
+  {
+    "text": "the state of the economy is so look I",
+    "start": 1240.88,
+    "duration": 4.279
+  },
+  {
+    "text": "think the sooner that the parties both",
+    "start": 1242.88,
+    "duration": 4.76
+  },
+  {
+    "text": "Embrace Bitcoin and digital assets the",
+    "start": 1245.159,
+    "duration": 4.721
+  },
+  {
+    "text": "sooner we get better Innovation we bring",
+    "start": 1247.64,
+    "duration": 4.84
+  },
+  {
+    "text": "more assets into the us as a safe haven",
+    "start": 1249.88,
+    "duration": 4.159
+  },
+  {
+    "text": "a place that's going to drive digital",
+    "start": 1252.48,
+    "duration": 4.6
+  },
+  {
+    "text": "assets for not just the us but the world",
+    "start": 1254.039,
+    "duration": 4.681
+  },
+  {
+    "text": "and the sooner we get to figure out how",
+    "start": 1257.08,
+    "duration": 2.8
+  },
+  {
+    "text": "how we're going to solve our way out of",
+    "start": 1258.72,
+    "duration": 3.8
+  },
+  {
+    "text": "this mess this debt crisis that we're in",
+    "start": 1259.88,
+    "duration": 6.039
+  },
+  {
+    "text": "well it is a bit disconcerting that uh",
+    "start": 1262.52,
+    "duration": 7.36
+  },
+  {
+    "text": "the SEC was firmly against this spot EF",
+    "start": 1265.919,
+    "duration": 5.201
+  },
+  {
+    "text": "certainly wasn't looking like it was",
+    "start": 1269.88,
+    "duration": 3.64
+  },
+  {
+    "text": "going to give it an approval and then",
+    "start": 1271.12,
+    "duration": 5.48
+  },
+  {
+    "text": "one can speculate that Gary gansler or",
+    "start": 1273.52,
+    "duration": 4.88
+  },
+  {
+    "text": "someone at the SEC got a phone call",
+    "start": 1276.6,
+    "duration": 4.0
+  },
+  {
+    "text": "saying ah we're losing the crypto voters",
+    "start": 1278.4,
+    "duration": 3.96
+  },
+  {
+    "text": "turn this around now because the SEC is",
+    "start": 1280.6,
+    "duration": 3.199
+  },
+  {
+    "text": "supposed to be neutral it's not supposed",
+    "start": 1282.36,
+    "duration": 3.84
+  },
+  {
+    "text": "to be politically motivated and you know",
+    "start": 1283.799,
+    "duration": 3.721
+  },
+  {
+    "text": "you're saying we're questioning",
+    "start": 1286.2,
+    "duration": 3.88
+  },
+  {
+    "text": "inflation numbers this sort of feeds",
+    "start": 1287.52,
+    "duration": 5.2
+  },
+  {
+    "text": "into the theme of government and and",
+    "start": 1290.08,
+    "duration": 5.92
+  },
+  {
+    "text": "Regulatory buddies dist distrust right",
+    "start": 1292.72,
+    "duration": 4.76
+  },
+  {
+    "text": "absolutely I think it's getting more",
+    "start": 1296.0,
+    "duration": 3.4
+  },
+  {
+    "text": "public and more visible to everybody",
+    "start": 1297.48,
+    "duration": 3.72
+  },
+  {
+    "text": "look I've been in the crypto space for",
+    "start": 1299.4,
+    "duration": 3.44
+  },
+  {
+    "text": "10 years paying attention to this stuff",
+    "start": 1301.2,
+    "duration": 4.4
+  },
+  {
+    "text": "on a day in and day out basis um and we",
+    "start": 1302.84,
+    "duration": 5.04
+  },
+  {
+    "text": "see it and sometimes you know I talk to",
+    "start": 1305.6,
+    "duration": 3.72
+  },
+  {
+    "text": "friends and family outside of the",
+    "start": 1307.88,
+    "duration": 3.679
+  },
+  {
+    "text": "industry and they don't necessarily see",
+    "start": 1309.32,
+    "duration": 6.76
+  },
+  {
+    "text": "it but we saw years ago 2020 we had an",
+    "start": 1311.559,
+    "duration": 6.321
+  },
+  {
+    "text": "OCC that's the office of the com control",
+    "start": 1316.08,
+    "duration": 3.32
+  },
+  {
+    "text": "the currency this is the guy that",
+    "start": 1317.88,
+    "duration": 3.399
+  },
+  {
+    "text": "manages and regulates all of the big",
+    "start": 1319.4,
+    "duration": 4.399
+  },
+  {
+    "text": "banks in the United States say hey we",
+    "start": 1321.279,
+    "duration": 4.64
+  },
+  {
+    "text": "would like the big Banks to be able to",
+    "start": 1323.799,
+    "duration": 4.641
+  },
+  {
+    "text": "start managing digital assets Bitcoin",
+    "start": 1325.919,
+    "duration": 4.681
+  },
+  {
+    "text": "Etc and that happened just at the end of",
+    "start": 1328.44,
+    "duration": 4.2
+  },
+  {
+    "text": "the the Trump Administration I'm not",
+    "start": 1330.6,
+    "duration": 3.64
+  },
+  {
+    "text": "trying to be favoritism towards one or",
+    "start": 1332.64,
+    "duration": 2.56
+  },
+  {
+    "text": "the",
+    "start": 1334.24,
+    "duration": 3.439
+  },
+  {
+    "text": "other that was under the regulations of",
+    "start": 1335.2,
+    "duration": 4.16
+  },
+  {
+    "text": "the land which are set by the",
+    "start": 1337.679,
+    "duration": 4.24
+  },
+  {
+    "text": "legislation of the land and those rules",
+    "start": 1339.36,
+    "duration": 4.4
+  },
+  {
+    "text": "are supposed to be consistent regardless",
+    "start": 1341.919,
+    "duration": 4.281
+  },
+  {
+    "text": "of who sits in the Oval Office the only",
+    "start": 1343.76,
+    "duration": 4.24
+  },
+  {
+    "text": "thing that changed was we went from one",
+    "start": 1346.2,
+    "duration": 3.959
+  },
+  {
+    "text": "Administration to another and they of",
+    "start": 1348.0,
+    "duration": 4.88
+  },
+  {
+    "text": "course bring in their their set of head",
+    "start": 1350.159,
+    "duration": 4.801
+  },
+  {
+    "text": "regulators and all of a sudden even",
+    "start": 1352.88,
+    "duration": 4.72
+  },
+  {
+    "text": "though the laws did not change at all",
+    "start": 1354.96,
+    "duration": 4.599
+  },
+  {
+    "text": "even though the regulations as written",
+    "start": 1357.6,
+    "duration": 4.48
+  },
+  {
+    "text": "did not change at all the interpretation",
+    "start": 1359.559,
+    "duration": 5.881
+  },
+  {
+    "text": "of those regulations flipped nday and it",
+    "start": 1362.08,
+    "duration": 5.719
+  },
+  {
+    "text": "went from yes we support crypto to no we",
+    "start": 1365.44,
+    "duration": 5.16
+  },
+  {
+    "text": "don't support crypto so look one of the",
+    "start": 1367.799,
+    "duration": 5.12
+  },
+  {
+    "text": "great things about America is that it's",
+    "start": 1370.6,
+    "duration": 3.88
+  },
+  {
+    "text": "always been a place for freedom and",
+    "start": 1372.919,
+    "duration": 4.201
+  },
+  {
+    "text": "Innovation and business to grow in order",
+    "start": 1374.48,
+    "duration": 4.52
+  },
+  {
+    "text": "for business to grow we need to know",
+    "start": 1377.12,
+    "duration": 3.48
+  },
+  {
+    "text": "what the rules are yeah and we need",
+    "start": 1379.0,
+    "duration": 3.679
+  },
+  {
+    "text": "those rules to be consistent now that's",
+    "start": 1380.6,
+    "duration": 3.88
+  },
+  {
+    "text": "if the legislators if Congress comes in",
+    "start": 1382.679,
+    "duration": 3.841
+  },
+  {
+    "text": "and changes the rules all of us here in",
+    "start": 1384.48,
+    "duration": 4.199
+  },
+  {
+    "text": "America we are absolutely here and ready",
+    "start": 1386.52,
+    "duration": 4.2
+  },
+  {
+    "text": "to abide by those new rules but that's",
+    "start": 1388.679,
+    "duration": 4.081
+  },
+  {
+    "text": "not what happened the rules did not",
+    "start": 1390.72,
+    "duration": 4.64
+  },
+  {
+    "text": "change the regulations did not change",
+    "start": 1392.76,
+    "duration": 4.36
+  },
+  {
+    "text": "the president of the United States only",
+    "start": 1395.36,
+    "duration": 3.72
+  },
+  {
+    "text": "changed and this is not supposed to be a",
+    "start": 1397.12,
+    "duration": 4.08
+  },
+  {
+    "text": "dictatorship a monarchy or anything like",
+    "start": 1399.08,
+    "duration": 5.28
+  },
+  {
+    "text": "that and yet it was so those of us in",
+    "start": 1401.2,
+    "duration": 5.839
+  },
+  {
+    "text": "the crypto industry have seen the",
+    "start": 1404.36,
+    "duration": 5.679
+  },
+  {
+    "text": "politicization of ulation for quite some",
+    "start": 1407.039,
+    "duration": 5.841
+  },
+  {
+    "text": "time and we've been screaming about it",
+    "start": 1410.039,
+    "duration": 4.801
+  },
+  {
+    "text": "and people haven't quite felt it but now",
+    "start": 1412.88,
+    "duration": 3.84
+  },
+  {
+    "text": "all of a sudden this reversal of opinion",
+    "start": 1414.84,
+    "duration": 4.4
+  },
+  {
+    "text": "on ETFs has been very public it's been",
+    "start": 1416.72,
+    "duration": 4.079
+  },
+  {
+    "text": "in the news for all of mainstream",
+    "start": 1419.24,
+    "duration": 3.439
+  },
+  {
+    "text": "America and everybody looks at it and",
+    "start": 1420.799,
+    "duration": 3.561
+  },
+  {
+    "text": "says wait a minute that seems like it",
+    "start": 1422.679,
+    "duration": 4.0
+  },
+  {
+    "text": "was kind of political so you know",
+    "start": 1424.36,
+    "duration": 3.72
+  },
+  {
+    "text": "combine that with the other political",
+    "start": 1426.679,
+    "duration": 3.801
+  },
+  {
+    "text": "things that are happening and I think",
+    "start": 1428.08,
+    "duration": 5.16
+  },
+  {
+    "text": "unfortunately as the US economy moves",
+    "start": 1430.48,
+    "duration": 4.96
+  },
+  {
+    "text": "more towards a rickety basis and you",
+    "start": 1433.24,
+    "duration": 3.52
+  },
+  {
+    "text": "hear this from great experts I'll",
+    "start": 1435.44,
+    "duration": 4.359
+  },
+  {
+    "text": "mention Larry Summers again R diio again",
+    "start": 1436.76,
+    "duration": 5.32
+  },
+  {
+    "text": "people are calling for like there could",
+    "start": 1439.799,
+    "duration": 4.0
+  },
+  {
+    "text": "be some extreme things happening in the",
+    "start": 1442.08,
+    "duration": 3.36
+  },
+  {
+    "text": "United States all the way to potentially",
+    "start": 1443.799,
+    "duration": 3.88
+  },
+  {
+    "text": "Civil War I'm not sure I agree with that",
+    "start": 1445.44,
+    "duration": 3.76
+  },
+  {
+    "text": "statement being I think it's a little",
+    "start": 1447.679,
+    "duration": 3.36
+  },
+  {
+    "text": "too colored",
+    "start": 1449.2,
+    "duration": 4.04
+  },
+  {
+    "text": "but as the US gets a little bit more",
+    "start": 1451.039,
+    "duration": 4.201
+  },
+  {
+    "text": "rickety due to its debt position",
+    "start": 1453.24,
+    "duration": 4.52
+  },
+  {
+    "text": "inability to control inflation things",
+    "start": 1455.24,
+    "duration": 4.84
+  },
+  {
+    "text": "are going to get worse the politicians",
+    "start": 1457.76,
+    "duration": 4.0
+  },
+  {
+    "text": "unfortunately are each trying to get",
+    "start": 1460.08,
+    "duration": 4.24
+  },
+  {
+    "text": "elected and maintain their power they",
+    "start": 1461.76,
+    "duration": 3.88
+  },
+  {
+    "text": "will tell us the story that best gets",
+    "start": 1464.32,
+    "duration": 4.44
+  },
+  {
+    "text": "them elected and waning trust in instit",
+    "start": 1465.64,
+    "duration": 5.759
+  },
+  {
+    "text": "waning trust in declining trust in",
+    "start": 1468.76,
+    "duration": 4.24
+  },
+  {
+    "text": "government institutions as we've just",
+    "start": 1471.399,
+    "duration": 4.76
+  },
+  {
+    "text": "seen you know with the SEC which we're",
+    "start": 1473.0,
+    "duration": 5.799
+  },
+  {
+    "text": "now have confirmation in a way that",
+    "start": 1476.159,
+    "duration": 5.441
+  },
+  {
+    "text": "politics is playing a part it's perhaps",
+    "start": 1478.799,
+    "duration": 4.521
+  },
+  {
+    "text": "in and it's right in mainstream America",
+    "start": 1481.6,
+    "duration": 3.12
+  },
+  {
+    "text": "and perhaps it's in the favor of the",
+    "start": 1483.32,
+    "duration": 3.0
+  },
+  {
+    "text": "crypto sector right now with this",
+    "start": 1484.72,
+    "duration": 3.319
+  },
+  {
+    "text": "decision but you know you have to wonder",
+    "start": 1486.32,
+    "duration": 4.0
+  },
+  {
+    "text": "how much of it was against the crypto",
+    "start": 1488.039,
+    "duration": 4.76
+  },
+  {
+    "text": "sector other sectors before like with",
+    "start": 1490.32,
+    "duration": 5.68
+  },
+  {
+    "text": "operation choke point 2.0 where we were",
+    "start": 1492.799,
+    "duration": 5.201
+  },
+  {
+    "text": "speculating that the onramps into the",
+    "start": 1496.0,
+    "duration": 5.32
+  },
+  {
+    "text": "crypto industry were being blocked by",
+    "start": 1498.0,
+    "duration": 5.919
+  },
+  {
+    "text": "you know other bodies so it's it's",
+    "start": 1501.32,
+    "duration": 5.4
+  },
+  {
+    "text": "disconcerting where we're seeing clear",
+    "start": 1503.919,
+    "duration": 5.041
+  },
+  {
+    "text": "evidence of political manipulation or",
+    "start": 1506.72,
+    "duration": 4.04
+  },
+  {
+    "text": "what appears to be clear evidence of",
+    "start": 1508.96,
+    "duration": 3.24
+  },
+  {
+    "text": "political manipulation well what I was",
+    "start": 1510.76,
+    "duration": 4.279
+  },
+  {
+    "text": "trying to say is that as the US economy",
+    "start": 1512.2,
+    "duration": 5.199
+  },
+  {
+    "text": "struggles more gets more rickety it's",
+    "start": 1515.039,
+    "duration": 4.52
+  },
+  {
+    "text": "going to get increasingly obvious that",
+    "start": 1517.399,
+    "duration": 3.961
+  },
+  {
+    "text": "there's political tampering operation",
+    "start": 1519.559,
+    "duration": 4.6
+  },
+  {
+    "text": "chokepoint 2.0 absolutely was real",
+    "start": 1521.36,
+    "duration": 4.919
+  },
+  {
+    "text": "crypto companies saw it we felt it we",
+    "start": 1524.159,
+    "duration": 4.561
+  },
+  {
+    "text": "lived it we complained about it but",
+    "start": 1526.279,
+    "duration": 3.681
+  },
+  {
+    "text": "because it was a little bit more behind",
+    "start": 1528.72,
+    "duration": 2.319
+  },
+  {
+    "text": "the scenes you know the rest of the",
+    "start": 1529.96,
+    "duration": 2.52
+  },
+  {
+    "text": "world's kind of like is it real I'm not",
+    "start": 1531.039,
+    "duration": 3.841
+  },
+  {
+    "text": "sure but with this one everybody sees it",
+    "start": 1532.48,
+    "duration": 5.4
+  },
+  {
+    "text": "it's right in plain sight well it is a",
+    "start": 1534.88,
+    "duration": 6.039
+  },
+  {
+    "text": "reality now whatever the motivations we",
+    "start": 1537.88,
+    "duration": 5.919
+  },
+  {
+    "text": "have the green light for the spot eth",
+    "start": 1540.919,
+    "duration": 6.0
+  },
+  {
+    "text": "ETFs uh expecting these to launch around",
+    "start": 1543.799,
+    "duration": 4.76
+  },
+  {
+    "text": "July I believe what what is your",
+    "start": 1546.919,
+    "duration": 3.601
+  },
+  {
+    "text": "expectations there what are you hearing",
+    "start": 1548.559,
+    "duration": 5.081
+  },
+  {
+    "text": "in terms of bito having a custodian role",
+    "start": 1550.52,
+    "duration": 4.72
+  },
+  {
+    "text": "in the spot eth",
+    "start": 1553.64,
+    "duration": 3.72
+  },
+  {
+    "text": "ETFs I'll go ahead and predict that I",
+    "start": 1555.24,
+    "duration": 3.2
+  },
+  {
+    "text": "think the ETFs are going to take a",
+    "start": 1557.36,
+    "duration": 2.88
+  },
+  {
+    "text": "little longer for ethereum to get fully",
+    "start": 1558.44,
+    "duration": 3.479
+  },
+  {
+    "text": "approved but I do think they will get",
+    "start": 1560.24,
+    "duration": 4.08
+  },
+  {
+    "text": "approved I think the what what what kind",
+    "start": 1561.919,
+    "duration": 4.681
+  },
+  {
+    "text": "of timeline maybe the second half of",
+    "start": 1564.32,
+    "duration": 4.959
+  },
+  {
+    "text": "this year instead of you know July um",
+    "start": 1566.6,
+    "duration": 4.88
+  },
+  {
+    "text": "but uh I think they will come through",
+    "start": 1569.279,
+    "duration": 4.041
+  },
+  {
+    "text": "and I I think you can't really put that",
+    "start": 1571.48,
+    "duration": 3.96
+  },
+  {
+    "text": "Genie back back in the bottom um and",
+    "start": 1573.32,
+    "duration": 4.599
+  },
+  {
+    "text": "then absolutely bco has got a role on",
+    "start": 1575.44,
+    "duration": 4.0
+  },
+  {
+    "text": "day one you'll see us listed with a",
+    "start": 1577.919,
+    "duration": 5.0
+  },
+  {
+    "text": "number of the of the ETFs are you have",
+    "start": 1579.44,
+    "duration": 5.359
+  },
+  {
+    "text": "you finalized anything with with any of",
+    "start": 1582.919,
+    "duration": 4.441
+  },
+  {
+    "text": "the assures that you can share with us",
+    "start": 1584.799,
+    "duration": 3.921
+  },
+  {
+    "text": "I'm not going to share but yes we have",
+    "start": 1587.36,
+    "duration": 3.199
+  },
+  {
+    "text": "finalized many things with some of the",
+    "start": 1588.72,
+    "duration": 5.439
+  },
+  {
+    "text": "issu well I have to ask Mike so nothing",
+    "start": 1590.559,
+    "duration": 5.12
+  },
+  {
+    "text": "that you can disclose yet but you're",
+    "start": 1594.159,
+    "duration": 4.361
+  },
+  {
+    "text": "anticipating by this end of",
+    "start": 1595.679,
+    "duration": 5.24
+  },
+  {
+    "text": "2024 yeah I would say probably like Q4",
+    "start": 1598.52,
+    "duration": 4.12
+  },
+  {
+    "text": "we'll see some I think at that point we",
+    "start": 1600.919,
+    "duration": 3.521
+  },
+  {
+    "text": "might we might see it okay well like I",
+    "start": 1602.64,
+    "duration": 4.08
+  },
+  {
+    "text": "said you've been right before so I have",
+    "start": 1604.44,
+    "duration": 5.44
+  },
+  {
+    "text": "to then ask what what only get worse",
+    "start": 1606.72,
+    "duration": 4.72
+  },
+  {
+    "text": "what what do you think this means then",
+    "start": 1609.88,
+    "duration": 5.56
+  },
+  {
+    "text": "in terms of eth price I think it'll help",
+    "start": 1611.44,
+    "duration": 7.04
+  },
+  {
+    "text": "the ethereum price look um",
+    "start": 1615.44,
+    "duration": 5.56
+  },
+  {
+    "text": "ethereum is so different from Bitcoin",
+    "start": 1618.48,
+    "duration": 4.48
+  },
+  {
+    "text": "and I'm very excited about ethereum uh",
+    "start": 1621.0,
+    "duration": 3.44
+  },
+  {
+    "text": "I'm excited about ethereum because it's",
+    "start": 1622.96,
+    "duration": 3.56
+  },
+  {
+    "text": "a smart smart contract programming",
+    "start": 1624.44,
+    "duration": 4.52
+  },
+  {
+    "text": "platform which allows us to start taking",
+    "start": 1626.52,
+    "duration": 4.6
+  },
+  {
+    "text": "financial institution activity and",
+    "start": 1628.96,
+    "duration": 3.68
+  },
+  {
+    "text": "putting it into computer code that",
+    "start": 1631.12,
+    "duration": 5.24
+  },
+  {
+    "text": "everyone can verify that is so powerful",
+    "start": 1632.64,
+    "duration": 5.039
+  },
+  {
+    "text": "but that's very different than the store",
+    "start": 1636.36,
+    "duration": 3.319
+  },
+  {
+    "text": "value or payment system and I don't",
+    "start": 1637.679,
+    "duration": 4.841
+  },
+  {
+    "text": "really see ethereum as being a very",
+    "start": 1639.679,
+    "duration": 6.401
+  },
+  {
+    "text": "great store value or um or payment",
+    "start": 1642.52,
+    "duration": 5.24
+  },
+  {
+    "text": "system relative to other types of",
+    "start": 1646.08,
+    "duration": 4.56
+  },
+  {
+    "text": "products could buy so putting it into an",
+    "start": 1647.76,
+    "duration": 4.88
+  },
+  {
+    "text": "ETF I think it does",
+    "start": 1650.64,
+    "duration": 4.88
+  },
+  {
+    "text": "allow some hedge funds and others to bet",
+    "start": 1652.64,
+    "duration": 5.32
+  },
+  {
+    "text": "on the building of that smart contract",
+    "start": 1655.52,
+    "duration": 4.399
+  },
+  {
+    "text": "ecosystem Community whatever you want to",
+    "start": 1657.96,
+    "duration": 4.28
+  },
+  {
+    "text": "call it um but I think it's going to be",
+    "start": 1659.919,
+    "duration": 4.0
+  },
+  {
+    "text": "quite different than Bitcoin and I would",
+    "start": 1662.24,
+    "duration": 3.08
+  },
+  {
+    "text": "not be surprised if we see different",
+    "start": 1663.919,
+    "duration": 3.841
+  },
+  {
+    "text": "patterns of growth on the ethereum ETF",
+    "start": 1665.32,
+    "duration": 4.959
+  },
+  {
+    "text": "to the Bitcoin ETF well let's unpack",
+    "start": 1667.76,
+    "duration": 4.399
+  },
+  {
+    "text": "that I mean one of the things that was",
+    "start": 1670.279,
+    "duration": 4.64
+  },
+  {
+    "text": "driving the Bitcoin spot ETF is that we",
+    "start": 1672.159,
+    "duration": 4.281
+  },
+  {
+    "text": "had a pretty",
+    "start": 1674.919,
+    "duration": 4.321
+  },
+  {
+    "text": "clear narrative at least in terms of",
+    "start": 1676.44,
+    "duration": 4.76
+  },
+  {
+    "text": "mainstream that the message is that",
+    "start": 1679.24,
+    "duration": 5.6
+  },
+  {
+    "text": "Bitcoin is gold 2.0 store value Asset",
+    "start": 1681.2,
+    "duration": 7.44
+  },
+  {
+    "text": "right what is the messaging with eth",
+    "start": 1684.84,
+    "duration": 5.0
+  },
+  {
+    "text": "it's the place where that you build",
+    "start": 1688.64,
+    "duration": 3.12
+  },
+  {
+    "text": "applications on top of a",
+    "start": 1689.84,
+    "duration": 4.439
+  },
+  {
+    "text": "blockchain but if you were to simplify",
+    "start": 1691.76,
+    "duration": 5.159
+  },
+  {
+    "text": "that for a retail investor like retail",
+    "start": 1694.279,
+    "duration": 5.161
+  },
+  {
+    "text": "investor understands you know store of",
+    "start": 1696.919,
+    "duration": 5.921
+  },
+  {
+    "text": "value digital goals so we all work with",
+    "start": 1699.44,
+    "duration": 5.719
+  },
+  {
+    "text": "broker dealers to buy our stocks right",
+    "start": 1702.84,
+    "duration": 4.959
+  },
+  {
+    "text": "and and broker dealing is a a highly",
+    "start": 1705.159,
+    "duration": 4.601
+  },
+  {
+    "text": "regular ulated activity and it's",
+    "start": 1707.799,
+    "duration": 3.841
+  },
+  {
+    "text": "involving humans and if you go and look",
+    "start": 1709.76,
+    "duration": 3.24
+  },
+  {
+    "text": "at a broker dealer in addition to their",
+    "start": 1711.64,
+    "duration": 3.8
+  },
+  {
+    "text": "license they have to have Personnel that",
+    "start": 1713.0,
+    "duration": 4.64
+  },
+  {
+    "text": "have all been licensed to series 63s and",
+    "start": 1715.44,
+    "duration": 4.52
+  },
+  {
+    "text": "series 7s etc for what they do within",
+    "start": 1717.64,
+    "duration": 4.399
+  },
+  {
+    "text": "that broker dealer and every single",
+    "start": 1719.96,
+    "duration": 3.88
+  },
+  {
+    "text": "message those broker dealers ever send",
+    "start": 1722.039,
+    "duration": 3.88
+  },
+  {
+    "text": "to one of their clients is monitored",
+    "start": 1723.84,
+    "duration": 3.76
+  },
+  {
+    "text": "every year all of that stuff is looked",
+    "start": 1725.919,
+    "duration": 4.921
+  },
+  {
+    "text": "at why right surely there's an honest",
+    "start": 1727.6,
+    "duration": 4.919
+  },
+  {
+    "text": "broker out there where you don't have to",
+    "start": 1730.84,
+    "duration": 4.24
+  },
+  {
+    "text": "constantly watch him well it turns out",
+    "start": 1732.519,
+    "duration": 4.841
+  },
+  {
+    "text": "people change at 25 you might have been",
+    "start": 1735.08,
+    "duration": 4.36
+  },
+  {
+    "text": "a very honest and well respected and",
+    "start": 1737.36,
+    "duration": 4.919
+  },
+  {
+    "text": "good early young stock broker and at 45",
+    "start": 1739.44,
+    "duration": 4.719
+  },
+  {
+    "text": "you might have a bunch of debt and you",
+    "start": 1742.279,
+    "duration": 3.28
+  },
+  {
+    "text": "might make a terrible choice to rip",
+    "start": 1744.159,
+    "duration": 2.961
+  },
+  {
+    "text": "somebody off so you have to monitor them",
+    "start": 1745.559,
+    "duration": 3.401
+  },
+  {
+    "text": "their entire life now if you take that",
+    "start": 1747.12,
+    "duration": 3.36
+  },
+  {
+    "text": "stock broker and you put him into a",
+    "start": 1748.96,
+    "duration": 3.959
+  },
+  {
+    "text": "smart contract that smart contract is",
+    "start": 1750.48,
+    "duration": 4.6
+  },
+  {
+    "text": "going to give you a fair price or if",
+    "start": 1752.919,
+    "duration": 3.441
+  },
+  {
+    "text": "it's not a fair price it'll give you a",
+    "start": 1755.08,
+    "duration": 2.719
+  },
+  {
+    "text": "consistent price under a set of rules",
+    "start": 1756.36,
+    "duration": 3.439
+  },
+  {
+    "text": "that don't change that operate the same",
+    "start": 1757.799,
+    "duration": 4.961
+  },
+  {
+    "text": "today and 10 years from now so we can",
+    "start": 1759.799,
+    "duration": 6.041
+  },
+  {
+    "text": "take the entire functionality of large",
+    "start": 1762.76,
+    "duration": 5.919
+  },
+  {
+    "text": "swaths of the financial system and put",
+    "start": 1765.84,
+    "duration": 4.64
+  },
+  {
+    "text": "it into smart contracts that run",
+    "start": 1768.679,
+    "duration": 4.521
+  },
+  {
+    "text": "transparently that run fairly and don't",
+    "start": 1770.48,
+    "duration": 4.4
+  },
+  {
+    "text": "need to be monitored for every message",
+    "start": 1773.2,
+    "duration": 3.079
+  },
+  {
+    "text": "they send because they just operate the",
+    "start": 1774.88,
+    "duration": 6.399
+  },
+  {
+    "text": "same every day so anyway ethereum salana",
+    "start": 1776.279,
+    "duration": 7.681
+  },
+  {
+    "text": "Aptos SOI all of these guys are building",
+    "start": 1781.279,
+    "duration": 4.601
+  },
+  {
+    "text": "platforms where you can run those types",
+    "start": 1783.96,
+    "duration": 2.76
+  },
+  {
+    "text": "of",
+    "start": 1785.88,
+    "duration": 4.32
+  },
+  {
+    "text": "products back to the specifics of this",
+    "start": 1786.72,
+    "duration": 8.439
+  },
+  {
+    "text": "uh eth ETF approval it is not staked eth",
+    "start": 1790.2,
+    "duration": 7.24
+  },
+  {
+    "text": "and that's where the yield comes from",
+    "start": 1795.159,
+    "duration": 4.721
+  },
+  {
+    "text": "where we use use um the validation",
+    "start": 1797.44,
+    "duration": 5.32
+  },
+  {
+    "text": "process in order to create yield for",
+    "start": 1799.88,
+    "duration": 6.76
+  },
+  {
+    "text": "this in in in the process right so how",
+    "start": 1802.76,
+    "duration": 6.759
+  },
+  {
+    "text": "do you see that working out when when we",
+    "start": 1806.64,
+    "duration": 6.12
+  },
+  {
+    "text": "have some eth that is going to be staked",
+    "start": 1809.519,
+    "duration": 5.481
+  },
+  {
+    "text": "and providing a yield and some locked up",
+    "start": 1812.76,
+    "duration": 5.72
+  },
+  {
+    "text": "in these spot e ETFs that isn't well the",
+    "start": 1815.0,
+    "duration": 5.48
+  },
+  {
+    "text": "first thing you got to remember is that",
+    "start": 1818.48,
+    "duration": 4.84
+  },
+  {
+    "text": "staking rewards are actually not yield",
+    "start": 1820.48,
+    "duration": 5.4
+  },
+  {
+    "text": "it's inflation um and it's actually",
+    "start": 1823.32,
+    "duration": 4.959
+  },
+  {
+    "text": "different um if everybody that holds",
+    "start": 1825.88,
+    "duration": 5.0
+  },
+  {
+    "text": "ethereum Stakes together then what",
+    "start": 1828.279,
+    "duration": 4.321
+  },
+  {
+    "text": "happens is everybody gets inflated",
+    "start": 1830.88,
+    "duration": 3.639
+  },
+  {
+    "text": "together devalued together and your",
+    "start": 1832.6,
+    "duration": 4.0
+  },
+  {
+    "text": "relative ownership of ethereum remains",
+    "start": 1834.519,
+    "duration": 5.64
+  },
+  {
+    "text": "unchanged the advantage of staking when",
+    "start": 1836.6,
+    "duration": 5.36
+  },
+  {
+    "text": "someone else is not is that you're",
+    "start": 1840.159,
+    "duration": 4.201
+  },
+  {
+    "text": "getting the validation rewards to you",
+    "start": 1841.96,
+    "duration": 5.24
+  },
+  {
+    "text": "while somebody else is not and so their",
+    "start": 1844.36,
+    "duration": 5.799
+  },
+  {
+    "text": "value is going down relative to yours so",
+    "start": 1847.2,
+    "duration": 5.28
+  },
+  {
+    "text": "when you think about the ethereum ETF",
+    "start": 1850.159,
+    "duration": 4.161
+  },
+  {
+    "text": "and the fact that it's not allowed to",
+    "start": 1852.48,
+    "duration": 5.199
+  },
+  {
+    "text": "stake by definition uh it is not going",
+    "start": 1854.32,
+    "duration": 4.839
+  },
+  {
+    "text": "to be keeping up it is going to be",
+    "start": 1857.679,
+    "duration": 4.24
+  },
+  {
+    "text": "getting devalued by all of those that",
+    "start": 1859.159,
+    "duration": 5.801
+  },
+  {
+    "text": "hold eth and do stake it um so that's an",
+    "start": 1861.919,
+    "duration": 5.041
+  },
+  {
+    "text": "interesting conundrum and today already",
+    "start": 1864.96,
+    "duration": 5.8
+  },
+  {
+    "text": "you see in defi markets the value of",
+    "start": 1866.96,
+    "duration": 7.16
+  },
+  {
+    "text": "staked ether that is used as collateral",
+    "start": 1870.76,
+    "duration": 5.879
+  },
+  {
+    "text": "is given a different reward than",
+    "start": 1874.12,
+    "duration": 5.12
+  },
+  {
+    "text": "unstaked ether um used for the same",
+    "start": 1876.639,
+    "duration": 4.361
+  },
+  {
+    "text": "purpose and that's because one can get a",
+    "start": 1879.24,
+    "duration": 3.679
+  },
+  {
+    "text": "yield and the other one can so does that",
+    "start": 1881.0,
+    "duration": 4.2
+  },
+  {
+    "text": "mean we could have two classes of eth",
+    "start": 1882.919,
+    "duration": 4.081
+  },
+  {
+    "text": "with two different price points that",
+    "start": 1885.2,
+    "duration": 3.24
+  },
+  {
+    "text": "like probably going to very by just",
+    "start": 1887.0,
+    "duration": 5.279
+  },
+  {
+    "text": "about the staking award yes so eth in a",
+    "start": 1888.44,
+    "duration": 8.959
+  },
+  {
+    "text": "spot eth ETF would be less by dollar",
+    "start": 1892.279,
+    "duration": 10.0
+  },
+  {
+    "text": "price terms than non-spot eth ETF eth",
+    "start": 1897.399,
+    "duration": 7.52
+  },
+  {
+    "text": "which is keeping up with inflation which",
+    "start": 1902.279,
+    "duration": 5.041
+  },
+  {
+    "text": "is staking and creating yield so you we",
+    "start": 1904.919,
+    "duration": 7.48
+  },
+  {
+    "text": "could see two classes of ethereum for",
+    "start": 1907.32,
+    "duration": 7.76
+  },
+  {
+    "text": "sure well that would be very interesting",
+    "start": 1912.399,
+    "duration": 4.76
+  },
+  {
+    "text": "in in in terms of pric play I mean this",
+    "start": 1915.08,
+    "duration": 3.52
+  },
+  {
+    "text": "is great like you don't get very many",
+    "start": 1917.159,
+    "duration": 4.12
+  },
+  {
+    "text": "opportunities to see markets at work",
+    "start": 1918.6,
+    "duration": 4.079
+  },
+  {
+    "text": "where these types of things really shake",
+    "start": 1921.279,
+    "duration": 4.161
+  },
+  {
+    "text": "out and they'll be visible um so I think",
+    "start": 1922.679,
+    "duration": 4.36
+  },
+  {
+    "text": "when the ETF launches you'll go through",
+    "start": 1925.44,
+    "duration": 3.56
+  },
+  {
+    "text": "some amount of instability but as it",
+    "start": 1927.039,
+    "duration": 4.201
+  },
+  {
+    "text": "gets to some relative size and and",
+    "start": 1929.0,
+    "duration": 3.96
+  },
+  {
+    "text": "steady state yes I think you're going to",
+    "start": 1931.24,
+    "duration": 4.36
+  },
+  {
+    "text": "see D prices what would uh the",
+    "start": 1932.96,
+    "duration": 4.88
+  },
+  {
+    "text": "difference be do you think I think it's",
+    "start": 1935.6,
+    "duration": 5.199
+  },
+  {
+    "text": "going to be probably somewhere around uh",
+    "start": 1937.84,
+    "duration": 6.24
+  },
+  {
+    "text": "3 and a half to 4% so the yield y sorry",
+    "start": 1940.799,
+    "duration": 7.641
+  },
+  {
+    "text": "the staking reward is 4.7 is% with me",
+    "start": 1944.08,
+    "duration": 8.16
+  },
+  {
+    "text": "um and then um uh you'll get not quite",
+    "start": 1948.44,
+    "duration": 6.0
+  },
+  {
+    "text": "all of that as a price difference so two",
+    "start": 1952.24,
+    "duration": 4.559
+  },
+  {
+    "text": "classes of each potentially um let's",
+    "start": 1954.44,
+    "duration": 4.44
+  },
+  {
+    "text": "talk about the new price forecast",
+    "start": 1956.799,
+    "duration": 5.0
+  },
+  {
+    "text": "specifically uh for eth when do you",
+    "start": 1958.88,
+    "duration": 6.56
+  },
+  {
+    "text": "anticipate a new all-time high for ether",
+    "start": 1961.799,
+    "duration": 6.36
+  },
+  {
+    "text": "yeah um look I think all of the digital",
+    "start": 1965.44,
+    "duration": 5.04
+  },
+  {
+    "text": "assets are still tracking each other uh",
+    "start": 1968.159,
+    "duration": 3.841
+  },
+  {
+    "text": "so I think you just track Bitcoin and",
+    "start": 1970.48,
+    "duration": 4.319
+  },
+  {
+    "text": "you more or less see similars for the",
+    "start": 1972.0,
+    "duration": 5.84
+  },
+  {
+    "text": "good assets good is a subjective term",
+    "start": 1974.799,
+    "duration": 6.921
+  },
+  {
+    "text": "term um there's a number of younger",
+    "start": 1977.84,
+    "duration": 6.959
+  },
+  {
+    "text": "let's call them less mature coins that",
+    "start": 1981.72,
+    "duration": 5.4
+  },
+  {
+    "text": "haven't achieved critical mass kind of",
+    "start": 1984.799,
+    "duration": 5.801
+  },
+  {
+    "text": "as building an ecosystem or an um uh set",
+    "start": 1987.12,
+    "duration": 5.559
+  },
+  {
+    "text": "of applications around them they will",
+    "start": 1990.6,
+    "duration": 3.88
+  },
+  {
+    "text": "continue to fade in general there's a",
+    "start": 1992.679,
+    "duration": 5.12
+  },
+  {
+    "text": "lot of experiments happening um 95% of",
+    "start": 1994.48,
+    "duration": 5.12
+  },
+  {
+    "text": "them are going to die over",
+    "start": 1997.799,
+    "duration": 3.681
+  },
+  {
+    "text": "time the only thing worse than going",
+    "start": 1999.6,
+    "duration": 4.24
+  },
+  {
+    "text": "broke by the way is going broke slowly",
+    "start": 2001.48,
+    "duration": 4.64
+  },
+  {
+    "text": "um it's very deceiving um but you do see",
+    "start": 2003.84,
+    "duration": 4.079
+  },
+  {
+    "text": "it in digal assets you see some assets",
+    "start": 2006.12,
+    "duration": 4.72
+  },
+  {
+    "text": "are out there just over time and it can",
+    "start": 2007.919,
+    "duration": 4.88
+  },
+  {
+    "text": "take a long time it can take yours um",
+    "start": 2010.84,
+    "duration": 3.839
+  },
+  {
+    "text": "but anyway uh I think ether will more or",
+    "start": 2012.799,
+    "duration": 4.801
+  },
+  {
+    "text": "less track the so we're saying a any",
+    "start": 2014.679,
+    "duration": 4.761
+  },
+  {
+    "text": "oldtime high for Bitcoin you said by the",
+    "start": 2017.6,
+    "duration": 5.079
+  },
+  {
+    "text": "end of 2024 yeah yeah so same for ether",
+    "start": 2019.44,
+    "duration": 5.16
+  },
+  {
+    "text": "all right we we'll we'll see how you do",
+    "start": 2022.679,
+    "duration": 6.24
+  },
+  {
+    "text": "with that one um one thing that we have",
+    "start": 2024.6,
+    "duration": 7.4
+  },
+  {
+    "text": "seen in terms of you say coins coming",
+    "start": 2028.919,
+    "duration": 4.64
+  },
+  {
+    "text": "and going is we have seen this like",
+    "start": 2032.0,
+    "duration": 5.36
+  },
+  {
+    "text": "celebrity meme coin explosion happening",
+    "start": 2033.559,
+    "duration": 5.401
+  },
+  {
+    "text": "oh oh because you tweeted about a what",
+    "start": 2037.36,
+    "duration": 3.12
+  },
+  {
+    "text": "did you say a fool and his money are",
+    "start": 2038.96,
+    "duration": 4.0
+  },
+  {
+    "text": "soon parted about meme coins but we've",
+    "start": 2040.48,
+    "duration": 6.079
+  },
+  {
+    "text": "got Caitlyn Jenna with a meme coin uh is",
+    "start": 2042.96,
+    "duration": 6.6
+  },
+  {
+    "text": "aalia a whole a whole bunch of you know",
+    "start": 2046.559,
+    "duration": 5.12
+  },
+  {
+    "text": "celebrities coming out with with meme",
+    "start": 2049.56,
+    "duration": 4.359
+  },
+  {
+    "text": "coins on salana Davido with some",
+    "start": 2051.679,
+    "duration": 6.361
+  },
+  {
+    "text": "Nigerian singer uh is this a negative in",
+    "start": 2053.919,
+    "duration": 6.281
+  },
+  {
+    "text": "that it could indicate like too much",
+    "start": 2058.04,
+    "duration": 4.16
+  },
+  {
+    "text": "exuberance too much frothiness in the",
+    "start": 2060.2,
+    "duration": 3.439
+  },
+  {
+    "text": "market how do you view this the",
+    "start": 2062.2,
+    "duration": 3.919
+  },
+  {
+    "text": "celebrity meme coin explosion right now",
+    "start": 2063.639,
+    "duration": 4.401
+  },
+  {
+    "text": "well look selfishly the part that",
+    "start": 2066.119,
+    "duration": 3.8
+  },
+  {
+    "text": "bothers me is that I don't consider",
+    "start": 2068.04,
+    "duration": 4.24
+  },
+  {
+    "text": "these to be serious and yet they confuse",
+    "start": 2069.919,
+    "duration": 4.92
+  },
+  {
+    "text": "people so digital assets are a",
+    "start": 2072.28,
+    "duration": 4.92
+  },
+  {
+    "text": "fundamental shift in how we can think",
+    "start": 2074.839,
+    "duration": 4.681
+  },
+  {
+    "text": "about all kinds of financial products",
+    "start": 2077.2,
+    "duration": 5.08
+  },
+  {
+    "text": "and money and that's complicated and we",
+    "start": 2079.52,
+    "duration": 4.079
+  },
+  {
+    "text": "haven't figured out the right Market",
+    "start": 2082.28,
+    "duration": 2.879
+  },
+  {
+    "text": "structure we're not done figuring out",
+    "start": 2083.599,
+    "duration": 3.601
+  },
+  {
+    "text": "how to make this available to everybody",
+    "start": 2085.159,
+    "duration": 3.401
+  },
+  {
+    "text": "and when you have these meme coins and",
+    "start": 2087.2,
+    "duration": 3.32
+  },
+  {
+    "text": "other things people associate them",
+    "start": 2088.56,
+    "duration": 3.48
+  },
+  {
+    "text": "together even though they really have no",
+    "start": 2090.52,
+    "duration": 3.76
+  },
+  {
+    "text": "relation and I understand that Meme",
+    "start": 2092.04,
+    "duration": 4.0
+  },
+  {
+    "text": "coins can run on top of ethereum which I",
+    "start": 2094.28,
+    "duration": 4.68
+  },
+  {
+    "text": "think is a serious platform but meme",
+    "start": 2096.04,
+    "duration": 6.039
+  },
+  {
+    "text": "coins are a joke uh do Dogecoin is a",
+    "start": 2098.96,
+    "duration": 6.879
+  },
+  {
+    "text": "joke um Elon Musk May disagree with you",
+    "start": 2102.079,
+    "duration": 6.441
+  },
+  {
+    "text": "hey look humor has value right so",
+    "start": 2105.839,
+    "duration": 5.121
+  },
+  {
+    "text": "Dogecoin will forever have value people",
+    "start": 2108.52,
+    "duration": 4.16
+  },
+  {
+    "text": "will come into digital assets and",
+    "start": 2110.96,
+    "duration": 3.6
+  },
+  {
+    "text": "they'll look at that Shibu Inu or",
+    "start": 2112.68,
+    "duration": 4.08
+  },
+  {
+    "text": "whatever the dog is and they say that's",
+    "start": 2114.56,
+    "duration": 3.96
+  },
+  {
+    "text": "funny and they don't know if it's doggy",
+    "start": 2116.76,
+    "duration": 4.079
+  },
+  {
+    "text": "coin or Dogecoin and so for that reason",
+    "start": 2118.52,
+    "duration": 4.4
+  },
+  {
+    "text": "it will have value but it's not in the",
+    "start": 2120.839,
+    "duration": 4.721
+  },
+  {
+    "text": "same camp as a Bitcoin value store it's",
+    "start": 2122.92,
+    "duration": 4.4
+  },
+  {
+    "text": "not in the same camp as an application",
+    "start": 2125.56,
+    "duration": 4.519
+  },
+  {
+    "text": "platform form for decentralized finance",
+    "start": 2127.32,
+    "duration": 3.6
+  },
+  {
+    "text": "um",
+    "start": 2130.079,
+    "duration": 3.481
+  },
+  {
+    "text": "so unfortunately the meme coins confuse",
+    "start": 2130.92,
+    "duration": 5.28
+  },
+  {
+    "text": "people uh there's going to be there's",
+    "start": 2133.56,
+    "duration": 4.559
+  },
+  {
+    "text": "going to be get people get that cons",
+    "start": 2136.2,
+    "duration": 3.08
+  },
+  {
+    "text": "there's a lot of people that love it",
+    "start": 2138.119,
+    "duration": 2.361
+  },
+  {
+    "text": "it's like a sport it's like going to the",
+    "start": 2139.28,
+    "duration": 2.799
+  },
+  {
+    "text": "casino hey if you like going to the",
+    "start": 2140.48,
+    "duration": 3.68
+  },
+  {
+    "text": "casino and seeing if you can spin a a",
+    "start": 2142.079,
+    "duration": 4.481
+  },
+  {
+    "text": "doggy or a Caitlyn Jenner coin or",
+    "start": 2144.16,
+    "duration": 4.04
+  },
+  {
+    "text": "whatever like great okay so you went and",
+    "start": 2146.56,
+    "duration": 3.44
+  },
+  {
+    "text": "gambled but that doesn't have anything",
+    "start": 2148.2,
+    "duration": 3.48
+  },
+  {
+    "text": "to do with what we're trying to do with",
+    "start": 2150.0,
+    "duration": 5.24
+  },
+  {
+    "text": "digital of Finance so uh no uh Mike",
+    "start": 2151.68,
+    "duration": 6.08
+  },
+  {
+    "text": "belelli meme coin anywhere on the right",
+    "start": 2155.24,
+    "duration": 4.76
+  },
+  {
+    "text": "you know anybody can launch anything uh",
+    "start": 2157.76,
+    "duration": 4.44
+  },
+  {
+    "text": "I will not launch it I promise you that",
+    "start": 2160.0,
+    "duration": 4.079
+  },
+  {
+    "text": "um but yeah I I don't have a lot of",
+    "start": 2162.2,
+    "duration": 4.24
+  },
+  {
+    "text": "interest in all right Mike as we need to",
+    "start": 2164.079,
+    "duration": 5.481
+  },
+  {
+    "text": "start to wrap up here final thoughts",
+    "start": 2166.44,
+    "duration": 6.52
+  },
+  {
+    "text": "what is your strongest point of",
+    "start": 2169.56,
+    "duration": 5.759
+  },
+  {
+    "text": "conviction in terms of where you see the",
+    "start": 2172.96,
+    "duration": 6.24
+  },
+  {
+    "text": "crypto industry by consensus",
+    "start": 2175.319,
+    "duration": 7.28
+  },
+  {
+    "text": "2025 okay uh look I think we're going to",
+    "start": 2179.2,
+    "duration": 5.879
+  },
+  {
+    "text": "see a much better regulatory climate in",
+    "start": 2182.599,
+    "duration": 6.0
+  },
+  {
+    "text": "the US um I know that people think that",
+    "start": 2185.079,
+    "duration": 6.681
+  },
+  {
+    "text": "and I do think that it's aligned with",
+    "start": 2188.599,
+    "duration": 5.281
+  },
+  {
+    "text": "unfortunately who's in the Oval Office",
+    "start": 2191.76,
+    "duration": 3.4
+  },
+  {
+    "text": "uh so I guess you can predict who I",
+    "start": 2193.88,
+    "duration": 2.84
+  },
+  {
+    "text": "think is going to be in the Proto Oval",
+    "start": 2195.16,
+    "duration": 4.12
+  },
+  {
+    "text": "Office but um wait wait so better",
+    "start": 2196.72,
+    "duration": 4.04
+  },
+  {
+    "text": "regulatory environment does that mean",
+    "start": 2199.28,
+    "duration": 4.0
+  },
+  {
+    "text": "you predict a republican in the Oval",
+    "start": 2200.76,
+    "duration": 4.12
+  },
+  {
+    "text": "Office and does that mean you predict a",
+    "start": 2203.28,
+    "duration": 3.68
+  },
+  {
+    "text": "trump presidential victory I'm going to",
+    "start": 2204.88,
+    "duration": 5.239
+  },
+  {
+    "text": "avoid saying the parties names um but no",
+    "start": 2206.96,
+    "duration": 4.6
+  },
+  {
+    "text": "I think we are going to continue to see",
+    "start": 2210.119,
+    "duration": 4.96
+  },
+  {
+    "text": "better climate for digital assets in",
+    "start": 2211.56,
+    "duration": 5.68
+  },
+  {
+    "text": "America you know who's supped that",
+    "start": 2215.079,
+    "duration": 3.121
+  },
+  {
+    "text": "already",
+    "start": 2217.24,
+    "duration": 2.48
+  },
+  {
+    "text": "I'm indirectly answering your question I",
+    "start": 2218.2,
+    "duration": 6.08
+  },
+  {
+    "text": "guess being s or something um but uh",
+    "start": 2219.72,
+    "duration": 5.96
+  },
+  {
+    "text": "that's good right actually that's going",
+    "start": 2224.28,
+    "duration": 4.0
+  },
+  {
+    "text": "to help and I think making the US a good",
+    "start": 2225.68,
+    "duration": 4.159
+  },
+  {
+    "text": "place for digital assets is going to be",
+    "start": 2228.28,
+    "duration": 3.96
+  },
+  {
+    "text": "tremendous value to America so I think",
+    "start": 2229.839,
+    "duration": 4.361
+  },
+  {
+    "text": "we'll see that by next year I think",
+    "start": 2232.24,
+    "duration": 3.079
+  },
+  {
+    "text": "we're going to start to see another",
+    "start": 2234.2,
+    "duration": 2.84
+  },
+  {
+    "text": "Trend which",
+    "start": 2235.319,
+    "duration": 4.081
+  },
+  {
+    "text": "is the early days of digital assets are",
+    "start": 2237.04,
+    "duration": 4.16
+  },
+  {
+    "text": "all about decentralization which is",
+    "start": 2239.4,
+    "duration": 4.56
+  },
+  {
+    "text": "really about power to people um",
+    "start": 2241.2,
+    "duration": 5.08
+  },
+  {
+    "text": "individual freedoms and things like that",
+    "start": 2243.96,
+    "duration": 5.159
+  },
+  {
+    "text": "part of growing to the state we're in is",
+    "start": 2246.28,
+    "duration": 4.28
+  },
+  {
+    "text": "about growing towards some of the",
+    "start": 2249.119,
+    "duration": 4.24
+  },
+  {
+    "text": "centralized things bito is largely known",
+    "start": 2250.56,
+    "duration": 4.68
+  },
+  {
+    "text": "for being a centralized custodian and",
+    "start": 2253.359,
+    "duration": 4.321
+  },
+  {
+    "text": "yet that's not our rots we started 100%",
+    "start": 2255.24,
+    "duration": 4.359
+  },
+  {
+    "text": "non-custodial we still offer all of our",
+    "start": 2257.68,
+    "duration": 3.84
+  },
+  {
+    "text": "non-custodial products and still it",
+    "start": 2259.599,
+    "duration": 3.881
+  },
+  {
+    "text": "remains about half of our business it",
+    "start": 2261.52,
+    "duration": 3.92
+  },
+  {
+    "text": "turns out that when it comes to managing",
+    "start": 2263.48,
+    "duration": 3.96
+  },
+  {
+    "text": "other people's money like happens at",
+    "start": 2265.44,
+    "duration": 4.2
+  },
+  {
+    "text": "hedge funds and businesses Etc well you",
+    "start": 2267.44,
+    "duration": 4.08
+  },
+  {
+    "text": "need to use Banks because you don't want",
+    "start": 2269.64,
+    "duration": 4.6
+  },
+  {
+    "text": "some it guy that's operating at at the",
+    "start": 2271.52,
+    "duration": 4.12
+  },
+  {
+    "text": "company to be holding the keys and so",
+    "start": 2274.24,
+    "duration": 3.0
+  },
+  {
+    "text": "you use banks for that that allows you",
+    "start": 2275.64,
+    "duration": 5.36
+  },
+  {
+    "text": "get a ability safety uh robustness in in",
+    "start": 2277.24,
+    "duration": 5.2
+  },
+  {
+    "text": "case the management team changes and",
+    "start": 2281.0,
+    "duration": 3.28
+  },
+  {
+    "text": "things like that so we need some of that",
+    "start": 2282.44,
+    "duration": 3.56
+  },
+  {
+    "text": "centralization but I think we're also",
+    "start": 2284.28,
+    "duration": 4.24
+  },
+  {
+    "text": "going to see by the by next year more",
+    "start": 2286.0,
+    "duration": 4.56
+  },
+  {
+    "text": "movement back to decentralization in",
+    "start": 2288.52,
+    "duration": 4.04
+  },
+  {
+    "text": "terms of better offerings both for",
+    "start": 2290.56,
+    "duration": 4.799
+  },
+  {
+    "text": "individuals but also for institutions",
+    "start": 2292.56,
+    "duration": 6.12
+  },
+  {
+    "text": "BOS built seven custodians around the",
+    "start": 2295.359,
+    "duration": 6.48
+  },
+  {
+    "text": "world trust me it was never my dream to",
+    "start": 2298.68,
+    "duration": 6.28
+  },
+  {
+    "text": "be regulated by seven different",
+    "start": 2301.839,
+    "duration": 5.081
+  },
+  {
+    "text": "jurisdictions around the world but what",
+    "start": 2304.96,
+    "duration": 3.68
+  },
+  {
+    "text": "can we do with we can start to put Keys",
+    "start": 2306.92,
+    "duration": 3.88
+  },
+  {
+    "text": "all over the planet we can start to",
+    "start": 2308.64,
+    "duration": 4.959
+  },
+  {
+    "text": "Overlay custody not as a regional",
+    "start": 2310.8,
+    "duration": 5.799
+  },
+  {
+    "text": "service but as a global Service okay and",
+    "start": 2313.599,
+    "duration": 5.361
+  },
+  {
+    "text": "this provides protection to people all",
+    "start": 2316.599,
+    "duration": 4.081
+  },
+  {
+    "text": "around the world regardless of what",
+    "start": 2318.96,
+    "duration": 3.68
+  },
+  {
+    "text": "nationality they may be it also allows",
+    "start": 2320.68,
+    "duration": 4.36
+  },
+  {
+    "text": "us to connect people that want to trade",
+    "start": 2322.64,
+    "duration": 4.32
+  },
+  {
+    "text": "from Europe to the US without having",
+    "start": 2325.04,
+    "duration": 4.24
+  },
+  {
+    "text": "exposure to the US or your Americans",
+    "start": 2326.96,
+    "duration": 4.359
+  },
+  {
+    "text": "that want to trade in South America",
+    "start": 2329.28,
+    "duration": 4.319
+  },
+  {
+    "text": "without having exposure to South America",
+    "start": 2331.319,
+    "duration": 4.161
+  },
+  {
+    "text": "that's what's going to get built end of",
+    "start": 2333.599,
+    "duration": 5.0
+  },
+  {
+    "text": "2025 we will see that fully watched all",
+    "start": 2335.48,
+    "duration": 6.04
+  },
+  {
+    "text": "right a shift back to decentralization",
+    "start": 2338.599,
+    "duration": 5.52
+  },
+  {
+    "text": "in a way Mike I can't wait to catch up",
+    "start": 2341.52,
+    "duration": 4.839
+  },
+  {
+    "text": "with you again see if your forast were",
+    "start": 2344.119,
+    "duration": 4.401
+  },
+  {
+    "text": "as correct this time as they were last",
+    "start": 2346.359,
+    "duration": 3.641
+  },
+  {
+    "text": "time this is what happens when you set a",
+    "start": 2348.52,
+    "duration": 3.48
+  },
+  {
+    "text": "record uh have to keep that up but thank",
+    "start": 2350.0,
+    "duration": 3.52
+  },
+  {
+    "text": "you so much for sharing your thoughts",
+    "start": 2352.0,
+    "duration": 3.0
+  },
+  {
+    "text": "with us today appreciate it always a",
+    "start": 2353.52,
+    "duration": 4.04
+  },
+  {
+    "text": "pleasure Michelle all right thank",
+    "start": 2355.0,
+    "duration": 5.56
+  },
+  {
+    "text": "you getco News special coverage of",
+    "start": 2357.56,
+    "duration": 6.64
+  },
+  {
+    "text": "consensus 2024 is brought to you by",
+    "start": 2360.56,
+    "duration": 7.16
+  },
+  {
+    "text": "Diamond standard",
+    "start": 2364.2,
+    "duration": 3.52
+  },
+  {
+    "text": "[Music]",
+    "start": 2368.49,
+    "duration": 12.629
+  }
+]

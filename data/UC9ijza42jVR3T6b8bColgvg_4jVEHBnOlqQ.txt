@@ -1,0 +1,117 @@
+[
+  {
+    "text": "there is this change coming and with the",
+    "start": 0.08,
+    "duration": 6.279
+  },
+  {
+    "text": "elite wanting to come out on top in many",
+    "start": 3.36,
+    "duration": 5.0
+  },
+  {
+    "text": "ways it's not so much that they're",
+    "start": 6.359,
+    "duration": 5.16
+  },
+  {
+    "text": "trying to intentionally keep you down",
+    "start": 8.36,
+    "duration": 4.359
+  },
+  {
+    "text": "it's not that we have these people",
+    "start": 11.519,
+    "duration": 3.16
+  },
+  {
+    "text": "sitting around the table like Dr Evil",
+    "start": 12.719,
+    "duration": 3.801
+  },
+  {
+    "text": "going oh you know how do we you know",
+    "start": 14.679,
+    "duration": 3.721
+  },
+  {
+    "text": "Corner the markets but they are trying",
+    "start": 16.52,
+    "duration": 4.72
+  },
+  {
+    "text": "to preserve their power and their wealth",
+    "start": 18.4,
+    "duration": 5.4
+  },
+  {
+    "text": "and if yours has to go away in order for",
+    "start": 21.24,
+    "duration": 4.92
+  },
+  {
+    "text": "that to happen then that's just okay by",
+    "start": 23.8,
+    "duration": 4.92
+  },
+  {
+    "text": "them and so we'll see that over and over",
+    "start": 26.16,
+    "duration": 4.64
+  },
+  {
+    "text": "again as we talk about the themes as we",
+    "start": 28.72,
+    "duration": 4.8
+  },
+  {
+    "text": "talk about cbdc as we talk about social",
+    "start": 30.8,
+    "duration": 4.56
+  },
+  {
+    "text": "credit as we talk about Wall Street",
+    "start": 33.52,
+    "duration": 4.039
+  },
+  {
+    "text": "coming in and competing with individuals",
+    "start": 35.36,
+    "duration": 5.48
+  },
+  {
+    "text": "to buy housing all these kinds of things",
+    "start": 37.559,
+    "duration": 4.881
+  },
+  {
+    "text": "that we talk about that it's making it",
+    "start": 40.84,
+    "duration": 4.52
+  },
+  {
+    "text": "harder to seize on that wealth creation",
+    "start": 42.44,
+    "duration": 5.2
+  },
+  {
+    "text": "opportunity and in America the American",
+    "start": 45.36,
+    "duration": 4.359
+  },
+  {
+    "text": "dream you know those are the kinds of",
+    "start": 47.64,
+    "duration": 4.64
+  },
+  {
+    "text": "things that I'm trying to get at in a",
+    "start": 49.719,
+    "duration": 7.081
+  },
+  {
+    "text": "very non-c conspiratorial way",
+    "start": 52.28,
+    "duration": 4.52
+  }
+]

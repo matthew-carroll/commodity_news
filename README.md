@@ -1,6 +1,13 @@
 # Commodity News
 AI generated news about commodity prices.
 
+## Setup Requirements
+The project expects a `.env` file at the root of the repo that contains various keys.
+
+```
+GOOGLE_API_KEY=''
+```
+
 ## System Overview
 
 ### Data source: YouTube transcripts

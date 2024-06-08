@@ -1,0 +1,837 @@
+[
+  {
+    "text": "doesn't it kind of feel like we just go",
+    "start": 0.399,
+    "duration": 4.041
+  },
+  {
+    "text": "from crisis to crisis to crisis to",
+    "start": 2.24,
+    "duration": 4.88
+  },
+  {
+    "text": "crisis keeping everybody off balance and",
+    "start": 4.44,
+    "duration": 6.359
+  },
+  {
+    "text": "the dollar has really enjoyed massive",
+    "start": 7.12,
+    "duration": 7.479
+  },
+  {
+    "text": "benefits by being the world Reserve",
+    "start": 10.799,
+    "duration": 6.4
+  },
+  {
+    "text": "currency because it created an",
+    "start": 14.599,
+    "duration": 7.44
+  },
+  {
+    "text": "artificial market for dollars but no",
+    "start": 17.199,
+    "duration": 7.961
+  },
+  {
+    "text": "currency has ever withstood the test of",
+    "start": 22.039,
+    "duration": 6.201
+  },
+  {
+    "text": "time in in as far as the world well",
+    "start": 25.16,
+    "duration": 4.92
+  },
+  {
+    "text": "actually any fiat currency any",
+    "start": 28.24,
+    "duration": 4.519
+  },
+  {
+    "text": "government-based currency and this time",
+    "start": 30.08,
+    "duration": 4.999
+  },
+  {
+    "text": "is not any different I think what's",
+    "start": 32.759,
+    "duration": 4.681
+  },
+  {
+    "text": "interesting is that things always go",
+    "start": 35.079,
+    "duration": 6.841
+  },
+  {
+    "text": "really slow until they go fast and so",
+    "start": 37.44,
+    "duration": 7.4
+  },
+  {
+    "text": "the time to be prepared is well before",
+    "start": 41.92,
+    "duration": 5.92
+  },
+  {
+    "text": "that but it was already in",
+    "start": 44.84,
+    "duration": 5.8
+  },
+  {
+    "text": "2002 where the Federal Reserve started",
+    "start": 47.84,
+    "duration": 6.199
+  },
+  {
+    "text": "buying back US Government treasury debt",
+    "start": 50.64,
+    "duration": 6.8
+  },
+  {
+    "text": "so that was already a period where we",
+    "start": 54.039,
+    "duration": 6.441
+  },
+  {
+    "text": "were not attracting enough far investors",
+    "start": 57.44,
+    "duration": 5.439
+  },
+  {
+    "text": "of our debt we had to have the Federal",
+    "start": 60.48,
+    "duration": 5.24
+  },
+  {
+    "text": "Reserve step in but did anybody talk",
+    "start": 62.879,
+    "duration": 6.361
+  },
+  {
+    "text": "about that heck no because they don't",
+    "start": 65.72,
+    "duration": 6.92
+  },
+  {
+    "text": "want you to know and so it makes me",
+    "start": 69.24,
+    "duration": 5.36
+  },
+  {
+    "text": "nervous when there's any topic that",
+    "start": 72.64,
+    "duration": 4.92
+  },
+  {
+    "text": "frankly they're not really talking about",
+    "start": 74.6,
+    "duration": 6.96
+  },
+  {
+    "text": "but for people in the US what that means",
+    "start": 77.56,
+    "duration": 6.599
+  },
+  {
+    "text": "is all of those excess dollars",
+    "start": 81.56,
+    "duration": 4.919
+  },
+  {
+    "text": "especially with Saudi Arabia saying hey",
+    "start": 84.159,
+    "duration": 5.28
+  },
+  {
+    "text": "we'll accept any currencies for our for",
+    "start": 86.479,
+    "duration": 6.801
+  },
+  {
+    "text": "our o oil well we retained that status",
+    "start": 89.439,
+    "duration": 6.441
+  },
+  {
+    "text": "because of the Petro dollar where",
+    "start": 93.28,
+    "duration": 5.839
+  },
+  {
+    "text": "countries had to use dollars to buy oil",
+    "start": 95.88,
+    "duration": 6.32
+  },
+  {
+    "text": "as that shifts though they don't have to",
+    "start": 99.119,
+    "duration": 7.28
+  },
+  {
+    "text": "so the US will pay for that privilege in",
+    "start": 102.2,
+    "duration": 7.64
+  },
+  {
+    "text": "a rather big way when all those dollars",
+    "start": 106.399,
+    "duration": 6.68
+  },
+  {
+    "text": "start to come home and you know if if",
+    "start": 109.84,
+    "duration": 5.279
+  },
+  {
+    "text": "they're trying to tell us that inflation",
+    "start": 113.079,
+    "duration": 5.561
+  },
+  {
+    "text": "is cooling off yeah I think that in",
+    "start": 115.119,
+    "duration": 5.96
+  },
+  {
+    "text": "headline inflation is because oil",
+    "start": 118.64,
+    "duration": 6.32
+  },
+  {
+    "text": "dropped from what 120 to 80 something",
+    "start": 121.079,
+    "duration": 5.481
+  },
+  {
+    "text": "however that's not going to be",
+    "start": 124.96,
+    "duration": 3.999
+  },
+  {
+    "text": "maintained and I think that you will",
+    "start": 126.56,
+    "duration": 4.759
+  },
+  {
+    "text": "definitely see a ratcheting up of",
+    "start": 128.959,
+    "duration": 5.401
+  },
+  {
+    "text": "inflation plus we haven't even felt the",
+    "start": 131.319,
+    "duration": 6.2
+  },
+  {
+    "text": "impact on a global basis let alone on a",
+    "start": 134.36,
+    "duration": 6.64
+  },
+  {
+    "text": "local basis of all of the Central Bank",
+    "start": 137.519,
+    "duration": 6.521
+  },
+  {
+    "text": "tightening because it takes a certain",
+    "start": 141.0,
+    "duration": 6.4
+  },
+  {
+    "text": "period of time usually 12 to 18 months",
+    "start": 144.04,
+    "duration": 6.559
+  },
+  {
+    "text": "to work through the system before or",
+    "start": 147.4,
+    "duration": 5.36
+  },
+  {
+    "text": "they can see if they got what they",
+    "start": 150.599,
+    "duration": 5.72
+  },
+  {
+    "text": "wanted and so we're we're not there yet",
+    "start": 152.76,
+    "duration": 7.04
+  },
+  {
+    "text": "and I have a I have a really sneaking",
+    "start": 156.319,
+    "duration": 7.2
+  },
+  {
+    "text": "feeling that and sinking feeling as well",
+    "start": 159.8,
+    "duration": 7.24
+  },
+  {
+    "text": "that when the impact of the choices that",
+    "start": 163.519,
+    "duration": 6.041
+  },
+  {
+    "text": "the global Central Bankers have made",
+    "start": 167.04,
+    "duration": 6.119
+  },
+  {
+    "text": "actually impacts the global economy well",
+    "start": 169.56,
+    "duration": 5.039
+  },
+  {
+    "text": "wall Street's definitely going to be",
+    "start": 173.159,
+    "duration": 3.761
+  },
+  {
+    "text": "singing a very different tune but you",
+    "start": 174.599,
+    "duration": 4.601
+  },
+  {
+    "text": "know I think it's going to exacerbate",
+    "start": 176.92,
+    "duration": 5.92
+  },
+  {
+    "text": "the retire crisis that we're in the",
+    "start": 179.2,
+    "duration": 5.84
+  },
+  {
+    "text": "middle of that people don't realize I",
+    "start": 182.84,
+    "duration": 5.36
+  },
+  {
+    "text": "think a lot of things are going to come",
+    "start": 185.04,
+    "duration": 6.64
+  },
+  {
+    "text": "come up that people right now don't see",
+    "start": 188.2,
+    "duration": 6.599
+  },
+  {
+    "text": "you know everybody always assumes that",
+    "start": 191.68,
+    "duration": 5.839
+  },
+  {
+    "text": "Central bankers and governments want",
+    "start": 194.799,
+    "duration": 6.08
+  },
+  {
+    "text": "this to just keep going on status quo",
+    "start": 197.519,
+    "duration": 5.44
+  },
+  {
+    "text": "but when you look at the value the",
+    "start": 200.879,
+    "duration": 4.801
+  },
+  {
+    "text": "purchasing power value of",
+    "start": 202.959,
+    "duration": 5.961
+  },
+  {
+    "text": "currencies and the fact that you know",
+    "start": 205.68,
+    "duration": 6.559
+  },
+  {
+    "text": "interest rates were anchored Forever at",
+    "start": 208.92,
+    "duration": 6.8
+  },
+  {
+    "text": "zero after the 2008 financial crisis",
+    "start": 212.239,
+    "duration": 5.041
+  },
+  {
+    "text": "which I still maintain is when the",
+    "start": 215.72,
+    "duration": 4.079
+  },
+  {
+    "text": "system die maybe they don't really want",
+    "start": 217.28,
+    "duration": 6.8
+  },
+  {
+    "text": "it to be status quo right maybe they",
+    "start": 219.799,
+    "duration": 7.041
+  },
+  {
+    "text": "want to push us and what they would call",
+    "start": 224.08,
+    "duration": 6.719
+  },
+  {
+    "text": "nudge us into a crisis so that they can",
+    "start": 226.84,
+    "duration": 6.36
+  },
+  {
+    "text": "execute the next part of their strategy",
+    "start": 230.799,
+    "duration": 4.561
+  },
+  {
+    "text": "which is taking us into a full",
+    "start": 233.2,
+    "duration": 4.44
+  },
+  {
+    "text": "surveillance Central Bank digital",
+    "start": 235.36,
+    "duration": 4.439
+  },
+  {
+    "text": "currency and they don't understand",
+    "start": 237.64,
+    "duration": 5.04
+  },
+  {
+    "text": "inflation they admitted it they don't",
+    "start": 239.799,
+    "duration": 6.201
+  },
+  {
+    "text": "understand it yay that's what guarding",
+    "start": 242.68,
+    "duration": 6.24
+  },
+  {
+    "text": "us through this mess lagard said it",
+    "start": 246.0,
+    "duration": 6.2
+  },
+  {
+    "text": "Powell said it you know I mean yeah they",
+    "start": 248.92,
+    "duration": 5.36
+  },
+  {
+    "text": "created this monster and this monster",
+    "start": 252.2,
+    "duration": 5.36
+  },
+  {
+    "text": "will unfortunately eat everybody alive I",
+    "start": 254.28,
+    "duration": 5.88
+  },
+  {
+    "text": "keep going back to that because so many",
+    "start": 257.56,
+    "duration": 4.56
+  },
+  {
+    "text": "of the moves that I see these Central",
+    "start": 260.16,
+    "duration": 4.64
+  },
+  {
+    "text": "bankers and these governments make look",
+    "start": 262.12,
+    "duration": 6.359
+  },
+  {
+    "text": "like they are shifting into the next",
+    "start": 264.8,
+    "duration": 5.48
+  },
+  {
+    "text": "collapse and",
+    "start": 268.479,
+    "duration": 5.521
+  },
+  {
+    "text": "for even for Powell to say well all of",
+    "start": 270.28,
+    "duration": 5.68
+  },
+  {
+    "text": "that money creation didn't create",
+    "start": 274.0,
+    "duration": 4.6
+  },
+  {
+    "text": "inflation yeah did it created real",
+    "start": 275.96,
+    "duration": 5.92
+  },
+  {
+    "text": "estate stock and bond bubbles that's",
+    "start": 278.6,
+    "duration": 6.2
+  },
+  {
+    "text": "really what all of this is about because",
+    "start": 281.88,
+    "duration": 5.84
+  },
+  {
+    "text": "we are our whole system is based on the",
+    "start": 284.8,
+    "duration": 6.04
+  },
+  {
+    "text": "ability to print more money and create",
+    "start": 287.72,
+    "duration": 5.88
+  },
+  {
+    "text": "more debt and so you know we've been",
+    "start": 290.84,
+    "duration": 5.72
+  },
+  {
+    "text": "having liquidity issues particularly the",
+    "start": 293.6,
+    "duration": 6.4
+  },
+  {
+    "text": "one that's scariest really are issues",
+    "start": 296.56,
+    "duration": 6.44
+  },
+  {
+    "text": "around treasury bonds since",
+    "start": 300.0,
+    "duration": 7.28
+  },
+  {
+    "text": "2015 but even more troubling is that the",
+    "start": 303.0,
+    "duration": 7.6
+  },
+  {
+    "text": "global yield curve has inverted and",
+    "start": 307.28,
+    "duration": 4.96
+  },
+  {
+    "text": "that's the first time that that since",
+    "start": 310.6,
+    "duration": 3.84
+  },
+  {
+    "text": "they've been tracking it that that has",
+    "start": 312.24,
+    "duration": 5.12
+  },
+  {
+    "text": "ever happened so even back during the",
+    "start": 314.44,
+    "duration": 5.759
+  },
+  {
+    "text": "Depression in the 30s honestly it was a",
+    "start": 317.36,
+    "duration": 5.119
+  },
+  {
+    "text": "global depression and we weren't so",
+    "start": 320.199,
+    "duration": 6.28
+  },
+  {
+    "text": "interconnected as we are now so if we",
+    "start": 322.479,
+    "duration": 7.56
+  },
+  {
+    "text": "had a global depression what does that",
+    "start": 326.479,
+    "duration": 7.601
+  },
+  {
+    "text": "mean for coming up this is going to be a",
+    "start": 330.039,
+    "duration": 7.28
+  },
+  {
+    "text": "complete change I mean it really is so",
+    "start": 334.08,
+    "duration": 7.2
+  },
+  {
+    "text": "simple this is the end of this current",
+    "start": 337.319,
+    "duration": 7.521
+  },
+  {
+    "text": "Fiat money experiment based upon debt",
+    "start": 341.28,
+    "duration": 6.8
+  },
+  {
+    "text": "they have to burn off this debt you know",
+    "start": 344.84,
+    "duration": 4.199
+  },
+  {
+    "text": "and so",
+    "start": 348.08,
+    "duration": 3.64
+  },
+  {
+    "text": "hyperinflation is the way that evolved",
+    "start": 349.039,
+    "duration": 5.961
+  },
+  {
+    "text": "and and advanced economies settle that",
+    "start": 351.72,
+    "duration": 5.919
+  },
+  {
+    "text": "debt in currencies that have virtually",
+    "start": 355.0,
+    "duration": 6.0
+  },
+  {
+    "text": "no value and you know that that's true",
+    "start": 357.639,
+    "duration": 5.641
+  },
+  {
+    "text": "with all currencies that's why you've",
+    "start": 361.0,
+    "duration": 4.36
+  },
+  {
+    "text": "got to have physical gold and physical",
+    "start": 363.28,
+    "duration": 4.72
+  },
+  {
+    "text": "silver because governments what they can",
+    "start": 365.36,
+    "duration": 4.76
+  },
+  {
+    "text": "do and we just saw this with the",
+    "start": 368.0,
+    "duration": 5.08
+  },
+  {
+    "text": "Lebanese pound right they suppress the",
+    "start": 370.12,
+    "duration": 5.079
+  },
+  {
+    "text": "price of gold because gold is good money",
+    "start": 373.08,
+    "duration": 4.119
+  },
+  {
+    "text": "so our Rising gold price is an",
+    "start": 375.199,
+    "duration": 5.241
+  },
+  {
+    "text": "indication of a failing currency so it's",
+    "start": 377.199,
+    "duration": 5.601
+  },
+  {
+    "text": "kind of like a spring that you hold in",
+    "start": 380.44,
+    "duration": 4.24
+  },
+  {
+    "text": "your hand and then when you remove your",
+    "start": 382.8,
+    "duration": 4.839
+  },
+  {
+    "text": "hand the spring shoots in a direction I",
+    "start": 384.68,
+    "duration": 6.48
+  },
+  {
+    "text": "think it was up over 1,500 % overnight",
+    "start": 387.639,
+    "duration": 5.481
+  },
+  {
+    "text": "in that first overnight",
+    "start": 391.16,
+    "duration": 5.759
+  },
+  {
+    "text": "revaluation in the in the Lebanese pound",
+    "start": 393.12,
+    "duration": 6.519
+  },
+  {
+    "text": "so don't be fooled by the prices that",
+    "start": 396.919,
+    "duration": 5.12
+  },
+  {
+    "text": "Wall Street is showing you those are the",
+    "start": 399.639,
+    "duration": 6.521
+  },
+  {
+    "text": "nominal prices and do not reflect the",
+    "start": 402.039,
+    "duration": 7.921
+  },
+  {
+    "text": "True Value they merely reflect the",
+    "start": 406.16,
+    "duration": 6.439
+  },
+  {
+    "text": "wishes and the whims of those that are",
+    "start": 409.96,
+    "duration": 5.679
+  },
+  {
+    "text": "in power and wanting to stay in power",
+    "start": 412.599,
+    "duration": 6.0
+  },
+  {
+    "text": "until and they're accumulating it I mean",
+    "start": 415.639,
+    "duration": 5.361
+  },
+  {
+    "text": "look at the draw down on the comx and",
+    "start": 418.599,
+    "duration": 5.961
+  },
+  {
+    "text": "the lbma that's big smart money look at",
+    "start": 421.0,
+    "duration": 6.12
+  },
+  {
+    "text": "the fact that central banks are buying",
+    "start": 424.56,
+    "duration": 4.12
+  },
+  {
+    "text": "more gold than",
+    "start": 427.12,
+    "duration": 4.24
+  },
+  {
+    "text": "1967 which was when we were",
+    "start": 428.68,
+    "duration": 5.12
+  },
+  {
+    "text": "transitioning into the new system and",
+    "start": 431.36,
+    "duration": 4.959
+  },
+  {
+    "text": "and and people will refer back to the",
+    "start": 433.8,
+    "duration": 6.36
+  },
+  {
+    "text": "60s the 70s the 80s the 30s the 40s and",
+    "start": 436.319,
+    "duration": 6.56
+  },
+  {
+    "text": "they never take that next step what was",
+    "start": 440.16,
+    "duration": 5.039
+  },
+  {
+    "text": "happening then we were transitioning",
+    "start": 442.879,
+    "duration": 4.76
+  },
+  {
+    "text": "into new monetary systems so you can",
+    "start": 445.199,
+    "duration": 6.0
+  },
+  {
+    "text": "stay vulnerable that's your choice but",
+    "start": 447.639,
+    "duration": 6.761
+  },
+  {
+    "text": "personally I don't own any F money",
+    "start": 451.199,
+    "duration": 5.801
+  },
+  {
+    "text": "products more than some cash that I got",
+    "start": 454.4,
+    "duration": 4.28
+  },
+  {
+    "text": "to have because that's your first line",
+    "start": 457.0,
+    "duration": 4.96
+  },
+  {
+    "text": "of defense but other than that why would",
+    "start": 458.68,
+    "duration": 5.56
+  },
+  {
+    "text": "I because I know the truth this is what",
+    "start": 461.96,
+    "duration": 6.959
+  },
+  {
+    "text": "I own gold and silver physical and in my",
+    "start": 464.24,
+    "duration": 8.2
+  },
+  {
+    "text": "possession that runs no counterparty",
+    "start": 468.919,
+    "duration": 7.081
+  },
+  {
+    "text": "risk Biz says only financial asset that",
+    "start": 472.44,
+    "duration": 6.84
+  },
+  {
+    "text": "runs no counterparty risk everything",
+    "start": 476.0,
+    "duration": 4.36
+  },
+  {
+    "text": "else",
+    "start": 479.28,
+    "duration": 3.56
+  },
+  {
+    "text": "is credit it's all debt and it's all",
+    "start": 480.36,
+    "duration": 5.559
+  },
+  {
+    "text": "counterparty risk",
+    "start": 482.84,
+    "duration": 3.079
+  }
+]

@@ -1,3 +1,5 @@
+dotenv
+google-api-python-client
 youtube-transcript-api
 langchain
 langchain-community

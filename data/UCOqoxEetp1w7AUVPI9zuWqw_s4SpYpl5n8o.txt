@@ -1,0 +1,1312 @@
+[
+  {
+    "text": "so dollarization it's a thing that",
+    "start": 0.16,
+    "duration": 4.48
+  },
+  {
+    "text": "affects the price of gold right now",
+    "start": 2.24,
+    "duration": 5.0
+  },
+  {
+    "text": "today just not in the way that we've",
+    "start": 4.64,
+    "duration": 6.959
+  },
+  {
+    "text": "been told at least not",
+    "start": 7.24,
+    "duration": 4.359
+  },
+  {
+    "text": "yet so it's been a minute since we've",
+    "start": 18.32,
+    "duration": 5.44
+  },
+  {
+    "text": "talked about dollarization here and it's",
+    "start": 20.92,
+    "duration": 5.759
+  },
+  {
+    "text": "partly because the topic just makes me",
+    "start": 23.76,
+    "duration": 5.32
+  },
+  {
+    "text": "think of flames and dire warnings and",
+    "start": 26.679,
+    "duration": 4.641
+  },
+  {
+    "text": "then partly because we probably already",
+    "start": 29.08,
+    "duration": 3.84
+  },
+  {
+    "text": "have a dozen different wackamo oil",
+    "start": 31.32,
+    "duration": 4.36
+  },
+  {
+    "text": "warnings carpeting our feeds now look",
+    "start": 32.92,
+    "duration": 4.4
+  },
+  {
+    "text": "it's a legitimate topic I think there's",
+    "start": 35.68,
+    "duration": 3.24
+  },
+  {
+    "text": "some things that are affecting us right",
+    "start": 37.32,
+    "duration": 2.84
+  },
+  {
+    "text": "now and there's some bigger things that",
+    "start": 38.92,
+    "duration": 3.0
+  },
+  {
+    "text": "are going to affect us down the road but",
+    "start": 40.16,
+    "duration": 4.28
+  },
+  {
+    "text": "the details and the timeline in these",
+    "start": 41.92,
+    "duration": 5.319
+  },
+  {
+    "text": "stories get heavily exaggerated so we",
+    "start": 44.44,
+    "duration": 5.08
+  },
+  {
+    "text": "have to look past the Doom hype and",
+    "start": 47.239,
+    "duration": 4.281
+  },
+  {
+    "text": "there are a few areas where it has a",
+    "start": 49.52,
+    "duration": 4.839
+  },
+  {
+    "text": "specific impact on your typical Gold",
+    "start": 51.52,
+    "duration": 5.28
+  },
+  {
+    "text": "Buyer so let's start with how it affects",
+    "start": 54.359,
+    "duration": 5.281
+  },
+  {
+    "text": "us right now before we get back to it if",
+    "start": 56.8,
+    "duration": 4.36
+  },
+  {
+    "text": "you're looking for gold and silver hit",
+    "start": 59.64,
+    "duration": 4.12
+  },
+  {
+    "text": "up SD bullion new customers can even get",
+    "start": 61.16,
+    "duration": 4.6
+  },
+  {
+    "text": "gold and silver for spot that's",
+    "start": 63.76,
+    "duration": 3.719
+  },
+  {
+    "text": "sdbullion.com",
+    "start": 65.76,
+    "duration": 4.16
+  },
+  {
+    "text": "new so China has been the big buyer of",
+    "start": 67.479,
+    "duration": 4.601
+  },
+  {
+    "text": "gold on the global market we all know",
+    "start": 69.92,
+    "duration": 4.32
+  },
+  {
+    "text": "that they're dumping us treasuries",
+    "start": 72.08,
+    "duration": 4.24
+  },
+  {
+    "text": "they're using those dollars to buy gold",
+    "start": 74.24,
+    "duration": 3.8
+  },
+  {
+    "text": "now effectively they're converting",
+    "start": 76.32,
+    "duration": 3.96
+  },
+  {
+    "text": "Dollars to gold does not mean they're",
+    "start": 78.04,
+    "duration": 3.88
+  },
+  {
+    "text": "getting out entirely it means they're",
+    "start": 80.28,
+    "duration": 3.36
+  },
+  {
+    "text": "converting Reserve assets to something",
+    "start": 81.92,
+    "duration": 4.239
+  },
+  {
+    "text": "the United States would have no control",
+    "start": 83.64,
+    "duration": 4.28
+  },
+  {
+    "text": "over that limits their exposure to the",
+    "start": 86.159,
+    "duration": 3.761
+  },
+  {
+    "text": "dollar which also limits their EXP",
+    "start": 87.92,
+    "duration": 5.36
+  },
+  {
+    "text": "exposure to possible us sanctions now",
+    "start": 89.92,
+    "duration": 5.199
+  },
+  {
+    "text": "maybe that doesn't seem alarmist enough",
+    "start": 93.28,
+    "duration": 3.32
+  },
+  {
+    "text": "it doesn't seem like the end that we're",
+    "start": 95.119,
+    "duration": 3.28
+  },
+  {
+    "text": "being warned of every day but it's the",
+    "start": 96.6,
+    "duration": 4.799
+  },
+  {
+    "text": "dollarization that's affecting us today",
+    "start": 98.399,
+    "duration": 4.321
+  },
+  {
+    "text": "and we can look in on the reported",
+    "start": 101.399,
+    "duration": 3.281
+  },
+  {
+    "text": "Central Bank gold buying to see how",
+    "start": 102.72,
+    "duration": 3.719
+  },
+  {
+    "text": "that's affecting gold prices the",
+    "start": 104.68,
+    "duration": 4.759
+  },
+  {
+    "text": "purchases in April they were 36 tons but",
+    "start": 106.439,
+    "duration": 4.801
+  },
+  {
+    "text": "the bigger story is that there were only",
+    "start": 109.439,
+    "duration": 5.201
+  },
+  {
+    "text": "3 tons in sale so net purchase of 33",
+    "start": 111.24,
+    "duration": 6.0
+  },
+  {
+    "text": "tons now another interesting part in",
+    "start": 114.64,
+    "duration": 4.839
+  },
+  {
+    "text": "this this year is that China pulled back",
+    "start": 117.24,
+    "duration": 4.96
+  },
+  {
+    "text": "its buying significantly in April they",
+    "start": 119.479,
+    "duration": 4.92
+  },
+  {
+    "text": "bought around 2 tons and that's down",
+    "start": 122.2,
+    "duration": 4.839
+  },
+  {
+    "text": "from an average of about 18 tons per",
+    "start": 124.399,
+    "duration": 4.961
+  },
+  {
+    "text": "month if you're look back to November in",
+    "start": 127.039,
+    "duration": 5.601
+  },
+  {
+    "text": "2022 when China resumed reporting now",
+    "start": 129.36,
+    "duration": 5.0
+  },
+  {
+    "text": "that has to mean Global gold buying is",
+    "start": 132.64,
+    "duration": 3.76
+  },
+  {
+    "text": "down right well we don't really know",
+    "start": 134.36,
+    "duration": 4.4
+  },
+  {
+    "text": "right now but turkey has passed China as",
+    "start": 136.4,
+    "duration": 4.4
+  },
+  {
+    "text": "the big buyer this year then you have",
+    "start": 138.76,
+    "duration": 5.479
+  },
+  {
+    "text": "China then India Kazakhstan Singapore",
+    "start": 140.8,
+    "duration": 5.68
+  },
+  {
+    "text": "Czech Republic and then Poland the list",
+    "start": 144.239,
+    "duration": 3.681
+  },
+  {
+    "text": "goes on we don't need to trace it all",
+    "start": 146.48,
+    "duration": 4.08
+  },
+  {
+    "text": "the way down the numbers are big though",
+    "start": 147.92,
+    "duration": 4.28
+  },
+  {
+    "text": "they the biggest they've ever been the",
+    "start": 150.56,
+    "duration": 3.8
+  },
+  {
+    "text": "first quarter of 2024 broke the prior",
+    "start": 152.2,
+    "duration": 4.72
+  },
+  {
+    "text": "quarterly record which was set the prior",
+    "start": 154.36,
+    "duration": 5.0
+  },
+  {
+    "text": "quarter so the end of 2023 and the",
+    "start": 156.92,
+    "duration": 3.84
+  },
+  {
+    "text": "government's doing the buying they",
+    "start": 159.36,
+    "duration": 2.799
+  },
+  {
+    "text": "appear to be trying to protect against",
+    "start": 160.76,
+    "duration": 2.8
+  },
+  {
+    "text": "possible sanctions like I mentioned",
+    "start": 162.159,
+    "duration": 3.881
+  },
+  {
+    "text": "earlier or stocking up in case of",
+    "start": 163.56,
+    "duration": 5.2
+  },
+  {
+    "text": "potential regional conflict maybe both",
+    "start": 166.04,
+    "duration": 5.199
+  },
+  {
+    "text": "now that buying is propping up gold",
+    "start": 168.76,
+    "duration": 4.96
+  },
+  {
+    "text": "price making it more expensive for you",
+    "start": 171.239,
+    "duration": 4.521
+  },
+  {
+    "text": "and me now I've mentioned this stat",
+    "start": 173.72,
+    "duration": 4.68
+  },
+  {
+    "text": "before but Central Bank buying it's",
+    "start": 175.76,
+    "duration": 5.6
+  },
+  {
+    "text": "locking up 20 7% of annual gold",
+    "start": 178.4,
+    "duration": 5.759
+  },
+  {
+    "text": "production that's less than the 34% from",
+    "start": 181.36,
+    "duration": 4.48
+  },
+  {
+    "text": "last year but we've seen an increase in",
+    "start": 184.159,
+    "duration": 4.121
+  },
+  {
+    "text": "production as well so what that means is",
+    "start": 185.84,
+    "duration": 4.399
+  },
+  {
+    "text": "that a lot of the factors that might",
+    "start": 188.28,
+    "duration": 3.84
+  },
+  {
+    "text": "normally result in downward pressure on",
+    "start": 190.239,
+    "duration": 4.841
+  },
+  {
+    "text": "price giving us a sale just haven't had",
+    "start": 192.12,
+    "duration": 6.479
+  },
+  {
+    "text": "that negative impact so this gold coin",
+    "start": 195.08,
+    "duration": 6.04
+  },
+  {
+    "text": "costs a little bit more the actual",
+    "start": 198.599,
+    "duration": 5.2
+  },
+  {
+    "text": "dollarization component itself is going",
+    "start": 201.12,
+    "duration": 5.44
+  },
+  {
+    "text": "to have a much more direct impact down",
+    "start": 203.799,
+    "duration": 5.0
+  },
+  {
+    "text": "the road at least presumably now right",
+    "start": 206.56,
+    "duration": 4.12
+  },
+  {
+    "text": "now China wants to alternative to the",
+    "start": 208.799,
+    "duration": 4.72
+  },
+  {
+    "text": "dollar for international trade and their",
+    "start": 210.68,
+    "duration": 4.96
+  },
+  {
+    "text": "digital Yuan needs the proper",
+    "start": 213.519,
+    "duration": 4.121
+  },
+  {
+    "text": "infrastructure they need the proper Buy",
+    "start": 215.64,
+    "duration": 3.679
+  },
+  {
+    "text": "in from other nations and I wish I had",
+    "start": 217.64,
+    "duration": 4.12
+  },
+  {
+    "text": "Margot Robi in a bubble bath to explain",
+    "start": 219.319,
+    "duration": 4.961
+  },
+  {
+    "text": "this because it's complicated but any",
+    "start": 221.76,
+    "duration": 4.399
+  },
+  {
+    "text": "trading partner with China agreeing to",
+    "start": 224.28,
+    "duration": 4.319
+  },
+  {
+    "text": "use the digital Yuan has to agree on the",
+    "start": 226.159,
+    "duration": 4.72
+  },
+  {
+    "text": "exchange value so this can't Simply Be",
+    "start": 228.599,
+    "duration": 3.801
+  },
+  {
+    "text": "China telling the other party what it's",
+    "start": 230.879,
+    "duration": 3.521
+  },
+  {
+    "text": "worth they need to add to their reserves",
+    "start": 232.4,
+    "duration": 3.6
+  },
+  {
+    "text": "and show greater stability in their",
+    "start": 234.4,
+    "duration": 3.039
+  },
+  {
+    "text": "currency and that's a big reason that",
+    "start": 236.0,
+    "duration": 3.76
+  },
+  {
+    "text": "they've been buying so much gold and",
+    "start": 237.439,
+    "duration": 4.201
+  },
+  {
+    "text": "reporting it so I've mentioned the",
+    "start": 239.76,
+    "duration": 3.8
+  },
+  {
+    "text": "timeline and the details get exaggerated",
+    "start": 241.64,
+    "duration": 3.56
+  },
+  {
+    "text": "a lot around here it's a popular topic",
+    "start": 243.56,
+    "duration": 2.92
+  },
+  {
+    "text": "with the doomers and right now you're",
+    "start": 245.2,
+    "duration": 2.84
+  },
+  {
+    "text": "going to see content warning that the",
+    "start": 246.48,
+    "duration": 4.0
+  },
+  {
+    "text": "digital yuan is being used for",
+    "start": 248.04,
+    "duration": 4.96
+  },
+  {
+    "text": "crossborder transactions so dollars",
+    "start": 250.48,
+    "duration": 4.64
+  },
+  {
+    "text": "doomed might as well light your dollars",
+    "start": 253.0,
+    "duration": 4.799
+  },
+  {
+    "text": "on fire they're worthless now what's",
+    "start": 255.12,
+    "duration": 4.359
+  },
+  {
+    "text": "actually happening is coming at a much",
+    "start": 257.799,
+    "duration": 3.081
+  },
+  {
+    "text": "slower Pace or at least there are a lot",
+    "start": 259.479,
+    "duration": 3.361
+  },
+  {
+    "text": "more steps in it if the US were to",
+    "start": 260.88,
+    "duration": 3.96
+  },
+  {
+    "text": "sanction China today cutting off their",
+    "start": 262.84,
+    "duration": 4.32
+  },
+  {
+    "text": "access to Dollars it would have a huge",
+    "start": 264.84,
+    "duration": 4.68
+  },
+  {
+    "text": "impact on their economy now China knows",
+    "start": 267.16,
+    "duration": 4.319
+  },
+  {
+    "text": "this they're working on ways around it",
+    "start": 269.52,
+    "duration": 3.44
+  },
+  {
+    "text": "that's the nearer term goal for",
+    "start": 271.479,
+    "duration": 3.0
+  },
+  {
+    "text": "countries like China and one of the",
+    "start": 272.96,
+    "duration": 3.36
+  },
+  {
+    "text": "reasons for the heavy gold buying that's",
+    "start": 274.479,
+    "duration": 4.121
+  },
+  {
+    "text": "pushing prices up now the Doom story",
+    "start": 276.32,
+    "duration": 3.68
+  },
+  {
+    "text": "kind of Misses that step they like to",
+    "start": 278.6,
+    "duration": 3.159
+  },
+  {
+    "text": "infer the dollar is dead and that's",
+    "start": 280.0,
+    "duration": 3.88
+  },
+  {
+    "text": "what's causing the gold price to spike",
+    "start": 281.759,
+    "duration": 3.761
+  },
+  {
+    "text": "well that's just not the case gold is",
+    "start": 283.88,
+    "duration": 3.44
+  },
+  {
+    "text": "not spiking in price because the dollar",
+    "start": 285.52,
+    "duration": 3.48
+  },
+  {
+    "text": "is burning down it's spiking because",
+    "start": 287.32,
+    "duration": 3.84
+  },
+  {
+    "text": "countries like China are buying gold",
+    "start": 289.0,
+    "duration": 3.84
+  },
+  {
+    "text": "ahead and there's two reasons that",
+    "start": 291.16,
+    "duration": 3.8
+  },
+  {
+    "text": "distinction is important the first is",
+    "start": 292.84,
+    "duration": 4.56
+  },
+  {
+    "text": "just that that fatalist content messes",
+    "start": 294.96,
+    "duration": 3.92
+  },
+  {
+    "text": "with their brains it messes with their",
+    "start": 297.4,
+    "duration": 3.359
+  },
+  {
+    "text": "health that kind of dress just isn't",
+    "start": 298.88,
+    "duration": 3.52
+  },
+  {
+    "text": "good for any of us and I'm going to add",
+    "start": 300.759,
+    "duration": 3.921
+  },
+  {
+    "text": "something here as an aside one of the",
+    "start": 302.4,
+    "duration": 4.44
+  },
+  {
+    "text": "funny bits of human psychology that I've",
+    "start": 304.68,
+    "duration": 3.72
+  },
+  {
+    "text": "noticed over the years is that a person",
+    "start": 306.84,
+    "duration": 3.68
+  },
+  {
+    "text": "who thinks they'll be around for another",
+    "start": 308.4,
+    "duration": 4.44
+  },
+  {
+    "text": "20 years tends to think the rest of the",
+    "start": 310.52,
+    "duration": 4.0
+  },
+  {
+    "text": "world has about that long before it",
+    "start": 312.84,
+    "duration": 4.079
+  },
+  {
+    "text": "burns down too maybe a little bit less",
+    "start": 314.52,
+    "duration": 5.119
+  },
+  {
+    "text": "it's just how we think sometimes but",
+    "start": 316.919,
+    "duration": 4.72
+  },
+  {
+    "text": "more importantly and more on the",
+    "start": 319.639,
+    "duration": 3.881
+  },
+  {
+    "text": "positive side it means that we have time",
+    "start": 321.639,
+    "duration": 4.0
+  },
+  {
+    "text": "to do something about it I see people",
+    "start": 323.52,
+    "duration": 4.16
+  },
+  {
+    "text": "commenting about how they feel they got",
+    "start": 325.639,
+    "duration": 4.441
+  },
+  {
+    "text": "into gold and silver too late but I can",
+    "start": 327.68,
+    "duration": 3.84
+  },
+  {
+    "text": "tell you A lot of people were saying",
+    "start": 330.08,
+    "duration": 4.0
+  },
+  {
+    "text": "that same thing in 2011 and we can see",
+    "start": 331.52,
+    "duration": 4.48
+  },
+  {
+    "text": "pretty clearly today that it definitely",
+    "start": 334.08,
+    "duration": 5.679
+  },
+  {
+    "text": "was not too late to get started 13 years",
+    "start": 336.0,
+    "duration": 6.0
+  },
+  {
+    "text": "ago now you'll hear people say this time",
+    "start": 339.759,
+    "duration": 3.961
+  },
+  {
+    "text": "is different and I would agree it",
+    "start": 342.0,
+    "duration": 4.24
+  },
+  {
+    "text": "definitely is but maybe not in the ways",
+    "start": 343.72,
+    "duration": 5.56
+  },
+  {
+    "text": "the doomers want us to believe Doom",
+    "start": 346.24,
+    "duration": 4.88
+  },
+  {
+    "text": "content looks at one thing calls it",
+    "start": 349.28,
+    "duration": 3.12
+  },
+  {
+    "text": "something else and some people are",
+    "start": 351.12,
+    "duration": 3.04
+  },
+  {
+    "text": "really good at connecting dots that we",
+    "start": 352.4,
+    "duration": 4.28
+  },
+  {
+    "text": "all see but they use the dots to create",
+    "start": 354.16,
+    "duration": 5.52
+  },
+  {
+    "text": "a scarier story that and we're all wired",
+    "start": 356.68,
+    "duration": 4.68
+  },
+  {
+    "text": "to watch for threats now the point here",
+    "start": 359.68,
+    "duration": 3.84
+  },
+  {
+    "text": "is that gold is not going up in price",
+    "start": 361.36,
+    "duration": 4.36
+  },
+  {
+    "text": "because the dollar is dumping it's going",
+    "start": 363.52,
+    "duration": 4.84
+  },
+  {
+    "text": "up because central banks are buying and",
+    "start": 365.72,
+    "duration": 4.319
+  },
+  {
+    "text": "that's something that might someday",
+    "start": 368.36,
+    "duration": 3.2
+  },
+  {
+    "text": "contribute to the dollar actually",
+    "start": 370.039,
+    "duration": 3.201
+  },
+  {
+    "text": "dumping which in turn would lead to the",
+    "start": 371.56,
+    "duration": 4.12
+  },
+  {
+    "text": "price of gold going up and same end",
+    "start": 373.24,
+    "duration": 4.56
+  },
+  {
+    "text": "result right well one thing is actually",
+    "start": 375.68,
+    "duration": 4.04
+  },
+  {
+    "text": "happening the other might and getting",
+    "start": 377.8,
+    "duration": 4.04
+  },
+  {
+    "text": "the cause and effect right knowing",
+    "start": 379.72,
+    "duration": 3.919
+  },
+  {
+    "text": "what's actually happening is very",
+    "start": 381.84,
+    "duration": 3.72
+  },
+  {
+    "text": "important to knowing what we can do",
+    "start": 383.639,
+    "duration": 3.84
+  },
+  {
+    "text": "about it and that part's really",
+    "start": 385.56,
+    "duration": 4.079
+  },
+  {
+    "text": "straightforward you buy when you can I",
+    "start": 387.479,
+    "duration": 4.081
+  },
+  {
+    "text": "like the idea of regular purchases but I",
+    "start": 389.639,
+    "duration": 3.241
+  },
+  {
+    "text": "understand everybody's situation is",
+    "start": 391.56,
+    "duration": 3.84
+  },
+  {
+    "text": "different the way that I came at it was",
+    "start": 392.88,
+    "duration": 4.96
+  },
+  {
+    "text": "to get rid of unnecessary expenses and",
+    "start": 395.4,
+    "duration": 5.04
+  },
+  {
+    "text": "then put that freed up cash toward gold",
+    "start": 397.84,
+    "duration": 5.4
+  },
+  {
+    "text": "purchases and silver 2 for a while I did",
+    "start": 400.44,
+    "duration": 5.4
+  },
+  {
+    "text": "that consistently over time every one of",
+    "start": 403.24,
+    "duration": 4.679
+  },
+  {
+    "text": "these coins on the desk here was",
+    "start": 405.84,
+    "duration": 4.84
+  },
+  {
+    "text": "purchased one off so one at a time",
+    "start": 407.919,
+    "duration": 4.481
+  },
+  {
+    "text": "except that rooster which was given to",
+    "start": 410.68,
+    "duration": 4.28
+  },
+  {
+    "text": "me and then I fished out of a dumpster",
+    "start": 412.4,
+    "duration": 3.96
+  },
+  {
+    "text": "and what I didn't do was run out and buy",
+    "start": 414.96,
+    "duration": 2.959
+  },
+  {
+    "text": "everything all at once and that's",
+    "start": 416.36,
+    "duration": 2.959
+  },
+  {
+    "text": "important because if I look at what I",
+    "start": 417.919,
+    "duration": 4.481
+  },
+  {
+    "text": "have today it is all appreciated except",
+    "start": 419.319,
+    "duration": 6.16
+  },
+  {
+    "text": "for my recent purchases so as a whole",
+    "start": 422.4,
+    "duration": 4.4
+  },
+  {
+    "text": "it's gone up and I don't have any",
+    "start": 425.479,
+    "duration": 3.241
+  },
+  {
+    "text": "regrets when I look at that whole stack",
+    "start": 426.8,
+    "duration": 4.239
+  },
+  {
+    "text": "one because I saved money I was",
+    "start": 428.72,
+    "duration": 4.72
+  },
+  {
+    "text": "otherwise wasting and two because the",
+    "start": 431.039,
+    "duration": 4.361
+  },
+  {
+    "text": "gold has appreciated well beyond the",
+    "start": 433.44,
+    "duration": 5.68
+  },
+  {
+    "text": "cost to buy it now if I had run out and",
+    "start": 435.4,
+    "duration": 6.44
+  },
+  {
+    "text": "bought 10 ounces 50 ounces or converted",
+    "start": 439.12,
+    "duration": 5.199
+  },
+  {
+    "text": "50% of my retirement account into gold",
+    "start": 441.84,
+    "duration": 4.6
+  },
+  {
+    "text": "all at once I would be looking at every",
+    "start": 444.319,
+    "duration": 4.961
+  },
+  {
+    "text": "spot price pullback every possible event",
+    "start": 446.44,
+    "duration": 5.599
+  },
+  {
+    "text": "that could cause a future price pullback",
+    "start": 449.28,
+    "duration": 5.039
+  },
+  {
+    "text": "and I'd worry about it now I see this in",
+    "start": 452.039,
+    "duration": 4.361
+  },
+  {
+    "text": "the comments a lot I see it in emails",
+    "start": 454.319,
+    "duration": 4.6
+  },
+  {
+    "text": "when should I buy am I too late is the",
+    "start": 456.4,
+    "duration": 5.359
+  },
+  {
+    "text": "price going to crash maybe I should sell",
+    "start": 458.919,
+    "duration": 4.921
+  },
+  {
+    "text": "this is my concern with the alarmist",
+    "start": 461.759,
+    "duration": 3.84
+  },
+  {
+    "text": "content it tells people they need to go",
+    "start": 463.84,
+    "duration": 4.319
+  },
+  {
+    "text": "big and then they need to worry about it",
+    "start": 465.599,
+    "duration": 4.0
+  },
+  {
+    "text": "now bringing that back to the",
+    "start": 468.159,
+    "duration": 3.76
+  },
+  {
+    "text": "dollarization topic specifically I see",
+    "start": 469.599,
+    "duration": 4.201
+  },
+  {
+    "text": "videos telling us it's all over for the",
+    "start": 471.919,
+    "duration": 3.881
+  },
+  {
+    "text": "dollar because of this or that China",
+    "start": 473.8,
+    "duration": 4.28
+  },
+  {
+    "text": "just rolled out a crossb digital Yuan",
+    "start": 475.8,
+    "duration": 4.959
+  },
+  {
+    "text": "test Saudi Arabia joined bricks India",
+    "start": 478.08,
+    "duration": 5.399
+  },
+  {
+    "text": "made a trade deal with Russia any",
+    "start": 480.759,
+    "duration": 4.961
+  },
+  {
+    "text": "headline on top of flames telling us",
+    "start": 483.479,
+    "duration": 5.081
+  },
+  {
+    "text": "that it is the end now the consistency",
+    "start": 485.72,
+    "duration": 4.319
+  },
+  {
+    "text": "of These Warnings is pretty impressive",
+    "start": 488.56,
+    "duration": 3.28
+  },
+  {
+    "text": "we've been warned disaster was here",
+    "start": 490.039,
+    "duration": 3.921
+  },
+  {
+    "text": "every Tuesday at 4 p.m. eastern time for",
+    "start": 491.84,
+    "duration": 4.68
+  },
+  {
+    "text": "as long as I've been on YouTube you know",
+    "start": 493.96,
+    "duration": 5.239
+  },
+  {
+    "text": "Monday Wednesday Thursday Friday to it's",
+    "start": 496.52,
+    "duration": 4.48
+  },
+  {
+    "text": "11:00 a.m. on the weekends there are a",
+    "start": 499.199,
+    "duration": 4.201
+  },
+  {
+    "text": "lot of people giving bad information who",
+    "start": 501.0,
+    "duration": 4.039
+  },
+  {
+    "text": "are just trying to push her buttons",
+    "start": 503.4,
+    "duration": 4.239
+  },
+  {
+    "text": "polar strings so I'm not the goofball",
+    "start": 505.039,
+    "duration": 4.16
+  },
+  {
+    "text": "content police here but there's so much",
+    "start": 507.639,
+    "duration": 3.52
+  },
+  {
+    "text": "noise in this space and I think we need",
+    "start": 509.199,
+    "duration": 3.96
+  },
+  {
+    "text": "to every once in a while intentionally",
+    "start": 511.159,
+    "duration": 4.36
+  },
+  {
+    "text": "shove that aside and get a plan together",
+    "start": 513.159,
+    "duration": 3.921
+  },
+  {
+    "text": "I would say creating a habit of buying",
+    "start": 515.519,
+    "duration": 3.721
+  },
+  {
+    "text": "gold is a savings model is a really good",
+    "start": 517.08,
+    "duration": 4.639
+  },
+  {
+    "text": "idea and doing it without missing out on",
+    "start": 519.24,
+    "duration": 5.12
+  },
+  {
+    "text": "other things is an important part of",
+    "start": 521.719,
+    "duration": 4.201
+  },
+  {
+    "text": "that you'll see that over time you start",
+    "start": 524.36,
+    "duration": 3.039
+  },
+  {
+    "text": "to save money that you were otherwise",
+    "start": 525.92,
+    "duration": 3.28
+  },
+  {
+    "text": "wasting the gold appreciates over time",
+    "start": 527.399,
+    "duration": 3.801
+  },
+  {
+    "text": "as well and the channels telling us the",
+    "start": 529.2,
+    "duration": 4.68
+  },
+  {
+    "text": "end is here are consistently wrong so",
+    "start": 531.2,
+    "duration": 4.84
+  },
+  {
+    "text": "there are a lot of forces in play trying",
+    "start": 533.88,
+    "duration": 4.92
+  },
+  {
+    "text": "to unseat the dollar that does not mean",
+    "start": 536.04,
+    "duration": 4.6
+  },
+  {
+    "text": "that any of us are are too late to do",
+    "start": 538.8,
+    "duration": 3.479
+  },
+  {
+    "text": "something about it that we're too late",
+    "start": 540.64,
+    "duration": 4.8
+  },
+  {
+    "text": "to get going I would say we all have",
+    "start": 542.279,
+    "duration": 5.24
+  },
+  {
+    "text": "time so let's call it good there let us",
+    "start": 545.44,
+    "duration": 3.56
+  },
+  {
+    "text": "know in the comments what you're up to",
+    "start": 547.519,
+    "duration": 4.481
+  },
+  {
+    "text": "if you're on team slow and steady or",
+    "start": 549.0,
+    "duration": 5.56
+  },
+  {
+    "text": "team buy it all world's on fire let us",
+    "start": 552.0,
+    "duration": 3.44
+  },
+  {
+    "text": "know and then while you're in the",
+    "start": 554.56,
+    "duration": 2.24
+  },
+  {
+    "text": "comments be sure to hit that like button",
+    "start": 555.44,
+    "duration": 3.28
+  },
+  {
+    "text": "if you found any of this interesting be",
+    "start": 556.8,
+    "duration": 3.12
+  },
+  {
+    "text": "sure you're subscribed with",
+    "start": 558.72,
+    "duration": 2.4
+  },
+  {
+    "text": "notifications turned on if you want to",
+    "start": 559.92,
+    "duration": 2.84
+  },
+  {
+    "text": "hear more on the topic and if you're",
+    "start": 561.12,
+    "duration": 3.88
+  },
+  {
+    "text": "still here thanks again for watching I",
+    "start": 562.76,
+    "duration": 5.92
+  },
+  {
+    "text": "always appreciate your time take care",
+    "start": 565.0,
+    "duration": 6.44
+  },
+  {
+    "text": "[Music]",
+    "start": 568.68,
+    "duration": 5.76
+  },
+  {
+    "text": "ah",
+    "start": 571.44,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 575.25,
+    "duration": 14.299
+  }
+]

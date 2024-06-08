@@ -1,0 +1,867 @@
+[
+  {
+    "text": "similar to where silver peaked at $50 in",
+    "start": 0.24,
+    "duration": 5.36
+  },
+  {
+    "text": "1980 you could get this blowoff top",
+    "start": 3.279,
+    "duration": 4.881
+  },
+  {
+    "text": "where it reaches 300 it's the kind of",
+    "start": 5.6,
+    "duration": 5.24
+  },
+  {
+    "text": "peak that we could potentially see and",
+    "start": 8.16,
+    "duration": 4.96
+  },
+  {
+    "text": "so how I get there is through multiple",
+    "start": 10.84,
+    "duration": 4.959
+  },
+  {
+    "text": "indicators one of the main ones is the",
+    "start": 13.12,
+    "duration": 5.56
+  },
+  {
+    "text": "gold silver ratio and that's very simply",
+    "start": 15.799,
+    "duration": 5.881
+  },
+  {
+    "text": "the price of gold uh divided by the",
+    "start": 18.68,
+    "duration": 5.0
+  },
+  {
+    "text": "price of silver uh which tells you how",
+    "start": 21.68,
+    "duration": 3.759
+  },
+  {
+    "text": "many silver ounces it takes to buy an",
+    "start": 23.68,
+    "duration": 4.72
+  },
+  {
+    "text": "ounce of gold and that ratio varies over",
+    "start": 25.439,
+    "duration": 5.281
+  },
+  {
+    "text": "time right now we're close to I believe",
+    "start": 28.4,
+    "duration": 5.999
+  },
+  {
+    "text": "it's 85 or 90 ounces of silver and that",
+    "start": 30.72,
+    "duration": 7.24
+  },
+  {
+    "text": "has averaged about 55 to 60 ounces of",
+    "start": 34.399,
+    "duration": 5.48
+  },
+  {
+    "text": "silver to buy one gold ounce over the",
+    "start": 37.96,
+    "duration": 5.439
+  },
+  {
+    "text": "last say 20 or 30 years but in the 1970s",
+    "start": 39.879,
+    "duration": 5.801
+  },
+  {
+    "text": "when we have a good analog which was the",
+    "start": 43.399,
+    "duration": 5.64
+  },
+  {
+    "text": "last bull market for silver and gold and",
+    "start": 45.68,
+    "duration": 6.8
+  },
+  {
+    "text": "by the way silver returned about 3700%",
+    "start": 49.039,
+    "duration": 5.761
+  },
+  {
+    "text": "in that bull market and gold returned",
+    "start": 52.48,
+    "duration": 3.32
+  },
+  {
+    "text": "about,",
+    "start": 54.8,
+    "duration": 5.2
+  },
+  {
+    "text": "1400% in the 1970s so silver more than 2",
+    "start": 55.8,
+    "duration": 6.68
+  },
+  {
+    "text": "for one outperformed gold silver went",
+    "start": 60.0,
+    "duration": 7.2
+  },
+  {
+    "text": "from about $130 to $50 um from 1971 to",
+    "start": 62.48,
+    "duration": 9.279
+  },
+  {
+    "text": "1980 um in uh 1980 when silver peaked at",
+    "start": 67.2,
+    "duration": 8.2
+  },
+  {
+    "text": "$50 the ratio dropped to an ultimate low",
+    "start": 71.759,
+    "duration": 6.561
+  },
+  {
+    "text": "of 15 it took just 15 ounces of silver",
+    "start": 75.4,
+    "duration": 5.64
+  },
+  {
+    "text": "to buy 1 ounce of gold and that ratio at",
+    "start": 78.32,
+    "duration": 4.64
+  },
+  {
+    "text": "that point was very much out of whack",
+    "start": 81.04,
+    "duration": 4.92
+  },
+  {
+    "text": "it's it was very far from its mean from",
+    "start": 82.96,
+    "duration": 6.0
+  },
+  {
+    "text": "its average and was in all likeliness",
+    "start": 85.96,
+    "duration": 5.839
+  },
+  {
+    "text": "due to bounce back and and go higher and",
+    "start": 88.96,
+    "duration": 5.92
+  },
+  {
+    "text": "so it did silver prices fell gold prices",
+    "start": 91.799,
+    "duration": 5.32
+  },
+  {
+    "text": "also fell but silver prices fell more",
+    "start": 94.88,
+    "duration": 4.4
+  },
+  {
+    "text": "rapidly percentage wise and things went",
+    "start": 97.119,
+    "duration": 5.721
+  },
+  {
+    "text": "back to to normal so if we use that as a",
+    "start": 99.28,
+    "duration": 6.36
+  },
+  {
+    "text": "comparison for today I look at forecast",
+    "start": 102.84,
+    "duration": 4.4
+  },
+  {
+    "text": "reasonable what I think a reasonable",
+    "start": 105.64,
+    "duration": 4.24
+  },
+  {
+    "text": "forecast for for the gold price in the",
+    "start": 107.24,
+    "duration": 5.159
+  },
+  {
+    "text": "ratio so we have people like Jim",
+    "start": 109.88,
+    "duration": 4.919
+  },
+  {
+    "text": "Rickards uh people like Shane Maguire",
+    "start": 112.399,
+    "duration": 5.72
+  },
+  {
+    "text": "who ran uh a gold fund for the Texas um",
+    "start": 114.799,
+    "duration": 5.761
+  },
+  {
+    "text": "teachers retirement system we have",
+    "start": 118.119,
+    "duration": 6.561
+  },
+  {
+    "text": "people like Scott Minard who um is a uh",
+    "start": 120.56,
+    "duration": 6.0
+  },
+  {
+    "text": "I believe a chief investment officer for",
+    "start": 124.68,
+    "duration": 4.439
+  },
+  {
+    "text": "Oppenheimer and I believe he's some sort",
+    "start": 126.56,
+    "duration": 4.6
+  },
+  {
+    "text": "of adviser to I believe it's the New",
+    "start": 129.119,
+    "duration": 4.561
+  },
+  {
+    "text": "York Fed so these are people that are",
+    "start": 131.16,
+    "duration": 5.439
+  },
+  {
+    "text": "highly regarded in some cases we have a",
+    "start": 133.68,
+    "duration": 6.72
+  },
+  {
+    "text": "forecast by these respected analysts of",
+    "start": 136.599,
+    "duration": 7.401
+  },
+  {
+    "text": "anywhere from $5,000 to $10,000 gold",
+    "start": 140.4,
+    "duration": 5.8
+  },
+  {
+    "text": "ultimately and I've been saying publicly",
+    "start": 144.0,
+    "duration": 5.92
+  },
+  {
+    "text": "since back 2009 2010 that I think gold",
+    "start": 146.2,
+    "duration": 6.24
+  },
+  {
+    "text": "will easily reach 5,000 we were not not",
+    "start": 149.92,
+    "duration": 5.88
+  },
+  {
+    "text": "long ago at 2,000 and so you know from a",
+    "start": 152.44,
+    "duration": 5.879
+  },
+  {
+    "text": "level of $2,000 $55,000 is two and a",
+    "start": 155.8,
+    "duration": 5.64
+  },
+  {
+    "text": "half times I feel that's not",
+    "start": 158.319,
+    "duration": 5.881
+  },
+  {
+    "text": "unreasonable I feel that we are still in",
+    "start": 161.44,
+    "duration": 5.0
+  },
+  {
+    "text": "a very long secular bull market for",
+    "start": 164.2,
+    "duration": 5.48
+  },
+  {
+    "text": "precious metals and so let's say gold",
+    "start": 166.44,
+    "duration": 4.24
+  },
+  {
+    "text": "goes to",
+    "start": 169.68,
+    "duration": 4.68
+  },
+  {
+    "text": "5,000 and we reach a similar low in the",
+    "start": 170.68,
+    "duration": 7.199
+  },
+  {
+    "text": "ratio of 15 so if you divide 5,000 by 15",
+    "start": 174.36,
+    "duration": 4.48
+  },
+  {
+    "text": "that's",
+    "start": 177.879,
+    "duration": 6.401
+  },
+  {
+    "text": "333 $333 silver I round down to 300 and",
+    "start": 178.84,
+    "duration": 8.959
+  },
+  {
+    "text": "that's one way I got the 300 uh history",
+    "start": 184.28,
+    "duration": 6.56
+  },
+  {
+    "text": "Rhymes but doesn't necessarily repeat",
+    "start": 187.799,
+    "duration": 6.841
+  },
+  {
+    "text": "and I look at the US debt to GDP ratio",
+    "start": 190.84,
+    "duration": 5.56
+  },
+  {
+    "text": "and I go back to",
+    "start": 194.64,
+    "duration": 5.84
+  },
+  {
+    "text": "1970 and in the 70s the debt to GDP in",
+    "start": 196.4,
+    "duration": 7.16
+  },
+  {
+    "text": "the US was actually trailing downwards",
+    "start": 200.48,
+    "duration": 6.039
+  },
+  {
+    "text": "which is really hard to believe that in",
+    "start": 203.56,
+    "duration": 5.52
+  },
+  {
+    "text": "that period debt actually went down",
+    "start": 206.519,
+    "duration": 7.201
+  },
+  {
+    "text": "relative to GDP and it ended the 7s so",
+    "start": 209.08,
+    "duration": 8.4
+  },
+  {
+    "text": "around 1980 at around 30% US debt to GDP",
+    "start": 213.72,
+    "duration": 7.079
+  },
+  {
+    "text": "today at we're at about",
+    "start": 217.48,
+    "duration": 7.88
+  },
+  {
+    "text": "130% so for me what that means is that",
+    "start": 220.799,
+    "duration": 6.841
+  },
+  {
+    "text": "we are in a similar period meaning",
+    "start": 225.36,
+    "duration": 5.64
+  },
+  {
+    "text": "inflation is going to run interestingly",
+    "start": 227.64,
+    "duration": 6.76
+  },
+  {
+    "text": "how inflation um behaved in the70s and",
+    "start": 231.0,
+    "duration": 6.319
+  },
+  {
+    "text": "it wasn't a constant straight lineup it",
+    "start": 234.4,
+    "duration": 5.44
+  },
+  {
+    "text": "was actually a series of waves so we had",
+    "start": 237.319,
+    "duration": 5.041
+  },
+  {
+    "text": "three waves of higher inflation and the",
+    "start": 239.84,
+    "duration": 4.039
+  },
+  {
+    "text": "reason for that was because the FED",
+    "start": 242.36,
+    "duration": 4.04
+  },
+  {
+    "text": "would try and step in raise rates like",
+    "start": 243.879,
+    "duration": 4.761
+  },
+  {
+    "text": "they're doing now inflation would back",
+    "start": 246.4,
+    "duration": 4.919
+  },
+  {
+    "text": "off it would not drop to the previous",
+    "start": 248.64,
+    "duration": 4.84
+  },
+  {
+    "text": "low it would drop to maybe half of the",
+    "start": 251.319,
+    "duration": 5.64
+  },
+  {
+    "text": "of that bottom to top uh run and then it",
+    "start": 253.48,
+    "duration": 6.439
+  },
+  {
+    "text": "would start to rise again that's because",
+    "start": 256.959,
+    "duration": 4.921
+  },
+  {
+    "text": "the fed and other central banks start to",
+    "start": 259.919,
+    "duration": 4.961
+  },
+  {
+    "text": "back off when they see recession so that",
+    "start": 261.88,
+    "duration": 5.599
+  },
+  {
+    "text": "might be as little as 6 to n months away",
+    "start": 264.88,
+    "duration": 5.0
+  },
+  {
+    "text": "when the FED will start to say oh my my",
+    "start": 267.479,
+    "duration": 4.44
+  },
+  {
+    "text": "goodness there's recession people are",
+    "start": 269.88,
+    "duration": 5.599
+  },
+  {
+    "text": "panicking we need to perhaps not just",
+    "start": 271.919,
+    "duration": 6.761
+  },
+  {
+    "text": "stop raising rates start backing off",
+    "start": 275.479,
+    "duration": 5.481
+  },
+  {
+    "text": "their hands really are tied if we go",
+    "start": 278.68,
+    "duration": 4.32
+  },
+  {
+    "text": "back to what I was saying in the 70s we",
+    "start": 280.96,
+    "duration": 4.799
+  },
+  {
+    "text": "had these three waves of inflation uh",
+    "start": 283.0,
+    "duration": 5.84
+  },
+  {
+    "text": "inflation ran up corrected as I say the",
+    "start": 285.759,
+    "duration": 6.201
+  },
+  {
+    "text": "FED stepped in raised rates backed off",
+    "start": 288.84,
+    "duration": 5.68
+  },
+  {
+    "text": "inflation kicked back in again fed",
+    "start": 291.96,
+    "duration": 6.04
+  },
+  {
+    "text": "stepped in again raised rates then again",
+    "start": 294.52,
+    "duration": 5.56
+  },
+  {
+    "text": "eventually backed off with recession and",
+    "start": 298.0,
+    "duration": 4.0
+  },
+  {
+    "text": "then you had this third wave when",
+    "start": 300.08,
+    "duration": 3.959
+  },
+  {
+    "text": "inflation just went absolutely crazy up",
+    "start": 302.0,
+    "duration": 4.56
+  },
+  {
+    "text": "to 14% And and things were calculated",
+    "start": 304.039,
+    "duration": 3.801
+  },
+  {
+    "text": "differently so they actually were much",
+    "start": 306.56,
+    "duration": 4.52
+  },
+  {
+    "text": "more realistic inflation rates back then",
+    "start": 307.84,
+    "duration": 6.24
+  },
+  {
+    "text": "but ultimately the FED under vulker in",
+    "start": 311.08,
+    "duration": 6.76
+  },
+  {
+    "text": "the US was able to raise rates up to 20%",
+    "start": 314.08,
+    "duration": 5.88
+  },
+  {
+    "text": "Which absolutely sounds astronomical",
+    "start": 317.84,
+    "duration": 5.919
+  },
+  {
+    "text": "right now because the debt to GDP level",
+    "start": 319.96,
+    "duration": 7.079
+  },
+  {
+    "text": "was so much lower in other words not",
+    "start": 323.759,
+    "duration": 5.961
+  },
+  {
+    "text": "just government so government debt was",
+    "start": 327.039,
+    "duration": 4.961
+  },
+  {
+    "text": "quarter of what it is right now versus",
+    "start": 329.72,
+    "duration": 5.0
+  },
+  {
+    "text": "the size of the economy but homeowner",
+    "start": 332.0,
+    "duration": 5.4
+  },
+  {
+    "text": "debt mortgages were much less uh",
+    "start": 334.72,
+    "duration": 5.88
+  },
+  {
+    "text": "burdensome student debt car loans",
+    "start": 337.4,
+    "duration": 6.079
+  },
+  {
+    "text": "Consumer loans all of these things were",
+    "start": 340.6,
+    "duration": 5.36
+  },
+  {
+    "text": "much much less inflated than they are",
+    "start": 343.479,
+    "duration": 4.72
+  },
+  {
+    "text": "today uh people could handle and",
+    "start": 345.96,
+    "duration": 3.959
+  },
+  {
+    "text": "governments and business could could",
+    "start": 348.199,
+    "duration": 3.56
+  },
+  {
+    "text": "handle much higher rates even if it was",
+    "start": 349.919,
+    "duration": 3.961
+  },
+  {
+    "text": "just for a short period of time to break",
+    "start": 351.759,
+    "duration": 4.72
+  },
+  {
+    "text": "the back of inflation today I believe",
+    "start": 353.88,
+    "duration": 4.68
+  },
+  {
+    "text": "that's completely impossible there's",
+    "start": 356.479,
+    "duration": 3.84
+  },
+  {
+    "text": "absolutely no way",
+    "start": 358.56,
+    "duration": 3.4
+  },
+  {
+    "text": "That central banks can raise rates",
+    "start": 360.319,
+    "duration": 5.121
+  },
+  {
+    "text": "sufficiently to to break inflations back",
+    "start": 361.96,
+    "duration": 6.28
+  },
+  {
+    "text": "and I think so what will happen is that",
+    "start": 365.44,
+    "duration": 5.039
+  },
+  {
+    "text": "they will raise rates as much as they",
+    "start": 368.24,
+    "duration": 4.88
+  },
+  {
+    "text": "can knowing full well that inflation is",
+    "start": 370.479,
+    "duration": 4.44
+  },
+  {
+    "text": "running much higher than where they're",
+    "start": 373.12,
+    "duration": 4.84
+  },
+  {
+    "text": "able to go and frankly they will let",
+    "start": 374.919,
+    "duration": 5.881
+  },
+  {
+    "text": "inflation run because it becomes a",
+    "start": 377.96,
+    "duration": 6.239
+  },
+  {
+    "text": "choice between raising rates enough",
+    "start": 380.8,
+    "duration": 5.119
+  },
+  {
+    "text": "which they realistically can't do",
+    "start": 384.199,
+    "duration": 4.041
+  },
+  {
+    "text": "because debt levels are so high and even",
+    "start": 385.919,
+    "duration": 5.161
+  },
+  {
+    "text": "if they let's say they did and they were",
+    "start": 388.24,
+    "duration": 4.64
+  },
+  {
+    "text": "to break the back of inflation they",
+    "start": 391.08,
+    "duration": 4.0
+  },
+  {
+    "text": "would absolutely crush the economy and",
+    "start": 392.88,
+    "duration": 5.0
+  },
+  {
+    "text": "so they know that uh we actually do not",
+    "start": 395.08,
+    "duration": 5.8
+  },
+  {
+    "text": "know who owns the FED it's apparently",
+    "start": 397.88,
+    "duration": 5.84
+  },
+  {
+    "text": "it's a a spread ownership across the",
+    "start": 400.88,
+    "duration": 6.68
+  },
+  {
+    "text": "main Banks uh the larger US Banks and so",
+    "start": 403.72,
+    "duration": 6.919
+  },
+  {
+    "text": "there are apparently no uh clear",
+    "start": 407.56,
+    "duration": 5.84
+  },
+  {
+    "text": "guidelines on exactly who owns the fed",
+    "start": 410.639,
+    "duration": 5.721
+  },
+  {
+    "text": "and what capacity Etc and so it's",
+    "start": 413.4,
+    "duration": 5.199
+  },
+  {
+    "text": "absolutely ridiculous to think that such",
+    "start": 416.36,
+    "duration": 5.399
+  },
+  {
+    "text": "an institution that decides on the price",
+    "start": 418.599,
+    "duration": 7.16
+  },
+  {
+    "text": "of money and has so so much power has to",
+    "start": 421.759,
+    "duration": 6.88
+  },
+  {
+    "text": "be so veiled it's just incredible that",
+    "start": 425.759,
+    "duration": 4.88
+  },
+  {
+    "text": "this is how the strings are being pulled",
+    "start": 428.639,
+    "duration": 3.761
+  },
+  {
+    "text": "on our economy it's amazing that we've",
+    "start": 430.639,
+    "duration": 3.721
+  },
+  {
+    "text": "gotten to this point it really is my",
+    "start": 432.4,
+    "duration": 4.68
+  },
+  {
+    "text": "money is on History two three four 5,000",
+    "start": 434.36,
+    "duration": 7.48
+  },
+  {
+    "text": "years of History silver is the most used",
+    "start": 437.08,
+    "duration": 8.16
+  },
+  {
+    "text": "asset as money throughout history more",
+    "start": 441.84,
+    "duration": 6.28
+  },
+  {
+    "text": "transactions over time have taken place",
+    "start": 445.24,
+    "duration": 5.6
+  },
+  {
+    "text": "through silver and and an interesting",
+    "start": 448.12,
+    "duration": 5.359
+  },
+  {
+    "text": "thing about silver is that it is both",
+    "start": 450.84,
+    "duration": 5.12
+  },
+  {
+    "text": "compared to any other metal it is both",
+    "start": 453.479,
+    "duration": 6.201
+  },
+  {
+    "text": "money and indust and an industrial metal",
+    "start": 455.96,
+    "duration": 5.88
+  },
+  {
+    "text": "half of silver is used for industrial",
+    "start": 459.68,
+    "duration": 4.4
+  },
+  {
+    "text": "purposes the other half of silver is",
+    "start": 461.84,
+    "duration": 6.88
+  },
+  {
+    "text": "some sort of investment or decoration or",
+    "start": 464.08,
+    "duration": 7.04
+  },
+  {
+    "text": "jewelry which you could argue in many",
+    "start": 468.72,
+    "duration": 4.479
+  },
+  {
+    "text": "ways is a form of savings and therefore",
+    "start": 471.12,
+    "duration": 4.919
+  },
+  {
+    "text": "a form of investment in a Broadway split",
+    "start": 473.199,
+    "duration": 6.601
+  },
+  {
+    "text": "it half half between um investment and",
+    "start": 476.039,
+    "duration": 6.361
+  },
+  {
+    "text": "industry",
+    "start": 479.8,
+    "duration": 2.6
+  }
+]

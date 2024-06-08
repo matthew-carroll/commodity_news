@@ -1,0 +1,1312 @@
+[
+  {
+    "text": "this inflation that's been going on it's",
+    "start": 0.12,
+    "duration": 3.92
+  },
+  {
+    "text": "not 10 years old it's not 20 years old",
+    "start": 2.52,
+    "duration": 3.92
+  },
+  {
+    "text": "it's not even 50 years old it is about",
+    "start": 4.04,
+    "duration": 4.599
+  },
+  {
+    "text": "90 years old and I'm counting back from",
+    "start": 6.44,
+    "duration": 5.64
+  },
+  {
+    "text": "1933 why 1933 because that's when the",
+    "start": 8.639,
+    "duration": 5.721
+  },
+  {
+    "text": "dollar gold exchange rate was fixed at",
+    "start": 12.08,
+    "duration": 5.08
+  },
+  {
+    "text": "35 that's when FDR Franklin Delmer",
+    "start": 14.36,
+    "duration": 4.4
+  },
+  {
+    "text": "Roosevelt changed it or whoever was",
+    "start": 17.16,
+    "duration": 3.24
+  },
+  {
+    "text": "advising him probably wasn't him changed",
+    "start": 18.76,
+    "duration": 4.8
+  },
+  {
+    "text": "it from 21 to 35 and at that point that",
+    "start": 20.4,
+    "duration": 5.799
+  },
+  {
+    "text": "deflation from $21 an ounce to $35 an",
+    "start": 23.56,
+    "duration": 6.08
+  },
+  {
+    "text": "ounce was enough to get the system price",
+    "start": 26.199,
+    "duration": 6.04
+  },
+  {
+    "text": "system back into to whack I would say",
+    "start": 29.64,
+    "duration": 4.96
+  },
+  {
+    "text": "and keep things going but since then the",
+    "start": 32.239,
+    "duration": 3.84
+  },
+  {
+    "text": "money printing has been constant and",
+    "start": 34.6,
+    "duration": 3.52
+  },
+  {
+    "text": "they tried to lie about a gold dollar",
+    "start": 36.079,
+    "duration": 5.441
+  },
+  {
+    "text": "exchange rate of $35 until 1971 and then",
+    "start": 38.12,
+    "duration": 5.2
+  },
+  {
+    "text": "1971 they stopped lying about it they",
+    "start": 41.52,
+    "duration": 3.92
+  },
+  {
+    "text": "stopped lying and saying that a gold",
+    "start": 43.32,
+    "duration": 4.0
+  },
+  {
+    "text": "ounce was exchangeable for $35 which it",
+    "start": 45.44,
+    "duration": 4.279
+  },
+  {
+    "text": "wasn't but this inflation has been going",
+    "start": 47.32,
+    "duration": 5.559
+  },
+  {
+    "text": "on since the $35 change so that's about",
+    "start": 49.719,
+    "duration": 5.68
+  },
+  {
+    "text": "90 years but in terms of can it go on",
+    "start": 52.879,
+    "duration": 5.0
+  },
+  {
+    "text": "for another 10 years I don't think so I",
+    "start": 55.399,
+    "duration": 4.84
+  },
+  {
+    "text": "mean I remember as a kid in the '90s",
+    "start": 57.879,
+    "duration": 4.48
+  },
+  {
+    "text": "I didn't hear about everybody being in",
+    "start": 60.239,
+    "duration": 4.121
+  },
+  {
+    "text": "debt all the time and there were some",
+    "start": 62.359,
+    "duration": 4.041
+  },
+  {
+    "text": "struggling people but you know I lived",
+    "start": 64.36,
+    "duration": 3.72
+  },
+  {
+    "text": "in a you know middle class upper middle",
+    "start": 66.4,
+    "duration": 4.0
+  },
+  {
+    "text": "class area where people generally had",
+    "start": 68.08,
+    "duration": 5.24
+  },
+  {
+    "text": "savings and people were uly mobile and",
+    "start": 70.4,
+    "duration": 5.719
+  },
+  {
+    "text": "you know things were generally high",
+    "start": 73.32,
+    "duration": 4.839
+  },
+  {
+    "text": "standard of living but I remember it it",
+    "start": 76.119,
+    "duration": 4.68
+  },
+  {
+    "text": "changed around 2006 2007 people were",
+    "start": 78.159,
+    "duration": 4.521
+  },
+  {
+    "text": "going into debt to buy houses and then",
+    "start": 80.799,
+    "duration": 3.68
+  },
+  {
+    "text": "they lost debts are still overhang from",
+    "start": 82.68,
+    "duration": 3.84
+  },
+  {
+    "text": "there people everywhere are in debt I",
+    "start": 84.479,
+    "duration": 4.041
+  },
+  {
+    "text": "don't know anybody besides rich people",
+    "start": 86.52,
+    "duration": 3.84
+  },
+  {
+    "text": "you know who are not in some kind of",
+    "start": 88.52,
+    "duration": 4.32
+  },
+  {
+    "text": "major net debt it's at these turning",
+    "start": 90.36,
+    "duration": 4.799
+  },
+  {
+    "text": "points when things implode what I think",
+    "start": 92.84,
+    "duration": 3.919
+  },
+  {
+    "text": "is going to happen is there's going to",
+    "start": 95.159,
+    "duration": 2.92
+  },
+  {
+    "text": "be a grind I don't know how long it's",
+    "start": 96.759,
+    "duration": 3.4
+  },
+  {
+    "text": "going to take a few months maybe a year",
+    "start": 98.079,
+    "duration": 4.441
+  },
+  {
+    "text": "there's so much like massive stuff going",
+    "start": 100.159,
+    "duration": 3.721
+  },
+  {
+    "text": "on deep down in the bowels of the",
+    "start": 102.52,
+    "duration": 3.0
+  },
+  {
+    "text": "monetary system that anything could trip",
+    "start": 103.88,
+    "duration": 4.519
+  },
+  {
+    "text": "a wire somewhere that nobody saw at any",
+    "start": 105.52,
+    "duration": 4.919
+  },
+  {
+    "text": "point now what I think is going to",
+    "start": 108.399,
+    "duration": 3.76
+  },
+  {
+    "text": "happen just based on how these things",
+    "start": 110.439,
+    "duration": 3.121
+  },
+  {
+    "text": "have happened in the past and these",
+    "start": 112.159,
+    "duration": 3.32
+  },
+  {
+    "text": "things have happened in the past is that",
+    "start": 113.56,
+    "duration": 4.08
+  },
+  {
+    "text": "we're going to see an orderly decline of",
+    "start": 115.479,
+    "duration": 4.0
+  },
+  {
+    "text": "the dollar in its purchasing power I",
+    "start": 117.64,
+    "duration": 3.0
+  },
+  {
+    "text": "don't know again other currencies I'm",
+    "start": 119.479,
+    "duration": 2.56
+  },
+  {
+    "text": "not saying against other currencies I'm",
+    "start": 120.64,
+    "duration": 3.2
+  },
+  {
+    "text": "saying purchasing power in terms of real",
+    "start": 122.039,
+    "duration": 3.841
+  },
+  {
+    "text": "stuff you can buy with it it's going to",
+    "start": 123.84,
+    "duration": 3.4
+  },
+  {
+    "text": "go down and down and down things are",
+    "start": 125.88,
+    "duration": 3.359
+  },
+  {
+    "text": "going to get more and more expensive and",
+    "start": 127.24,
+    "duration": 4.68
+  },
+  {
+    "text": "because everybody basically agrees",
+    "start": 129.239,
+    "duration": 4.961
+  },
+  {
+    "text": "almost everybody the real diard Fiat",
+    "start": 131.92,
+    "duration": 4.72
+  },
+  {
+    "text": "people they know this isn't sustainable",
+    "start": 134.2,
+    "duration": 4.319
+  },
+  {
+    "text": "they know that this whole system doesn't",
+    "start": 136.64,
+    "duration": 3.879
+  },
+  {
+    "text": "work because debt just accumulates and",
+    "start": 138.519,
+    "duration": 4.0
+  },
+  {
+    "text": "accumulates it never ever goes down you",
+    "start": 140.519,
+    "duration": 4.201
+  },
+  {
+    "text": "cannot sustain any system like this it's",
+    "start": 142.519,
+    "duration": 4.321
+  },
+  {
+    "text": "against nature nature doesn't work like",
+    "start": 144.72,
+    "duration": 4.76
+  },
+  {
+    "text": "this nature balances this system doesn't",
+    "start": 146.84,
+    "duration": 4.16
+  },
+  {
+    "text": "balance just accumulates and accumulate",
+    "start": 149.48,
+    "duration": 4.2
+  },
+  {
+    "text": "everybody knows it's doomed but at a",
+    "start": 151.0,
+    "duration": 4.64
+  },
+  {
+    "text": "certain point when it becomes obvious",
+    "start": 153.68,
+    "duration": 3.0
+  },
+  {
+    "text": "that the dollar is really losing",
+    "start": 155.64,
+    "duration": 2.76
+  },
+  {
+    "text": "purchasing power at that point it's",
+    "start": 156.68,
+    "duration": 3.72
+  },
+  {
+    "text": "going to go fast like maybe weeks or",
+    "start": 158.4,
+    "duration": 5.16
+  },
+  {
+    "text": "even days like in viar right we've seen",
+    "start": 160.4,
+    "duration": 4.96
+  },
+  {
+    "text": "hyperinflation before it happened here",
+    "start": 163.56,
+    "duration": 5.16
+  },
+  {
+    "text": "in Israel 1984 it happened in viar 1923",
+    "start": 165.36,
+    "duration": 4.56
+  },
+  {
+    "text": "it happened in many different countries",
+    "start": 168.72,
+    "duration": 2.96
+  },
+  {
+    "text": "but only in isolated currencies that",
+    "start": 169.92,
+    "duration": 3.8
+  },
+  {
+    "text": "always had an index currency to go back",
+    "start": 171.68,
+    "duration": 4.36
+  },
+  {
+    "text": "to the only difference is it's the index",
+    "start": 173.72,
+    "duration": 3.92
+  },
+  {
+    "text": "currency itself it's the dollar that's",
+    "start": 176.04,
+    "duration": 3.559
+  },
+  {
+    "text": "going to crash and then where do all the",
+    "start": 177.64,
+    "duration": 3.84
+  },
+  {
+    "text": "other currencies index the dollar go",
+    "start": 179.599,
+    "duration": 3.92
+  },
+  {
+    "text": "they can either go back to gold or you",
+    "start": 181.48,
+    "duration": 3.88
+  },
+  {
+    "text": "know the entire monetary system is going",
+    "start": 183.519,
+    "duration": 3.08
+  },
+  {
+    "text": "to implode and you're going to have to",
+    "start": 185.36,
+    "duration": 3.439
+  },
+  {
+    "text": "break up into private monies which could",
+    "start": 186.599,
+    "duration": 3.961
+  },
+  {
+    "text": "be better longer term but it's going to",
+    "start": 188.799,
+    "duration": 3.641
+  },
+  {
+    "text": "be much more chaotic short term just",
+    "start": 190.56,
+    "duration": 4.239
+  },
+  {
+    "text": "like in viar you saw an inflation that",
+    "start": 192.44,
+    "duration": 5.32
+  },
+  {
+    "text": "took from about 1918 after World War I",
+    "start": 194.799,
+    "duration": 6.121
+  },
+  {
+    "text": "to 1923 but it really really sped up in",
+    "start": 197.76,
+    "duration": 5.28
+  },
+  {
+    "text": "mid 1923 it took about maybe five six",
+    "start": 200.92,
+    "duration": 4.239
+  },
+  {
+    "text": "months and the only thing that was",
+    "start": 203.04,
+    "duration": 3.919
+  },
+  {
+    "text": "slowing it down then was the fact that",
+    "start": 205.159,
+    "duration": 3.321
+  },
+  {
+    "text": "people had to be paid in physical paper",
+    "start": 206.959,
+    "duration": 3.121
+  },
+  {
+    "text": "you had to distribute the stuff so it",
+    "start": 208.48,
+    "duration": 3.64
+  },
+  {
+    "text": "took time for paper to be distributed",
+    "start": 210.08,
+    "duration": 3.04
+  },
+  {
+    "text": "throughout the country because you had",
+    "start": 212.12,
+    "duration": 2.36
+  },
+  {
+    "text": "to transport it on trains and you have",
+    "start": 213.12,
+    "duration": 2.759
+  },
+  {
+    "text": "to give it to people physically hand it",
+    "start": 214.48,
+    "duration": 2.839
+  },
+  {
+    "text": "to them now you don't have to do any of",
+    "start": 215.879,
+    "duration": 3.601
+  },
+  {
+    "text": "that payments are instantaneous Bitcoin",
+    "start": 217.319,
+    "duration": 3.48
+  },
+  {
+    "text": "Apple pay what however you want to pay",
+    "start": 219.48,
+    "duration": 2.64
+  },
+  {
+    "text": "Bitcoin is just another form of dollars",
+    "start": 220.799,
+    "duration": 2.64
+  },
+  {
+    "text": "in my opin but you can get rid of",
+    "start": 222.12,
+    "duration": 3.399
+  },
+  {
+    "text": "dollars in an instant like that you can",
+    "start": 223.439,
+    "duration": 4.121
+  },
+  {
+    "text": "get rid of everything spend it all in a",
+    "start": 225.519,
+    "duration": 3.8
+  },
+  {
+    "text": "second we've never seen a hyperinflation",
+    "start": 227.56,
+    "duration": 2.959
+  },
+  {
+    "text": "in this kind of technological",
+    "start": 229.319,
+    "duration": 3.041
+  },
+  {
+    "text": "environment before of a base currency",
+    "start": 230.519,
+    "duration": 4.44
+  },
+  {
+    "text": "like the dollar so it could be you know",
+    "start": 232.36,
+    "duration": 4.239
+  },
+  {
+    "text": "food prices double in a month and then",
+    "start": 234.959,
+    "duration": 3.041
+  },
+  {
+    "text": "they double again the next month and",
+    "start": 236.599,
+    "duration": 2.92
+  },
+  {
+    "text": "then you know a few days after that just",
+    "start": 238.0,
+    "duration": 4.12
+  },
+  {
+    "text": "bam nothing I don't know because we've",
+    "start": 239.519,
+    "duration": 4.481
+  },
+  {
+    "text": "never seen this before we've seen",
+    "start": 242.12,
+    "duration": 3.959
+  },
+  {
+    "text": "qualitatively the same thing we've never",
+    "start": 244.0,
+    "duration": 5.319
+  },
+  {
+    "text": "seen quantitatively this much of it in",
+    "start": 246.079,
+    "duration": 5.16
+  },
+  {
+    "text": "the sort of technological environment of",
+    "start": 249.319,
+    "duration": 3.441
+  },
+  {
+    "text": "money transfer that we have today I",
+    "start": 251.239,
+    "duration": 4.041
+  },
+  {
+    "text": "don't know exactly but protect yourself",
+    "start": 252.76,
+    "duration": 5.199
+  },
+  {
+    "text": "now before any of this happens the only",
+    "start": 255.28,
+    "duration": 3.84
+  },
+  {
+    "text": "reason the dollar has any value is",
+    "start": 257.959,
+    "duration": 2.56
+  },
+  {
+    "text": "because it can still be exchanged for",
+    "start": 259.12,
+    "duration": 3.359
+  },
+  {
+    "text": "some amount of gold only if a few people",
+    "start": 260.519,
+    "duration": 3.921
+  },
+  {
+    "text": "do it if everybody does it gold would be",
+    "start": 262.479,
+    "duration": 4.681
+  },
+  {
+    "text": "something like $40,000 an ounce I come",
+    "start": 264.44,
+    "duration": 4.479
+  },
+  {
+    "text": "to that calculation based on the fed's",
+    "start": 267.16,
+    "duration": 3.2
+  },
+  {
+    "text": "balance sheet divided by the amount of",
+    "start": 268.919,
+    "duration": 3.0
+  },
+  {
+    "text": "golden Fort KNX that's backing the",
+    "start": 270.36,
+    "duration": 3.64
+  },
+  {
+    "text": "balance sheet so if you go back to the",
+    "start": 271.919,
+    "duration": 4.0
+  },
+  {
+    "text": "Great Depression and the the economic",
+    "start": 274.0,
+    "duration": 4.16
+  },
+  {
+    "text": "damage that was caused or not that was",
+    "start": 275.919,
+    "duration": 4.601
+  },
+  {
+    "text": "caused that was revealed by gold moving",
+    "start": 278.16,
+    "duration": 5.319
+  },
+  {
+    "text": "from 21 to 35 uh that's about 60%",
+    "start": 280.52,
+    "duration": 5.36
+  },
+  {
+    "text": "imagine the incredible depression that",
+    "start": 283.479,
+    "duration": 5.0
+  },
+  {
+    "text": "would result from gold moving to 30,000",
+    "start": 285.88,
+    "duration": 5.4
+  },
+  {
+    "text": "in a few weeks I mean God I I don't even",
+    "start": 288.479,
+    "duration": 4.321
+  },
+  {
+    "text": "want to think about it I don't think we",
+    "start": 291.28,
+    "duration": 3.199
+  },
+  {
+    "text": "should even think of it this way don't",
+    "start": 292.8,
+    "duration": 3.119
+  },
+  {
+    "text": "even think of it that way it's not the",
+    "start": 294.479,
+    "duration": 3.041
+  },
+  {
+    "text": "really the gold price increasing it's",
+    "start": 295.919,
+    "duration": 3.801
+  },
+  {
+    "text": "the dollar collapsing it's the dollar",
+    "start": 297.52,
+    "duration": 4.44
+  },
+  {
+    "text": "losing its purchasing power if the the",
+    "start": 299.72,
+    "duration": 3.52
+  },
+  {
+    "text": "exchange rate the monetary exchange rate",
+    "start": 301.96,
+    "duration": 2.28
+  },
+  {
+    "text": "between gold and the dollar were",
+    "start": 303.24,
+    "duration": 3.399
+  },
+  {
+    "text": "suddenly moved to 5,000 then what do you",
+    "start": 304.24,
+    "duration": 3.72
+  },
+  {
+    "text": "think is going to happen what's going to",
+    "start": 306.639,
+    "duration": 2.481
+  },
+  {
+    "text": "happen is everyone's going to call in",
+    "start": 307.96,
+    "duration": 3.4
+  },
+  {
+    "text": "for their gold immediately then it's not",
+    "start": 309.12,
+    "duration": 3.639
+  },
+  {
+    "text": "it's not going to stop at 5,000 once you",
+    "start": 311.36,
+    "duration": 2.88
+  },
+  {
+    "text": "get to 5,000 you're going to get to the",
+    "start": 312.759,
+    "duration": 2.921
+  },
+  {
+    "text": "real monetary exchange rate assuming",
+    "start": 314.24,
+    "duration": 3.04
+  },
+  {
+    "text": "there is one assuming there is gold at",
+    "start": 315.68,
+    "duration": 2.799
+  },
+  {
+    "text": "Fort Knox it's not going to stop at",
+    "start": 317.28,
+    "duration": 2.759
+  },
+  {
+    "text": "5,000 that you that's the danger that's",
+    "start": 318.479,
+    "duration": 3.201
+  },
+  {
+    "text": "what we're talking about I mean at some",
+    "start": 320.039,
+    "duration": 3.16
+  },
+  {
+    "text": "point it's not going to be an orderly",
+    "start": 321.68,
+    "duration": 2.959
+  },
+  {
+    "text": "decline in the in the purchasing power",
+    "start": 323.199,
+    "duration": 3.041
+  },
+  {
+    "text": "of the dollar it's going to go from",
+    "start": 324.639,
+    "duration": 3.4
+  },
+  {
+    "text": "let's say 2,000 and then the next day",
+    "start": 326.24,
+    "duration": 3.679
+  },
+  {
+    "text": "3,000 I I don't know what the number are",
+    "start": 328.039,
+    "duration": 3.321
+  },
+  {
+    "text": "going to be but if you look at",
+    "start": 329.919,
+    "duration": 3.481
+  },
+  {
+    "text": "Commodities priced in Gold into that",
+    "start": 331.36,
+    "duration": 3.76
+  },
+  {
+    "text": "scenario Commodities will be pretty",
+    "start": 333.4,
+    "duration": 3.88
+  },
+  {
+    "text": "cheap in terms of the gold price because",
+    "start": 335.12,
+    "duration": 3.799
+  },
+  {
+    "text": "that's the real money that's what gives",
+    "start": 337.28,
+    "duration": 3.359
+  },
+  {
+    "text": "the Dollar's purchasing power the gold",
+    "start": 338.919,
+    "duration": 3.84
+  },
+  {
+    "text": "that is behind it it's not behind it at",
+    "start": 340.639,
+    "duration": 4.12
+  },
+  {
+    "text": "a fixed rate but it is still behind it",
+    "start": 342.759,
+    "duration": 3.641
+  },
+  {
+    "text": "because you can still exchange for that",
+    "start": 344.759,
+    "duration": 4.28
+  },
+  {
+    "text": "gold so once once we get to that point",
+    "start": 346.4,
+    "duration": 4.919
+  },
+  {
+    "text": "4,000 5,000 it's it's going to be the",
+    "start": 349.039,
+    "duration": 5.0
+  },
+  {
+    "text": "free market pushing the dollar to its",
+    "start": 351.319,
+    "duration": 5.201
+  },
+  {
+    "text": "monetary parody at whatever the balance",
+    "start": 354.039,
+    "duration": 4.681
+  },
+  {
+    "text": "sheet of the FED is divided by the Mana",
+    "start": 356.52,
+    "duration": 4.32
+  },
+  {
+    "text": "golden Fort KNX yeah so once you get to",
+    "start": 358.72,
+    "duration": 3.479
+  },
+  {
+    "text": "5,000 you're going to get to the free",
+    "start": 360.84,
+    "duration": 3.84
+  },
+  {
+    "text": "market 100% back parody very quickly the",
+    "start": 362.199,
+    "duration": 4.161
+  },
+  {
+    "text": "vast majority of people including the",
+    "start": 364.68,
+    "duration": 3.28
+  },
+  {
+    "text": "ones that are that are being uh you know",
+    "start": 366.36,
+    "duration": 4.08
+  },
+  {
+    "text": "suck into Bitcoin they do not understand",
+    "start": 367.96,
+    "duration": 4.799
+  },
+  {
+    "text": "what money is they don't when we",
+    "start": 370.44,
+    "duration": 6.039
+  },
+  {
+    "text": "exchange money or currency for food or",
+    "start": 372.759,
+    "duration": 5.801
+  },
+  {
+    "text": "for a house or for a car or for whatever",
+    "start": 376.479,
+    "duration": 5.12
+  },
+  {
+    "text": "what are we doing we are exchanging gold",
+    "start": 378.56,
+    "duration": 4.4
+  },
+  {
+    "text": "for that thing you don't realize it",
+    "start": 381.599,
+    "duration": 2.841
+  },
+  {
+    "text": "because it's not it's not consciously",
+    "start": 382.96,
+    "duration": 3.799
+  },
+  {
+    "text": "there but that's what you're doing the",
+    "start": 384.44,
+    "duration": 4.64
+  },
+  {
+    "text": "the big money institutions the ones who",
+    "start": 386.759,
+    "duration": 3.56
+  },
+  {
+    "text": "who like you to speculate on these",
+    "start": 389.08,
+    "duration": 2.92
+  },
+  {
+    "text": "contracts or taking humongous positions",
+    "start": 390.319,
+    "duration": 3.121
+  },
+  {
+    "text": "in gold and liquidating them and trying",
+    "start": 392.0,
+    "duration": 3.4
+  },
+  {
+    "text": "to e out profits and these dollar",
+    "start": 393.44,
+    "duration": 4.159
+  },
+  {
+    "text": "profits they're not using gold as money",
+    "start": 395.4,
+    "duration": 3.48
+  },
+  {
+    "text": "they're not the ones who set the price",
+    "start": 397.599,
+    "duration": 2.561
+  },
+  {
+    "text": "they don't think gold is money they",
+    "start": 398.88,
+    "duration": 3.12
+  },
+  {
+    "text": "think it's some kind of shiny store of",
+    "start": 400.16,
+    "duration": 4.2
+  },
+  {
+    "text": "value whatever they use any kind of",
+    "start": 402.0,
+    "duration": 4.319
+  },
+  {
+    "text": "description of what money can be money",
+    "start": 404.36,
+    "duration": 3.959
+  },
+  {
+    "text": "can be a store of value it it happens to",
+    "start": 406.319,
+    "duration": 3.841
+  },
+  {
+    "text": "be a store of value it also happens to",
+    "start": 408.319,
+    "duration": 4.361
+  },
+  {
+    "text": "be a unit of account or any other",
+    "start": 410.16,
+    "duration": 4.64
+  },
+  {
+    "text": "descriptions but that's that's just what",
+    "start": 412.68,
+    "duration": 4.239
+  },
+  {
+    "text": "makes a good money gold is money when",
+    "start": 414.8,
+    "duration": 4.0
+  },
+  {
+    "text": "you are buying something with money you",
+    "start": 416.919,
+    "duration": 3.241
+  },
+  {
+    "text": "are using gold",
+    "start": 418.8,
+    "duration": 3.28
+  },
+  {
+    "text": "either you're using you're using a gold",
+    "start": 420.16,
+    "duration": 3.319
+  },
+  {
+    "text": "substitute or you're using a gold",
+    "start": 422.08,
+    "duration": 5.0
+  },
+  {
+    "text": "substitute substitute um so the price of",
+    "start": 423.479,
+    "duration": 5.681
+  },
+  {
+    "text": "gold in dollars now is pretty much the",
+    "start": 427.08,
+    "duration": 5.08
+  },
+  {
+    "text": "industrial price of gold to use in a",
+    "start": 429.16,
+    "duration": 5.039
+  },
+  {
+    "text": "thing that's not money um but the",
+    "start": 432.16,
+    "duration": 3.84
+  },
+  {
+    "text": "monetary price of gold when everybody",
+    "start": 434.199,
+    "duration": 3.72
+  },
+  {
+    "text": "needs actual money everybody's going to",
+    "start": 436.0,
+    "duration": 3.84
+  },
+  {
+    "text": "need gold and then what is the price in",
+    "start": 437.919,
+    "duration": 4.641
+  },
+  {
+    "text": "paper money about $30,000 why is why is",
+    "start": 439.84,
+    "duration": 5.52
+  },
+  {
+    "text": "gold money now goes back to how money",
+    "start": 442.56,
+    "duration": 4.88
+  },
+  {
+    "text": "started it's simple look you wake up in",
+    "start": 445.36,
+    "duration": 4.279
+  },
+  {
+    "text": "the morning and you know what you're",
+    "start": 447.44,
+    "duration": 4.039
+  },
+  {
+    "text": "going to do you know how much money you",
+    "start": 449.639,
+    "duration": 3.24
+  },
+  {
+    "text": "have to make you know how much money you",
+    "start": 451.479,
+    "duration": 3.361
+  },
+  {
+    "text": "have to spend and you have all this",
+    "start": 452.879,
+    "duration": 4.72
+  },
+  {
+    "text": "information so uh that gives you an idea",
+    "start": 454.84,
+    "duration": 4.479
+  },
+  {
+    "text": "of how much you have to work and how",
+    "start": 457.599,
+    "duration": 3.561
+  },
+  {
+    "text": "much you have to spend to keep your",
+    "start": 459.319,
+    "duration": 4.16
+  },
+  {
+    "text": "standard of living basically fluid you",
+    "start": 461.16,
+    "duration": 4.039
+  },
+  {
+    "text": "know it because of yesterday and the day",
+    "start": 463.479,
+    "duration": 2.881
+  },
+  {
+    "text": "before you knew it because of the day",
+    "start": 465.199,
+    "duration": 3.761
+  },
+  {
+    "text": "before and it always goes back day by",
+    "start": 466.36,
+    "duration": 5.279
+  },
+  {
+    "text": "day by day there is no possible way for",
+    "start": 468.96,
+    "duration": 6.32
+  },
+  {
+    "text": "any government or any entity of anything",
+    "start": 471.639,
+    "duration": 6.921
+  },
+  {
+    "text": "to just create a currency system and",
+    "start": 475.28,
+    "duration": 5.599
+  },
+  {
+    "text": "just dictate and and say by law prices",
+    "start": 478.56,
+    "duration": 4.0
+  },
+  {
+    "text": "of this is that prices of that is this",
+    "start": 480.879,
+    "duration": 3.201
+  },
+  {
+    "text": "but it's not going to work because you",
+    "start": 482.56,
+    "duration": 3.96
+  },
+  {
+    "text": "can't you can't distribute um uh",
+    "start": 484.08,
+    "duration": 4.559
+  },
+  {
+    "text": "resources based on this determine what",
+    "start": 486.52,
+    "duration": 4.399
+  },
+  {
+    "text": "the supply and demand is of any good",
+    "start": 488.639,
+    "duration": 5.361
+  },
+  {
+    "text": "good or service takes Market action it's",
+    "start": 490.919,
+    "duration": 5.24
+  },
+  {
+    "text": "everybody has to coordinate on this",
+    "start": 494.0,
+    "duration": 3.52
+  },
+  {
+    "text": "based on what they have based on what",
+    "start": 496.159,
+    "duration": 2.961
+  },
+  {
+    "text": "they need based on what they could spend",
+    "start": 497.52,
+    "duration": 3.76
+  },
+  {
+    "text": "in order to figure out how much stuff is",
+    "start": 499.12,
+    "duration": 4.0
+  },
+  {
+    "text": "out there and how much people want of it",
+    "start": 501.28,
+    "duration": 4.12
+  },
+  {
+    "text": "there is no Fiat you can't determine",
+    "start": 503.12,
+    "duration": 4.359
+  },
+  {
+    "text": "this on Fiat it has to be Market actions",
+    "start": 505.4,
+    "duration": 4.16
+  },
+  {
+    "text": "you cannot just create a monetary system",
+    "start": 507.479,
+    "duration": 3.521
+  },
+  {
+    "text": "is nothing that's not index to something",
+    "start": 509.56,
+    "duration": 2.959
+  },
+  {
+    "text": "else that already exists it has to be",
+    "start": 511.0,
+    "duration": 4.159
+  },
+  {
+    "text": "index to the past how did money begin",
+    "start": 512.519,
+    "duration": 5.561
+  },
+  {
+    "text": "people wanted to trade uh because they",
+    "start": 515.159,
+    "duration": 4.281
+  },
+  {
+    "text": "had some stuff and they needed other",
+    "start": 518.08,
+    "duration": 2.839
+  },
+  {
+    "text": "stuff so they traded one thing for",
+    "start": 519.44,
+    "duration": 3.399
+  },
+  {
+    "text": "another thing and the easiest thing to",
+    "start": 520.919,
+    "duration": 4.321
+  },
+  {
+    "text": "trade was gold or silver it wasn't a",
+    "start": 522.839,
+    "duration": 4.321
+  },
+  {
+    "text": "central plan it happened just because it",
+    "start": 525.24,
+    "duration": 4.4
+  },
+  {
+    "text": "was because gold worked every paper",
+    "start": 527.16,
+    "duration": 6.48
+  },
+  {
+    "text": "currency was borne out of that",
+    "start": 529.64,
+    "duration": 4.0
+  }
+]

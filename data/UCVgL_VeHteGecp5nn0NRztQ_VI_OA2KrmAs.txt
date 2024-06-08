@@ -1,0 +1,6992 @@
+[
+  {
+    "text": "[Music]",
+    "start": 1.08,
+    "duration": 6.95
+  },
+  {
+    "text": "all right Dave colum welcome back to the",
+    "start": 9.92,
+    "duration": 4.48
+  },
+  {
+    "text": "show it's really good to see you again",
+    "start": 11.96,
+    "duration": 4.48
+  },
+  {
+    "text": "yeah it's good to see you good to see",
+    "start": 14.4,
+    "duration": 4.92
+  },
+  {
+    "text": "you again it I I just had to look it up",
+    "start": 16.44,
+    "duration": 5.32
+  },
+  {
+    "text": "um our last interview with you was May",
+    "start": 19.32,
+    "duration": 3.56
+  },
+  {
+    "text": "of",
+    "start": 21.76,
+    "duration": 3.48
+  },
+  {
+    "text": "2021 and a few things have happened",
+    "start": 22.88,
+    "duration": 5.76
+  },
+  {
+    "text": "since then um just a few just some minor",
+    "start": 25.24,
+    "duration": 6.16
+  },
+  {
+    "text": "stuff just some minor stuff but Dave I",
+    "start": 28.64,
+    "duration": 5.36
+  },
+  {
+    "text": "have to pick up uh sort of where we left",
+    "start": 31.4,
+    "duration": 4.36
+  },
+  {
+    "text": "off I don't know it was the last thing",
+    "start": 34.0,
+    "duration": 4.079
+  },
+  {
+    "text": "we talked about but I know I asked you",
+    "start": 35.76,
+    "duration": 4.56
+  },
+  {
+    "text": "last time you were here like what was",
+    "start": 38.079,
+    "duration": 5.64
+  },
+  {
+    "text": "your sort of new new interest what new",
+    "start": 40.32,
+    "duration": 5.16
+  },
+  {
+    "text": "topic were you sort of chasing down the",
+    "start": 43.719,
+    "duration": 5.081
+  },
+  {
+    "text": "rabbit hole and if I'm not very much",
+    "start": 45.48,
+    "duration": 6.32
+  },
+  {
+    "text": "mistaken it was um the relationship",
+    "start": 48.8,
+    "duration": 6.32
+  },
+  {
+    "text": "between Autism and vaccines and I I'm",
+    "start": 51.8,
+    "duration": 5.439
+  },
+  {
+    "text": "wondering if you got anywhere with it if",
+    "start": 55.12,
+    "duration": 4.2
+  },
+  {
+    "text": "you went you know if you kept after it",
+    "start": 57.239,
+    "duration": 5.761
+  },
+  {
+    "text": "well I have I actually",
+    "start": 59.32,
+    "duration": 7.04
+  },
+  {
+    "text": "um the movie vax the documentary vax is",
+    "start": 63.0,
+    "duration": 7.04
+  },
+  {
+    "text": "very good and I uh I have a friend who",
+    "start": 66.36,
+    "duration": 7.16
+  },
+  {
+    "text": "has an adult autistic child and he's a",
+    "start": 70.04,
+    "duration": 6.0
+  },
+  {
+    "text": "smart guy you know graduated University",
+    "start": 73.52,
+    "duration": 5.2
+  },
+  {
+    "text": "Wisconsin levelheaded and he made",
+    "start": 76.04,
+    "duration": 4.88
+  },
+  {
+    "text": "reference to the vaccine and",
+    "start": 78.72,
+    "duration": 5.56
+  },
+  {
+    "text": "I I I knew the story but I said we tell",
+    "start": 80.92,
+    "duration": 5.32
+  },
+  {
+    "text": "me about that and so what a lot of",
+    "start": 84.28,
+    "duration": 3.4
+  },
+  {
+    "text": "people don't know about the autism",
+    "start": 86.24,
+    "duration": 4.8
+  },
+  {
+    "text": "vaccine connection is they think they're",
+    "start": 87.68,
+    "duration": 5.0
+  },
+  {
+    "text": "um they think that basically you're",
+    "start": 91.04,
+    "duration": 3.759
+  },
+  {
+    "text": "raising your kid and they're they're not",
+    "start": 92.68,
+    "duration": 4.92
+  },
+  {
+    "text": "progressing at the rate you like it's",
+    "start": 94.799,
+    "duration": 4.32
+  },
+  {
+    "text": "pretty clear they're not going to",
+    "start": 97.6,
+    "duration": 4.08
+  },
+  {
+    "text": "Harvard and uh and so you start looking",
+    "start": 99.119,
+    "duration": 4.28
+  },
+  {
+    "text": "for someone to blame that was sort of my",
+    "start": 101.68,
+    "duration": 4.52
+  },
+  {
+    "text": "view I'd read some two million person",
+    "start": 103.399,
+    "duration": 4.881
+  },
+  {
+    "text": "study that said look it's a done deal",
+    "start": 106.2,
+    "duration": 4.0
+  },
+  {
+    "text": "there's no connection here and so I was",
+    "start": 108.28,
+    "duration": 4.24
+  },
+  {
+    "text": "tot at that point I had faith in the FDA",
+    "start": 110.2,
+    "duration": 4.199
+  },
+  {
+    "text": "and had faith in the scientific method",
+    "start": 112.52,
+    "duration": 5.0
+  },
+  {
+    "text": "and things like that um the movie vax",
+    "start": 114.399,
+    "duration": 5.72
+  },
+  {
+    "text": "gets it a question that's far more acute",
+    "start": 117.52,
+    "duration": 5.599
+  },
+  {
+    "text": "and that is that um people whose kids",
+    "start": 120.119,
+    "duration": 4.801
+  },
+  {
+    "text": "get vaxed that night they get sicker",
+    "start": 123.119,
+    "duration": 3.441
+  },
+  {
+    "text": "than hell they get a spiking fever and",
+    "start": 124.92,
+    "duration": 3.72
+  },
+  {
+    "text": "the next day the kids just gone just",
+    "start": 126.56,
+    "duration": 4.8
+  },
+  {
+    "text": "gone completely they they are now fully",
+    "start": 128.64,
+    "duration": 5.44
+  },
+  {
+    "text": "autistic and uh that's something that",
+    "start": 131.36,
+    "duration": 5.44
+  },
+  {
+    "text": "would be hard to confuse right that's",
+    "start": 134.08,
+    "duration": 4.64
+  },
+  {
+    "text": "like drop a brick in your foot it hurts",
+    "start": 136.8,
+    "duration": 5.799
+  },
+  {
+    "text": "do it again it hurts and and um and",
+    "start": 138.72,
+    "duration": 5.72
+  },
+  {
+    "text": "there are thousands of people who tell",
+    "start": 142.599,
+    "duration": 4.0
+  },
+  {
+    "text": "exactly this story my son got sicker in",
+    "start": 144.44,
+    "duration": 3.68
+  },
+  {
+    "text": "crap and the next day they were not",
+    "start": 146.599,
+    "duration": 4.081
+  },
+  {
+    "text": "functional and never came back and so",
+    "start": 148.12,
+    "duration": 4.0
+  },
+  {
+    "text": "this friend of mine reference made",
+    "start": 150.68,
+    "duration": 3.04
+  },
+  {
+    "text": "reference to the VX without me prodding",
+    "start": 152.12,
+    "duration": 3.04
+  },
+  {
+    "text": "it just popped out and I said tell me",
+    "start": 153.72,
+    "duration": 3.519
+  },
+  {
+    "text": "about the VAC he said well know my son",
+    "start": 155.16,
+    "duration": 3.96
+  },
+  {
+    "text": "got vaccinated and that night he got",
+    "start": 157.239,
+    "duration": 3.841
+  },
+  {
+    "text": "sicker hell and then the next day he was",
+    "start": 159.12,
+    "duration": 4.68
+  },
+  {
+    "text": "just intellectually missing and uh he",
+    "start": 161.08,
+    "duration": 5.32
+  },
+  {
+    "text": "said I had to sleep in a in a in a a",
+    "start": 163.8,
+    "duration": 4.84
+  },
+  {
+    "text": "closet with him with mattresses on the",
+    "start": 166.4,
+    "duration": 3.919
+  },
+  {
+    "text": "wall so he could get to sleep without",
+    "start": 168.64,
+    "duration": 4.319
+  },
+  {
+    "text": "smacking his head against the wall you",
+    "start": 170.319,
+    "duration": 5.081
+  },
+  {
+    "text": "know the the community says well you",
+    "start": 172.959,
+    "duration": 4.0
+  },
+  {
+    "text": "know there were symptoms you just didn't",
+    "start": 175.4,
+    "duration": 3.479
+  },
+  {
+    "text": "see them tell a parent that they don't",
+    "start": 176.959,
+    "duration": 4.081
+  },
+  {
+    "text": "see something coming like that right",
+    "start": 178.879,
+    "duration": 3.881
+  },
+  {
+    "text": "that that's just insane because we we",
+    "start": 181.04,
+    "duration": 3.72
+  },
+  {
+    "text": "know every inch of that kid right we we",
+    "start": 182.76,
+    "duration": 4.24
+  },
+  {
+    "text": "doubt on them we if the kid goes from",
+    "start": 184.76,
+    "duration": 4.16
+  },
+  {
+    "text": "progressing at 18 months to not",
+    "start": 187.0,
+    "duration": 5.08
+  },
+  {
+    "text": "functional the next day it's over right",
+    "start": 188.92,
+    "duration": 6.12
+  },
+  {
+    "text": "the story's done and so I told a student",
+    "start": 192.08,
+    "duration": 4.439
+  },
+  {
+    "text": "that one day and he went to the Mayo",
+    "start": 195.04,
+    "duration": 3.199
+  },
+  {
+    "text": "clinics I said well there is such a",
+    "start": 196.519,
+    "duration": 3.561
+  },
+  {
+    "text": "thing as you know rapid",
+    "start": 198.239,
+    "duration": 4.401
+  },
+  {
+    "text": "onset um autism and I go did they",
+    "start": 200.08,
+    "duration": 4.4
+  },
+  {
+    "text": "explain it he said no and I said if it",
+    "start": 202.64,
+    "duration": 3.48
+  },
+  {
+    "text": "was the vaccine would they admit it he",
+    "start": 204.48,
+    "duration": 5.6
+  },
+  {
+    "text": "said' no and I said there you go um and",
+    "start": 206.12,
+    "duration": 6.44
+  },
+  {
+    "text": "so I I think that the um I think there's",
+    "start": 210.08,
+    "duration": 5.239
+  },
+  {
+    "text": "a window of opportunity where uh if you",
+    "start": 212.56,
+    "duration": 4.8
+  },
+  {
+    "text": "get the vaccine at a certain age it's",
+    "start": 215.319,
+    "duration": 4.401
+  },
+  {
+    "text": "very dangerous the MMR vaccine I think",
+    "start": 217.36,
+    "duration": 4.64
+  },
+  {
+    "text": "it's there's a there's about a about a",
+    "start": 219.72,
+    "duration": 4.2
+  },
+  {
+    "text": "six-month window where you do not want",
+    "start": 222.0,
+    "duration": 4.439
+  },
+  {
+    "text": "to be giving That vaccine to your kid",
+    "start": 223.92,
+    "duration": 4.879
+  },
+  {
+    "text": "and it's around 18 months i' look it up",
+    "start": 226.439,
+    "duration": 4.921
+  },
+  {
+    "text": "I wouldn't depend on my recollection of",
+    "start": 228.799,
+    "duration": 5.241
+  },
+  {
+    "text": "the window but I I you know in Europe",
+    "start": 231.36,
+    "duration": 4.519
+  },
+  {
+    "text": "they vaccinate kids they give them three",
+    "start": 234.04,
+    "duration": 3.96
+  },
+  {
+    "text": "vaccines in childhood and in the US they",
+    "start": 235.879,
+    "duration": 5.36
+  },
+  {
+    "text": "give them 72",
+    "start": 238.0,
+    "duration": 3.239
+  },
+  {
+    "text": "72 yeah 72 so I've been reading about",
+    "start": 241.72,
+    "duration": 6.719
+  },
+  {
+    "text": "vaccines before I got onto this story",
+    "start": 245.28,
+    "duration": 5.28
+  },
+  {
+    "text": "and and I had formulated the op I've",
+    "start": 248.439,
+    "duration": 3.761
+  },
+  {
+    "text": "been reading about immunology and i'",
+    "start": 250.56,
+    "duration": 3.44
+  },
+  {
+    "text": "been formulating the opinion that it's",
+    "start": 252.2,
+    "duration": 4.4
+  },
+  {
+    "text": "not good to invade a",
+    "start": 254.0,
+    "duration": 6.4
+  },
+  {
+    "text": "newbile um uh immune system that",
+    "start": 256.6,
+    "duration": 6.08
+  },
+  {
+    "text": "aggressively with that many just he's",
+    "start": 260.4,
+    "duration": 4.48
+  },
+  {
+    "text": "just just bombarding them carpet bombing",
+    "start": 262.68,
+    "duration": 4.76
+  },
+  {
+    "text": "them with antigens right so so I had",
+    "start": 264.88,
+    "duration": 4.52
+  },
+  {
+    "text": "come to the conclusion that that that",
+    "start": 267.44,
+    "duration": 4.52
+  },
+  {
+    "text": "the vaccines were being too aggressive",
+    "start": 269.4,
+    "duration": 4.76
+  },
+  {
+    "text": "but but not worse than that before I got",
+    "start": 271.96,
+    "duration": 6.28
+  },
+  {
+    "text": "into the whole VX story um and then I",
+    "start": 274.16,
+    "duration": 5.759
+  },
+  {
+    "text": "was watching a video I was reading about",
+    "start": 278.24,
+    "duration": 4.399
+  },
+  {
+    "text": "Immunology ironically coincidentally the",
+    "start": 279.919,
+    "duration": 6.441
+  },
+  {
+    "text": "year before uh covid showed up and I I",
+    "start": 282.639,
+    "duration": 5.881
+  },
+  {
+    "text": "watched a woman give a talk on a TED",
+    "start": 286.36,
+    "duration": 4.6
+  },
+  {
+    "text": "talk she talked about the polio vaccine",
+    "start": 288.52,
+    "duration": 4.119
+  },
+  {
+    "text": "and she said we've been vaccin kids in",
+    "start": 290.96,
+    "duration": 4.44
+  },
+  {
+    "text": "Africa for you know 15 years uh what",
+    "start": 292.639,
+    "duration": 4.761
+  },
+  {
+    "text": "I'll tell you is the live attenuated",
+    "start": 295.4,
+    "duration": 3.76
+  },
+  {
+    "text": "vaccine is much better than the dead",
+    "start": 297.4,
+    "duration": 3.359
+  },
+  {
+    "text": "vaccine",
+    "start": 299.16,
+    "duration": 3.92
+  },
+  {
+    "text": "and and and then she explained it as the",
+    "start": 300.759,
+    "duration": 4.921
+  },
+  {
+    "text": "dead vaccine attenuates",
+    "start": 303.08,
+    "duration": 5.32
+  },
+  {
+    "text": "a the live vaccine attenuates a better",
+    "start": 305.68,
+    "duration": 5.28
+  },
+  {
+    "text": "immune response and it gives you sort of",
+    "start": 308.4,
+    "duration": 4.96
+  },
+  {
+    "text": "an immunity to other diseases as well",
+    "start": 310.96,
+    "duration": 5.079
+  },
+  {
+    "text": "which I couldn't quite understand she",
+    "start": 313.36,
+    "duration": 3.96
+  },
+  {
+    "text": "said look none of these kids are dying",
+    "start": 316.039,
+    "duration": 3.401
+  },
+  {
+    "text": "of polio but the live vaccinated kids",
+    "start": 317.32,
+    "duration": 5.64
+  },
+  {
+    "text": "are not dying of other things as fast so",
+    "start": 319.44,
+    "duration": 5.199
+  },
+  {
+    "text": "she said so the live vaccine is what you",
+    "start": 322.96,
+    "duration": 2.959
+  },
+  {
+    "text": "should get you can imagine lawyer saying",
+    "start": 324.639,
+    "duration": 3.081
+  },
+  {
+    "text": "no do the dead vaccine right you can",
+    "start": 325.919,
+    "duration": 5.28
+  },
+  {
+    "text": "imagine the reason and it took me",
+    "start": 327.72,
+    "duration": 5.4
+  },
+  {
+    "text": "probably three years into Co long after",
+    "start": 331.199,
+    "duration": 3.601
+  },
+  {
+    "text": "I realized that they were vaccinating",
+    "start": 333.12,
+    "duration": 5.359
+  },
+  {
+    "text": "everyone to death um it click that",
+    "start": 334.8,
+    "duration": 5.76
+  },
+  {
+    "text": "that's not the story the story is that",
+    "start": 338.479,
+    "duration": 4.0
+  },
+  {
+    "text": "the dead vaccine was hurting the immune",
+    "start": 340.56,
+    "duration": 4.24
+  },
+  {
+    "text": "system and they were inferring that the",
+    "start": 342.479,
+    "duration": 4.321
+  },
+  {
+    "text": "live vaccine was imparting",
+    "start": 344.8,
+    "duration": 4.44
+  },
+  {
+    "text": "immunity to other things whereas it's",
+    "start": 346.8,
+    "duration": 4.04
+  },
+  {
+    "text": "actually the dead vaccine I think is",
+    "start": 349.24,
+    "duration": 3.84
+  },
+  {
+    "text": "probably eroding your immune immune",
+    "start": 350.84,
+    "duration": 4.28
+  },
+  {
+    "text": "system to these other",
+    "start": 353.08,
+    "duration": 3.92
+  },
+  {
+    "text": "ailments and you wouldn't be able to",
+    "start": 355.12,
+    "duration": 3.359
+  },
+  {
+    "text": "distinguish those two phenomena you just",
+    "start": 357.0,
+    "duration": 2.919
+  },
+  {
+    "text": "know one group died more than than the",
+    "start": 358.479,
+    "duration": 5.521
+  },
+  {
+    "text": "other so um I see right I I have I'm",
+    "start": 359.919,
+    "duration": 5.881
+  },
+  {
+    "text": "fairly comfortable stating that the",
+    "start": 364.0,
+    "duration": 4.24
+  },
+  {
+    "text": "vaccine did more damage than good I'm",
+    "start": 365.8,
+    "duration": 5.32
+  },
+  {
+    "text": "I'm um I understand why people did it I",
+    "start": 368.24,
+    "duration": 4.519
+  },
+  {
+    "text": "did it I didn't want to lose my job they",
+    "start": 371.12,
+    "duration": 5.079
+  },
+  {
+    "text": "said you know vs are quit yeah and I had",
+    "start": 372.759,
+    "duration": 4.961
+  },
+  {
+    "text": "I had friends say you know fight it",
+    "start": 376.199,
+    "duration": 3.241
+  },
+  {
+    "text": "fight it I was in a doc Zoom group with",
+    "start": 377.72,
+    "duration": 3.84
+  },
+  {
+    "text": "every antix on the planet you name them",
+    "start": 379.44,
+    "duration": 4.039
+  },
+  {
+    "text": "we've seen them through this doctor Zoom",
+    "start": 381.56,
+    "duration": 5.44
+  },
+  {
+    "text": "group and and I said look I I when I got",
+    "start": 383.479,
+    "duration": 6.56
+  },
+  {
+    "text": "the Vex it was a theory that it could",
+    "start": 387.0,
+    "duration": 4.8
+  },
+  {
+    "text": "hurt you and I knew that I'd read about",
+    "start": 390.039,
+    "duration": 3.361
+  },
+  {
+    "text": "vaccines there's whole books written on",
+    "start": 391.8,
+    "duration": 4.6
+  },
+  {
+    "text": "how hard it is to make a vaccine that's",
+    "start": 393.4,
+    "duration": 5.359
+  },
+  {
+    "text": "been kept secret too is that that the",
+    "start": 396.4,
+    "duration": 4.519
+  },
+  {
+    "text": "Army has tons of vaccines they can't use",
+    "start": 398.759,
+    "duration": 6.961
+  },
+  {
+    "text": "because it kills people and uh and and",
+    "start": 400.919,
+    "duration": 6.481
+  },
+  {
+    "text": "but it's like what do you say to your",
+    "start": 405.72,
+    "duration": 3.0
+  },
+  {
+    "text": "wife you say look I'm not going to get",
+    "start": 407.4,
+    "duration": 2.6
+  },
+  {
+    "text": "vaccinated therefore I'm going to lose",
+    "start": 408.72,
+    "duration": 3.319
+  },
+  {
+    "text": "my job and I'm the I'm a huge bread",
+    "start": 410.0,
+    "duration": 4.0
+  },
+  {
+    "text": "winner compared to my my two kids one's",
+    "start": 412.039,
+    "duration": 4.241
+  },
+  {
+    "text": "a musician the other's doing fine but I",
+    "start": 414.0,
+    "duration": 5.08
+  },
+  {
+    "text": "I make more than the two combined right",
+    "start": 416.28,
+    "duration": 4.919
+  },
+  {
+    "text": "and and on a theory that I might be hurt",
+    "start": 419.08,
+    "duration": 4.519
+  },
+  {
+    "text": "by a vaccine right and and so you can",
+    "start": 421.199,
+    "duration": 4.601
+  },
+  {
+    "text": "imagine four years later you know the",
+    "start": 423.599,
+    "duration": 4.32
+  },
+  {
+    "text": "vaccine saved the world and I'm jobless",
+    "start": 425.8,
+    "duration": 3.36
+  },
+  {
+    "text": "right how do you explain that to your",
+    "start": 427.919,
+    "duration": 3.361
+  },
+  {
+    "text": "wife right so I decided to go with the",
+    "start": 429.16,
+    "duration": 3.759
+  },
+  {
+    "text": "program I said okay don't fight this one",
+    "start": 431.28,
+    "duration": 2.88
+  },
+  {
+    "text": "Dave just I",
+    "start": 432.919,
+    "duration": 3.641
+  },
+  {
+    "text": "waited and there was no evidence",
+    "start": 434.16,
+    "duration": 4.2
+  },
+  {
+    "text": "surfacing that it was hurting people it",
+    "start": 436.56,
+    "duration": 3.72
+  },
+  {
+    "text": "turns out there was plenty and they just",
+    "start": 438.36,
+    "duration": 5.6
+  },
+  {
+    "text": "buried it um I think we're going to have",
+    "start": 440.28,
+    "duration": 6.0
+  },
+  {
+    "text": "problems for decades if not we might",
+    "start": 443.96,
+    "duration": 4.079
+  },
+  {
+    "text": "have actually genetically engineered the",
+    "start": 446.28,
+    "duration": 3.919
+  },
+  {
+    "text": "entire human race at some level",
+    "start": 448.039,
+    "duration": 4.921
+  },
+  {
+    "text": "um it's gotten into our DNA I think and",
+    "start": 450.199,
+    "duration": 4.44
+  },
+  {
+    "text": "and the doc Zoom group smelled that",
+    "start": 452.96,
+    "duration": 3.88
+  },
+  {
+    "text": "early they really got into that they had",
+    "start": 454.639,
+    "duration": 4.56
+  },
+  {
+    "text": "virologist they had they had they had",
+    "start": 456.84,
+    "duration": 5.6
+  },
+  {
+    "text": "very smart people coming through and",
+    "start": 459.199,
+    "duration": 6.041
+  },
+  {
+    "text": "um and so that gets us to a deeper",
+    "start": 462.44,
+    "duration": 4.759
+  },
+  {
+    "text": "darker questions to why do people do",
+    "start": 465.24,
+    "duration": 4.679
+  },
+  {
+    "text": "stuff like that right what what what",
+    "start": 467.199,
+    "duration": 4.641
+  },
+  {
+    "text": "motivates and I don't think it's money",
+    "start": 469.919,
+    "duration": 4.12
+  },
+  {
+    "text": "right the guys the guys who do the stuff",
+    "start": 471.84,
+    "duration": 4.0
+  },
+  {
+    "text": "they don't need more money these are not",
+    "start": 474.039,
+    "duration": 3.72
+  },
+  {
+    "text": "people who are working at the 7-Eleven",
+    "start": 475.84,
+    "duration": 3.319
+  },
+  {
+    "text": "trying to figure out how to double their",
+    "start": 477.759,
+    "duration": 2.521
+  },
+  {
+    "text": "pay",
+    "start": 479.159,
+    "duration": 3.081
+  },
+  {
+    "text": "and uh so it's about power it's about",
+    "start": 480.28,
+    "duration": 4.879
+  },
+  {
+    "text": "ego it's about um",
+    "start": 482.24,
+    "duration": 5.239
+  },
+  {
+    "text": "sociopathy um which is a minimum",
+    "start": 485.159,
+    "duration": 4.801
+  },
+  {
+    "text": "requirement to to let these kind of",
+    "start": 487.479,
+    "duration": 5.201
+  },
+  {
+    "text": "decisions get made the way they get made",
+    "start": 489.96,
+    "duration": 5.359
+  },
+  {
+    "text": "um it gets then deeper and darker I've",
+    "start": 492.68,
+    "duration": 5.4
+  },
+  {
+    "text": "dug into I dug into Ukraine I'm about to",
+    "start": 495.319,
+    "duration": 5.801
+  },
+  {
+    "text": "watch uh Jeff Sachs be interviewed by",
+    "start": 498.08,
+    "duration": 6.48
+  },
+  {
+    "text": "Tucker Carlson I'm a big Jeff Sachs fan",
+    "start": 501.12,
+    "duration": 7.0
+  },
+  {
+    "text": "and Jeff was fighting a two-front war",
+    "start": 504.56,
+    "duration": 6.039
+  },
+  {
+    "text": "Jeff is a famous famous Economist from",
+    "start": 508.12,
+    "duration": 6.599
+  },
+  {
+    "text": "Colombia who is geopolitically connected",
+    "start": 510.599,
+    "duration": 5.761
+  },
+  {
+    "text": "so when the Soviet Union fell and was",
+    "start": 514.719,
+    "duration": 2.88
+  },
+  {
+    "text": "saying to Sach what's going to happen",
+    "start": 516.36,
+    "duration": 2.72
+  },
+  {
+    "text": "what's gonna happen sax was the go-to",
+    "start": 517.599,
+    "duration": 4.081
+  },
+  {
+    "text": "guy and I've had a few exchanges with",
+    "start": 519.08,
+    "duration": 6.16
+  },
+  {
+    "text": "him and sax is honest",
+    "start": 521.68,
+    "duration": 8.2
+  },
+  {
+    "text": "outspoken and oddly naive and so he he I",
+    "start": 525.24,
+    "duration": 6.24
+  },
+  {
+    "text": "think he tends to believe things when",
+    "start": 529.88,
+    "duration": 4.959
+  },
+  {
+    "text": "people tell him and so he he was",
+    "start": 531.48,
+    "duration": 6.08
+  },
+  {
+    "text": "simultaneously battling the against the",
+    "start": 534.839,
+    "duration": 5.201
+  },
+  {
+    "text": "war in Ukraine while chairing the",
+    "start": 537.56,
+    "duration": 4.959
+  },
+  {
+    "text": "committee to ascertain whether the the",
+    "start": 540.04,
+    "duration": 6.52
+  },
+  {
+    "text": "VAC the the the co virus came from a",
+    "start": 542.519,
+    "duration": 6.921
+  },
+  {
+    "text": "lab his committee had been stacked with",
+    "start": 546.56,
+    "duration": 6.0
+  },
+  {
+    "text": "guys like Peter daac and various players",
+    "start": 549.44,
+    "duration": 4.56
+  },
+  {
+    "text": "he said it took him a calendar year to",
+    "start": 552.56,
+    "duration": 2.88
+  },
+  {
+    "text": "realize that daac and these guys were",
+    "start": 554.0,
+    "duration": 3.16
+  },
+  {
+    "text": "lying their asses off to",
+    "start": 555.44,
+    "duration": 5.04
+  },
+  {
+    "text": "them now that's the naive part I think I",
+    "start": 557.16,
+    "duration": 4.799
+  },
+  {
+    "text": "think people who are a little more",
+    "start": 560.48,
+    "duration": 3.32
+  },
+  {
+    "text": "doubting of human nature would say wait",
+    "start": 561.959,
+    "duration": 3.401
+  },
+  {
+    "text": "a minute something's not adding up with",
+    "start": 563.8,
+    "duration": 4.279
+  },
+  {
+    "text": "this guy daak I think daak should",
+    "start": 565.36,
+    "duration": 4.599
+  },
+  {
+    "text": "probably be tried for murder and hung",
+    "start": 568.079,
+    "duration": 4.121
+  },
+  {
+    "text": "from the neck until bad I mean I think I",
+    "start": 569.959,
+    "duration": 3.921
+  },
+  {
+    "text": "there's there's a bunch of people who",
+    "start": 572.2,
+    "duration": 3.36
+  },
+  {
+    "text": "who I would do that with I think there's",
+    "start": 573.88,
+    "duration": 3.76
+  },
+  {
+    "text": "treasonous people over the world just",
+    "start": 575.56,
+    "duration": 3.959
+  },
+  {
+    "text": "for our listeners can you give them a",
+    "start": 577.64,
+    "duration": 4.16
+  },
+  {
+    "text": "give them the nutshell sort of",
+    "start": 579.519,
+    "duration": 5.0
+  },
+  {
+    "text": "description of who dazak is dak's the",
+    "start": 581.8,
+    "duration": 5.2
+  },
+  {
+    "text": "guy who I believe created the virus and",
+    "start": 584.519,
+    "duration": 5.081
+  },
+  {
+    "text": "he he certainly helped fund it uh he's a",
+    "start": 587.0,
+    "duration": 4.959
+  },
+  {
+    "text": "it's it's it's a bioweapons program so",
+    "start": 589.6,
+    "duration": 4.16
+  },
+  {
+    "text": "in that sense it maybe it's not treason",
+    "start": 591.959,
+    "duration": 3.041
+  },
+  {
+    "text": "is because he worked for the US",
+    "start": 593.76,
+    "duration": 3.44
+  },
+  {
+    "text": "government but but he was funling",
+    "start": 595.0,
+    "duration": 5.2
+  },
+  {
+    "text": "hundreds of millions into Wuhan um Ralph",
+    "start": 597.2,
+    "duration": 5.079
+  },
+  {
+    "text": "baric from North Carolina was part of",
+    "start": 600.2,
+    "duration": 5.0
+  },
+  {
+    "text": "the brains of the operation uh this the",
+    "start": 602.279,
+    "duration": 5.281
+  },
+  {
+    "text": "virus and the vaccine were known years",
+    "start": 605.2,
+    "duration": 5.36
+  },
+  {
+    "text": "before the epidemic they were you can",
+    "start": 607.56,
+    "duration": 4.719
+  },
+  {
+    "text": "track the vaccine and the virus back",
+    "start": 610.56,
+    "duration": 4.16
+  },
+  {
+    "text": "through the back through the patent",
+    "start": 612.279,
+    "duration": 5.0
+  },
+  {
+    "text": "literature um David Martin who's a very",
+    "start": 614.72,
+    "duration": 4.84
+  },
+  {
+    "text": "smart guy has done his J he's a patent",
+    "start": 617.279,
+    "duration": 4.761
+  },
+  {
+    "text": "expert and and he's done his work on",
+    "start": 619.56,
+    "duration": 5.76
+  },
+  {
+    "text": "that every last antivaxer that I know",
+    "start": 622.04,
+    "duration": 8.52
+  },
+  {
+    "text": "and again I I can when I I watched U",
+    "start": 625.32,
+    "duration": 9.36
+  },
+  {
+    "text": "Johnson received testimony in Senate",
+    "start": 630.56,
+    "duration": 6.959
+  },
+  {
+    "text": "hearings I I personally knew half the",
+    "start": 634.68,
+    "duration": 4.719
+  },
+  {
+    "text": "people testifying by the time they got",
+    "start": 637.519,
+    "duration": 4.841
+  },
+  {
+    "text": "to to the Senate right and so so it",
+    "start": 639.399,
+    "duration": 5.88
+  },
+  {
+    "text": "really was a connected group they all",
+    "start": 642.36,
+    "duration": 4.599
+  },
+  {
+    "text": "have gone from being doctors and",
+    "start": 645.279,
+    "duration": 3.8
+  },
+  {
+    "text": "biologists to",
+    "start": 646.959,
+    "duration": 4.401
+  },
+  {
+    "text": "anti-authoritarian New World Order",
+    "start": 649.079,
+    "duration": 4.921
+  },
+  {
+    "text": "opponent type guys they've onone they've",
+    "start": 651.36,
+    "duration": 5.0
+  },
+  {
+    "text": "all gone super dark on the world that",
+    "start": 654.0,
+    "duration": 5.6
+  },
+  {
+    "text": "that they're facing",
+    "start": 656.36,
+    "duration": 6.44
+  },
+  {
+    "text": "so wow okay so the answer is yes you",
+    "start": 659.6,
+    "duration": 6.039
+  },
+  {
+    "text": "have looked into it further yes I have",
+    "start": 662.8,
+    "duration": 4.36
+  },
+  {
+    "text": "looked into it I've written hundreds of",
+    "start": 665.639,
+    "duration": 5.2
+  },
+  {
+    "text": "pages on it I mean yeah oh you have uh",
+    "start": 667.16,
+    "duration": 5.6
+  },
+  {
+    "text": "is that part of",
+    "start": 670.839,
+    "duration": 6.12
+  },
+  {
+    "text": "uh annual review that I write okay and I",
+    "start": 672.76,
+    "duration": 7.199
+  },
+  {
+    "text": "and i' I've dug deeply deeply into the",
+    "start": 676.959,
+    "duration": 5.041
+  },
+  {
+    "text": "Ukraine war and I nailed that that might",
+    "start": 679.959,
+    "duration": 4.44
+  },
+  {
+    "text": "have been the best call I've ever made i",
+    "start": 682.0,
+    "duration": 5.68
+  },
+  {
+    "text": "i i as soon as as soon as the war was",
+    "start": 684.399,
+    "duration": 5.88
+  },
+  {
+    "text": "brewing in Ukraine I dug in and I was",
+    "start": 687.68,
+    "duration": 4.24
+  },
+  {
+    "text": "the guy who couldn't find Ukraine on a",
+    "start": 690.279,
+    "duration": 4.201
+  },
+  {
+    "text": "map mhm and I said okay let's let's",
+    "start": 691.92,
+    "duration": 5.359
+  },
+  {
+    "text": "figure this one out and I found about 50",
+    "start": 694.48,
+    "duration": 4.72
+  },
+  {
+    "text": "guys who were trying to really",
+    "start": 697.279,
+    "duration": 3.68
+  },
+  {
+    "text": "understand what was happening and why it",
+    "start": 699.2,
+    "duration": 4.759
+  },
+  {
+    "text": "was happening and it's clear to me that",
+    "start": 700.959,
+    "duration": 6.161
+  },
+  {
+    "text": "that that the war in Ukraine is 100%",
+    "start": 703.959,
+    "duration": 5.961
+  },
+  {
+    "text": "NATO it's not Putin at all it's not even",
+    "start": 707.12,
+    "duration": 4.92
+  },
+  {
+    "text": "close to Putin it would be the",
+    "start": 709.92,
+    "duration": 4.52
+  },
+  {
+    "text": "equivalent if we were blamed if if the",
+    "start": 712.04,
+    "duration": 5.88
+  },
+  {
+    "text": "Russians put a bunch of bunch of armed",
+    "start": 714.44,
+    "duration": 6.24
+  },
+  {
+    "text": "citizens in Mexico and we went in and",
+    "start": 717.92,
+    "duration": 4.64
+  },
+  {
+    "text": "flatten them and said sorry you can't do",
+    "start": 720.68,
+    "duration": 5.36
+  },
+  {
+    "text": "that for 10 years Putin begged us don't",
+    "start": 722.56,
+    "duration": 6.959
+  },
+  {
+    "text": "do this for 10 years he said don't you",
+    "start": 726.04,
+    "duration": 5.799
+  },
+  {
+    "text": "can't have Ukraine they didn't want",
+    "start": 729.519,
+    "duration": 4.88
+  },
+  {
+    "text": "Ukraine they couldn't let us get Ukraine",
+    "start": 731.839,
+    "duration": 4.8
+  },
+  {
+    "text": "for them Ukraine was everything it was",
+    "start": 734.399,
+    "duration": 5.641
+  },
+  {
+    "text": "the gateway to Russia Putin over and",
+    "start": 736.639,
+    "duration": 5.081
+  },
+  {
+    "text": "over and over told him you can't have",
+    "start": 740.04,
+    "duration": 2.88
+  },
+  {
+    "text": "Ukraine what did they do they went for",
+    "start": 741.72,
+    "duration": 3.32
+  },
+  {
+    "text": "Ukraine why I don't know but if it",
+    "start": 742.92,
+    "duration": 4.279
+  },
+  {
+    "text": "causes World War II if I'm if I'm",
+    "start": 745.04,
+    "duration": 4.56
+  },
+  {
+    "text": "wandering this dystopian world I'm gonna",
+    "start": 747.199,
+    "duration": 3.88
+  },
+  {
+    "text": "go find some of those guys and finish",
+    "start": 749.6,
+    "duration": 5.2
+  },
+  {
+    "text": "them off I I just I the things that",
+    "start": 751.079,
+    "duration": 6.081
+  },
+  {
+    "text": "they've done five 500,000 dead",
+    "start": 754.8,
+    "duration": 6.12
+  },
+  {
+    "text": "ukrainians are our fault and I'm a",
+    "start": 757.16,
+    "duration": 6.4
+  },
+  {
+    "text": "Reagan Republican this is not some Lefty",
+    "start": 760.92,
+    "duration": 6.479
+  },
+  {
+    "text": "woy stuff okay so just to be clear on",
+    "start": 763.56,
+    "duration": 7.48
+  },
+  {
+    "text": "this you're suggesting that what are",
+    "start": 767.399,
+    "duration": 6.88
+  },
+  {
+    "text": "what are you saying exactly um that",
+    "start": 771.04,
+    "duration": 8.76
+  },
+  {
+    "text": "NATO wanted wanted war and wants War",
+    "start": 774.279,
+    "duration": 10.8
+  },
+  {
+    "text": "wants War but but Russia invaded Ukraine",
+    "start": 779.8,
+    "duration": 9.8
+  },
+  {
+    "text": "right right so are you saying NATO",
+    "start": 785.079,
+    "duration": 9.56
+  },
+  {
+    "text": "somehow so so so Prov Russia okay me he",
+    "start": 789.6,
+    "duration": 7.96
+  },
+  {
+    "text": "had to it was his best play by them he",
+    "start": 794.639,
+    "duration": 5.161
+  },
+  {
+    "text": "he so you go all the way back Soviet",
+    "start": 797.56,
+    "duration": 5.0
+  },
+  {
+    "text": "Union falls apart we're negotiating with",
+    "start": 799.8,
+    "duration": 5.12
+  },
+  {
+    "text": "Russia Germany's talking about unifying",
+    "start": 802.56,
+    "duration": 4.399
+  },
+  {
+    "text": "everyone knows a unified Germany has not",
+    "start": 804.92,
+    "duration": 4.96
+  },
+  {
+    "text": "worked well in the past yeah right two",
+    "start": 806.959,
+    "duration": 4.88
+  },
+  {
+    "text": "world wars with the unified Germany",
+    "start": 809.88,
+    "duration": 4.399
+  },
+  {
+    "text": "Russia was really troubled by Germany",
+    "start": 811.839,
+    "duration": 4.721
+  },
+  {
+    "text": "I'm not sure the rest of Europe wasn't",
+    "start": 814.279,
+    "duration": 4.041
+  },
+  {
+    "text": "also trouble so we negotiated with",
+    "start": 816.56,
+    "duration": 4.16
+  },
+  {
+    "text": "Russia we said look Soviet Union falls",
+    "start": 818.32,
+    "duration": 3.92
+  },
+  {
+    "text": "apart we're we're negotiating with",
+    "start": 820.72,
+    "duration": 4.359
+  },
+  {
+    "text": "garbach our high command all promised",
+    "start": 822.24,
+    "duration": 6.24
+  },
+  {
+    "text": "repeatedly look we won't move no NATO",
+    "start": 825.079,
+    "duration": 6.2
+  },
+  {
+    "text": "into the Warsaw pack countries if you",
+    "start": 828.48,
+    "duration": 5.12
+  },
+  {
+    "text": "don't try to take them back and Russia",
+    "start": 831.279,
+    "duration": 3.521
+  },
+  {
+    "text": "said",
+    "start": 833.6,
+    "duration": 3.919
+  },
+  {
+    "text": "fine and then we immediately set into",
+    "start": 834.8,
+    "duration": 4.839
+  },
+  {
+    "text": "motion plans to move",
+    "start": 837.519,
+    "duration": 4.68
+  },
+  {
+    "text": "NATO into the Warsaw P the first move",
+    "start": 839.639,
+    "duration": 3.961
+  },
+  {
+    "text": "was under Clinton",
+    "start": 842.199,
+    "duration": 4.481
+  },
+  {
+    "text": "97 and we've moved we've moved NATO's",
+    "start": 843.6,
+    "duration": 4.84
+  },
+  {
+    "text": "borders right to the edge of Russia and",
+    "start": 846.68,
+    "duration": 3.36
+  },
+  {
+    "text": "Russia kept saying you can't do this you",
+    "start": 848.44,
+    "duration": 4.16
+  },
+  {
+    "text": "can't do this we kept doing it we armed",
+    "start": 850.04,
+    "duration": 5.28
+  },
+  {
+    "text": "Nazis in Ukraine starting in",
+    "start": 852.6,
+    "duration": 7.0
+  },
+  {
+    "text": "2012 I think it was after tipping over a",
+    "start": 855.32,
+    "duration": 6.959
+  },
+  {
+    "text": "pro-russian elected",
+    "start": 859.6,
+    "duration": 5.08
+  },
+  {
+    "text": "government we tipped over the government",
+    "start": 862.279,
+    "duration": 5.401
+  },
+  {
+    "text": "installed our guy then we started arming",
+    "start": 864.68,
+    "duration": 5.36
+  },
+  {
+    "text": "the Nazis why well it turns out they",
+    "start": 867.68,
+    "duration": 3.959
+  },
+  {
+    "text": "were the toughest bastard in Ukraine we",
+    "start": 870.04,
+    "duration": 2.68
+  },
+  {
+    "text": "said those are the guys we're going to",
+    "start": 871.639,
+    "duration": 3.88
+  },
+  {
+    "text": "work with now I'm not calling them Nazis",
+    "start": 872.72,
+    "duration": 5.64
+  },
+  {
+    "text": "metaphorically these are guys who are",
+    "start": 875.519,
+    "duration": 5.641
+  },
+  {
+    "text": "direct lineage of the the Nazis who",
+    "start": 878.36,
+    "duration": 5.919
+  },
+  {
+    "text": "fought Russia during World War II these",
+    "start": 881.16,
+    "duration": 5.96
+  },
+  {
+    "text": "are guys who celebrate famous Nazis",
+    "start": 884.279,
+    "duration": 5.521
+  },
+  {
+    "text": "birthdays these are real Nazis these are",
+    "start": 887.12,
+    "duration": 7.88
+  },
+  {
+    "text": "sastia toing Nazis now not a big number",
+    "start": 889.8,
+    "duration": 9.64
+  },
+  {
+    "text": "nor are the cartel heads in Mexico a big",
+    "start": 895.0,
+    "duration": 6.92
+  },
+  {
+    "text": "number but we know what that does to",
+    "start": 899.44,
+    "duration": 6.839
+  },
+  {
+    "text": "Mexico so NATO and and Lindsey Graham",
+    "start": 901.92,
+    "duration": 8.64
+  },
+  {
+    "text": "and John McCaine they all armed",
+    "start": 906.279,
+    "duration": 7.041
+  },
+  {
+    "text": "Ukraine Putin kept saying you really",
+    "start": 910.56,
+    "duration": 6.199
+  },
+  {
+    "text": "have to stop this we didn't he pushed we",
+    "start": 913.32,
+    "duration": 5.16
+  },
+  {
+    "text": "pushed him to the edge all we had to do",
+    "start": 916.759,
+    "duration": 5.041
+  },
+  {
+    "text": "is say look here's the deal we won't",
+    "start": 918.48,
+    "duration": 7.24
+  },
+  {
+    "text": "bring Ukraine into Russia and P Putin",
+    "start": 921.8,
+    "duration": 6.32
+  },
+  {
+    "text": "would have said we won't therefore have",
+    "start": 925.72,
+    "duration": 5.039
+  },
+  {
+    "text": "to move troops in Russia he moved 50,000",
+    "start": 928.12,
+    "duration": 4.839
+  },
+  {
+    "text": "troops into Russia you couldn't take",
+    "start": 930.759,
+    "duration": 4.56
+  },
+  {
+    "text": "over New York City with 50,000 troops",
+    "start": 932.959,
+    "duration": 4.641
+  },
+  {
+    "text": "into Ukraine or to the Border Ukraine",
+    "start": 935.319,
+    "duration": 4.681
+  },
+  {
+    "text": "excuse me into Ukraine into Ukraine it",
+    "start": 937.6,
+    "duration": 7.0
+  },
+  {
+    "text": "was a police force why because ethnic",
+    "start": 940.0,
+    "duration": 5.88
+  },
+  {
+    "text": "sort of",
+    "start": 944.6,
+    "duration": 3.88
+  },
+  {
+    "text": "Nazis had been slaughtering ethnic",
+    "start": 945.88,
+    "duration": 4.399
+  },
+  {
+    "text": "Russians in the Eastern region of",
+    "start": 948.48,
+    "duration": 5.599
+  },
+  {
+    "text": "Ukraine for years estimated 15,000",
+    "start": 950.279,
+    "duration": 6.201
+  },
+  {
+    "text": "slaughtered ethnic Russians in Ukraine",
+    "start": 954.079,
+    "duration": 5.32
+  },
+  {
+    "text": "it was starting to pick up Putin",
+    "start": 956.48,
+    "duration": 5.4
+  },
+  {
+    "text": "actually had to move fast because it was",
+    "start": 959.399,
+    "duration": 5.841
+  },
+  {
+    "text": "starting to pick up we wanted Putin to",
+    "start": 961.88,
+    "duration": 6.48
+  },
+  {
+    "text": "invade because then we could say we got",
+    "start": 965.24,
+    "duration": 6.12
+  },
+  {
+    "text": "you and then what have we done we've",
+    "start": 968.36,
+    "duration": 6.919
+  },
+  {
+    "text": "killed 500,000 ukrainians they have no",
+    "start": 971.36,
+    "duration": 7.12
+  },
+  {
+    "text": "men left to fight because we wanted a",
+    "start": 975.279,
+    "duration": 6.68
+  },
+  {
+    "text": "war with Russia zalinski tried to go to",
+    "start": 978.48,
+    "duration": 6.2
+  },
+  {
+    "text": "the negotiating table in March of 2022",
+    "start": 981.959,
+    "duration": 5.68
+  },
+  {
+    "text": "Boris Johnson shows up don't even think",
+    "start": 984.68,
+    "duration": 5.24
+  },
+  {
+    "text": "about it two things one is is the money",
+    "start": 987.639,
+    "duration": 5.0
+  },
+  {
+    "text": "will stop flowing into your pockets and",
+    "start": 989.92,
+    "duration": 6.12
+  },
+  {
+    "text": "two we pop your ass very simple so",
+    "start": 992.639,
+    "duration": 5.88
+  },
+  {
+    "text": "zinsky said okay so zalinsky has",
+    "start": 996.04,
+    "duration": 4.88
+  },
+  {
+    "text": "continued to pretend to fight the war",
+    "start": 998.519,
+    "duration": 5.081
+  },
+  {
+    "text": "the ukrainians have lost the whole way",
+    "start": 1000.92,
+    "duration": 5.08
+  },
+  {
+    "text": "the one that were periods where it",
+    "start": 1003.6,
+    "duration": 4.56
+  },
+  {
+    "text": "looked like the Russians were not making",
+    "start": 1006.0,
+    "duration": 4.199
+  },
+  {
+    "text": "good ground but that's because they",
+    "start": 1008.16,
+    "duration": 4.96
+  },
+  {
+    "text": "underestimated NATO's willingness to get",
+    "start": 1010.199,
+    "duration": 4.721
+  },
+  {
+    "text": "into it up to their",
+    "start": 1013.12,
+    "duration": 5.399
+  },
+  {
+    "text": "asses so then Putin said okay okay if",
+    "start": 1014.92,
+    "duration": 5.68
+  },
+  {
+    "text": "you want to play this way we can play",
+    "start": 1018.519,
+    "duration": 4.281
+  },
+  {
+    "text": "Putin did not want to destroy Russia's",
+    "start": 1020.6,
+    "duration": 4.04
+  },
+  {
+    "text": "uh Ukraine's infrastructure they did not",
+    "start": 1022.8,
+    "duration": 4.08
+  },
+  {
+    "text": "want to kill Ukraine the early footage",
+    "start": 1024.64,
+    "duration": 3.799
+  },
+  {
+    "text": "of the Ukrainian War I kept saying to my",
+    "start": 1026.88,
+    "duration": 3.52
+  },
+  {
+    "text": "wife this is what tipped me off the",
+    "start": 1028.439,
+    "duration": 4.841
+  },
+  {
+    "text": "early footage I go this is not a war you",
+    "start": 1030.4,
+    "duration": 4.679
+  },
+  {
+    "text": "want to see a war go look at films of",
+    "start": 1033.28,
+    "duration": 4.919
+  },
+  {
+    "text": "Baghdad day one right that's a war",
+    "start": 1035.079,
+    "duration": 5.12
+  },
+  {
+    "text": "that's what a modern war would look like",
+    "start": 1038.199,
+    "duration": 4.281
+  },
+  {
+    "text": "they would P go look at Gaza Strip which",
+    "start": 1040.199,
+    "duration": 3.88
+  },
+  {
+    "text": "by the way don't get into but go watch",
+    "start": 1042.48,
+    "duration": 3.92
+  },
+  {
+    "text": "the Gaza STP right and those are",
+    "start": 1044.079,
+    "duration": 6.081
+  },
+  {
+    "text": "Wars Russia moved basically the",
+    "start": 1046.4,
+    "duration": 7.44
+  },
+  {
+    "text": "equivalent of un troop type men into",
+    "start": 1050.16,
+    "duration": 8.28
+  },
+  {
+    "text": "into Ukraine to try to get control of a",
+    "start": 1053.84,
+    "duration": 7.28
+  },
+  {
+    "text": "problem now the idea that Putin wants to",
+    "start": 1058.44,
+    "duration": 4.56
+  },
+  {
+    "text": "take over all of Europe is a",
+    "start": 1061.12,
+    "duration": 3.76
+  },
+  {
+    "text": "fabrication that's just Western",
+    "start": 1063.0,
+    "duration": 5.039
+  },
+  {
+    "text": "propaganda he maybe he does there's not",
+    "start": 1064.88,
+    "duration": 4.64
+  },
+  {
+    "text": "a shred of",
+    "start": 1068.039,
+    "duration": 4.161
+  },
+  {
+    "text": "evidence he once said the thing he gets",
+    "start": 1069.52,
+    "duration": 4.64
+  },
+  {
+    "text": "used against him as he once said the",
+    "start": 1072.2,
+    "duration": 5.64
+  },
+  {
+    "text": "biggest disasters in the Soviet Union",
+    "start": 1074.16,
+    "duration": 6.6
+  },
+  {
+    "text": "collapsed it turns out the most famous",
+    "start": 1077.84,
+    "duration": 4.8
+  },
+  {
+    "text": "cold warrior in the United States George",
+    "start": 1080.76,
+    "duration": 5.08
+  },
+  {
+    "text": "Kenan said the same thing we were",
+    "start": 1082.64,
+    "duration": 5.72
+  },
+  {
+    "text": "negotiating with gorbach before collapse",
+    "start": 1085.84,
+    "duration": 5.24
+  },
+  {
+    "text": "to try to keep it from going",
+    "start": 1088.36,
+    "duration": 6.439
+  },
+  {
+    "text": "unstable but then it as collapses occur",
+    "start": 1091.08,
+    "duration": 5.52
+  },
+  {
+    "text": "as you know in equities as you know in",
+    "start": 1094.799,
+    "duration": 3.76
+  },
+  {
+    "text": "finance once the collapse starts it",
+    "start": 1096.6,
+    "duration": 4.64
+  },
+  {
+    "text": "tends to Cascade yeah so George Canon",
+    "start": 1098.559,
+    "duration": 5.12
+  },
+  {
+    "text": "referred to us moving into nato in 97",
+    "start": 1101.24,
+    "duration": 5.439
+  },
+  {
+    "text": "now he's a the most famous cold warrior",
+    "start": 1103.679,
+    "duration": 5.24
+  },
+  {
+    "text": "he said it was the biggest uh",
+    "start": 1106.679,
+    "duration": 5.281
+  },
+  {
+    "text": "geopolitical policy disaster in US",
+    "start": 1108.919,
+    "duration": 7.601
+  },
+  {
+    "text": "history so now we get told no no us",
+    "start": 1111.96,
+    "duration": 8.079
+  },
+  {
+    "text": "moving into UK us us moving NATO I see",
+    "start": 1116.52,
+    "duration": 6.159
+  },
+  {
+    "text": "Eastward the collapse was a disaster too",
+    "start": 1120.039,
+    "duration": 3.841
+  },
+  {
+    "text": "though because it left a bunch of",
+    "start": 1122.679,
+    "duration": 2.961
+  },
+  {
+    "text": "countries",
+    "start": 1123.88,
+    "duration": 3.919
+  },
+  {
+    "text": "rless if it could have been done more",
+    "start": 1125.64,
+    "duration": 4.68
+  },
+  {
+    "text": "systematically sort of Unwound like our",
+    "start": 1127.799,
+    "duration": 4.441
+  },
+  {
+    "text": "banking system you know things that you",
+    "start": 1130.32,
+    "duration": 4.239
+  },
+  {
+    "text": "know the story right if you don't unwind",
+    "start": 1132.24,
+    "duration": 5.12
+  },
+  {
+    "text": "it systematically you unwind it",
+    "start": 1134.559,
+    "duration": 5.201
+  },
+  {
+    "text": "catastrophically yeah and so Putin was",
+    "start": 1137.36,
+    "duration": 4.0
+  },
+  {
+    "text": "accused of wanting to take over Europe",
+    "start": 1139.76,
+    "duration": 3.12
+  },
+  {
+    "text": "saying because the Soviet Union it was",
+    "start": 1141.36,
+    "duration": 4.0
+  },
+  {
+    "text": "the biggest disaster what they leave off",
+    "start": 1142.88,
+    "duration": 4.56
+  },
+  {
+    "text": "when they show that quote is the next",
+    "start": 1145.36,
+    "duration": 3.76
+  },
+  {
+    "text": "sense in which he said it left a bunch",
+    "start": 1147.44,
+    "duration": 3.0
+  },
+  {
+    "text": "of countries",
+    "start": 1149.12,
+    "duration": 4.0
+  },
+  {
+    "text": "rudderless right as is often the case",
+    "start": 1150.44,
+    "duration": 4.56
+  },
+  {
+    "text": "now no matter how bad you think it is",
+    "start": 1153.12,
+    "duration": 3.84
+  },
+  {
+    "text": "whatever follows it is never great",
+    "start": 1155.0,
+    "duration": 4.52
+  },
+  {
+    "text": "either so like revolutions there's one",
+    "start": 1156.96,
+    "duration": 4.52
+  },
+  {
+    "text": "or two revolutions that ended up working",
+    "start": 1159.52,
+    "duration": 3.88
+  },
+  {
+    "text": "out pretty well and the rest end up",
+    "start": 1161.48,
+    "duration": 5.0
+  },
+  {
+    "text": "disastrous exactly yeah we yeah we we",
+    "start": 1163.4,
+    "duration": 4.88
+  },
+  {
+    "text": "hit the lottery in the United States on",
+    "start": 1166.48,
+    "duration": 2.92
+  },
+  {
+    "text": "Revolution",
+    "start": 1168.28,
+    "duration": 3.399
+  },
+  {
+    "text": "we are the that's the one good one",
+    "start": 1169.4,
+    "duration": 3.84
+  },
+  {
+    "text": "that's right we're the",
+    "start": 1171.679,
+    "duration": 4.401
+  },
+  {
+    "text": "overwheling yeah and by the way anyone",
+    "start": 1173.24,
+    "duration": 4.04
+  },
+  {
+    "text": "who's sitting there thinking oh you're",
+    "start": 1176.08,
+    "duration": 4.719
+  },
+  {
+    "text": "not you know red-blooded American we",
+    "start": 1177.28,
+    "duration": 5.68
+  },
+  {
+    "text": "America I don't know if",
+    "start": 1180.799,
+    "duration": 4.681
+  },
+  {
+    "text": "we're if you read human history there's",
+    "start": 1182.96,
+    "duration": 5.16
+  },
+  {
+    "text": "no such thing as the good guys right",
+    "start": 1185.48,
+    "duration": 5.0
+  },
+  {
+    "text": "it's it's brutal it's brutal it's brutal",
+    "start": 1188.12,
+    "duration": 4.039
+  },
+  {
+    "text": "I'm reading vict I'm just finishing",
+    "start": 1190.48,
+    "duration": 3.88
+  },
+  {
+    "text": "Victor Davis Hansen's book on collapsed",
+    "start": 1192.159,
+    "duration": 8.76
+  },
+  {
+    "text": "Empires um but but but but we we we've",
+    "start": 1194.36,
+    "duration": 9.6
+  },
+  {
+    "text": "never supported democracies we we",
+    "start": 1200.919,
+    "duration": 5.801
+  },
+  {
+    "text": "support existing democracies because",
+    "start": 1203.96,
+    "duration": 4.4
+  },
+  {
+    "text": "that's kind of the best play right you",
+    "start": 1206.72,
+    "duration": 4.72
+  },
+  {
+    "text": "don't knock off Germany as a democratic",
+    "start": 1208.36,
+    "duration": 6.679
+  },
+  {
+    "text": "state right but but but but as a as a as",
+    "start": 1211.44,
+    "duration": 6.56
+  },
+  {
+    "text": "a geopolitical strategic move it is a",
+    "start": 1215.039,
+    "duration": 5.441
+  },
+  {
+    "text": "lot easier to control one guy wearing a",
+    "start": 1218.0,
+    "duration": 5.2
+  },
+  {
+    "text": "white suit sunglasses and a cigar",
+    "start": 1220.48,
+    "duration": 5.04
+  },
+  {
+    "text": "hanging out of his mouth right than to",
+    "start": 1223.2,
+    "duration": 4.0
+  },
+  {
+    "text": "control a",
+    "start": 1225.52,
+    "duration": 4.639
+  },
+  {
+    "text": "democracy democracy are awkward and ugly",
+    "start": 1227.2,
+    "duration": 5.32
+  },
+  {
+    "text": "and inefficient and and and it's the",
+    "start": 1230.159,
+    "duration": 5.361
+  },
+  {
+    "text": "wisdom of crowds but you don't get to",
+    "start": 1232.52,
+    "duration": 6.12
+  },
+  {
+    "text": "control a democracy we can bribe Nora we",
+    "start": 1235.52,
+    "duration": 7.32
+  },
+  {
+    "text": "can bribe cartel heads we can say look",
+    "start": 1238.64,
+    "duration": 5.44
+  },
+  {
+    "text": "we'll bribe you by saying we're not",
+    "start": 1242.84,
+    "duration": 3.199
+  },
+  {
+    "text": "going to cap your ass if you don't if",
+    "start": 1244.08,
+    "duration": 4.479
+  },
+  {
+    "text": "you're not on our team right but we",
+    "start": 1246.039,
+    "duration": 4.561
+  },
+  {
+    "text": "can't do it with democracies we there's",
+    "start": 1248.559,
+    "duration": 3.841
+  },
+  {
+    "text": "a book called overthrow by I think it's",
+    "start": 1250.6,
+    "duration": 5.52
+  },
+  {
+    "text": "stepen Kinser it's about 13 overthrows",
+    "start": 1252.4,
+    "duration": 5.759
+  },
+  {
+    "text": "of the done by the United States He said",
+    "start": 1256.12,
+    "duration": 3.48
+  },
+  {
+    "text": "by the way there's many more where the",
+    "start": 1258.159,
+    "duration": 3.201
+  },
+  {
+    "text": "US fingerprints are all over it these",
+    "start": 1259.6,
+    "duration": 5.76
+  },
+  {
+    "text": "are 13 where we went down and did it and",
+    "start": 1261.36,
+    "duration": 7.16
+  },
+  {
+    "text": "we went over and did it and we don't",
+    "start": 1265.36,
+    "duration": 7.919
+  },
+  {
+    "text": "install democracies we never",
+    "start": 1268.52,
+    "duration": 4.759
+  },
+  {
+    "text": "do that's that's",
+    "start": 1273.76,
+    "duration": 6.56
+  },
+  {
+    "text": "dark but hly I'm I'm not a I'm not",
+    "start": 1276.48,
+    "duration": 7.439
+  },
+  {
+    "text": "necessarily A you know an enormous fan",
+    "start": 1280.32,
+    "duration": 6.56
+  },
+  {
+    "text": "of the idea of you know two wolves and a",
+    "start": 1283.919,
+    "duration": 5.0
+  },
+  {
+    "text": "sheep voting on what's for lunch either",
+    "start": 1286.88,
+    "duration": 4.84
+  },
+  {
+    "text": "so that's exactly right I always like",
+    "start": 1288.919,
+    "duration": 5.481
+  },
+  {
+    "text": "that one yeah but it's but it's you know",
+    "start": 1291.72,
+    "duration": 5.0
+  },
+  {
+    "text": "it's it's lesser of evils is what it",
+    "start": 1294.4,
+    "duration": 5.159
+  },
+  {
+    "text": "winds up being oh I support democracy I",
+    "start": 1296.72,
+    "duration": 4.559
+  },
+  {
+    "text": "I would like to see a popular vote",
+    "start": 1299.559,
+    "duration": 4.0
+  },
+  {
+    "text": "instead of an electoral vote I there",
+    "start": 1301.279,
+    "duration": 4.88
+  },
+  {
+    "text": "could be problems with it sure I",
+    "start": 1303.559,
+    "duration": 3.921
+  },
+  {
+    "text": "understand why they put in the Electoral",
+    "start": 1306.159,
+    "duration": 3.52
+  },
+  {
+    "text": "College no I support democracy I just",
+    "start": 1307.48,
+    "duration": 4.36
+  },
+  {
+    "text": "don't think we we as a nation",
+    "start": 1309.679,
+    "duration": 4.281
+  },
+  {
+    "text": "do I I don't know who's calling the",
+    "start": 1311.84,
+    "duration": 5.24
+  },
+  {
+    "text": "shots we got Biden who who I you know I",
+    "start": 1313.96,
+    "duration": 5.16
+  },
+  {
+    "text": "understand why people hate Trump",
+    "start": 1317.08,
+    "duration": 3.44
+  },
+  {
+    "text": "if you hate Trump and you want to votee",
+    "start": 1319.12,
+    "duration": 3.28
+  },
+  {
+    "text": "for Biden you must at least acknowledge",
+    "start": 1320.52,
+    "duration": 3.48
+  },
+  {
+    "text": "that he doesn't have a marble left in",
+    "start": 1322.4,
+    "duration": 6.159
+  },
+  {
+    "text": "his skull right he he he is completely",
+    "start": 1324.0,
+    "duration": 7.4
+  },
+  {
+    "text": "pathologic and so so if you can admit",
+    "start": 1328.559,
+    "duration": 4.521
+  },
+  {
+    "text": "that and say I'm choosing that over",
+    "start": 1331.4,
+    "duration": 5.0
+  },
+  {
+    "text": "Trump then I say okay so I get it I I'm",
+    "start": 1333.08,
+    "duration": 6.12
+  },
+  {
+    "text": "I'm stunned because it's",
+    "start": 1336.4,
+    "duration": 5.639
+  },
+  {
+    "text": "dangerous but is it really I mean is is",
+    "start": 1339.2,
+    "duration": 6.2
+  },
+  {
+    "text": "there any meaningful difference like",
+    "start": 1342.039,
+    "duration": 5.0
+  },
+  {
+    "text": "when when I look at these candidates and",
+    "start": 1345.4,
+    "duration": 3.92
+  },
+  {
+    "text": "I look back at the president during my",
+    "start": 1347.039,
+    "duration": 6.201
+  },
+  {
+    "text": "lifetime like Trump Biden Obama Clinton",
+    "start": 1349.32,
+    "duration": 6.08
+  },
+  {
+    "text": "Bush both bushes you know Reagan Carter",
+    "start": 1353.24,
+    "duration": 4.72
+  },
+  {
+    "text": "Ford who Nixon whoever I mean they're",
+    "start": 1355.4,
+    "duration": 4.279
+  },
+  {
+    "text": "all part of a machine they're all part",
+    "start": 1357.96,
+    "duration": 4.04
+  },
+  {
+    "text": "of a machine like I've come to the",
+    "start": 1359.679,
+    "duration": 4.801
+  },
+  {
+    "text": "belief that if you can be elected if you",
+    "start": 1362.0,
+    "duration": 4.36
+  },
+  {
+    "text": "can be elected president there's no way",
+    "start": 1364.48,
+    "duration": 3.88
+  },
+  {
+    "text": "you're the good guy for the job there's",
+    "start": 1366.36,
+    "duration": 4.84
+  },
+  {
+    "text": "no way I mean it's it's but here here's",
+    "start": 1368.36,
+    "duration": 5.199
+  },
+  {
+    "text": "the problem with Biden this is a and gun",
+    "start": 1371.2,
+    "duration": 4.959
+  },
+  {
+    "text": "Greenwall wrote about this he's dead",
+    "start": 1373.559,
+    "duration": 5.401
+  },
+  {
+    "text": "right you need one guy",
+    "start": 1376.159,
+    "duration": 6.161
+  },
+  {
+    "text": "at the top so imagine the Cuban Missile",
+    "start": 1378.96,
+    "duration": 7.199
+  },
+  {
+    "text": "Crisis without Kennedy yeah imagine that",
+    "start": 1382.32,
+    "duration": 5.8
+  },
+  {
+    "text": "people sitting around a table discussing",
+    "start": 1386.159,
+    "duration": 4.081
+  },
+  {
+    "text": "it came up with a consensus of what to",
+    "start": 1388.12,
+    "duration": 4.559
+  },
+  {
+    "text": "do without Kennedy there to say here's",
+    "start": 1390.24,
+    "duration": 5.84
+  },
+  {
+    "text": "what we are going to do sure they would",
+    "start": 1392.679,
+    "duration": 6.081
+  },
+  {
+    "text": "have they would have started World War I",
+    "start": 1396.08,
+    "duration": 6.24
+  },
+  {
+    "text": "no question imagine so so so here's the",
+    "start": 1398.76,
+    "duration": 6.039
+  },
+  {
+    "text": "problem I can look at every president",
+    "start": 1402.32,
+    "duration": 4.2
+  },
+  {
+    "text": "going backwards including Trump who",
+    "start": 1404.799,
+    "duration": 4.681
+  },
+  {
+    "text": "would call the shot Maybe well maybe",
+    "start": 1406.52,
+    "duration": 6.12
+  },
+  {
+    "text": "poorly but he would call the shot if you",
+    "start": 1409.48,
+    "duration": 4.76
+  },
+  {
+    "text": "don't have a central leader where the",
+    "start": 1412.64,
+    "duration": 3.639
+  },
+  {
+    "text": "buck stops at the top and he says okay",
+    "start": 1414.24,
+    "duration": 3.52
+  },
+  {
+    "text": "I've heard everything you guys have to",
+    "start": 1416.279,
+    "duration": 3.88
+  },
+  {
+    "text": "say here's what we got to do you're in a",
+    "start": 1417.76,
+    "duration": 5.2
+  },
+  {
+    "text": "very dangerous situation you you're now",
+    "start": 1420.159,
+    "duration": 4.441
+  },
+  {
+    "text": "being run by committee and committees",
+    "start": 1422.96,
+    "duration": 4.44
+  },
+  {
+    "text": "don't work well so Biden is the first",
+    "start": 1424.6,
+    "duration": 4.319
+  },
+  {
+    "text": "president where we don't know who's",
+    "start": 1427.4,
+    "duration": 3.24
+  },
+  {
+    "text": "driving the",
+    "start": 1428.919,
+    "duration": 5.081
+  },
+  {
+    "text": "C Obama could have called the shot I'm",
+    "start": 1430.64,
+    "duration": 5.32
+  },
+  {
+    "text": "confident that if Obama was presented",
+    "start": 1434.0,
+    "duration": 3.44
+  },
+  {
+    "text": "with a Do or Die",
+    "start": 1435.96,
+    "duration": 4.16
+  },
+  {
+    "text": "situation that the guy had the chops to",
+    "start": 1437.44,
+    "duration": 5.8
+  },
+  {
+    "text": "do it uh Bush Jr I don't think was",
+    "start": 1440.12,
+    "duration": 4.84
+  },
+  {
+    "text": "calling the",
+    "start": 1443.24,
+    "duration": 4.36
+  },
+  {
+    "text": "shots but I think Cheney had the chops",
+    "start": 1444.96,
+    "duration": 5.16
+  },
+  {
+    "text": "to do it I see so in other words we we",
+    "start": 1447.6,
+    "duration": 4.84
+  },
+  {
+    "text": "we're in the situation we're in we we",
+    "start": 1450.12,
+    "duration": 4.88
+  },
+  {
+    "text": "have created or it has been created",
+    "start": 1452.44,
+    "duration": 4.92
+  },
+  {
+    "text": "somebody has created this large Central",
+    "start": 1455.0,
+    "duration": 5.159
+  },
+  {
+    "text": "Power which I would say is the primary",
+    "start": 1457.36,
+    "duration": 5.16
+  },
+  {
+    "text": "problem get getting your hands on that",
+    "start": 1460.159,
+    "duration": 4.561
+  },
+  {
+    "text": "kind of power is just not anything that",
+    "start": 1462.52,
+    "duration": 5.879
+  },
+  {
+    "text": "will turn out well over the long term",
+    "start": 1464.72,
+    "duration": 5.959
+  },
+  {
+    "text": "given that situation though you got to",
+    "start": 1468.399,
+    "duration": 4.321
+  },
+  {
+    "text": "have somebody who's all there and",
+    "start": 1470.679,
+    "duration": 5.961
+  },
+  {
+    "text": "Trump's more all there than Biden oh but",
+    "start": 1472.72,
+    "duration": 6.76
+  },
+  {
+    "text": "clearly he you can hate the decision you",
+    "start": 1476.64,
+    "duration": 4.88
+  },
+  {
+    "text": "think he would make right but we",
+    "start": 1479.48,
+    "duration": 3.72
+  },
+  {
+    "text": "actually have four years of trump and",
+    "start": 1481.52,
+    "duration": 3.759
+  },
+  {
+    "text": "four years of Biden I got to tell you I",
+    "start": 1483.2,
+    "duration": 5.04
+  },
+  {
+    "text": "I I don't think you have to be a Baga",
+    "start": 1485.279,
+    "duration": 6.081
+  },
+  {
+    "text": "guy to notice that that Trump's when I",
+    "start": 1488.24,
+    "duration": 5.0
+  },
+  {
+    "text": "pulled the L run Trump I mean Trump was",
+    "start": 1491.36,
+    "duration": 4.36
+  },
+  {
+    "text": "such an idiosyncratic character right",
+    "start": 1493.24,
+    "duration": 3.88
+  },
+  {
+    "text": "yeah and when I pulled the lever on",
+    "start": 1495.72,
+    "duration": 4.8
+  },
+  {
+    "text": "Trump with with shaking this this guy's",
+    "start": 1497.12,
+    "duration": 7.08
+  },
+  {
+    "text": "a wackadoodle um there was one there was",
+    "start": 1500.52,
+    "duration": 7.12
+  },
+  {
+    "text": "one um Central issue that allowed me to",
+    "start": 1504.2,
+    "duration": 5.04
+  },
+  {
+    "text": "say I'm going with Trump and that is I",
+    "start": 1507.64,
+    "duration": 4.8
+  },
+  {
+    "text": "believed he would not get us in",
+    "start": 1509.24,
+    "duration": 6.72
+  },
+  {
+    "text": "Wars I believed he would",
+    "start": 1512.44,
+    "duration": 6.16
+  },
+  {
+    "text": "negotiate and and he didn't get us in",
+    "start": 1515.96,
+    "duration": 5.04
+  },
+  {
+    "text": "Wars I don't like some of the things he",
+    "start": 1518.6,
+    "duration": 4.36
+  },
+  {
+    "text": "did I don't blame him for things he",
+    "start": 1521.0,
+    "duration": 4.48
+  },
+  {
+    "text": "didn't achieve because he's in a a",
+    "start": 1522.96,
+    "duration": 6.16
+  },
+  {
+    "text": "constant battle the whole way",
+    "start": 1525.48,
+    "duration": 6.28
+  },
+  {
+    "text": "a constant battle without a political",
+    "start": 1529.12,
+    "duration": 4.559
+  },
+  {
+    "text": "machine just to stay in office yeah just",
+    "start": 1531.76,
+    "duration": 3.56
+  },
+  {
+    "text": "to stay in office that's right just to",
+    "start": 1533.679,
+    "duration": 3.88
+  },
+  {
+    "text": "stay but the Russia collusion which I",
+    "start": 1535.32,
+    "duration": 4.239
+  },
+  {
+    "text": "called early I wrote about that one to",
+    "start": 1537.559,
+    "duration": 5.441
+  },
+  {
+    "text": "that was clearly a farce but but but the",
+    "start": 1539.559,
+    "duration": 6.081
+  },
+  {
+    "text": "problem is you can see Republicans who",
+    "start": 1543.0,
+    "duration": 5.32
+  },
+  {
+    "text": "sort of pretend to be with them I bet",
+    "start": 1545.64,
+    "duration": 4.12
+  },
+  {
+    "text": "you wouldn't be willing to name one",
+    "start": 1548.32,
+    "duration": 3.959
+  },
+  {
+    "text": "you'd say I would bet my life they have",
+    "start": 1549.76,
+    "duration": 4.84
+  },
+  {
+    "text": "his",
+    "start": 1552.279,
+    "duration": 2.321
+  },
+  {
+    "text": "back no yeah I I I don't really someone",
+    "start": 1554.72,
+    "duration": 6.0
+  },
+  {
+    "text": "Maybe margerie Taylor green maybe",
+    "start": 1558.399,
+    "duration": 4.081
+  },
+  {
+    "text": "something like that but you'd be hard",
+    "start": 1560.72,
+    "duration": 3.6
+  },
+  {
+    "text": "pressed to name one who wouldn't switch",
+    "start": 1562.48,
+    "duration": 5.72
+  },
+  {
+    "text": "teams fast really so not not generally",
+    "start": 1564.32,
+    "duration": 6.52
+  },
+  {
+    "text": "the so-called Freedom caucus the uh I",
+    "start": 1568.2,
+    "duration": 5.68
+  },
+  {
+    "text": "can't I forget who who they all are Matt",
+    "start": 1570.84,
+    "duration": 7.16
+  },
+  {
+    "text": "Gates um Gates is a maybe you know but",
+    "start": 1573.88,
+    "duration": 5.6
+  },
+  {
+    "text": "these are minor players just like the",
+    "start": 1578.0,
+    "duration": 4.6
+  },
+  {
+    "text": "tea party right they get absorbed back",
+    "start": 1579.48,
+    "duration": 4.72
+  },
+  {
+    "text": "into the system as soon as they get",
+    "start": 1582.6,
+    "duration": 5.24
+  },
+  {
+    "text": "outside the system and so um so I I",
+    "start": 1584.2,
+    "duration": 5.32
+  },
+  {
+    "text": "don't think we can elect our way out of",
+    "start": 1587.84,
+    "duration": 3.76
+  },
+  {
+    "text": "this I do think I'd rather have Trump in",
+    "start": 1589.52,
+    "duration": 5.24
+  },
+  {
+    "text": "there than Biden and here here's my",
+    "start": 1591.6,
+    "duration": 7.28
+  },
+  {
+    "text": "optimism on Trump um he he knows where",
+    "start": 1594.76,
+    "duration": 6.32
+  },
+  {
+    "text": "the spoons and the forks are now right",
+    "start": 1598.88,
+    "duration": 4.32
+  },
+  {
+    "text": "he went into office he didn't think he",
+    "start": 1601.08,
+    "duration": 3.8
+  },
+  {
+    "text": "was going to win he wasn't ready you",
+    "start": 1603.2,
+    "duration": 4.88
+  },
+  {
+    "text": "know there's a law that says you are by",
+    "start": 1604.88,
+    "duration": 6.12
+  },
+  {
+    "text": "law required to prepare for the",
+    "start": 1608.08,
+    "duration": 6.52
+  },
+  {
+    "text": "presidency if you are in the",
+    "start": 1611.0,
+    "duration": 5.96
+  },
+  {
+    "text": "running and the reason I think that law",
+    "start": 1614.6,
+    "duration": 4.92
+  },
+  {
+    "text": "is pass is so that people people had the",
+    "start": 1616.96,
+    "duration": 5.079
+  },
+  {
+    "text": "political cover to prepare a cabinet to",
+    "start": 1619.52,
+    "duration": 4.48
+  },
+  {
+    "text": "prepare for the presidency without being",
+    "start": 1622.039,
+    "duration": 4.401
+  },
+  {
+    "text": "accused of being",
+    "start": 1624.0,
+    "duration": 5.32
+  },
+  {
+    "text": "presumptuous and Trump trump couldn't",
+    "start": 1626.44,
+    "duration": 5.08
+  },
+  {
+    "text": "trust anyone which he ended up forcing",
+    "start": 1629.32,
+    "duration": 4.88
+  },
+  {
+    "text": "him to surround himself with family and",
+    "start": 1631.52,
+    "duration": 4.399
+  },
+  {
+    "text": "that was that was a very weak cabinet",
+    "start": 1634.2,
+    "duration": 3.52
+  },
+  {
+    "text": "because no one's gonna tell the Donald",
+    "start": 1635.919,
+    "duration": 3.801
+  },
+  {
+    "text": "what to do right No One's Gonna Stand up",
+    "start": 1637.72,
+    "duration": 6.28
+  },
+  {
+    "text": "to him he had Bannon banon was was was",
+    "start": 1639.72,
+    "duration": 8.24
+  },
+  {
+    "text": "solid I think um but but now he knows I",
+    "start": 1644.0,
+    "duration": 5.32
+  },
+  {
+    "text": "think think he probably knows who he can",
+    "start": 1647.96,
+    "duration": 4.52
+  },
+  {
+    "text": "trust I also think the phrase I invented",
+    "start": 1649.32,
+    "duration": 5.88
+  },
+  {
+    "text": "I believe is he's weaponized",
+    "start": 1652.48,
+    "duration": 5.24
+  },
+  {
+    "text": "narcissism he used to want on his name",
+    "start": 1655.2,
+    "duration": 4.959
+  },
+  {
+    "text": "on that on every building I think he",
+    "start": 1657.72,
+    "duration": 5.88
+  },
+  {
+    "text": "realizes the ultimate is to be a great",
+    "start": 1660.159,
+    "duration": 6.12
+  },
+  {
+    "text": "president and I think he now realizes to",
+    "start": 1663.6,
+    "duration": 7.28
+  },
+  {
+    "text": "be a great president he has to do great",
+    "start": 1666.279,
+    "duration": 8.921
+  },
+  {
+    "text": "things yeah great I would say great in",
+    "start": 1670.88,
+    "duration": 6.519
+  },
+  {
+    "text": "quotes well yeah but what he perceives",
+    "start": 1675.2,
+    "duration": 4.0
+  },
+  {
+    "text": "to be great right well but but for",
+    "start": 1677.399,
+    "duration": 4.481
+  },
+  {
+    "text": "example get control of the immigration",
+    "start": 1679.2,
+    "duration": 4.719
+  },
+  {
+    "text": "yeah he now knows he has to get control",
+    "start": 1681.88,
+    "duration": 4.56
+  },
+  {
+    "text": "of the immigration he now knows he has",
+    "start": 1683.919,
+    "duration": 5.081
+  },
+  {
+    "text": "to get us out of",
+    "start": 1686.44,
+    "duration": 6.079
+  },
+  {
+    "text": "Wars he he would get us out of",
+    "start": 1689.0,
+    "duration": 6.6
+  },
+  {
+    "text": "Ukraine that is one thing I truly",
+    "start": 1692.519,
+    "duration": 4.88
+  },
+  {
+    "text": "believe yeah I I do believe that about",
+    "start": 1695.6,
+    "duration": 3.72
+  },
+  {
+    "text": "it we wouldn't have been in Ukraine we",
+    "start": 1697.399,
+    "duration": 3.241
+  },
+  {
+    "text": "wouldn't have been there we wouldn't",
+    "start": 1699.32,
+    "duration": 3.199
+  },
+  {
+    "text": "have been in Ukraine if he was President",
+    "start": 1700.64,
+    "duration": 5.2
+  },
+  {
+    "text": "right no I something good could come",
+    "start": 1702.519,
+    "duration": 5.681
+  },
+  {
+    "text": "from the narcissism narcissism that's",
+    "start": 1705.84,
+    "duration": 5.24
+  },
+  {
+    "text": "this will be that's right I I think I I",
+    "start": 1708.2,
+    "duration": 5.44
+  },
+  {
+    "text": "I you I think a lot of people are are",
+    "start": 1711.08,
+    "duration": 5.16
+  },
+  {
+    "text": "kind of thinking the same way like if if",
+    "start": 1713.64,
+    "duration": 4.48
+  },
+  {
+    "text": "they might not be saying it but you know",
+    "start": 1716.24,
+    "duration": 5.039
+  },
+  {
+    "text": "it's um cowards breaking down these two",
+    "start": 1718.12,
+    "duration": 7.0
+  },
+  {
+    "text": "guys like you know it's so do you think",
+    "start": 1721.279,
+    "duration": 8.041
+  },
+  {
+    "text": "do you think Trump do you think Trump is",
+    "start": 1725.12,
+    "duration": 4.2
+  },
+  {
+    "text": "patriotic to a fault yeah absolutely I",
+    "start": 1729.36,
+    "duration": 7.0
+  },
+  {
+    "text": "think he he he loves this country B is",
+    "start": 1733.0,
+    "duration": 4.919
+  },
+  {
+    "text": "do you think Biden is do you think Biden",
+    "start": 1736.36,
+    "duration": 2.52
+  },
+  {
+    "text": "is",
+    "start": 1737.919,
+    "duration": 3.561
+  },
+  {
+    "text": "uh that's you know that's dicey I don't",
+    "start": 1738.88,
+    "duration": 4.88
+  },
+  {
+    "text": "I don't know I don't see it yeah I don't",
+    "start": 1741.48,
+    "duration": 5.52
+  },
+  {
+    "text": "see patriotic zero I see him as part of",
+    "start": 1743.76,
+    "duration": 5.639
+  },
+  {
+    "text": "a movement that wants to dismantle the",
+    "start": 1747.0,
+    "duration": 5.519
+  },
+  {
+    "text": "real key core values that make it make",
+    "start": 1749.399,
+    "duration": 5.081
+  },
+  {
+    "text": "America well that's not patriotic right",
+    "start": 1752.519,
+    "duration": 3.921
+  },
+  {
+    "text": "it's that patriotic then no so that's a",
+    "start": 1754.48,
+    "duration": 4.24
+  },
+  {
+    "text": "zero yeah right so then the question",
+    "start": 1756.44,
+    "duration": 5.92
+  },
+  {
+    "text": "becomes why why why does it bother you",
+    "start": 1758.72,
+    "duration": 5.88
+  },
+  {
+    "text": "that you see things happening all over",
+    "start": 1762.36,
+    "duration": 6.0
+  },
+  {
+    "text": "the world that don't make sense at the",
+    "start": 1764.6,
+    "duration": 6.16
+  },
+  {
+    "text": "most fundamental level don't like for",
+    "start": 1768.36,
+    "duration": 4.319
+  },
+  {
+    "text": "example leaving the Border open there is",
+    "start": 1770.76,
+    "duration": 3.799
+  },
+  {
+    "text": "no case for leaving that border open",
+    "start": 1772.679,
+    "duration": 4.081
+  },
+  {
+    "text": "that that way there certainly no case",
+    "start": 1774.559,
+    "duration": 3.921
+  },
+  {
+    "text": "for leaving the Border open and running",
+    "start": 1776.76,
+    "duration": 4.24
+  },
+  {
+    "text": "a massive welfare state at the same time",
+    "start": 1778.48,
+    "duration": 6.88
+  },
+  {
+    "text": "that's right that's by the way",
+    "start": 1781.0,
+    "duration": 7.0
+  },
+  {
+    "text": "just I I've had chats with ex border",
+    "start": 1785.36,
+    "duration": 5.24
+  },
+  {
+    "text": "guards they say we used to stop people",
+    "start": 1788.0,
+    "duration": 5.519
+  },
+  {
+    "text": "at the border who were risky we used to",
+    "start": 1790.6,
+    "duration": 6.959
+  },
+  {
+    "text": "be able to to to control the flow and he",
+    "start": 1793.519,
+    "duration": 5.801
+  },
+  {
+    "text": "says he says they're letting so many",
+    "start": 1797.559,
+    "duration": 4.48
+  },
+  {
+    "text": "guys through who are so dangerous what",
+    "start": 1799.32,
+    "duration": 4.8
+  },
+  {
+    "text": "what ODS do you what ODS do you put on",
+    "start": 1802.039,
+    "duration": 5.161
+  },
+  {
+    "text": "it that at some point in our future a",
+    "start": 1804.12,
+    "duration": 5.24
+  },
+  {
+    "text": "bunch of characters who came across that",
+    "start": 1807.2,
+    "duration": 4.839
+  },
+  {
+    "text": "border do some serious terrorism what",
+    "start": 1809.36,
+    "duration": 5.48
+  },
+  {
+    "text": "odds do you put on that I think it's a",
+    "start": 1812.039,
+    "duration": 5.48
+  },
+  {
+    "text": "certainty look it's a certainty right we",
+    "start": 1814.84,
+    "duration": 4.88
+  },
+  {
+    "text": "we know it's like the suitcase bomb",
+    "start": 1817.519,
+    "duration": 4.88
+  },
+  {
+    "text": "certainty we know it's a certainty you",
+    "start": 1819.72,
+    "duration": 4.439
+  },
+  {
+    "text": "know at some point somebody's going to",
+    "start": 1822.399,
+    "duration": 3.601
+  },
+  {
+    "text": "set off a suitcase bomb in some major",
+    "start": 1824.159,
+    "duration": 4.0
+  },
+  {
+    "text": "city it's going to happen so leaving the",
+    "start": 1826.0,
+    "duration": 6.039
+  },
+  {
+    "text": "Border open then is",
+    "start": 1828.159,
+    "duration": 3.88
+  },
+  {
+    "text": "treasonous yeah I mean I'm I'm I'm I",
+    "start": 1832.919,
+    "duration": 3.721
+  },
+  {
+    "text": "don't know what the definition of",
+    "start": 1835.679,
+    "duration": 3.72
+  },
+  {
+    "text": "treason is I don't either but to do all",
+    "start": 1836.64,
+    "duration": 4.36
+  },
+  {
+    "text": "this I to have this conversation I'm",
+    "start": 1839.399,
+    "duration": 3.4
+  },
+  {
+    "text": "accepting a whole context that I don't",
+    "start": 1841.0,
+    "duration": 4.48
+  },
+  {
+    "text": "normally operate in which normally my",
+    "start": 1842.799,
+    "duration": 4.921
+  },
+  {
+    "text": "viewpoint is just you you if you follow",
+    "start": 1845.48,
+    "duration": 4.28
+  },
+  {
+    "text": "me on Twitter you know I'm just like the",
+    "start": 1847.72,
+    "duration": 4.439
+  },
+  {
+    "text": "problem is the central the existence of",
+    "start": 1849.76,
+    "duration": 6.0
+  },
+  {
+    "text": "this the size the sheer size and scope",
+    "start": 1852.159,
+    "duration": 6.681
+  },
+  {
+    "text": "of this amount of centralized power",
+    "start": 1855.76,
+    "duration": 4.96
+  },
+  {
+    "text": "that's the problem and it all stems from",
+    "start": 1858.84,
+    "duration": 3.52
+  },
+  {
+    "text": "there and you know God bless him if",
+    "start": 1860.72,
+    "duration": 5.28
+  },
+  {
+    "text": "Trump can make to take one step you know",
+    "start": 1862.36,
+    "duration": 6.0
+  },
+  {
+    "text": "forward in the right direction God bless",
+    "start": 1866.0,
+    "duration": 5.919
+  },
+  {
+    "text": "him for it but in the end do I believe",
+    "start": 1868.36,
+    "duration": 5.48
+  },
+  {
+    "text": "that you know the government will shrink",
+    "start": 1871.919,
+    "duration": 3.76
+  },
+  {
+    "text": "that that power will shrink at all under",
+    "start": 1873.84,
+    "duration": 5.24
+  },
+  {
+    "text": "his you know uh a time as president no",
+    "start": 1875.679,
+    "duration": 5.441
+  },
+  {
+    "text": "it won't you know it won't no no it",
+    "start": 1879.08,
+    "duration": 4.599
+  },
+  {
+    "text": "won't and it won't so so that gets to",
+    "start": 1881.12,
+    "duration": 5.48
+  },
+  {
+    "text": "the question of therefore are we heading",
+    "start": 1883.679,
+    "duration": 6.201
+  },
+  {
+    "text": "off a cliff",
+    "start": 1886.6,
+    "duration": 4.76
+  },
+  {
+    "text": "well yeah we're we're headed the way of",
+    "start": 1889.88,
+    "duration": 3.96
+  },
+  {
+    "text": "all Empires we're headed the way of all",
+    "start": 1891.36,
+    "duration": 4.799
+  },
+  {
+    "text": "Empires okay let me ask you let me put",
+    "start": 1893.84,
+    "duration": 4.76
+  },
+  {
+    "text": "it in it is it are we going to be alive",
+    "start": 1896.159,
+    "duration": 5.36
+  },
+  {
+    "text": "to witness it okay um that is a better",
+    "start": 1898.6,
+    "duration": 5.199
+  },
+  {
+    "text": "question isn't it uh I'm",
+    "start": 1901.519,
+    "duration": 7.481
+  },
+  {
+    "text": "62 um and 69 yeah so same ballpark and",
+    "start": 1903.799,
+    "duration": 7.441
+  },
+  {
+    "text": "and um you know I've got pretty good",
+    "start": 1909.0,
+    "duration": 5.44
+  },
+  {
+    "text": "genetic material dad was 96 mom was",
+    "start": 1911.24,
+    "duration": 7.96
+  },
+  {
+    "text": "93 um uh I I think you know things by",
+    "start": 1914.44,
+    "duration": 7.199
+  },
+  {
+    "text": "the time I'm I'm you know ready to kiss",
+    "start": 1919.2,
+    "duration": 4.479
+  },
+  {
+    "text": "it all goodbye I think things could be",
+    "start": 1921.639,
+    "duration": 5.0
+  },
+  {
+    "text": "really a lot different and a do you",
+    "start": 1923.679,
+    "duration": 4.72
+  },
+  {
+    "text": "think we'll be better off in 10 years",
+    "start": 1926.639,
+    "duration": 4.561
+  },
+  {
+    "text": "from now you know it's that's a great",
+    "start": 1928.399,
+    "duration": 4.28
+  },
+  {
+    "text": "question Dave because I think my",
+    "start": 1931.2,
+    "duration": 3.76
+  },
+  {
+    "text": "standard of living will be higher I",
+    "start": 1932.679,
+    "duration": 5.401
+  },
+  {
+    "text": "really do my standard of living has just",
+    "start": 1934.96,
+    "duration": 5.199
+  },
+  {
+    "text": "is that because of you though what about",
+    "start": 1938.08,
+    "duration": 4.04
+  },
+  {
+    "text": "the average standard of living within",
+    "start": 1940.159,
+    "duration": 4.081
+  },
+  {
+    "text": "the United States okay within the United",
+    "start": 1942.12,
+    "duration": 3.919
+  },
+  {
+    "text": "States is a different question globally",
+    "start": 1944.24,
+    "duration": 5.919
+  },
+  {
+    "text": "it's absolutely unequip Al higher I mean",
+    "start": 1946.039,
+    "duration": 6.24
+  },
+  {
+    "text": "there are there are fewer people as a",
+    "start": 1950.159,
+    "duration": 4.441
+  },
+  {
+    "text": "percent of the population in what we",
+    "start": 1952.279,
+    "duration": 5.36
+  },
+  {
+    "text": "would call dire poverty right it used to",
+    "start": 1954.6,
+    "duration": 5.84
+  },
+  {
+    "text": "be most of it and now it's",
+    "start": 1957.639,
+    "duration": 5.52
+  },
+  {
+    "text": "not so let me give you my 40-year bare",
+    "start": 1960.44,
+    "duration": 5.56
+  },
+  {
+    "text": "Market case then oh okay this is a",
+    "start": 1963.159,
+    "duration": 4.36
+  },
+  {
+    "text": "different question for me and I'm",
+    "start": 1966.0,
+    "duration": 3.12
+  },
+  {
+    "text": "probably there this bad news for me by",
+    "start": 1967.519,
+    "duration": 4.081
+  },
+  {
+    "text": "the way yeah if you if yeah it is maybe",
+    "start": 1969.12,
+    "duration": 5.12
+  },
+  {
+    "text": "yes maybe now if you press me I'll say",
+    "start": 1971.6,
+    "duration": 5.64
+  },
+  {
+    "text": "you know like a 30-year sideways market",
+    "start": 1974.24,
+    "duration": 5.399
+  },
+  {
+    "text": "I'll uh Japan I've been talking about",
+    "start": 1977.24,
+    "duration": 4.6
+  },
+  {
+    "text": "this for three years solidly so but go",
+    "start": 1979.639,
+    "duration": 4.04
+  },
+  {
+    "text": "ahead you're 4 you won't then the",
+    "start": 1981.84,
+    "duration": 3.48
+  },
+  {
+    "text": "country won't then the country won't be",
+    "start": 1983.679,
+    "duration": 3.401
+  },
+  {
+    "text": "better",
+    "start": 1985.32,
+    "duration": 4.4
+  },
+  {
+    "text": "off uh I don't think the yeah I don't",
+    "start": 1987.08,
+    "duration": 4.64
+  },
+  {
+    "text": "think the country will be better off see",
+    "start": 1989.72,
+    "duration": 4.0
+  },
+  {
+    "text": "we we talk about country and government",
+    "start": 1991.72,
+    "duration": 5.16
+  },
+  {
+    "text": "and standards of living and I I it's",
+    "start": 1993.72,
+    "duration": 6.64
+  },
+  {
+    "text": "hard for me to generalize to that degree",
+    "start": 1996.88,
+    "duration": 6.159
+  },
+  {
+    "text": "about something so large and complex as",
+    "start": 2000.36,
+    "duration": 5.279
+  },
+  {
+    "text": "the the the lives of hundreds of",
+    "start": 2003.039,
+    "duration": 5.0
+  },
+  {
+    "text": "millions of people over a great area but",
+    "start": 2005.639,
+    "duration": 4.361
+  },
+  {
+    "text": "I I get the point do I think the",
+    "start": 2008.039,
+    "duration": 3.24
+  },
+  {
+    "text": "government will be worse so here's the",
+    "start": 2010.0,
+    "duration": 4.12
+  },
+  {
+    "text": "Rubicon I've crossed here's the rub not",
+    "start": 2011.279,
+    "duration": 4.36
+  },
+  {
+    "text": "just the government but the quality of",
+    "start": 2014.12,
+    "duration": 4.24
+  },
+  {
+    "text": "life and the Rubicon I've crossed is I",
+    "start": 2015.639,
+    "duration": 4.801
+  },
+  {
+    "text": "think I was able to stand back and look",
+    "start": 2018.36,
+    "duration": 4.48
+  },
+  {
+    "text": "at the various catastrophes and the",
+    "start": 2020.44,
+    "duration": 4.359
+  },
+  {
+    "text": "bizarre behaviors and stuff like that",
+    "start": 2022.84,
+    "duration": 4.199
+  },
+  {
+    "text": "and I had this great faith that I Mr",
+    "start": 2024.799,
+    "duration": 3.521
+  },
+  {
+    "text": "Smarty",
+    "start": 2027.039,
+    "duration": 4.12
+  },
+  {
+    "text": "Pants would somehow be able to stay",
+    "start": 2028.32,
+    "duration": 7.199
+  },
+  {
+    "text": "above it and I no longer think that I'm",
+    "start": 2031.159,
+    "duration": 6.321
+  },
+  {
+    "text": "not convinced I know how to stay out of",
+    "start": 2035.519,
+    "duration": 5.241
+  },
+  {
+    "text": "the out out of the the the the the the",
+    "start": 2037.48,
+    "duration": 6.76
+  },
+  {
+    "text": "the the shooting range and so so so I I",
+    "start": 2040.76,
+    "duration": 7.12
+  },
+  {
+    "text": "think I think just inflation alone is",
+    "start": 2044.24,
+    "duration": 6.599
+  },
+  {
+    "text": "going to be so hard to fight yep and you",
+    "start": 2047.88,
+    "duration": 4.279
+  },
+  {
+    "text": "could say well you know I'm gonna hedge",
+    "start": 2050.839,
+    "duration": 3.84
+  },
+  {
+    "text": "against it when you're hedging at",
+    "start": 2052.159,
+    "duration": 4.68
+  },
+  {
+    "text": "something like inflation it's you you",
+    "start": 2054.679,
+    "duration": 4.44
+  },
+  {
+    "text": "got to be really good at it you got to",
+    "start": 2056.839,
+    "duration": 5.121
+  },
+  {
+    "text": "be really good at it and um and so so",
+    "start": 2059.119,
+    "duration": 5.601
+  },
+  {
+    "text": "the 40-year bar market for in 1981 this",
+    "start": 2061.96,
+    "duration": 4.679
+  },
+  {
+    "text": "is a combination of ideas from a",
+    "start": 2064.72,
+    "duration": 3.32
+  },
+  {
+    "text": "combination of people including some of",
+    "start": 2066.639,
+    "duration": 3.881
+  },
+  {
+    "text": "my own for in",
+    "start": 2068.04,
+    "duration": 7.2
+  },
+  {
+    "text": "1981 we we uh were demographically on",
+    "start": 2070.52,
+    "duration": 6.96
+  },
+  {
+    "text": "the cusp of greatness the Boomers were",
+    "start": 2075.24,
+    "duration": 3.96
+  },
+  {
+    "text": "just really starting to pick up speed",
+    "start": 2077.48,
+    "duration": 2.8
+  },
+  {
+    "text": "they brought their wives to the",
+    "start": 2079.2,
+    "duration": 4.919
+  },
+  {
+    "text": "workplace we cranked demographically the",
+    "start": 2080.28,
+    "duration": 6.04
+  },
+  {
+    "text": "economists all say that's the whole ball",
+    "start": 2084.119,
+    "duration": 3.601
+  },
+  {
+    "text": "game it's not the whole ball game but",
+    "start": 2086.32,
+    "duration": 3.0
+  },
+  {
+    "text": "it's a big part of the story if you've",
+    "start": 2087.72,
+    "duration": 6.24
+  },
+  {
+    "text": "got a young productive population in",
+    "start": 2089.32,
+    "duration": 7.72
+  },
+  {
+    "text": "1981 the price earnings ratio which I",
+    "start": 2093.96,
+    "duration": 4.68
+  },
+  {
+    "text": "they're so cooked they're ridiculous but",
+    "start": 2097.04,
+    "duration": 3.48
+  },
+  {
+    "text": "let's just pretend like like it's real",
+    "start": 2098.64,
+    "duration": 5.16
+  },
+  {
+    "text": "and 81 it might have been real um was",
+    "start": 2100.52,
+    "duration": 5.12
+  },
+  {
+    "text": "six on the",
+    "start": 2103.8,
+    "duration": 4.72
+  },
+  {
+    "text": "market the the bond market was priced",
+    "start": 2105.64,
+    "duration": 6.08
+  },
+  {
+    "text": "terribly the stock market was priced",
+    "start": 2108.52,
+    "duration": 5.599
+  },
+  {
+    "text": "terribly in",
+    "start": 2111.72,
+    "duration": 5.32
+  },
+  {
+    "text": "1981 China was coming out of the Dark",
+    "start": 2114.119,
+    "duration": 6.96
+  },
+  {
+    "text": "Ages and for the next 40 years sold",
+    "start": 2117.04,
+    "duration": 7.48
+  },
+  {
+    "text": "goods made by slave labor at the",
+    "start": 2121.079,
+    "duration": 6.76
+  },
+  {
+    "text": "cheapest imaginable price",
+    "start": 2124.52,
+    "duration": 6.76
+  },
+  {
+    "text": "in 1981 Russia the Soviet Union had not",
+    "start": 2127.839,
+    "duration": 6.0
+  },
+  {
+    "text": "yet collapsed but we were already",
+    "start": 2131.28,
+    "duration": 4.559
+  },
+  {
+    "text": "helping them get resources out of the",
+    "start": 2133.839,
+    "duration": 4.0
+  },
+  {
+    "text": "ground and flood the world with Russian",
+    "start": 2135.839,
+    "duration": 3.841
+  },
+  {
+    "text": "resources and other countries and things",
+    "start": 2137.839,
+    "duration": 3.561
+  },
+  {
+    "text": "like that so there was a sort of",
+    "start": 2139.68,
+    "duration": 5.56
+  },
+  {
+    "text": "resource boom that left oil Dirt Cheap",
+    "start": 2141.4,
+    "duration": 8.679
+  },
+  {
+    "text": "20 years later M um during that period",
+    "start": 2145.24,
+    "duration": 8.28
+  },
+  {
+    "text": "the market valuations climbed in 1981",
+    "start": 2150.079,
+    "duration": 6.24
+  },
+  {
+    "text": "interest rates at 16% over the next 40",
+    "start": 2153.52,
+    "duration": 4.839
+  },
+  {
+    "text": "years dropped to zero",
+    "start": 2156.319,
+    "duration": 5.081
+  },
+  {
+    "text": "which is insanity yeah you know Edward",
+    "start": 2158.359,
+    "duration": 5.361
+  },
+  {
+    "text": "Chancellor says you get below 2% you",
+    "start": 2161.4,
+    "duration": 5.48
+  },
+  {
+    "text": "will have a crisis we got to zero Europe",
+    "start": 2163.72,
+    "duration": 5.399
+  },
+  {
+    "text": "they got to negative ridiculous and",
+    "start": 2166.88,
+    "duration": 3.88
+  },
+  {
+    "text": "negative real interest rates seriously",
+    "start": 2169.119,
+    "duration": 4.2
+  },
+  {
+    "text": "negative real interest rates and so so",
+    "start": 2170.76,
+    "duration": 5.44
+  },
+  {
+    "text": "so we had Tailwind after Tailwind after",
+    "start": 2173.319,
+    "duration": 5.52
+  },
+  {
+    "text": "Tailwind after Tailwind which of those",
+    "start": 2176.2,
+    "duration": 4.96
+  },
+  {
+    "text": "Tailwinds can possibly repeat over the",
+    "start": 2178.839,
+    "duration": 5.801
+  },
+  {
+    "text": "next 40 years the answer is none none we",
+    "start": 2181.16,
+    "duration": 5.64
+  },
+  {
+    "text": "will not find another China to do what",
+    "start": 2184.64,
+    "duration": 4.6
+  },
+  {
+    "text": "it did we will not find interest rates",
+    "start": 2186.8,
+    "duration": 5.92
+  },
+  {
+    "text": "going from 16 to Zero by the way Buffett",
+    "start": 2189.24,
+    "duration": 5.92
+  },
+  {
+    "text": "who gets misinterpreted and misquoted",
+    "start": 2192.72,
+    "duration": 5.2
+  },
+  {
+    "text": "all the time wrote a 1999 Fortune",
+    "start": 2195.16,
+    "duration": 5.6
+  },
+  {
+    "text": "article that basically said uh",
+    "start": 2197.92,
+    "duration": 4.439
+  },
+  {
+    "text": "everything is about interest rates he",
+    "start": 2200.76,
+    "duration": 3.599
+  },
+  {
+    "text": "says if you look at the bare Market from",
+    "start": 2202.359,
+    "duration": 4.841
+  },
+  {
+    "text": "8 67 to 81 rates were going up if you",
+    "start": 2204.359,
+    "duration": 5.041
+  },
+  {
+    "text": "look at the bull market from 81 to 99",
+    "start": 2207.2,
+    "duration": 6.36
+  },
+  {
+    "text": "rates were going down he said the GDP",
+    "start": 2209.4,
+    "duration": 7.88
+  },
+  {
+    "text": "the real GDP from 67 to 81 grew faster",
+    "start": 2213.56,
+    "duration": 8.559
+  },
+  {
+    "text": "than the GDP from 81 to 99 not GDP I've",
+    "start": 2217.28,
+    "duration": 6.36
+  },
+  {
+    "text": "read that article I've read that article",
+    "start": 2222.119,
+    "duration": 4.401
+  },
+  {
+    "text": "probably eight times y he says dropping",
+    "start": 2223.64,
+    "duration": 5.16
+  },
+  {
+    "text": "rates are bullish what the market turned",
+    "start": 2226.52,
+    "duration": 5.92
+  },
+  {
+    "text": "that into is low rates are bullish no",
+    "start": 2228.8,
+    "duration": 5.319
+  },
+  {
+    "text": "low rates are bearish because there's",
+    "start": 2232.44,
+    "duration": 3.32
+  },
+  {
+    "text": "nowhere to go but",
+    "start": 2234.119,
+    "duration": 4.96
+  },
+  {
+    "text": "up so are we at the end of a 40-year",
+    "start": 2235.76,
+    "duration": 6.079
+  },
+  {
+    "text": "credit cycle and the answer is probably",
+    "start": 2239.079,
+    "duration": 4.641
+  },
+  {
+    "text": "yes we sure as Hecker not at the",
+    "start": 2241.839,
+    "duration": 3.961
+  },
+  {
+    "text": "beginning of a 40-year interest rate",
+    "start": 2243.72,
+    "duration": 5.2
+  },
+  {
+    "text": "drop that we know yeah and so then the",
+    "start": 2245.8,
+    "duration": 4.68
+  },
+  {
+    "text": "question with all those repeating what",
+    "start": 2248.92,
+    "duration": 3.919
+  },
+  {
+    "text": "happened well with all those working",
+    "start": 2250.48,
+    "duration": 4.92
+  },
+  {
+    "text": "together the valuations of the market",
+    "start": 2252.839,
+    "duration": 4.0
+  },
+  {
+    "text": "which I know you know but I'm going to",
+    "start": 2255.4,
+    "duration": 3.04
+  },
+  {
+    "text": "say in case your audience doesn't know",
+    "start": 2256.839,
+    "duration": 3.28
+  },
+  {
+    "text": "it completely sure the valuations of the",
+    "start": 2258.44,
+    "duration": 3.76
+  },
+  {
+    "text": "market is not the price of the market",
+    "start": 2260.119,
+    "duration": 4.2
+  },
+  {
+    "text": "it's the price of the market divided by",
+    "start": 2262.2,
+    "duration": 5.72
+  },
+  {
+    "text": "a metric that the market ought to track",
+    "start": 2264.319,
+    "duration": 7.161
+  },
+  {
+    "text": "whether it's earnings Revenue Book value",
+    "start": 2267.92,
+    "duration": 6.88
+  },
+  {
+    "text": "Tobin's Q there's I follow about 25 of",
+    "start": 2271.48,
+    "duration": 6.2
+  },
+  {
+    "text": "them the market valuation should FL",
+    "start": 2274.8,
+    "duration": 5.68
+  },
+  {
+    "text": "around and from 1880 to",
+    "start": 2277.68,
+    "duration": 5.36
+  },
+  {
+    "text": "1990 they just wobble back and forth and",
+    "start": 2280.48,
+    "duration": 3.8
+  },
+  {
+    "text": "back and forth and back and forth and",
+    "start": 2283.04,
+    "duration": 3.84
+  },
+  {
+    "text": "gave an average Market valuation well",
+    "start": 2284.28,
+    "duration": 7.2
+  },
+  {
+    "text": "defined Y in about",
+    "start": 2286.88,
+    "duration": 4.6
+  },
+  {
+    "text": "1994 the question is why in",
+    "start": 2292.0,
+    "duration": 7.119
+  },
+  {
+    "text": "94 the valuations took",
+    "start": 2295.839,
+    "duration": 6.561
+  },
+  {
+    "text": "off from 1981 they were already",
+    "start": 2299.119,
+    "duration": 4.561
+  },
+  {
+    "text": "overvalued the market was already",
+    "start": 2302.4,
+    "duration": 3.6
+  },
+  {
+    "text": "overvalued in 94 it was about 50%",
+    "start": 2303.68,
+    "duration": 4.48
+  },
+  {
+    "text": "overvalued 94",
+    "start": 2306.0,
+    "duration": 5.68
+  },
+  {
+    "text": "but they left the The Zone in 94 they",
+    "start": 2308.16,
+    "duration": 6.919
+  },
+  {
+    "text": "they broke out of this this 110 year",
+    "start": 2311.68,
+    "duration": 5.96
+  },
+  {
+    "text": "this 110 year Channel",
+    "start": 2315.079,
+    "duration": 5.601
+  },
+  {
+    "text": "access.com sort of Zone and took off",
+    "start": 2317.64,
+    "duration": 5.16
+  },
+  {
+    "text": "never to look back you say oh yes they",
+    "start": 2320.68,
+    "duration": 6.76
+  },
+  {
+    "text": "look back in 2009 at the low the market",
+    "start": 2322.8,
+    "duration": 8.36
+  },
+  {
+    "text": "spent um about one month below",
+    "start": 2327.44,
+    "duration": 7.84
+  },
+  {
+    "text": "historical average fair value about a",
+    "start": 2331.16,
+    "duration": 8.0
+  },
+  {
+    "text": "month that's not a deep C Direction at",
+    "start": 2335.28,
+    "duration": 6.559
+  },
+  {
+    "text": "all that's regressing to the mean not",
+    "start": 2339.16,
+    "duration": 5.6
+  },
+  {
+    "text": "through the mean so the during that",
+    "start": 2341.839,
+    "duration": 5.561
+  },
+  {
+    "text": "40-year period the market valuations",
+    "start": 2344.76,
+    "duration": 4.319
+  },
+  {
+    "text": "which shouldn't move they should move",
+    "start": 2347.4,
+    "duration": 3.48
+  },
+  {
+    "text": "around but not there's no there should",
+    "start": 2349.079,
+    "duration": 3.081
+  },
+  {
+    "text": "be no",
+    "start": 2350.88,
+    "duration": 5.0
+  },
+  {
+    "text": "Trend compounded 3% a",
+    "start": 2352.16,
+    "duration": 7.04
+  },
+  {
+    "text": "year that's a 3% Tailwind which will at",
+    "start": 2355.88,
+    "duration": 5.719
+  },
+  {
+    "text": "some point turn into a 3% headwin when",
+    "start": 2359.2,
+    "duration": 4.72
+  },
+  {
+    "text": "they compounded negative 3% a year to",
+    "start": 2361.599,
+    "duration": 5.081
+  },
+  {
+    "text": "get back to cheap right now somebody can",
+    "start": 2363.92,
+    "duration": 4.36
+  },
+  {
+    "text": "say well they'll never get cheap again",
+    "start": 2366.68,
+    "duration": 2.6
+  },
+  {
+    "text": "oh",
+    "start": 2368.28,
+    "duration": 3.6
+  },
+  {
+    "text": "please name an asset class that got",
+    "start": 2369.28,
+    "duration": 4.319
+  },
+  {
+    "text": "expensive that didn't regress back",
+    "start": 2371.88,
+    "duration": 3.12
+  },
+  {
+    "text": "through the mean and the answer is there",
+    "start": 2373.599,
+    "duration": 5.041
+  },
+  {
+    "text": "are none right and the e in that P never",
+    "start": 2375.0,
+    "duration": 5.92
+  },
+  {
+    "text": "happened in history the e in that PE",
+    "start": 2378.64,
+    "duration": 3.76
+  },
+  {
+    "text": "never happened history as Grantham likes",
+    "start": 2380.92,
+    "duration": 3.48
+  },
+  {
+    "text": "to say is the most mean reverting Series",
+    "start": 2382.4,
+    "duration": 5.6
+  },
+  {
+    "text": "in finance and it's and profit margins",
+    "start": 2384.4,
+    "duration": 5.48
+  },
+  {
+    "text": "is the most mean reverting",
+    "start": 2388.0,
+    "duration": 6.64
+  },
+  {
+    "text": "series margins yeah invid",
+    "start": 2389.88,
+    "duration": 7.56
+  },
+  {
+    "text": "is now it is I think he going to assume",
+    "start": 2394.64,
+    "duration": 4.88
+  },
+  {
+    "text": "start to be called the mag one because",
+    "start": 2397.44,
+    "duration": 5.08
+  },
+  {
+    "text": "it's ruling the entire Market Invidia I",
+    "start": 2399.52,
+    "duration": 6.72
+  },
+  {
+    "text": "think we're there has a PE of has a p of",
+    "start": 2402.52,
+    "duration": 6.68
+  },
+  {
+    "text": "a 100 yeah and has a profit margin of",
+    "start": 2406.24,
+    "duration": 4.48
+  },
+  {
+    "text": "around",
+    "start": 2409.2,
+    "duration": 5.2
+  },
+  {
+    "text": "85% right now that will mean revert",
+    "start": 2410.72,
+    "duration": 7.24
+  },
+  {
+    "text": "because competition will show up and AI",
+    "start": 2414.4,
+    "duration": 5.56
+  },
+  {
+    "text": "I'm not convinced AI is good",
+    "start": 2417.96,
+    "duration": 5.159
+  },
+  {
+    "text": "news I can see advantages to AI but I",
+    "start": 2419.96,
+    "duration": 5.08
+  },
+  {
+    "text": "can see a disadvantages that could far",
+    "start": 2423.119,
+    "duration": 5.361
+  },
+  {
+    "text": "out way the advantages",
+    "start": 2425.04,
+    "duration": 6.76
+  },
+  {
+    "text": "so I'm not a big fan of AI at all well",
+    "start": 2428.48,
+    "duration": 5.92
+  },
+  {
+    "text": "and just as I have no reason to believe",
+    "start": 2431.8,
+    "duration": 4.799
+  },
+  {
+    "text": "it's not like every other new technology",
+    "start": 2434.4,
+    "duration": 3.84
+  },
+  {
+    "text": "I have no reason to believe that you",
+    "start": 2436.599,
+    "duration": 4.401
+  },
+  {
+    "text": "know it it's not um essentially we're at",
+    "start": 2438.24,
+    "duration": 5.48
+  },
+  {
+    "text": "manic levels about it here um on you",
+    "start": 2441.0,
+    "duration": 4.68
+  },
+  {
+    "text": "know but the internet looked great the",
+    "start": 2443.72,
+    "duration": 3.76
+  },
+  {
+    "text": "internet looked great it did and it was",
+    "start": 2445.68,
+    "duration": 4.48
+  },
+  {
+    "text": "and it is but you know there was still a",
+    "start": 2447.48,
+    "duration": 5.48
+  },
+  {
+    "text": "huge bare market and most of those AI",
+    "start": 2450.16,
+    "duration": 5.159
+  },
+  {
+    "text": "doesn't look great to me AI doesn't look",
+    "start": 2452.96,
+    "duration": 5.52
+  },
+  {
+    "text": "great to me oh I see AI does not look",
+    "start": 2455.319,
+    "duration": 5.081
+  },
+  {
+    "text": "overall doesn't look anything like the",
+    "start": 2458.48,
+    "duration": 4.639
+  },
+  {
+    "text": "internet to you no no I think it's I",
+    "start": 2460.4,
+    "duration": 5.439
+  },
+  {
+    "text": "think it's a great risk of filling the",
+    "start": 2463.119,
+    "duration": 6.96
+  },
+  {
+    "text": "great internet with total",
+    "start": 2465.839,
+    "duration": 8.121
+  },
+  {
+    "text": "debris total debris right when AI starts",
+    "start": 2470.079,
+    "duration": 6.121
+  },
+  {
+    "text": "scraping AI you start getting nonsense",
+    "start": 2473.96,
+    "duration": 4.399
+  },
+  {
+    "text": "you start getting total nonsense when",
+    "start": 2476.2,
+    "duration": 5.52
+  },
+  {
+    "text": "you know would you be happy if you never",
+    "start": 2478.359,
+    "duration": 6.281
+  },
+  {
+    "text": "ever ever saw another AI generated piece",
+    "start": 2481.72,
+    "duration": 3.76
+  },
+  {
+    "text": "of",
+    "start": 2484.64,
+    "duration": 4.8
+  },
+  {
+    "text": "art yes every article has AI art in it",
+    "start": 2485.48,
+    "duration": 5.96
+  },
+  {
+    "text": "because people are too lazy to actually",
+    "start": 2489.44,
+    "duration": 5.32
+  },
+  {
+    "text": "create yeah so AI is at Great risk of",
+    "start": 2491.44,
+    "duration": 5.72
+  },
+  {
+    "text": "taking the human element out of",
+    "start": 2494.76,
+    "duration": 5.04
+  },
+  {
+    "text": "everything is that a is is it really",
+    "start": 2497.16,
+    "duration": 5.84
+  },
+  {
+    "text": "though can it really it is I don't know",
+    "start": 2499.8,
+    "duration": 5.24
+  },
+  {
+    "text": "I I I don't know that I agree I don't I",
+    "start": 2503.0,
+    "duration": 5.16
+  },
+  {
+    "text": "don't think that I agree that um that",
+    "start": 2505.04,
+    "duration": 6.039
+  },
+  {
+    "text": "you can ever remove that element uh",
+    "start": 2508.16,
+    "duration": 5.919
+  },
+  {
+    "text": "there's there's it's similar to uh uh",
+    "start": 2511.079,
+    "duration": 5.121
+  },
+  {
+    "text": "there's this um sci-fi series called",
+    "start": 2514.079,
+    "duration": 4.321
+  },
+  {
+    "text": "three body problem and at and at some",
+    "start": 2516.2,
+    "duration": 4.84
+  },
+  {
+    "text": "point I'm watching it right now okay for",
+    "start": 2518.4,
+    "duration": 4.36
+  },
+  {
+    "text": "the second time well let's see I'm gonna",
+    "start": 2521.04,
+    "duration": 3.64
+  },
+  {
+    "text": "I'm G to spoil it for you but oh for the",
+    "start": 2522.76,
+    "duration": 4.8
+  },
+  {
+    "text": "second time okay no spoiler then and at",
+    "start": 2524.68,
+    "duration": 5.04
+  },
+  {
+    "text": "one point second at one point late in",
+    "start": 2527.56,
+    "duration": 4.32
+  },
+  {
+    "text": "the in the first season which I think",
+    "start": 2529.72,
+    "duration": 4.08
+  },
+  {
+    "text": "there's only one season at this point at",
+    "start": 2531.88,
+    "duration": 4.239
+  },
+  {
+    "text": "at at late in the season somebody says",
+    "start": 2533.8,
+    "duration": 4.72
+  },
+  {
+    "text": "you know something these aliens know",
+    "start": 2536.119,
+    "duration": 3.72
+  },
+  {
+    "text": "everything about us because they're",
+    "start": 2538.52,
+    "duration": 2.92
+  },
+  {
+    "text": "watching everything we",
+    "start": 2539.839,
+    "duration": 5.081
+  },
+  {
+    "text": "doy but we have what's in our head right",
+    "start": 2541.44,
+    "duration": 5.28
+  },
+  {
+    "text": "I know they can't get in there that's",
+    "start": 2544.92,
+    "duration": 4.76
+  },
+  {
+    "text": "the thing and I don't think well let me",
+    "start": 2546.72,
+    "duration": 5.52
+  },
+  {
+    "text": "point out let me point out that people",
+    "start": 2549.68,
+    "duration": 4.639
+  },
+  {
+    "text": "across the Soviet",
+    "start": 2552.24,
+    "duration": 3.68
+  },
+  {
+    "text": "Union",
+    "start": 2554.319,
+    "duration": 4.681
+  },
+  {
+    "text": "knew that it was bad knew that the",
+    "start": 2555.92,
+    "duration": 5.76
+  },
+  {
+    "text": "leadership was bad it still lasted 70",
+    "start": 2559.0,
+    "duration": 7.04
+  },
+  {
+    "text": "years right right people look so just so",
+    "start": 2561.68,
+    "duration": 7.24
+  },
+  {
+    "text": "just you know yeah just because you know",
+    "start": 2566.04,
+    "duration": 4.16
+  },
+  {
+    "text": "it doesn't mean it's not going to suck",
+    "start": 2568.92,
+    "duration": 2.96
+  },
+  {
+    "text": "there's a name for it where you where",
+    "start": 2570.2,
+    "duration": 4.159
+  },
+  {
+    "text": "you reach a point where you just concede",
+    "start": 2571.88,
+    "duration": 5.84
+  },
+  {
+    "text": "that you can't fix it there's name for",
+    "start": 2574.359,
+    "duration": 4.601
+  },
+  {
+    "text": "that and I can't remember what it was",
+    "start": 2577.72,
+    "duration": 2.56
+  },
+  {
+    "text": "but there's a point where you just reach",
+    "start": 2578.96,
+    "duration": 3.68
+  },
+  {
+    "text": "more it's just this fatality this you",
+    "start": 2580.28,
+    "duration": 6.0
+  },
+  {
+    "text": "accept you accept your doom",
+    "start": 2582.64,
+    "duration": 5.679
+  },
+  {
+    "text": "yeah with AI it's something I've been",
+    "start": 2586.28,
+    "duration": 4.4
+  },
+  {
+    "text": "thinking about too with just creating",
+    "start": 2588.319,
+    "duration": 4.841
+  },
+  {
+    "text": "you know like content or research or",
+    "start": 2590.68,
+    "duration": 5.6
+  },
+  {
+    "text": "whatever and I don't think that the the",
+    "start": 2593.16,
+    "duration": 4.88
+  },
+  {
+    "text": "the ability for original thought doesn't",
+    "start": 2596.28,
+    "duration": 5.64
+  },
+  {
+    "text": "go away but it seems like AI amplifies",
+    "start": 2598.04,
+    "duration": 6.559
+  },
+  {
+    "text": "whatever is out there first or the most",
+    "start": 2601.92,
+    "duration": 5.24
+  },
+  {
+    "text": "popular so far Dave the generative AI",
+    "start": 2604.599,
+    "duration": 4.601
+  },
+  {
+    "text": "output if you ask it to write anything",
+    "start": 2607.16,
+    "duration": 5.84
+  },
+  {
+    "text": "it's it's it's crap I know I mean",
+    "start": 2609.2,
+    "duration": 6.2
+  },
+  {
+    "text": "unless unless you're unless you're",
+    "start": 2613.0,
+    "duration": 6.24
+  },
+  {
+    "text": "reading stuff you don't know as",
+    "start": 2615.4,
+    "duration": 3.84
+  },
+  {
+    "text": "AI I guess there's a there's a a on",
+    "start": 2619.92,
+    "duration": 4.84
+  },
+  {
+    "text": "Twitter there's a tweet today where it",
+    "start": 2623.24,
+    "duration": 4.64
+  },
+  {
+    "text": "shows this chick and and the person asks",
+    "start": 2624.76,
+    "duration": 6.12
+  },
+  {
+    "text": "is she fat and she looks phenomenal but",
+    "start": 2627.88,
+    "duration": 5.92
+  },
+  {
+    "text": "she's got these massive hips and you're",
+    "start": 2630.88,
+    "duration": 5.28
+  },
+  {
+    "text": "going holy she's like hot from like",
+    "start": 2633.8,
+    "duration": 5.12
+  },
+  {
+    "text": "waist up and then these massive hips and",
+    "start": 2636.16,
+    "duration": 4.32
+  },
+  {
+    "text": "and I'm going ah she's so out of",
+    "start": 2638.92,
+    "duration": 2.84
+  },
+  {
+    "text": "proportion then someone said Ah that's",
+    "start": 2640.48,
+    "duration": 2.639
+  },
+  {
+    "text": "an AI",
+    "start": 2641.76,
+    "duration": 5.2
+  },
+  {
+    "text": "fake it the human creative Spirit could",
+    "start": 2643.119,
+    "duration": 6.681
+  },
+  {
+    "text": "be drowned by the debris when when I",
+    "start": 2646.96,
+    "duration": 4.84
+  },
+  {
+    "text": "search the scientific literature I can't",
+    "start": 2649.8,
+    "duration": 6.88
+  },
+  {
+    "text": "find stuff now I can't find it yeah and",
+    "start": 2651.8,
+    "duration": 6.36
+  },
+  {
+    "text": "and the scientific literature isn't",
+    "start": 2656.68,
+    "duration": 3.84
+  },
+  {
+    "text": "using AI to clutter itself it's just",
+    "start": 2658.16,
+    "duration": 5.12
+  },
+  {
+    "text": "getting more and more cluttered so so",
+    "start": 2660.52,
+    "duration": 4.76
+  },
+  {
+    "text": "maybe we'll live less of Our Lives or",
+    "start": 2663.28,
+    "duration": 4.079
+  },
+  {
+    "text": "try to live less of Our Lives online",
+    "start": 2665.28,
+    "duration": 4.68
+  },
+  {
+    "text": "then maybe maybe we'll get out and see",
+    "start": 2667.359,
+    "duration": 4.361
+  },
+  {
+    "text": "the world maybe we'll touch grass as the",
+    "start": 2669.96,
+    "duration": 4.0
+  },
+  {
+    "text": "saying goes but you got guys who saying",
+    "start": 2671.72,
+    "duration": 4.359
+  },
+  {
+    "text": "with AI we don't need to vote because AI",
+    "start": 2673.96,
+    "duration": 3.92
+  },
+  {
+    "text": "can predict who's going to win anyways",
+    "start": 2676.079,
+    "duration": 3.961
+  },
+  {
+    "text": "and boy that these are rubicons right",
+    "start": 2677.88,
+    "duration": 5.92
+  },
+  {
+    "text": "these are rubicons yeah so so and then",
+    "start": 2680.04,
+    "duration": 5.84
+  },
+  {
+    "text": "and then the other dark deep dark dark",
+    "start": 2683.8,
+    "duration": 4.16
+  },
+  {
+    "text": "dark place there's two there's I hit a",
+    "start": 2685.88,
+    "duration": 4.199
+  },
+  {
+    "text": "darker place last week than I've ever",
+    "start": 2687.96,
+    "duration": 4.879
+  },
+  {
+    "text": "hit actually but the I'm chasing the",
+    "start": 2690.079,
+    "duration": 5.121
+  },
+  {
+    "text": "pedophile story The",
+    "start": 2692.839,
+    "duration": 5.561
+  },
+  {
+    "text": "Epstein but below the surface so",
+    "start": 2695.2,
+    "duration": 4.96
+  },
+  {
+    "text": "everyone knows Jeffrey Epstein was",
+    "start": 2698.4,
+    "duration": 4.6
+  },
+  {
+    "text": "working for Massad probably CIA",
+    "start": 2700.16,
+    "duration": 4.439
+  },
+  {
+    "text": "blackmailing the hell out of everyone so",
+    "start": 2703.0,
+    "duration": 3.16
+  },
+  {
+    "text": "if you want to know why we're leaving",
+    "start": 2704.599,
+    "duration": 4.041
+  },
+  {
+    "text": "the Border open you want to know why",
+    "start": 2706.16,
+    "duration": 4.8
+  },
+  {
+    "text": "we're sending money to Ukraine all you",
+    "start": 2708.64,
+    "duration": 4.36
+  },
+  {
+    "text": "have to do is say who's compromised the",
+    "start": 2710.96,
+    "duration": 3.96
+  },
+  {
+    "text": "answerers clearly",
+    "start": 2713.0,
+    "duration": 4.76
+  },
+  {
+    "text": "Biden right the minute you are married",
+    "start": 2714.92,
+    "duration": 4.48
+  },
+  {
+    "text": "and you're in Congress you have sex with",
+    "start": 2717.76,
+    "duration": 3.52
+  },
+  {
+    "text": "some bimbo you're compromised then the",
+    "start": 2719.4,
+    "duration": 3.04
+  },
+  {
+    "text": "next thing you know you're more",
+    "start": 2721.28,
+    "duration": 3.16
+  },
+  {
+    "text": "compromised and pretty soon you just",
+    "start": 2722.44,
+    "duration": 4.24
+  },
+  {
+    "text": "can't not do and then even if you're not",
+    "start": 2724.44,
+    "duration": 4.119
+  },
+  {
+    "text": "compr your best friend says by the way",
+    "start": 2726.68,
+    "duration": 3.24
+  },
+  {
+    "text": "they're going to put out a picture of me",
+    "start": 2728.559,
+    "duration": 3.841
+  },
+  {
+    "text": "with a 5-year-old in bed if you don't",
+    "start": 2729.92,
+    "duration": 4.8
+  },
+  {
+    "text": "vote this way you can't do this to me",
+    "start": 2732.4,
+    "duration": 6.439
+  },
+  {
+    "text": "right so so I think all of politics is",
+    "start": 2734.72,
+    "duration": 6.399
+  },
+  {
+    "text": "compromised but I look at people do",
+    "start": 2738.839,
+    "duration": 4.24
+  },
+  {
+    "text": "things that seems to be so against the",
+    "start": 2741.119,
+    "duration": 4.0
+  },
+  {
+    "text": "most fundamental principles of the",
+    "start": 2743.079,
+    "duration": 4.361
+  },
+  {
+    "text": "United States and ask",
+    "start": 2745.119,
+    "duration": 5.761
+  },
+  {
+    "text": "why what black hole Force out there in",
+    "start": 2747.44,
+    "duration": 5.919
+  },
+  {
+    "text": "the universe is drawing out these kind",
+    "start": 2750.88,
+    "duration": 6.199
+  },
+  {
+    "text": "of actions that don't",
+    "start": 2753.359,
+    "duration": 5.321
+  },
+  {
+    "text": "need them to be compromised to come up",
+    "start": 2757.079,
+    "duration": 3.801
+  },
+  {
+    "text": "with that Dave I mean come on that you",
+    "start": 2758.68,
+    "duration": 4.8
+  },
+  {
+    "text": "know uh if somebody comes to the country",
+    "start": 2760.88,
+    "duration": 5.8
+  },
+  {
+    "text": "from you know wherever uh half of them",
+    "start": 2763.48,
+    "duration": 5.48
+  },
+  {
+    "text": "are from now and gets elected to",
+    "start": 2766.68,
+    "duration": 4.84
+  },
+  {
+    "text": "congress and has a whole different set",
+    "start": 2768.96,
+    "duration": 5.28
+  },
+  {
+    "text": "of values and a whole different you know",
+    "start": 2771.52,
+    "duration": 4.4
+  },
+  {
+    "text": "um religion that a lot of folks in the",
+    "start": 2774.24,
+    "duration": 3.839
+  },
+  {
+    "text": "country don't have or or philosophy that",
+    "start": 2775.92,
+    "duration": 4.12
+  },
+  {
+    "text": "a lot of folks in the country I don't I",
+    "start": 2778.079,
+    "duration": 4.681
+  },
+  {
+    "text": "don't even need the the compromise to",
+    "start": 2780.04,
+    "duration": 5.2
+  },
+  {
+    "text": "get there right but but but you can look",
+    "start": 2782.76,
+    "duration": 4.4
+  },
+  {
+    "text": "at the people in Congress now who don't",
+    "start": 2785.24,
+    "duration": 3.64
+  },
+  {
+    "text": "fit that description who look",
+    "start": 2787.16,
+    "duration": 3.76
+  },
+  {
+    "text": "compromised they they support things",
+    "start": 2788.88,
+    "duration": 4.679
+  },
+  {
+    "text": "that don't make sense and so one of my",
+    "start": 2790.92,
+    "duration": 5.679
+  },
+  {
+    "text": "thesis thesis is that this pedophile",
+    "start": 2793.559,
+    "duration": 4.921
+  },
+  {
+    "text": "Global pedophile ring is way darker and",
+    "start": 2796.599,
+    "duration": 3.52
+  },
+  {
+    "text": "deeper than",
+    "start": 2798.48,
+    "duration": 4.0
+  },
+  {
+    "text": "Epstein now let me let me give you some",
+    "start": 2800.119,
+    "duration": 4.2
+  },
+  {
+    "text": "stats that seem",
+    "start": 2802.48,
+    "duration": 4.16
+  },
+  {
+    "text": "uncontested they say that over a million",
+    "start": 2804.319,
+    "duration": 4.24
+  },
+  {
+    "text": "kids a year are",
+    "start": 2806.64,
+    "duration": 4.64
+  },
+  {
+    "text": "trafficked right that's a big ass number",
+    "start": 2808.559,
+    "duration": 3.921
+  },
+  {
+    "text": "let's say it's let's say it's an",
+    "start": 2811.28,
+    "duration": 3.48
+  },
+  {
+    "text": "exaggeration let's say it's only 500,000",
+    "start": 2812.48,
+    "duration": 6.359
+  },
+  {
+    "text": "that's 500,000 kids a year who are traff",
+    "start": 2814.76,
+    "duration": 6.92
+  },
+  {
+    "text": "have you ever seen anything about who's",
+    "start": 2818.839,
+    "duration": 5.321
+  },
+  {
+    "text": "receiving these",
+    "start": 2821.68,
+    "duration": 5.879
+  },
+  {
+    "text": "children no can you name yeah now",
+    "start": 2824.16,
+    "duration": 5.199
+  },
+  {
+    "text": "they're not going to trailer parks guys",
+    "start": 2827.559,
+    "duration": 3.881
+  },
+  {
+    "text": "in trailer parks can't afford traffic",
+    "start": 2829.359,
+    "duration": 4.48
+  },
+  {
+    "text": "children no these are not the guys with",
+    "start": 2831.44,
+    "duration": 4.84
+  },
+  {
+    "text": "Vans with free candy painted on the side",
+    "start": 2833.839,
+    "duration": 4.801
+  },
+  {
+    "text": "no so it turns out when you dig into",
+    "start": 2836.28,
+    "duration": 4.64
+  },
+  {
+    "text": "this world you find some unbelievably",
+    "start": 2838.64,
+    "duration": 5.28
+  },
+  {
+    "text": "bizarre stuff you'll find like you'll",
+    "start": 2840.92,
+    "duration": 4.36
+  },
+  {
+    "text": "find yourself in a zoom call with",
+    "start": 2843.92,
+    "duration": 3.88
+  },
+  {
+    "text": "Archbishop theano who actually spilled",
+    "start": 2845.28,
+    "duration": 5.36
+  },
+  {
+    "text": "his guts on the Catholic Church saying",
+    "start": 2847.8,
+    "duration": 5.039
+  },
+  {
+    "text": "that the leaders of the world are all",
+    "start": 2850.64,
+    "duration": 4.12
+  },
+  {
+    "text": "compromised by",
+    "start": 2852.839,
+    "duration": 5.601
+  },
+  {
+    "text": "pedophilia personally in a zoom call you",
+    "start": 2854.76,
+    "duration": 6.92
+  },
+  {
+    "text": "find that I'm on a zoom call with a",
+    "start": 2858.44,
+    "duration": 6.96
+  },
+  {
+    "text": "Department of Defense um case officer",
+    "start": 2861.68,
+    "duration": 6.439
+  },
+  {
+    "text": "Intel Intel case officer who I'm",
+    "start": 2865.4,
+    "duration": 4.48
+  },
+  {
+    "text": "factchecking the wholeway two-hour Zoom",
+    "start": 2868.119,
+    "duration": 3.161
+  },
+  {
+    "text": "con fact to make sure this guy's not",
+    "start": 2869.88,
+    "duration": 3.32
+  },
+  {
+    "text": " he's not he's real and",
+    "start": 2871.28,
+    "duration": 3.559
+  },
+  {
+    "text": "I've gotten even more information about",
+    "start": 2873.2,
+    "duration": 4.8
+  },
+  {
+    "text": "him and I communicate with him casually",
+    "start": 2874.839,
+    "duration": 4.28
+  },
+  {
+    "text": "and at the very end of the call I said",
+    "start": 2878.0,
+    "duration": 2.76
+  },
+  {
+    "text": "I'm interested in the role of pedophilia",
+    "start": 2879.119,
+    "duration": 4.921
+  },
+  {
+    "text": "in geopolitics Tony Tony says uh says he",
+    "start": 2880.76,
+    "duration": 4.72
+  },
+  {
+    "text": "starts talking about EP I said no I",
+    "start": 2884.04,
+    "duration": 3.039
+  },
+  {
+    "text": "don't care about F we all kind of",
+    "start": 2885.48,
+    "duration": 4.16
+  },
+  {
+    "text": "understand it and it's a profound",
+    "start": 2887.079,
+    "duration": 5.801
+  },
+  {
+    "text": "problem right Clinton was compromised",
+    "start": 2889.64,
+    "duration": 6.24
+  },
+  {
+    "text": "AUD Barack was compromised they were all",
+    "start": 2892.88,
+    "duration": 5.12
+  },
+  {
+    "text": "compromised and we we've just kind of",
+    "start": 2895.88,
+    "duration": 5.4
+  },
+  {
+    "text": "gotten by that somehow but I said I'm",
+    "start": 2898.0,
+    "duration": 5.079
+  },
+  {
+    "text": "interested in the darker stuff that no",
+    "start": 2901.28,
+    "duration": 4.16
+  },
+  {
+    "text": "one's talking about and I said let me",
+    "start": 2903.079,
+    "duration": 4.76
+  },
+  {
+    "text": "ask you a simple question",
+    "start": 2905.44,
+    "duration": 5.0
+  },
+  {
+    "text": "question is the Clinton Foundation",
+    "start": 2907.839,
+    "duration": 5.841
+  },
+  {
+    "text": "trafficking children and he said oh",
+    "start": 2910.44,
+    "duration": 5.32
+  },
+  {
+    "text": "absolutely now how many people listening",
+    "start": 2913.68,
+    "duration": 4.0
+  },
+  {
+    "text": "to this call didn't just didn't just",
+    "start": 2915.76,
+    "duration": 4.76
+  },
+  {
+    "text": "soil their underwear yeah yeah now I I",
+    "start": 2917.68,
+    "duration": 4.159
+  },
+  {
+    "text": "know for a fact that Clinton",
+    "start": 2920.52,
+    "duration": 3.4
+  },
+  {
+    "text": "foundation's trafficking children I knew",
+    "start": 2921.839,
+    "duration": 4.681
+  },
+  {
+    "text": "it but when he said absolutely I just",
+    "start": 2923.92,
+    "duration": 5.679
+  },
+  {
+    "text": "said okay that was almost a test for him",
+    "start": 2926.52,
+    "duration": 6.2
+  },
+  {
+    "text": "so then one day I'm talking to this guy",
+    "start": 2929.599,
+    "duration": 5.0
+  },
+  {
+    "text": "on Twitter I put something out about him",
+    "start": 2932.72,
+    "duration": 3.56
+  },
+  {
+    "text": "and some guy jumped in started hammering",
+    "start": 2934.599,
+    "duration": 4.121
+  },
+  {
+    "text": "him",
+    "start": 2936.28,
+    "duration": 2.44
+  },
+  {
+    "text": "and they go back and forth and they're",
+    "start": 2939.0,
+    "duration": 3.16
+  },
+  {
+    "text": "throwing grenades at each other on",
+    "start": 2940.599,
+    "duration": 3.321
+  },
+  {
+    "text": "Twitter and I'm what what did I just",
+    "start": 2942.16,
+    "duration": 4.84
+  },
+  {
+    "text": "trigger here and it was a journalist of",
+    "start": 2943.92,
+    "duration": 6.399
+  },
+  {
+    "text": "some kind and so I DMD this guy this",
+    "start": 2947.0,
+    "duration": 5.4
+  },
+  {
+    "text": "Intel guy I I have several Intel",
+    "start": 2950.319,
+    "duration": 3.401
+  },
+  {
+    "text": "connection on Twitter that people don't",
+    "start": 2952.4,
+    "duration": 3.719
+  },
+  {
+    "text": "even know who they are um and and I've",
+    "start": 2953.72,
+    "duration": 5.44
+  },
+  {
+    "text": "had lunch with them and stuff like that",
+    "start": 2956.119,
+    "duration": 6.401
+  },
+  {
+    "text": "um and I said I said I sorry to drag you",
+    "start": 2959.16,
+    "duration": 4.679
+  },
+  {
+    "text": "into that you guys obviously have a",
+    "start": 2962.52,
+    "duration": 2.839
+  },
+  {
+    "text": "history he said yeah it was about Bo",
+    "start": 2963.839,
+    "duration": 3.601
+  },
+  {
+    "text": "Berg dollar you know Berg dollar walked",
+    "start": 2965.359,
+    "duration": 4.24
+  },
+  {
+    "text": "off the base and joined the Taliban and",
+    "start": 2967.44,
+    "duration": 3.72
+  },
+  {
+    "text": "then we lost some Navy Seals trying to",
+    "start": 2969.599,
+    "duration": 3.601
+  },
+  {
+    "text": "retrieve him and was he a spy was he a",
+    "start": 2971.16,
+    "duration": 4.439
+  },
+  {
+    "text": "traitor you know very scandalous thing",
+    "start": 2973.2,
+    "duration": 4.04
+  },
+  {
+    "text": "and I said sorry to do this to he said",
+    "start": 2975.599,
+    "duration": 3.841
+  },
+  {
+    "text": "oh oh he says he's pissed off he wants",
+    "start": 2977.24,
+    "duration": 4.879
+  },
+  {
+    "text": "more information out of me he he uh he",
+    "start": 2979.44,
+    "duration": 4.679
+  },
+  {
+    "text": "he was trying to get me to spill his",
+    "start": 2982.119,
+    "duration": 3.601
+  },
+  {
+    "text": "spill some more guts because he knows I",
+    "start": 2984.119,
+    "duration": 3.041
+  },
+  {
+    "text": "know stuff he doesn't know and he wants",
+    "start": 2985.72,
+    "duration": 3.52
+  },
+  {
+    "text": "it bad and he says what he doesn't know",
+    "start": 2987.16,
+    "duration": 4.919
+  },
+  {
+    "text": "is I was this lead negotiator trying to",
+    "start": 2989.24,
+    "duration": 5.76
+  },
+  {
+    "text": "get bird dollar out of goddamn that",
+    "start": 2992.079,
+    "duration": 5.72
+  },
+  {
+    "text": "territory oh and I'm they're going holy",
+    "start": 2995.0,
+    "duration": 7.079
+  },
+  {
+    "text": " yeah so when he said yes to Clinton",
+    "start": 2997.799,
+    "duration": 6.881
+  },
+  {
+    "text": "Foundation traffics",
+    "start": 3002.079,
+    "duration": 5.841
+  },
+  {
+    "text": "children famous people traffic",
+    "start": 3004.68,
+    "duration": 7.76
+  },
+  {
+    "text": "children a million PE kids are getting",
+    "start": 3007.92,
+    "duration": 6.76
+  },
+  {
+    "text": "trafficked and until you can tell me",
+    "start": 3012.44,
+    "duration": 5.04
+  },
+  {
+    "text": "where those million kids are going you",
+    "start": 3014.68,
+    "duration": 6.679
+  },
+  {
+    "text": "haven't begun to understand that",
+    "start": 3017.48,
+    "duration": 6.119
+  },
+  {
+    "text": "problem and what I'll tell you is",
+    "start": 3021.359,
+    "duration": 4.081
+  },
+  {
+    "text": "there's some famous scandals that got",
+    "start": 3023.599,
+    "duration": 4.601
+  },
+  {
+    "text": "out of control that are kind of Rosetta",
+    "start": 3025.44,
+    "duration": 4.52
+  },
+  {
+    "text": "Stones to this story like it one's",
+    "start": 3028.2,
+    "duration": 4.04
+  },
+  {
+    "text": "called the Franklin",
+    "start": 3029.96,
+    "duration": 5.2
+  },
+  {
+    "text": "Scandal highly connected Republican",
+    "start": 3032.24,
+    "duration": 5.839
+  },
+  {
+    "text": "operative the whole thing unfolded",
+    "start": 3035.16,
+    "duration": 6.32
+  },
+  {
+    "text": "what's instructive about it is a bunch",
+    "start": 3038.079,
+    "duration": 5.48
+  },
+  {
+    "text": "of these kids as adults came out and",
+    "start": 3041.48,
+    "duration": 4.2
+  },
+  {
+    "text": "Spilled their guts these are these are",
+    "start": 3043.559,
+    "duration": 4.481
+  },
+  {
+    "text": "fractured personalities these are people",
+    "start": 3045.68,
+    "duration": 4.679
+  },
+  {
+    "text": "who are their crackheads they",
+    "start": 3048.04,
+    "duration": 5.0
+  },
+  {
+    "text": "prostitutes their their uh multiple",
+    "start": 3050.359,
+    "duration": 4.76
+  },
+  {
+    "text": "personalities their some of them have",
+    "start": 3053.04,
+    "duration": 3.799
+  },
+  {
+    "text": "pieced their lives back together but but",
+    "start": 3055.119,
+    "duration": 3.96
+  },
+  {
+    "text": "they spilled their guts and and",
+    "start": 3056.839,
+    "duration": 3.96
+  },
+  {
+    "text": "concerned citizens hired a private",
+    "start": 3059.079,
+    "duration": 3.801
+  },
+  {
+    "text": "investigator who died in a plane crash",
+    "start": 3060.799,
+    "duration": 4.0
+  },
+  {
+    "text": "right that sort of thing right but the",
+    "start": 3062.88,
+    "duration": 5.439
+  },
+  {
+    "text": "story unraveled what was telling was the",
+    "start": 3064.799,
+    "duration": 9.04
+  },
+  {
+    "text": "FBI came in and squashed it like a",
+    "start": 3068.319,
+    "duration": 9.24
+  },
+  {
+    "text": "bug the courts one of the women ended up",
+    "start": 3073.839,
+    "duration": 7.121
+  },
+  {
+    "text": "in the the Nebraska Supreme",
+    "start": 3077.559,
+    "duration": 7.56
+  },
+  {
+    "text": "Court on her case the judge who was put",
+    "start": 3080.96,
+    "duration": 6.68
+  },
+  {
+    "text": "in charge was not legally he was not",
+    "start": 3085.119,
+    "duration": 5.281
+  },
+  {
+    "text": "allowed to be at Supreme Court Justice",
+    "start": 3087.64,
+    "duration": 4.84
+  },
+  {
+    "text": "they put him in there anyways between",
+    "start": 3090.4,
+    "duration": 3.6
+  },
+  {
+    "text": "the prosecutor and the judge they",
+    "start": 3092.48,
+    "duration": 5.56
+  },
+  {
+    "text": "destroyed the case it's a real",
+    "start": 3094.0,
+    "duration": 5.92
+  },
+  {
+    "text": "unbelievably telling story what it",
+    "start": 3098.04,
+    "duration": 4.279
+  },
+  {
+    "text": "showed you was is when one of these",
+    "start": 3099.92,
+    "duration": 5.72
+  },
+  {
+    "text": "cases really is at risk of going public",
+    "start": 3102.319,
+    "duration": 5.161
+  },
+  {
+    "text": "the Firepower that has brought to bear",
+    "start": 3105.64,
+    "duration": 5.28
+  },
+  {
+    "text": "to shut it down is unbelievable yeah I",
+    "start": 3107.48,
+    "duration": 6.4
+  },
+  {
+    "text": "wouldn't doubt it all right on that dark",
+    "start": 3110.92,
+    "duration": 6.56
+  },
+  {
+    "text": "dark note I'm going to ask you Myer",
+    "start": 3113.88,
+    "duration": 5.56
+  },
+  {
+    "text": "there's a darker one the darker one is",
+    "start": 3117.48,
+    "duration": 3.48
+  },
+  {
+    "text": "the poles are moving quickly the",
+    "start": 3119.44,
+    "duration": 4.48
+  },
+  {
+    "text": "magnetic poles are moving quickly really",
+    "start": 3120.96,
+    "duration": 4.96
+  },
+  {
+    "text": "when the poles move every 6,000 years",
+    "start": 3123.92,
+    "duration": 4.96
+  },
+  {
+    "text": "they move right every other 6,000 years",
+    "start": 3125.92,
+    "duration": 5.159
+  },
+  {
+    "text": "when they move you get the magnetic",
+    "start": 3128.88,
+    "duration": 5.719
+  },
+  {
+    "text": "field protects us from solar radiation",
+    "start": 3131.079,
+    "duration": 6.641
+  },
+  {
+    "text": "when the poles reverse we are",
+    "start": 3134.599,
+    "duration": 6.561
+  },
+  {
+    "text": "unprotected and they're moving fast now",
+    "start": 3137.72,
+    "duration": 7.56
+  },
+  {
+    "text": "they're moving fast in our lifetime",
+    "start": 3141.16,
+    "duration": 7.0
+  },
+  {
+    "text": "fast wow I haven't heard a syllable",
+    "start": 3145.28,
+    "duration": 5.96
+  },
+  {
+    "text": "about this so you got so so I had I had",
+    "start": 3148.16,
+    "duration": 5.32
+  },
+  {
+    "text": "heard about it but I hadn't paid",
+    "start": 3151.24,
+    "duration": 4.24
+  },
+  {
+    "text": "attention but you know that Aurora",
+    "start": 3153.48,
+    "duration": 4.839
+  },
+  {
+    "text": "Borealis last week H all that",
+    "start": 3155.48,
+    "duration": 6.16
+  },
+  {
+    "text": "unprecedented or there's a reason why we",
+    "start": 3158.319,
+    "duration": 6.601
+  },
+  {
+    "text": "got unprecedented Aurora Borealis wow",
+    "start": 3161.64,
+    "duration": 5.64
+  },
+  {
+    "text": "and when the poles move or that the that",
+    "start": 3164.92,
+    "duration": 4.08
+  },
+  {
+    "text": "that the magnetic field doesn't Shield",
+    "start": 3167.28,
+    "duration": 3.559
+  },
+  {
+    "text": "us from the cosmic rays that hit the",
+    "start": 3169.0,
+    "duration": 4.799
+  },
+  {
+    "text": "earth and and and the worst event known",
+    "start": 3170.839,
+    "duration": 5.801
+  },
+  {
+    "text": "to humans so far",
+    "start": 3173.799,
+    "duration": 4.881
+  },
+  {
+    "text": "in 1859 it's called the Carrington event",
+    "start": 3176.64,
+    "duration": 5.719
+  },
+  {
+    "text": "where we we got a burst Sunspot fried",
+    "start": 3178.68,
+    "duration": 6.96
+  },
+  {
+    "text": "the entire Telegraph system fried it the",
+    "start": 3182.359,
+    "duration": 5.24
+  },
+  {
+    "text": "telegraph said some probably quarter",
+    "start": 3185.64,
+    "duration": 5.52
+  },
+  {
+    "text": "inch copper back then yeah our micr",
+    "start": 3187.599,
+    "duration": 5.561
+  },
+  {
+    "text": "circuitry will be",
+    "start": 3191.16,
+    "duration": 5.36
+  },
+  {
+    "text": "scorched if that happens if that",
+    "start": 3193.16,
+    "duration": 7.6
+  },
+  {
+    "text": "happens right we now we'll have no no",
+    "start": 3196.52,
+    "duration": 5.92
+  },
+  {
+    "text": "choice but to touch grass because that's",
+    "start": 3200.76,
+    "duration": 5.12
+  },
+  {
+    "text": "all that'll be left if that so in that",
+    "start": 3202.44,
+    "duration": 6.399
+  },
+  {
+    "text": "actually yeah on that dark note um I do",
+    "start": 3205.88,
+    "duration": 4.439
+  },
+  {
+    "text": "want to ask you my final question which",
+    "start": 3208.839,
+    "duration": 4.121
+  },
+  {
+    "text": "is the same for every guest even when we",
+    "start": 3210.319,
+    "duration": 6.0
+  },
+  {
+    "text": "don't talk about Finance so much um like",
+    "start": 3212.96,
+    "duration": 5.599
+  },
+  {
+    "text": "in this interview and it's uh you've",
+    "start": 3216.319,
+    "duration": 3.441
+  },
+  {
+    "text": "answered it before I hope you don't",
+    "start": 3218.559,
+    "duration": 2.641
+  },
+  {
+    "text": "remember it because it works better that",
+    "start": 3219.76,
+    "duration": 4.48
+  },
+  {
+    "text": "way but the final question is um and if",
+    "start": 3221.2,
+    "duration": 4.639
+  },
+  {
+    "text": "you've if you've said it already feel",
+    "start": 3224.24,
+    "duration": 3.16
+  },
+  {
+    "text": "free to repeat it that's the other thing",
+    "start": 3225.839,
+    "duration": 3.041
+  },
+  {
+    "text": "you don't have to make up something if",
+    "start": 3227.4,
+    "duration": 3.12
+  },
+  {
+    "text": "if you said it and the question is",
+    "start": 3228.88,
+    "duration": 3.08
+  },
+  {
+    "text": "simply if you could leave our listeners",
+    "start": 3230.52,
+    "duration": 3.68
+  },
+  {
+    "text": "with a single thought today what would",
+    "start": 3231.96,
+    "duration": 5.839
+  },
+  {
+    "text": "you like it to be",
+    "start": 3234.2,
+    "duration": 3.599
+  },
+  {
+    "text": "um it's age dependent it's age dependent",
+    "start": 3238.359,
+    "duration": 7.321
+  },
+  {
+    "text": "if uh if you're young if you're in your",
+    "start": 3243.079,
+    "duration": 5.161
+  },
+  {
+    "text": "20s uh don't go down these deep rabbit",
+    "start": 3245.68,
+    "duration": 4.8
+  },
+  {
+    "text": "holes you have to build a life you have",
+    "start": 3248.24,
+    "duration": 4.04
+  },
+  {
+    "text": "to build robots you have to do all sorts",
+    "start": 3250.48,
+    "duration": 3.92
+  },
+  {
+    "text": "of cool stuff if you go down these",
+    "start": 3252.28,
+    "duration": 4.279
+  },
+  {
+    "text": "rabbit holes you'll have trouble",
+    "start": 3254.4,
+    "duration": 4.88
+  },
+  {
+    "text": "coping if if I went down these rabbit",
+    "start": 3256.559,
+    "duration": 4.961
+  },
+  {
+    "text": "holes I go down when I was 25 years old",
+    "start": 3259.28,
+    "duration": 4.559
+  },
+  {
+    "text": "I would not have achieved what I achiev",
+    "start": 3261.52,
+    "duration": 4.24
+  },
+  {
+    "text": "so so don't go down these rabbit holes",
+    "start": 3263.839,
+    "duration": 3.681
+  },
+  {
+    "text": "let the old guys hike up their pants to",
+    "start": 3265.76,
+    "duration": 3.12
+  },
+  {
+    "text": "their chest and about the",
+    "start": 3267.52,
+    "duration": 4.96
+  },
+  {
+    "text": "government you go do your thing um to",
+    "start": 3268.88,
+    "duration": 7.56
+  },
+  {
+    "text": "the same young group um you save for",
+    "start": 3272.48,
+    "duration": 6.8
+  },
+  {
+    "text": "retirement you invest to hedge inflation",
+    "start": 3276.44,
+    "duration": 4.08
+  },
+  {
+    "text": "don't think you're gonna don't think",
+    "start": 3279.28,
+    "duration": 3.76
+  },
+  {
+    "text": "you're going to get rich by you have to",
+    "start": 3280.52,
+    "duration": 7.039
+  },
+  {
+    "text": "save and and I even saved net savings",
+    "start": 3283.04,
+    "duration": 7.519
+  },
+  {
+    "text": "the years my kids were in college and",
+    "start": 3287.559,
+    "duration": 6.401
+  },
+  {
+    "text": "and I save crudely speaking probably 25%",
+    "start": 3290.559,
+    "duration": 7.921
+  },
+  {
+    "text": "of my gross salary wow and and and and",
+    "start": 3293.96,
+    "duration": 7.159
+  },
+  {
+    "text": "that's how you get to retirement safely",
+    "start": 3298.48,
+    "duration": 5.319
+  },
+  {
+    "text": "um don't use don't use College savings",
+    "start": 3301.119,
+    "duration": 5.841
+  },
+  {
+    "text": "plans I understand how College um",
+    "start": 3303.799,
+    "duration": 7.52
+  },
+  {
+    "text": "College um uh uh uh financial aid works",
+    "start": 3306.96,
+    "duration": 7.72
+  },
+  {
+    "text": "the goal is to look broke when your kids",
+    "start": 3311.319,
+    "duration": 5.641
+  },
+  {
+    "text": "get to College age if you have these",
+    "start": 3314.68,
+    "duration": 4.48
+  },
+  {
+    "text": "college saving plans you don't look",
+    "start": 3316.96,
+    "duration": 4.599
+  },
+  {
+    "text": "broke fact your best bet is to give all",
+    "start": 3319.16,
+    "duration": 4.12
+  },
+  {
+    "text": "your money to your parents and have them",
+    "start": 3321.559,
+    "duration": 3.28
+  },
+  {
+    "text": "give it back",
+    "start": 3323.28,
+    "duration": 3.44
+  },
+  {
+    "text": "later that would make make you look",
+    "start": 3324.839,
+    "duration": 4.72
+  },
+  {
+    "text": "broke there you go and uh and then to",
+    "start": 3326.72,
+    "duration": 5.16
+  },
+  {
+    "text": "the older people",
+    "start": 3329.559,
+    "duration": 4.76
+  },
+  {
+    "text": "um God sad said",
+    "start": 3331.88,
+    "duration": 4.64
+  },
+  {
+    "text": "it there's a lot of things that really",
+    "start": 3334.319,
+    "duration": 3.601
+  },
+  {
+    "text": "trouble you but you don't want to say",
+    "start": 3336.52,
+    "duration": 4.0
+  },
+  {
+    "text": "anything because of you you have your",
+    "start": 3337.92,
+    "duration": 5.08
+  },
+  {
+    "text": "reason because I'll be criticize I'll be",
+    "start": 3340.52,
+    "duration": 3.92
+  },
+  {
+    "text": "this I'll be that I'll be fire whatever",
+    "start": 3343.0,
+    "duration": 4.319
+  },
+  {
+    "text": "he said f find a way to speak up don't",
+    "start": 3344.44,
+    "duration": 5.879
+  },
+  {
+    "text": "be a coward he he has to go around the",
+    "start": 3347.319,
+    "duration": 4.921
+  },
+  {
+    "text": "country with an armed guard his wife",
+    "start": 3350.319,
+    "duration": 5.52
+  },
+  {
+    "text": "walks five feet behind him watching for",
+    "start": 3352.24,
+    "duration": 5.44
+  },
+  {
+    "text": "trouble",
+    "start": 3355.839,
+    "duration": 4.161
+  },
+  {
+    "text": "she just watches him she watches walks",
+    "start": 3357.68,
+    "duration": 4.6
+  },
+  {
+    "text": "behind him and he says if I can do this",
+    "start": 3360.0,
+    "duration": 5.96
+  },
+  {
+    "text": "you can speak up and so so if you see a",
+    "start": 3362.28,
+    "duration": 7.16
+  },
+  {
+    "text": "wrong um one thing I've never for some",
+    "start": 3365.96,
+    "duration": 5.599
+  },
+  {
+    "text": "reason I'm a I'm a natural contrarian",
+    "start": 3369.44,
+    "duration": 4.76
+  },
+  {
+    "text": "I've never been afraid to",
+    "start": 3371.559,
+    "duration": 5.121
+  },
+  {
+    "text": "be against the",
+    "start": 3374.2,
+    "duration": 5.72
+  },
+  {
+    "text": "crowd in fact I I relish it for some",
+    "start": 3376.68,
+    "duration": 5.84
+  },
+  {
+    "text": "reason so when I write I write about",
+    "start": 3379.92,
+    "duration": 4.6
+  },
+  {
+    "text": "stories which the crowd is all going one",
+    "start": 3382.52,
+    "duration": 3.48
+  },
+  {
+    "text": "way and I think the story might be the",
+    "start": 3384.52,
+    "duration": 5.519
+  },
+  {
+    "text": "other way um don't be afraid to be Al to",
+    "start": 3386.0,
+    "duration": 6.72
+  },
+  {
+    "text": "be to be alone yelling in the forest",
+    "start": 3390.039,
+    "duration": 5.241
+  },
+  {
+    "text": "don't be afraid to to to speak up and",
+    "start": 3392.72,
+    "duration": 6.879
+  },
+  {
+    "text": "and if if if I didn't do it but you know",
+    "start": 3395.28,
+    "duration": 7.079
+  },
+  {
+    "text": "two days ago",
+    "start": 3399.599,
+    "duration": 7.081
+  },
+  {
+    "text": "pus um put out this teide thing about",
+    "start": 3402.359,
+    "duration": 8.96
+  },
+  {
+    "text": "how George Floyd's life was snuffed in",
+    "start": 3406.68,
+    "duration": 7.399
+  },
+  {
+    "text": "in in its early stages and we lost so",
+    "start": 3411.319,
+    "duration": 4.28
+  },
+  {
+    "text": "much and I go George Floyd was one of",
+    "start": 3414.079,
+    "duration": 3.361
+  },
+  {
+    "text": "the skankiest bastards on the planet",
+    "start": 3415.599,
+    "duration": 3.081
+  },
+  {
+    "text": "shut",
+    "start": 3417.44,
+    "duration": 6.119
+  },
+  {
+    "text": "up right and and at my age I can do this",
+    "start": 3418.68,
+    "duration": 6.28
+  },
+  {
+    "text": "on a campus you say well you know",
+    "start": 3423.559,
+    "duration": 2.48
+  },
+  {
+    "text": "someone gets a hold of this I'm in",
+    "start": 3424.96,
+    "duration": 2.68
+  },
+  {
+    "text": "trouble screw you I'm fighting to the",
+    "start": 3426.039,
+    "duration": 4.28
+  },
+  {
+    "text": "death on this one right out you want you",
+    "start": 3427.64,
+    "duration": 4.56
+  },
+  {
+    "text": "want to cancel me we're we're going to",
+    "start": 3430.319,
+    "duration": 4.881
+  },
+  {
+    "text": "war we are going to war they've tried",
+    "start": 3432.2,
+    "duration": 5.24
+  },
+  {
+    "text": "they've tried multiple times the next",
+    "start": 3435.2,
+    "duration": 4.44
+  },
+  {
+    "text": "one's going to be ugly unless I reach",
+    "start": 3437.44,
+    "duration": 4.28
+  },
+  {
+    "text": "out to Cornell and say hey if you shut",
+    "start": 3439.64,
+    "duration": 3.919
+  },
+  {
+    "text": "up and I shut up this will go away you",
+    "start": 3441.72,
+    "duration": 3.68
+  },
+  {
+    "text": "okay with that and if Cornell is Will to",
+    "start": 3443.559,
+    "duration": 3.441
+  },
+  {
+    "text": "just shut up",
+    "start": 3445.4,
+    "duration": 4.12
+  },
+  {
+    "text": "then I can just shut up but if Cornell",
+    "start": 3447.0,
+    "duration": 5.64
+  },
+  {
+    "text": "comes out and again denounces what I",
+    "start": 3449.52,
+    "duration": 5.4
+  },
+  {
+    "text": "said then I'm going to war with these",
+    "start": 3452.64,
+    "duration": 5.199
+  },
+  {
+    "text": "bastards and I'm gonna make a fraking",
+    "start": 3454.92,
+    "duration": 5.119
+  },
+  {
+    "text": "stink and I don't know what topic it'll",
+    "start": 3457.839,
+    "duration": 3.561
+  },
+  {
+    "text": "be someone will get their underwear and",
+    "start": 3460.039,
+    "duration": 4.0
+  },
+  {
+    "text": "a not speak up I understand why you",
+    "start": 3461.4,
+    "duration": 4.24
+  },
+  {
+    "text": "don't want to lose your job I get Ved I",
+    "start": 3464.039,
+    "duration": 4.401
+  },
+  {
+    "text": "didn't want to lose my job risk reward",
+    "start": 3465.64,
+    "duration": 5.52
+  },
+  {
+    "text": "calculations are everywhere but find a",
+    "start": 3468.44,
+    "duration": 4.44
+  },
+  {
+    "text": "way speak up with your",
+    "start": 3471.16,
+    "duration": 4.08
+  },
+  {
+    "text": "friends just talk to them about how you",
+    "start": 3472.88,
+    "duration": 3.84
+  },
+  {
+    "text": "think climate change is the biggest",
+    "start": 3475.24,
+    "duration": 3.48
+  },
+  {
+    "text": "grift in the history of the world in the",
+    "start": 3476.72,
+    "duration": 5.0
+  },
+  {
+    "text": "history of the world and I'm I know",
+    "start": 3478.72,
+    "duration": 6.0
+  },
+  {
+    "text": "science that is not science that you're",
+    "start": 3481.72,
+    "duration": 7.319
+  },
+  {
+    "text": "witnessing it's crap it is and so dig",
+    "start": 3484.72,
+    "duration": 6.72
+  },
+  {
+    "text": "into these things but don't do it if",
+    "start": 3489.039,
+    "duration": 4.881
+  },
+  {
+    "text": "you're a youngster because you've got",
+    "start": 3491.44,
+    "duration": 5.599
+  },
+  {
+    "text": "kids to raise and families to feed and",
+    "start": 3493.92,
+    "duration": 4.36
+  },
+  {
+    "text": "just do your",
+    "start": 3497.039,
+    "duration": 4.441
+  },
+  {
+    "text": "thing well said Dave as always thanks so",
+    "start": 3498.28,
+    "duration": 4.799
+  },
+  {
+    "text": "much thanks it's always a pleasure to",
+    "start": 3501.48,
+    "duration": 4.599
+  },
+  {
+    "text": "talk with you um the conversations res",
+    "start": 3503.079,
+    "duration": 4.921
+  },
+  {
+    "text": "resemble nothing like any of our other",
+    "start": 3506.079,
+    "duration": 4.601
+  },
+  {
+    "text": "guests which I absolutely love I mean",
+    "start": 3508.0,
+    "duration": 4.0
+  },
+  {
+    "text": "we're always talking to money managers",
+    "start": 3510.68,
+    "duration": 4.439
+  },
+  {
+    "text": "you know it's a financial show but um",
+    "start": 3512.0,
+    "duration": 4.76
+  },
+  {
+    "text": "you know there aren't many people who I",
+    "start": 3515.119,
+    "duration": 4.081
+  },
+  {
+    "text": "want to get into these subjects with in",
+    "start": 3516.76,
+    "duration": 4.799
+  },
+  {
+    "text": "fact I can name only one and you're it",
+    "start": 3519.2,
+    "duration": 8.359
+  },
+  {
+    "text": "so U thank you very much thank you thank",
+    "start": 3521.559,
+    "duration": 6.0
+  },
+  {
+    "text": "you opinions expressed on this program",
+    "start": 3527.839,
+    "duration": 3.681
+  },
+  {
+    "text": "are solely those of the contributor and",
+    "start": 3530.16,
+    "duration": 3.08
+  },
+  {
+    "text": "do not necessarily reflect the opinions",
+    "start": 3531.52,
+    "duration": 3.599
+  },
+  {
+    "text": "of stanbury research its parent company",
+    "start": 3533.24,
+    "duration": 4.799
+  },
+  {
+    "text": "or affiliates",
+    "start": 3535.119,
+    "duration": 2.92
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "one of the things that we know is that",
+    "start": 0.12,
+    "duration": 4.159
+  },
+  {
+    "text": "not every war brings about a new",
+    "start": 2.2,
+    "duration": 4.52
+  },
+  {
+    "text": "Financial world order but every new",
+    "start": 4.279,
+    "duration": 4.961
+  },
+  {
+    "text": "Financial world order has been preceded",
+    "start": 6.72,
+    "duration": 6.2
+  },
+  {
+    "text": "by War so that too can be a mechanism to",
+    "start": 9.24,
+    "duration": 6.04
+  },
+  {
+    "text": "try to change and reset things and I",
+    "start": 12.92,
+    "duration": 5.199
+  },
+  {
+    "text": "read theories all the time about you",
+    "start": 15.28,
+    "duration": 4.839
+  },
+  {
+    "text": "know what is going to happen and how all",
+    "start": 18.119,
+    "duration": 4.721
+  },
+  {
+    "text": "of this is going to get sorted out um",
+    "start": 20.119,
+    "duration": 5.08
+  },
+  {
+    "text": "that you know many of of it is sort of",
+    "start": 22.84,
+    "duration": 4.32
+  },
+  {
+    "text": "intentional things that governments can",
+    "start": 25.199,
+    "duration": 6.041
+  },
+  {
+    "text": "do and you know my job is to not to",
+    "start": 27.16,
+    "duration": 5.36
+  },
+  {
+    "text": "figure out which of those are",
+    "start": 31.24,
+    "duration": 3.12
+  },
+  {
+    "text": "intentional I don't I don't find that",
+    "start": 32.52,
+    "duration": 5.719
+  },
+  {
+    "text": "fun what I find important is to prepare",
+    "start": 34.36,
+    "duration": 6.32
+  },
+  {
+    "text": "people and make sure that they're aware",
+    "start": 38.239,
+    "duration": 5.0
+  },
+  {
+    "text": "that things are going to shift and you",
+    "start": 40.68,
+    "duration": 4.8
+  },
+  {
+    "text": "know to be thinking about it and and so",
+    "start": 43.239,
+    "duration": 3.64
+  },
+  {
+    "text": "that they can take control over what",
+    "start": 45.48,
+    "duration": 4.68
+  },
+  {
+    "text": "they can control",
+    "start": 46.879,
+    "duration": 3.281
+  }
+]

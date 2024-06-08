@@ -65,24 +65,6 @@ async def write_one_shot_script(prompt):
   async for chunk in output_stream:
     print(chunk, sep='', end='', flush=True)
 
-def get_all_news():
-  files = captions.get_all_news_file_names("schiff")
-  total_news = ""
-
-  for file in files:
-      file_path = os.path.join("data", file)
-      with open(file_path, 'r') as f:
-          print("Loading news from file: " + file)
-          contents = f.read()
-
-          snippets = json.loads(contents)
-          total_news += " ".join(item['text'] for item in snippets)
-      
-      total_news += "\n\n"
-  
-  print("")
-  return total_news[0:50000]
-
 def get_all_notes():
   files = captions.get_all_news_file_names("notes")
   total_notes = ""

@@ -1,0 +1,1122 @@
+[
+  {
+    "text": "everyone's assets from your bank account",
+    "start": 0.24,
+    "duration": 5.559
+  },
+  {
+    "text": "to your brokerage account to your",
+    "start": 3.04,
+    "duration": 4.799
+  },
+  {
+    "text": "cryptocurrency account I just about",
+    "start": 5.799,
+    "duration": 4.441
+  },
+  {
+    "text": "everything is digits it's numbers in The",
+    "start": 7.839,
+    "duration": 4.281
+  },
+  {
+    "text": "Ether you know you go to the bank if",
+    "start": 10.24,
+    "duration": 3.24
+  },
+  {
+    "text": "everyone goes to the bank at the same",
+    "start": 12.12,
+    "duration": 3.28
+  },
+  {
+    "text": "time and says give us our money you're",
+    "start": 13.48,
+    "duration": 3.959
+  },
+  {
+    "text": "not getting it it's not all there in",
+    "start": 15.4,
+    "duration": 3.92
+  },
+  {
+    "text": "fact they are woly under capitalized",
+    "start": 17.439,
+    "duration": 3.6
+  },
+  {
+    "text": "they have next to nothing in terms of",
+    "start": 19.32,
+    "duration": 4.24
+  },
+  {
+    "text": "Reserve uh coinbase is an example the",
+    "start": 21.039,
+    "duration": 4.24
+  },
+  {
+    "text": "largest cryptocurrency Exchange in the",
+    "start": 23.56,
+    "duration": 4.44
+  },
+  {
+    "text": "United States if they file bankruptcy",
+    "start": 25.279,
+    "duration": 4.201
+  },
+  {
+    "text": "and they actually said the word",
+    "start": 28.0,
+    "duration": 4.119
+  },
+  {
+    "text": "bankruptcy if they file bankruptcy that",
+    "start": 29.48,
+    "duration": 4.04
+  },
+  {
+    "text": "people who have coins held on the",
+    "start": 32.119,
+    "duration": 3.801
+  },
+  {
+    "text": "exchange will most likely lose all of",
+    "start": 33.52,
+    "duration": 4.52
+  },
+  {
+    "text": "them so everything that we're talking",
+    "start": 35.92,
+    "duration": 4.4
+  },
+  {
+    "text": "about whether it be under capitalization",
+    "start": 38.04,
+    "duration": 4.679
+  },
+  {
+    "text": "in Banks whether it be that the stocks",
+    "start": 40.32,
+    "duration": 4.239
+  },
+  {
+    "text": "that you think you own are digits on the",
+    "start": 42.719,
+    "duration": 3.441
+  },
+  {
+    "text": "screen because you don't hold the",
+    "start": 44.559,
+    "duration": 3.721
+  },
+  {
+    "text": "certificates anymore no one has bearer",
+    "start": 46.16,
+    "duration": 5.239
+  },
+  {
+    "text": "bonds anymore no one has anything and so",
+    "start": 48.28,
+    "duration": 5.32
+  },
+  {
+    "text": "when you talk about physical metal these",
+    "start": 51.399,
+    "duration": 4.881
+  },
+  {
+    "text": "are tangible items that you hold in your",
+    "start": 53.6,
+    "duration": 4.599
+  },
+  {
+    "text": "possession free from counterparty risk",
+    "start": 56.28,
+    "duration": 4.84
+  },
+  {
+    "text": "and I think that is the iation here is",
+    "start": 58.199,
+    "duration": 5.96
+  },
+  {
+    "text": "that wealth is digits on a screen in The",
+    "start": 61.12,
+    "duration": 6.84
+  },
+  {
+    "text": "Ether and having physical metal with the",
+    "start": 64.159,
+    "duration": 6.121
+  },
+  {
+    "text": "removal of counterparty risk is really",
+    "start": 67.96,
+    "duration": 4.6
+  },
+  {
+    "text": "huge it's important it's relevant and I",
+    "start": 70.28,
+    "duration": 4.24
+  },
+  {
+    "text": "think you can start to see that as",
+    "start": 72.56,
+    "duration": 4.8
+  },
+  {
+    "text": "things start to get tenuous around us I",
+    "start": 74.52,
+    "duration": 4.68
+  },
+  {
+    "text": "think it's important to understand that",
+    "start": 77.36,
+    "duration": 3.96
+  },
+  {
+    "text": "when we talk about valuation if you",
+    "start": 79.2,
+    "duration": 5.72
+  },
+  {
+    "text": "envision the US dollar as water inside",
+    "start": 81.32,
+    "duration": 6.32
+  },
+  {
+    "text": "of a bathtub and gold and silver are",
+    "start": 84.92,
+    "duration": 4.68
+  },
+  {
+    "text": "sitting on the ledge of the bathtub",
+    "start": 87.64,
+    "duration": 3.28
+  },
+  {
+    "text": "they're s sitting on the ledge looking",
+    "start": 89.6,
+    "duration": 2.879
+  },
+  {
+    "text": "down at the water and maybe the water's",
+    "start": 90.92,
+    "duration": 3.239
+  },
+  {
+    "text": "all the way up to the top of the tub but",
+    "start": 92.479,
+    "duration": 4.041
+  },
+  {
+    "text": "when you pull the plug on the tub and",
+    "start": 94.159,
+    "duration": 4.6
+  },
+  {
+    "text": "the water starts to drop and it depends",
+    "start": 96.52,
+    "duration": 4.4
+  },
+  {
+    "text": "upon how far the dollar drops in this",
+    "start": 98.759,
+    "duration": 4.32
+  },
+  {
+    "text": "case it's not that gold and silver are",
+    "start": 100.92,
+    "duration": 3.72
+  },
+  {
+    "text": "getting worth more money it's that the",
+    "start": 103.079,
+    "duration": 3.561
+  },
+  {
+    "text": "dollar is becoming worth less on its way",
+    "start": 104.64,
+    "duration": 4.24
+  },
+  {
+    "text": "to worthless I mean look at as an",
+    "start": 106.64,
+    "duration": 4.28
+  },
+  {
+    "text": "example Yar Republic Germany it was a",
+    "start": 108.88,
+    "duration": 4.559
+  },
+  {
+    "text": "long time ago after World War I but when",
+    "start": 110.92,
+    "duration": 4.159
+  },
+  {
+    "text": "you go back and you look at the fact",
+    "start": 113.439,
+    "duration": 3.36
+  },
+  {
+    "text": "that people would take wheelbarrows full",
+    "start": 115.079,
+    "duration": 3.761
+  },
+  {
+    "text": "of Drake notes to the store to buy a",
+    "start": 116.799,
+    "duration": 4.201
+  },
+  {
+    "text": "loaf of bread and they come back outside",
+    "start": 118.84,
+    "duration": 3.959
+  },
+  {
+    "text": "after checking to see if there was bread",
+    "start": 121.0,
+    "duration": 4.28
+  },
+  {
+    "text": "to be had and only to find that the",
+    "start": 122.799,
+    "duration": 3.881
+  },
+  {
+    "text": "currency was laying on the ground with",
+    "start": 125.28,
+    "duration": 3.52
+  },
+  {
+    "text": "the wheelbarrow had been stolen point of",
+    "start": 126.68,
+    "duration": 4.76
+  },
+  {
+    "text": "it is is that it depends how far the",
+    "start": 128.8,
+    "duration": 5.12
+  },
+  {
+    "text": "dollar ultimately Falls what gold and",
+    "start": 131.44,
+    "duration": 4.519
+  },
+  {
+    "text": "silver represent and have represented",
+    "start": 133.92,
+    "duration": 5.44
+  },
+  {
+    "text": "for 5,000 years is immutable wealth and",
+    "start": 135.959,
+    "duration": 6.081
+  },
+  {
+    "text": "in times of uncertainty and speculation",
+    "start": 139.36,
+    "duration": 4.12
+  },
+  {
+    "text": "I think it's never been more important",
+    "start": 142.04,
+    "duration": 3.36
+  },
+  {
+    "text": "to own gold and silver because I quite",
+    "start": 143.48,
+    "duration": 3.759
+  },
+  {
+    "text": "frankly I think that the days of the",
+    "start": 145.4,
+    "duration": 3.96
+  },
+  {
+    "text": "dollar as the world Reserve currency as",
+    "start": 147.239,
+    "duration": 3.961
+  },
+  {
+    "text": "a sing singular World Reserve currency",
+    "start": 149.36,
+    "duration": 4.36
+  },
+  {
+    "text": "are coming to an end when you see Saudi",
+    "start": 151.2,
+    "duration": 4.92
+  },
+  {
+    "text": "Arabia selling their oil to China for",
+    "start": 153.72,
+    "duration": 4.599
+  },
+  {
+    "text": "ywan when you see Nigeria selling their",
+    "start": 156.12,
+    "duration": 4.16
+  },
+  {
+    "text": "oil to China for youan when you see",
+    "start": 158.319,
+    "duration": 4.441
+  },
+  {
+    "text": "Russia selling their arms to India for",
+    "start": 160.28,
+    "duration": 4.4
+  },
+  {
+    "text": "rupe and their oil and their gas and",
+    "start": 162.76,
+    "duration": 4.52
+  },
+  {
+    "text": "their coal to China for youan when you",
+    "start": 164.68,
+    "duration": 5.32
+  },
+  {
+    "text": "see this type of rhetoric when you see",
+    "start": 167.28,
+    "duration": 4.72
+  },
+  {
+    "text": "the weaponizing of the dollar kicking",
+    "start": 170.0,
+    "duration": 4.319
+  },
+  {
+    "text": "Russia out of Swift when you see the",
+    "start": 172.0,
+    "duration": 5.92
+  },
+  {
+    "text": "consequences to the dollar being usurped",
+    "start": 174.319,
+    "duration": 6.481
+  },
+  {
+    "text": "as the singular Petro dollar settlement",
+    "start": 177.92,
+    "duration": 5.399
+  },
+  {
+    "text": "currency for energy and for oil it's the",
+    "start": 180.8,
+    "duration": 4.519
+  },
+  {
+    "text": "beginning of the end for the dollar do",
+    "start": 183.319,
+    "duration": 4.48
+  },
+  {
+    "text": "you see how we are slightly moving away",
+    "start": 185.319,
+    "duration": 4.521
+  },
+  {
+    "text": "from the dollar and its hemony as the",
+    "start": 187.799,
+    "duration": 4.201
+  },
+  {
+    "text": "singular World Reserve currency as the",
+    "start": 189.84,
+    "duration": 4.119
+  },
+  {
+    "text": "Petro dollar and when that moment",
+    "start": 192.0,
+    "duration": 4.0
+  },
+  {
+    "text": "happens when OPEC comes out and says you",
+    "start": 193.959,
+    "duration": 3.761
+  },
+  {
+    "text": "know what we're being protected by",
+    "start": 196.0,
+    "duration": 3.959
+  },
+  {
+    "text": "Russia and China we've decided that it's",
+    "start": 197.72,
+    "duration": 4.04
+  },
+  {
+    "text": "in our best interest in the world's best",
+    "start": 199.959,
+    "duration": 4.92
+  },
+  {
+    "text": "interest that we open up oil payments to",
+    "start": 201.76,
+    "duration": 5.28
+  },
+  {
+    "text": "other currencies when that happens bang",
+    "start": 204.879,
+    "duration": 4.041
+  },
+  {
+    "text": "just like that when those dollars come",
+    "start": 207.04,
+    "duration": 4.0
+  },
+  {
+    "text": "flooding home they will create",
+    "start": 208.92,
+    "duration": 3.92
+  },
+  {
+    "text": "hyperinflation in this country if you",
+    "start": 211.04,
+    "duration": 4.0
+  },
+  {
+    "text": "think inflation is bad now watch what",
+    "start": 212.84,
+    "duration": 3.759
+  },
+  {
+    "text": "happens when the majority of the world",
+    "start": 215.04,
+    "duration": 3.759
+  },
+  {
+    "text": "dumps dollars and it completely loses",
+    "start": 216.599,
+    "duration": 4.72
+  },
+  {
+    "text": "all its value when that happens interest",
+    "start": 218.799,
+    "duration": 4.561
+  },
+  {
+    "text": "rates Spike and stocks bonds and real",
+    "start": 221.319,
+    "duration": 3.881
+  },
+  {
+    "text": "estate collapse at the same time stocks",
+    "start": 223.36,
+    "duration": 3.439
+  },
+  {
+    "text": "bonds real estate and the dollar all",
+    "start": 225.2,
+    "duration": 3.039
+  },
+  {
+    "text": "collapse and it's all in the hands of",
+    "start": 226.799,
+    "duration": 3.52
+  },
+  {
+    "text": "the Saudis if the Saudis say you know",
+    "start": 228.239,
+    "duration": 3.92
+  },
+  {
+    "text": "what we're moving a different direction",
+    "start": 230.319,
+    "duration": 4.2
+  },
+  {
+    "text": "and OPEC is going to offer oil in other",
+    "start": 232.159,
+    "duration": 4.761
+  },
+  {
+    "text": "currencies it's over for the US dollar",
+    "start": 234.519,
+    "duration": 4.521
+  },
+  {
+    "text": "and that's when an ounce of silver",
+    "start": 236.92,
+    "duration": 4.56
+  },
+  {
+    "text": "really becomes important because the",
+    "start": 239.04,
+    "duration": 5.8
+  },
+  {
+    "text": "dollar is is being destroyed as all Fiat",
+    "start": 241.48,
+    "duration": 5.119
+  },
+  {
+    "text": "currencies are the dollars just the",
+    "start": 244.84,
+    "duration": 3.92
+  },
+  {
+    "text": "prettiest mayor in the slaughterous",
+    "start": 246.599,
+    "duration": 3.761
+  },
+  {
+    "text": "never been more important to have",
+    "start": 248.76,
+    "duration": 4.199
+  },
+  {
+    "text": "alternatives to what I think is a dying",
+    "start": 250.36,
+    "duration": 5.4
+  },
+  {
+    "text": "kenian system a Fiat system with no",
+    "start": 252.959,
+    "duration": 4.96
+  },
+  {
+    "text": "backing and I really do believe the days",
+    "start": 255.76,
+    "duration": 3.879
+  },
+  {
+    "text": "of the dollar as a singular World",
+    "start": 257.919,
+    "duration": 3.681
+  },
+  {
+    "text": "Reserve currency coming to an end I",
+    "start": 259.639,
+    "duration": 3.601
+  },
+  {
+    "text": "think gold and silver are wealth you",
+    "start": 261.6,
+    "duration": 3.96
+  },
+  {
+    "text": "don't want to inject speculation all I",
+    "start": 263.24,
+    "duration": 4.8
+  },
+  {
+    "text": "can tell you is that when currency",
+    "start": 265.56,
+    "duration": 4.44
+  },
+  {
+    "text": "becomes a hot potato when no nobody",
+    "start": 268.04,
+    "duration": 3.84
+  },
+  {
+    "text": "wants it any longer when the world is",
+    "start": 270.0,
+    "duration": 3.759
+  },
+  {
+    "text": "dumping it owning physical precious",
+    "start": 271.88,
+    "duration": 4.56
+  },
+  {
+    "text": "metals will have much greater importance",
+    "start": 273.759,
+    "duration": 5.241
+  },
+  {
+    "text": "it's not to get wealthy It Is wealth and",
+    "start": 276.44,
+    "duration": 4.92
+  },
+  {
+    "text": "in periods of great dollar uncertainty",
+    "start": 279.0,
+    "duration": 4.4
+  },
+  {
+    "text": "and instability and geopolitical",
+    "start": 281.36,
+    "duration": 3.839
+  },
+  {
+    "text": "instability I don't think it's ever been",
+    "start": 283.4,
+    "duration": 3.92
+  },
+  {
+    "text": "more important ever really don't I've",
+    "start": 285.199,
+    "duration": 3.84
+  },
+  {
+    "text": "always tried at least in terms of",
+    "start": 287.32,
+    "duration": 4.68
+  },
+  {
+    "text": "dollars go 5050 I think silver is a much",
+    "start": 289.039,
+    "duration": 5.641
+  },
+  {
+    "text": "better value right now and with a gold",
+    "start": 292.0,
+    "duration": 6.24
+  },
+  {
+    "text": "to Silver ratio of 82 or 3 to1 the",
+    "start": 294.68,
+    "duration": 6.28
+  },
+  {
+    "text": "ability to accumulate silver and trade",
+    "start": 298.24,
+    "duration": 5.16
+  },
+  {
+    "text": "it to Gold when that ratio corrects",
+    "start": 300.96,
+    "duration": 5.239
+  },
+  {
+    "text": "which it will it's averaged 42 to1 for",
+    "start": 303.4,
+    "duration": 5.44
+  },
+  {
+    "text": "the last 200 years nearly and it's it's",
+    "start": 306.199,
+    "duration": 5.28
+  },
+  {
+    "text": "coming out of the ground at 7:1 but it's",
+    "start": 308.84,
+    "duration": 4.84
+  },
+  {
+    "text": "priced at 83 to1 it's 12 times",
+    "start": 311.479,
+    "duration": 4.56
+  },
+  {
+    "text": "undervalued from what it should be in",
+    "start": 313.68,
+    "duration": 4.88
+  },
+  {
+    "text": "terms of its geologic footprint so right",
+    "start": 316.039,
+    "duration": 4.44
+  },
+  {
+    "text": "now I'd go heavier on silver with the",
+    "start": 318.56,
+    "duration": 3.8
+  },
+  {
+    "text": "intention of switching to gold and a lot",
+    "start": 320.479,
+    "duration": 3.72
+  },
+  {
+    "text": "of people don't agree with me on this I",
+    "start": 322.36,
+    "duration": 3.559
+  },
+  {
+    "text": "mean a lot of people think silver is the",
+    "start": 324.199,
+    "duration": 3.881
+  },
+  {
+    "text": "ultimately the place to be and while I",
+    "start": 325.919,
+    "duration": 3.801
+  },
+  {
+    "text": "really do like silver and wouldn't be",
+    "start": 328.08,
+    "duration": 3.36
+  },
+  {
+    "text": "bummed out if I was stuck with a whole",
+    "start": 329.72,
+    "duration": 3.44
+  },
+  {
+    "text": "bunch of silver the fact that gold was",
+    "start": 331.44,
+    "duration": 3.56
+  },
+  {
+    "text": "reclassified at the world's only other",
+    "start": 333.16,
+    "duration": 3.72
+  },
+  {
+    "text": "tier one Reserve asset tells me that",
+    "start": 335.0,
+    "duration": 3.6
+  },
+  {
+    "text": "gold is ultimately the place you want to",
+    "start": 336.88,
+    "duration": 4.159
+  },
+  {
+    "text": "have the bulk of your money but not yet",
+    "start": 338.6,
+    "duration": 4.68
+  },
+  {
+    "text": "not until that ratio corrects look when",
+    "start": 341.039,
+    "duration": 4.121
+  },
+  {
+    "text": "I started talking about this originally",
+    "start": 343.28,
+    "duration": 4.68
+  },
+  {
+    "text": "in 2010 and did my first podcast because",
+    "start": 345.16,
+    "duration": 5.52
+  },
+  {
+    "text": "of it the ratio was 85 to1 it was the",
+    "start": 347.96,
+    "duration": 4.56
+  },
+  {
+    "text": "second time in human history that it had",
+    "start": 350.68,
+    "duration": 4.28
+  },
+  {
+    "text": "ever gotten that high I told everyone to",
+    "start": 352.52,
+    "duration": 4.76
+  },
+  {
+    "text": "switch their gold to Silver within 8",
+    "start": 354.96,
+    "duration": 5.359
+  },
+  {
+    "text": "months we had 37 to one with $50 silver",
+    "start": 357.28,
+    "duration": 6.32
+  },
+  {
+    "text": "and we are in rarified air it's only",
+    "start": 360.319,
+    "duration": 6.201
+  },
+  {
+    "text": "been here a few times in 5,000 years so",
+    "start": 363.6,
+    "duration": 4.96
+  },
+  {
+    "text": "the idea is if it's coming out of the",
+    "start": 366.52,
+    "duration": 4.56
+  },
+  {
+    "text": "ground at 7:1 globally being mined at",
+    "start": 368.56,
+    "duration": 5.16
+  },
+  {
+    "text": "7:1 because it's found in nature in",
+    "start": 371.08,
+    "duration": 4.28
+  },
+  {
+    "text": "something called epithermal which is",
+    "start": 373.72,
+    "duration": 3.759
+  },
+  {
+    "text": "very close to the surface so the big",
+    "start": 375.36,
+    "duration": 4.8
+  },
+  {
+    "text": "deposits were found long ago so if it's",
+    "start": 377.479,
+    "duration": 4.601
+  },
+  {
+    "text": "coming out of the ground at 7:1 but",
+    "start": 380.16,
+    "duration": 4.56
+  },
+  {
+    "text": "priced at 83:1 you could argue it's 12",
+    "start": 382.08,
+    "duration": 5.6
+  },
+  {
+    "text": "times undervalued so when do you do it I",
+    "start": 384.72,
+    "duration": 5.0
+  },
+  {
+    "text": "don't know I mean I don't think you want",
+    "start": 387.68,
+    "duration": 3.919
+  },
+  {
+    "text": "to wait till it gets to its geologic",
+    "start": 389.72,
+    "duration": 4.84
+  },
+  {
+    "text": "ratio of 7:1 but anytime it gets near",
+    "start": 391.599,
+    "duration": 6.241
+  },
+  {
+    "text": "its 200e average of 42 to1 that's a",
+    "start": 394.56,
+    "duration": 5.52
+  },
+  {
+    "text": "double right there so in other words if",
+    "start": 397.84,
+    "duration": 4.479
+  },
+  {
+    "text": "you had an ounce of gold and in theory",
+    "start": 400.08,
+    "duration": 4.48
+  },
+  {
+    "text": "you get 83 ounces of silver for that 1",
+    "start": 402.319,
+    "duration": 4.761
+  },
+  {
+    "text": "ounce of gold well when it gets to 41",
+    "start": 404.56,
+    "duration": 5.56
+  },
+  {
+    "text": "and A2 you double what you start with I",
+    "start": 407.08,
+    "duration": 6.04
+  },
+  {
+    "text": "ultimately feel gold is the place to be",
+    "start": 410.12,
+    "duration": 5.04
+  },
+  {
+    "text": "but silver is the pathway into getting",
+    "start": 413.12,
+    "duration": 3.919
+  },
+  {
+    "text": "much more gold silver can make you",
+    "start": 415.16,
+    "duration": 3.879
+  },
+  {
+    "text": "wealthy if you own enough of it the only",
+    "start": 417.039,
+    "duration": 3.681
+  },
+  {
+    "text": "problem this go around is that getting",
+    "start": 419.039,
+    "duration": 3.361
+  },
+  {
+    "text": "wealthy and silver may come at the",
+    "start": 420.72,
+    "duration": 3.84
+  },
+  {
+    "text": "expense of the Dollar Rising gold and",
+    "start": 422.4,
+    "duration": 4.88
+  },
+  {
+    "text": "silver is the bathtub water draining and",
+    "start": 424.56,
+    "duration": 4.88
+  },
+  {
+    "text": "that's you know the point that why I",
+    "start": 427.28,
+    "duration": 5.12
+  },
+  {
+    "text": "don't talk about gold and silver as a",
+    "start": 429.44,
+    "duration": 5.92
+  },
+  {
+    "text": "wealth Creator it is a wealth preserver",
+    "start": 432.4,
+    "duration": 4.88
+  },
+  {
+    "text": "still buys you the same thing it did",
+    "start": 435.36,
+    "duration": 3.8
+  },
+  {
+    "text": "that's what it does it preserves your",
+    "start": 437.28,
+    "duration": 4.199
+  },
+  {
+    "text": "purchasing power and that's the most",
+    "start": 439.16,
+    "duration": 4.4
+  },
+  {
+    "text": "important thing even if the dollars that",
+    "start": 441.479,
+    "duration": 4.44
+  },
+  {
+    "text": "we measure it against are skewed the",
+    "start": 443.56,
+    "duration": 4.319
+  },
+  {
+    "text": "dollar is the prettiest May in the",
+    "start": 445.919,
+    "duration": 4.361
+  },
+  {
+    "text": "slaughterous it's the best of the worst",
+    "start": 447.879,
+    "duration": 4.801
+  },
+  {
+    "text": "Fiat currencies but if we find another",
+    "start": 450.28,
+    "duration": 4.4
+  },
+  {
+    "text": "country come out to say you know what",
+    "start": 452.68,
+    "duration": 4.32
+  },
+  {
+    "text": "we're pegging our new digital Yuan we're",
+    "start": 454.68,
+    "duration": 4.12
+  },
+  {
+    "text": "going to call it the new digital bricks",
+    "start": 457.0,
+    "duration": 3.639
+  },
+  {
+    "text": "currencies because Brazil Russia China",
+    "start": 458.8,
+    "duration": 4.079
+  },
+  {
+    "text": "India South Africa all joining in and we",
+    "start": 460.639,
+    "duration": 5.081
+  },
+  {
+    "text": "we're all pegging 15,000 metric tons of",
+    "start": 462.879,
+    "duration": 6.841
+  },
+  {
+    "text": "gold to this each to 100,000 metric tons",
+    "start": 465.72,
+    "duration": 5.879
+  },
+  {
+    "text": "of gold we're pegging to this new",
+    "start": 469.72,
+    "duration": 4.319
+  },
+  {
+    "text": "digital bricks currency with the",
+    "start": 471.599,
+    "duration": 4.56
+  },
+  {
+    "text": "immutability and veracity of that gold",
+    "start": 474.039,
+    "duration": 3.921
+  },
+  {
+    "text": "held on a distributed Ledger everything",
+    "start": 476.159,
+    "duration": 4.241
+  },
+  {
+    "text": "will make sense very very quickly that",
+    "start": 477.96,
+    "duration": 4.199
+  },
+  {
+    "text": "you know the world will flock to a",
+    "start": 480.4,
+    "duration": 4.359
+  },
+  {
+    "text": "system backed by stability strength and",
+    "start": 482.159,
+    "duration": 4.521
+  },
+  {
+    "text": "an asset rather than one that's backed",
+    "start": 484.759,
+    "duration": 4.56
+  },
+  {
+    "text": "by 130 trillion in debt and I think",
+    "start": 486.68,
+    "duration": 4.479
+  },
+  {
+    "text": "that's what we face and this is why you",
+    "start": 489.319,
+    "duration": 4.0
+  },
+  {
+    "text": "own gold and silver and mitigate your",
+    "start": 491.159,
+    "duration": 4.16
+  },
+  {
+    "text": "exposure so whether you have more silver",
+    "start": 493.319,
+    "duration": 4.56
+  },
+  {
+    "text": "or more gold it doesn't matter in the",
+    "start": 495.319,
+    "duration": 4.56
+  },
+  {
+    "text": "end in the end you want to mitigate your",
+    "start": 497.879,
+    "duration": 5.201
+  },
+  {
+    "text": "exposure to the dollar",
+    "start": 499.879,
+    "duration": 3.201
+  }
+]

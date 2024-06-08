@@ -33,9 +33,12 @@ def download_youtube_transcripts(channels):
       sleep(1)
 
 def download_youtube_transcript_to_file(video_id, file_path):
-  transcript = YouTubeTranscriptApi.get_transcript(video_id)
-  with open(file_path, 'w') as file:
-    json.dump(transcript, file, indent=2)
+  try:
+    transcript = YouTubeTranscriptApi.get_transcript(video_id)
+    with open(file_path, 'w') as file:
+      json.dump(transcript, file, indent=2)
+  except:
+    print("FAILED to download transcript for video: " + video_id)
 
 def dump_all_downloaded_transcripts_to_console():
   files = get_all_news_file_names()

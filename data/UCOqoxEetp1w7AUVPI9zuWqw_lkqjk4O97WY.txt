@@ -1,0 +1,457 @@
+[
+  {
+    "text": "so we just saw the biggest drop in gold",
+    "start": 0.08,
+    "duration": 4.719
+  },
+  {
+    "text": "price since March of 2022 so more than",
+    "start": 1.92,
+    "duration": 6.92
+  },
+  {
+    "text": "two years 3.1% drop we should probably",
+    "start": 4.799,
+    "duration": 5.351
+  },
+  {
+    "text": "look at what's causing",
+    "start": 8.84,
+    "duration": 4.419
+  },
+  {
+    "text": "[Music]",
+    "start": 10.15,
+    "duration": 3.109
+  },
+  {
+    "text": "it so just wanted to make a quick video",
+    "start": 13.719,
+    "duration": 5.961
+  },
+  {
+    "text": "on today's price drop for gold not",
+    "start": 17.52,
+    "duration": 4.28
+  },
+  {
+    "text": "because I think we need to jump at every",
+    "start": 19.68,
+    "duration": 4.56
+  },
+  {
+    "text": "price move but more because this is",
+    "start": 21.8,
+    "duration": 4.639
+  },
+  {
+    "text": "based largely on something I've been",
+    "start": 24.24,
+    "duration": 4.4
+  },
+  {
+    "text": "talking a lot about that's Central Bank",
+    "start": 26.439,
+    "duration": 3.561
+  },
+  {
+    "text": "gold buying there's a little bit more",
+    "start": 28.64,
+    "duration": 2.799
+  },
+  {
+    "text": "more to it than that we're going to come",
+    "start": 30.0,
+    "duration": 3.559
+  },
+  {
+    "text": "back to that let's start with the",
+    "start": 31.439,
+    "duration": 3.841
+  },
+  {
+    "text": "central banks and what they're up to",
+    "start": 33.559,
+    "duration": 4.601
+  },
+  {
+    "text": "particularly what China is up to now I",
+    "start": 35.28,
+    "duration": 4.759
+  },
+  {
+    "text": "mentioned in my last video that China's",
+    "start": 38.16,
+    "duration": 5.239
+  },
+  {
+    "text": "net purchases had dropped to two tons in",
+    "start": 40.039,
+    "duration": 5.241
+  },
+  {
+    "text": "April and that's a lot of gold until you",
+    "start": 43.399,
+    "duration": 3.521
+  },
+  {
+    "text": "compare it to the 18 tons that they've",
+    "start": 45.28,
+    "duration": 3.32
+  },
+  {
+    "text": "been buying on average since they",
+    "start": 46.92,
+    "duration": 3.4
+  },
+  {
+    "text": "started reporting again in November of",
+    "start": 48.6,
+    "duration": 3.92
+  },
+  {
+    "text": "2022 I also mentioned that we would know",
+    "start": 50.32,
+    "duration": 5.12
+  },
+  {
+    "text": "soon what they bought in May well now we",
+    "start": 52.52,
+    "duration": 5.76
+  },
+  {
+    "text": "know they didn't buy anything at all now",
+    "start": 55.44,
+    "duration": 4.56
+  },
+  {
+    "text": "it's way too soon to know if this is any",
+    "start": 58.28,
+    "duration": 3.439
+  },
+  {
+    "text": "anything other than a knee-jerk Trader",
+    "start": 60.0,
+    "duration": 3.84
+  },
+  {
+    "text": "reaction and that is typically the case",
+    "start": 61.719,
+    "duration": 4.08
+  },
+  {
+    "text": "but we just saw the largest drop in gold",
+    "start": 63.84,
+    "duration": 4.279
+  },
+  {
+    "text": "price in over two years",
+    "start": 65.799,
+    "duration": 5.201
+  },
+  {
+    "text": "3.1% so again it's too soon to say where",
+    "start": 68.119,
+    "duration": 4.961
+  },
+  {
+    "text": "it goes from here but we might have to",
+    "start": 71.0,
+    "duration": 3.6
+  },
+  {
+    "text": "check some of our",
+    "start": 73.08,
+    "duration": 3.28
+  },
+  {
+    "text": "preconceptions one of the things that we",
+    "start": 74.6,
+    "duration": 3.159
+  },
+  {
+    "text": "hear around here a lot is that the",
+    "start": 76.36,
+    "duration": 3.0
+  },
+  {
+    "text": "dollar is toast and I I don't know why",
+    "start": 77.759,
+    "duration": 3.801
+  },
+  {
+    "text": "it's toast toast actually sounds kind of",
+    "start": 79.36,
+    "duration": 5.04
+  },
+  {
+    "text": "nice Saudi Arabia it's not renewing the",
+    "start": 81.56,
+    "duration": 4.44
+  },
+  {
+    "text": "Petra dollar deal that's a little bit of",
+    "start": 84.4,
+    "duration": 3.12
+  },
+  {
+    "text": "forecasting that we're hearing people",
+    "start": 86.0,
+    "duration": 3.24
+  },
+  {
+    "text": "apparently know the future we're going",
+    "start": 87.52,
+    "duration": 3.16
+  },
+  {
+    "text": "to come back to that next week when I",
+    "start": 89.24,
+    "duration": 2.8
+  },
+  {
+    "text": "actually know something but what about",
+    "start": 90.68,
+    "duration": 3.04
+  },
+  {
+    "text": "Putin he just dropped some steamy words",
+    "start": 92.04,
+    "duration": 4.52
+  },
+  {
+    "text": "at a forum saying that nearly 40% of",
+    "start": 93.72,
+    "duration": 4.84
+  },
+  {
+    "text": "Russia's trade is now conducted in",
+    "start": 96.56,
+    "duration": 3.8
+  },
+  {
+    "text": "Rubles he mentioned he's also looking to",
+    "start": 98.56,
+    "duration": 3.839
+  },
+  {
+    "text": "continue that plus a focus on the",
+    "start": 100.36,
+    "duration": 4.719
+  },
+  {
+    "text": "currencies of bricks countries no way",
+    "start": 102.399,
+    "duration": 3.961
+  },
+  {
+    "text": "that's going to be good for the dollar",
+    "start": 105.079,
+    "duration": 3.961
+  },
+  {
+    "text": "and then the US debt is just cripplingly",
+    "start": 106.36,
+    "duration": 5.6
+  },
+  {
+    "text": "High yeah we all agree on that and all",
+    "start": 109.04,
+    "duration": 4.759
+  },
+  {
+    "text": "of these things are going to tell us",
+    "start": 111.96,
+    "duration": 5.64
+  },
+  {
+    "text": "that the dollar is dead but here we are",
+    "start": 113.799,
+    "duration": 5.761
+  },
+  {
+    "text": "these things just don't actually amount",
+    "start": 117.6,
+    "duration": 4.119
+  },
+  {
+    "text": "to a hit on the Dollar's value if you",
+    "start": 119.56,
+    "duration": 4.76
+  },
+  {
+    "text": "look at it today it's actually surging",
+    "start": 121.719,
+    "duration": 4.561
+  },
+  {
+    "text": "and if I have my vocabulary correct here",
+    "start": 124.32,
+    "duration": 5.48
+  },
+  {
+    "text": "I think that's the opposite of crushed",
+    "start": 126.28,
+    "duration": 5.76
+  },
+  {
+    "text": "so why would the dollar be surging well",
+    "start": 129.8,
+    "duration": 5.76
+  },
+  {
+    "text": "we have a new jobs report 272,000 new",
+    "start": 132.04,
+    "duration": 5.76
+  },
+  {
+    "text": "jobs because I'm sure that's accurate",
+    "start": 135.56,
+    "duration": 4.72
+  },
+  {
+    "text": "and that tells us hey everybody look how",
+    "start": 137.8,
+    "duration": 4.64
+  },
+  {
+    "text": "good the economy is doing and guess we",
+    "start": 140.28,
+    "duration": 4.039
+  },
+  {
+    "text": "don't need to cut those interest rates",
+    "start": 142.44,
+    "duration": 4.079
+  },
+  {
+    "text": "after all and that's enough to flip the",
+    "start": 144.319,
+    "duration": 4.241
+  },
+  {
+    "text": "market so take China's pause in buying",
+    "start": 146.519,
+    "duration": 4.241
+  },
+  {
+    "text": "and add the dashed hope of nearing Fed",
+    "start": 148.56,
+    "duration": 4.84
+  },
+  {
+    "text": "rate cuts and we have a 3.1% drop in",
+    "start": 150.76,
+    "duration": 5.04
+  },
+  {
+    "text": "gold price it's just worth taking a",
+    "start": 153.4,
+    "duration": 5.199
+  },
+  {
+    "text": "moment here to say how silly all of this",
+    "start": 155.8,
+    "duration": 5.6
+  },
+  {
+    "text": "can be on the upside though gold is on",
+    "start": 158.599,
+    "duration": 6.321
+  },
+  {
+    "text": "sale so have a good weekend let's call",
+    "start": 161.4,
+    "duration": 4.919
+  },
+  {
+    "text": "it good there let us know what you think",
+    "start": 164.92,
+    "duration": 3.36
+  },
+  {
+    "text": "about gold getting crushed the dollar",
+    "start": 166.319,
+    "duration": 4.721
+  },
+  {
+    "text": "surging China pausing Putin talking",
+    "start": 168.28,
+    "duration": 5.679
+  },
+  {
+    "text": "Saudi Arabia gaming whatever else is on",
+    "start": 171.04,
+    "duration": 5.24
+  },
+  {
+    "text": "the hype radar or you can just tell us",
+    "start": 173.959,
+    "duration": 3.601
+  },
+  {
+    "text": "what you're up to this weekend I think",
+    "start": 176.28,
+    "duration": 3.679
+  },
+  {
+    "text": "that's probably more important so let us",
+    "start": 177.56,
+    "duration": 3.24
+  },
+  {
+    "text": "know and then while you're in the",
+    "start": 179.959,
+    "duration": 2.2
+  },
+  {
+    "text": "comments be sure to hit that like button",
+    "start": 180.8,
+    "duration": 3.359
+  },
+  {
+    "text": "if you found any of this interesting be",
+    "start": 182.159,
+    "duration": 3.121
+  },
+  {
+    "text": "sure you're subscribed with",
+    "start": 184.159,
+    "duration": 2.36
+  },
+  {
+    "text": "notifications turned on if you want to",
+    "start": 185.28,
+    "duration": 3.599
+  },
+  {
+    "text": "hear more on the topic and if still here",
+    "start": 186.519,
+    "duration": 4.08
+  },
+  {
+    "text": "thanks again for watching I always",
+    "start": 188.879,
+    "duration": 2.801
+  },
+  {
+    "text": "appreciate your",
+    "start": 190.599,
+    "duration": 3.771
+  },
+  {
+    "text": "time take care",
+    "start": 191.68,
+    "duration": 16.93
+  },
+  {
+    "text": "[Music]",
+    "start": 194.37,
+    "duration": 14.24
+  },
+  {
+    "text": "a",
+    "start": 212.76,
+    "duration": 2.6
+  }
+]

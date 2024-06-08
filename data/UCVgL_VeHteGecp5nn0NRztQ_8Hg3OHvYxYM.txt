@@ -1,0 +1,1132 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.0,
+    "duration": 5.33
+  },
+  {
+    "text": "welcome back everyone to another edition",
+    "start": 7.04,
+    "duration": 3.76
+  },
+  {
+    "text": "of diamonds Edge my name is Greg Diamond",
+    "start": 8.719,
+    "duration": 3.96
+  },
+  {
+    "text": "editor of 10 Stock Trader at Sansbury",
+    "start": 10.8,
+    "duration": 3.44
+  },
+  {
+    "text": "reseearch and this week we're going to",
+    "start": 12.679,
+    "duration": 3.761
+  },
+  {
+    "text": "look at uh inflation picture we're going",
+    "start": 14.24,
+    "duration": 4.119
+  },
+  {
+    "text": "to look at bonds uh and why I think",
+    "start": 16.44,
+    "duration": 3.36
+  },
+  {
+    "text": "we're at an important Reflection Point",
+    "start": 18.359,
+    "duration": 4.561
+  },
+  {
+    "text": "for bonds uh and uh obviously if we're",
+    "start": 19.8,
+    "duration": 4.76
+  },
+  {
+    "text": "at a point Reflection Point for bonds",
+    "start": 22.92,
+    "duration": 3.759
+  },
+  {
+    "text": "you know what could that mean for stocks",
+    "start": 24.56,
+    "duration": 4.039
+  },
+  {
+    "text": "um so let's go ahead and get started uh",
+    "start": 26.679,
+    "duration": 4.201
+  },
+  {
+    "text": "I've looked at there are correlations",
+    "start": 28.599,
+    "duration": 4.841
+  },
+  {
+    "text": "between interest rates and bonds um a",
+    "start": 30.88,
+    "duration": 5.839
+  },
+  {
+    "text": "lot this year and let's let's turn over",
+    "start": 33.44,
+    "duration": 4.799
+  },
+  {
+    "text": "to this chart right here and as you can",
+    "start": 36.719,
+    "duration": 4.801
+  },
+  {
+    "text": "see this is just uh pretty much the next",
+    "start": 38.239,
+    "duration": 6.401
+  },
+  {
+    "text": "week or so of important fundamental",
+    "start": 41.52,
+    "duration": 5.08
+  },
+  {
+    "text": "economic Catalyst okay and you can see",
+    "start": 44.64,
+    "duration": 5.28
+  },
+  {
+    "text": "here um GDP comes out and then the fed's",
+    "start": 46.6,
+    "duration": 5.56
+  },
+  {
+    "text": "most important or what it deems to be",
+    "start": 49.92,
+    "duration": 4.36
+  },
+  {
+    "text": "the most important gauge of inflation is",
+    "start": 52.16,
+    "duration": 4.96
+  },
+  {
+    "text": "the pce deflator uh and then even we",
+    "start": 54.28,
+    "duration": 5.279
+  },
+  {
+    "text": "have ISM you know heading into next week",
+    "start": 57.12,
+    "duration": 3.68
+  },
+  {
+    "text": "and then",
+    "start": 59.559,
+    "duration": 3.201
+  },
+  {
+    "text": "um in middle of June is the Federal",
+    "start": 60.8,
+    "duration": 4.92
+  },
+  {
+    "text": "Reserve next meeting uh regarding the",
+    "start": 62.76,
+    "duration": 6.08
+  },
+  {
+    "text": "future rate of inflation um what their",
+    "start": 65.72,
+    "duration": 4.8
+  },
+  {
+    "text": "policy what they're going to do or not",
+    "start": 68.84,
+    "duration": 3.8
+  },
+  {
+    "text": "do so this is going to be important",
+    "start": 70.52,
+    "duration": 4.239
+  },
+  {
+    "text": "there's no doubt about it all right now",
+    "start": 72.64,
+    "duration": 4.4
+  },
+  {
+    "text": "aside from what comes out here obviously",
+    "start": 74.759,
+    "duration": 3.521
+  },
+  {
+    "text": "those will be important as well but",
+    "start": 77.04,
+    "duration": 2.6
+  },
+  {
+    "text": "let's look at this from a technical",
+    "start": 78.28,
+    "duration": 4.159
+  },
+  {
+    "text": "perspective okay uh and this is the US",
+    "start": 79.64,
+    "duration": 5.64
+  },
+  {
+    "text": "10-year interest rate all right and it's",
+    "start": 82.439,
+    "duration": 4.881
+  },
+  {
+    "text": "really pretty simple I don't have any La",
+    "start": 85.28,
+    "duration": 3.96
+  },
+  {
+    "text": "wave counts or anything like this but",
+    "start": 87.32,
+    "duration": 4.2
+  },
+  {
+    "text": "what I want to show show you here is",
+    "start": 89.24,
+    "duration": 5.199
+  },
+  {
+    "text": "okay from we obviously had this big drop",
+    "start": 91.52,
+    "duration": 5.44
+  },
+  {
+    "text": "last last year which led to a big rally",
+    "start": 94.439,
+    "duration": 4.401
+  },
+  {
+    "text": "in stocks okay and now we've kind of",
+    "start": 96.96,
+    "duration": 3.76
+  },
+  {
+    "text": "chopped higher but we haven't made a new",
+    "start": 98.84,
+    "duration": 5.4
+  },
+  {
+    "text": "High um and we saw some volatility",
+    "start": 100.72,
+    "duration": 5.64
+  },
+  {
+    "text": "around a rise in interest rates with",
+    "start": 104.24,
+    "duration": 5.64
+  },
+  {
+    "text": "stocks particularly in uh in April okay",
+    "start": 106.36,
+    "duration": 5.24
+  },
+  {
+    "text": "and so what we're looking at now and I",
+    "start": 109.88,
+    "duration": 4.12
+  },
+  {
+    "text": "want to zoom in on this all right so as",
+    "start": 111.6,
+    "duration": 5.32
+  },
+  {
+    "text": "you can see heading in you know into",
+    "start": 114.0,
+    "duration": 5.28
+  },
+  {
+    "text": "into may we we dropped below this level",
+    "start": 116.92,
+    "duration": 4.799
+  },
+  {
+    "text": "of support okay and now we're starting",
+    "start": 119.28,
+    "duration": 5.759
+  },
+  {
+    "text": "to bounce back now as you can see as of",
+    "start": 121.719,
+    "duration": 6.161
+  },
+  {
+    "text": "uh as of Monday here you know this is",
+    "start": 125.039,
+    "duration": 4.601
+  },
+  {
+    "text": "interest rates are struggling to now",
+    "start": 127.88,
+    "duration": 4.12
+  },
+  {
+    "text": "break up of the short-term resistance so",
+    "start": 129.64,
+    "duration": 4.28
+  },
+  {
+    "text": "I have three arrows here obviously last",
+    "start": 132.0,
+    "duration": 3.959
+  },
+  {
+    "text": "week marked the high you know can it",
+    "start": 133.92,
+    "duration": 4.959
+  },
+  {
+    "text": "rally a little bit higher into you know",
+    "start": 135.959,
+    "duration": 4.521
+  },
+  {
+    "text": "call it just shy of",
+    "start": 138.879,
+    "duration": 4.041
+  },
+  {
+    "text": "4.6% um I have a symmetrical here in",
+    "start": 140.48,
+    "duration": 5.96
+  },
+  {
+    "text": "blue which would get to about 4.4",
+    "start": 142.92,
+    "duration": 5.92
+  },
+  {
+    "text": "4.55% all right but this is kind of the",
+    "start": 146.44,
+    "duration": 4.6
+  },
+  {
+    "text": "shortterm Outlook looking for again if",
+    "start": 148.84,
+    "duration": 6.2
+  },
+  {
+    "text": "we factor in GDP uh pce",
+    "start": 151.04,
+    "duration": 6.68
+  },
+  {
+    "text": "ISM so you know if we see a bounce up",
+    "start": 155.04,
+    "duration": 4.32
+  },
+  {
+    "text": "here and then we start to trade back",
+    "start": 157.72,
+    "duration": 3.439
+  },
+  {
+    "text": "lower that could be a sign that this",
+    "start": 159.36,
+    "duration": 4.239
+  },
+  {
+    "text": "whole this whole move is now over all",
+    "start": 161.159,
+    "duration": 4.321
+  },
+  {
+    "text": "right and then we can see another drop",
+    "start": 163.599,
+    "duration": 3.681
+  },
+  {
+    "text": "in interest rates if we see a drop at",
+    "start": 165.48,
+    "duration": 3.32
+  },
+  {
+    "text": "interest rates that's going to be really",
+    "start": 167.28,
+    "duration": 3.44
+  },
+  {
+    "text": "good for stocks as well all right so",
+    "start": 168.8,
+    "duration": 3.359
+  },
+  {
+    "text": "this is kind of the short-term setup",
+    "start": 170.72,
+    "duration": 3.36
+  },
+  {
+    "text": "that I'm looking at so let me show you",
+    "start": 172.159,
+    "duration": 4.761
+  },
+  {
+    "text": "what the long-term setup is actually",
+    "start": 174.08,
+    "duration": 6.92
+  },
+  {
+    "text": "going to look like and I'm using this um",
+    "start": 176.92,
+    "duration": 6.92
+  },
+  {
+    "text": "uh as bonds so the the TLT the I Sheriff",
+    "start": 181.0,
+    "duration": 4.36
+  },
+  {
+    "text": "all right this is a short-term setup",
+    "start": 183.84,
+    "duration": 3.6
+  },
+  {
+    "text": "again you know it kind of mirrors what's",
+    "start": 185.36,
+    "duration": 4.799
+  },
+  {
+    "text": "happening interest rates you know bonds",
+    "start": 187.44,
+    "duration": 4.56
+  },
+  {
+    "text": "bottomed and then they rallied you know",
+    "start": 190.159,
+    "duration": 4.481
+  },
+  {
+    "text": "can it start to break Above This",
+    "start": 192.0,
+    "duration": 6.159
+  },
+  {
+    "text": "short-term uh resistance level if it",
+    "start": 194.64,
+    "duration": 5.36
+  },
+  {
+    "text": "does you know this is probably a spot it",
+    "start": 198.159,
+    "duration": 4.321
+  },
+  {
+    "text": "could basically unleash the floodgates",
+    "start": 200.0,
+    "duration": 5.28
+  },
+  {
+    "text": "of of of of uh interest rates rising and",
+    "start": 202.48,
+    "duration": 4.36
+  },
+  {
+    "text": "by bonds rallying and then if bonds",
+    "start": 205.28,
+    "duration": 3.64
+  },
+  {
+    "text": "rally the light at least in the short",
+    "start": 206.84,
+    "duration": 3.479
+  },
+  {
+    "text": "term stocks are going to like that as",
+    "start": 208.92,
+    "duration": 3.039
+  },
+  {
+    "text": "well as we've seen that correlation",
+    "start": 210.319,
+    "duration": 7.321
+  },
+  {
+    "text": "since the top in 2021 2022 okay um so",
+    "start": 211.959,
+    "duration": 7.881
+  },
+  {
+    "text": "this is something where I Look to to buy",
+    "start": 217.64,
+    "duration": 4.36
+  },
+  {
+    "text": "actually buy this breakout okay yeah it",
+    "start": 219.84,
+    "duration": 3.959
+  },
+  {
+    "text": "might you know you might have some type",
+    "start": 222.0,
+    "duration": 5.84
+  },
+  {
+    "text": "of a a fake out um where you know maybe",
+    "start": 223.799,
+    "duration": 6.321
+  },
+  {
+    "text": "it breaks out and then it it comes back",
+    "start": 227.84,
+    "duration": 3.679
+  },
+  {
+    "text": "and then it keeps going or even it",
+    "start": 230.12,
+    "duration": 3.44
+  },
+  {
+    "text": "breaks out and then comes back lower all",
+    "start": 231.519,
+    "duration": 4.8
+  },
+  {
+    "text": "right it's still it's still a good from",
+    "start": 233.56,
+    "duration": 6.239
+  },
+  {
+    "text": "my perspective a risk reward um setup to",
+    "start": 236.319,
+    "duration": 7.521
+  },
+  {
+    "text": "to own um TLT or even a triple levered",
+    "start": 239.799,
+    "duration": 8.201
+  },
+  {
+    "text": "um ETF base OD TLT you know um and if we",
+    "start": 243.84,
+    "duration": 6.039
+  },
+  {
+    "text": "were to get you know if let's say this",
+    "start": 248.0,
+    "duration": 4.319
+  },
+  {
+    "text": "resistance holds and we get a drop so it",
+    "start": 249.879,
+    "duration": 4.121
+  },
+  {
+    "text": "would look something like",
+    "start": 252.319,
+    "duration": 6.2
+  },
+  {
+    "text": "this uh let's see like this right and",
+    "start": 254.0,
+    "duration": 6.12
+  },
+  {
+    "text": "then we start to Rally you know this is",
+    "start": 258.519,
+    "duration": 3.12
+  },
+  {
+    "text": "a situation where I would probably get",
+    "start": 260.12,
+    "duration": 3.639
+  },
+  {
+    "text": "aggressive with call options okay all",
+    "start": 261.639,
+    "duration": 3.56
+  },
+  {
+    "text": "right so those are the short-term",
+    "start": 263.759,
+    "duration": 4.081
+  },
+  {
+    "text": "factors or outlooks rather now let me",
+    "start": 265.199,
+    "duration": 4.56
+  },
+  {
+    "text": "show you what I'm looking at on a long",
+    "start": 267.84,
+    "duration": 4.28
+  },
+  {
+    "text": "term all right uh and this is getting a",
+    "start": 269.759,
+    "duration": 4.16
+  },
+  {
+    "text": "little bit more into the weed in terms",
+    "start": 272.12,
+    "duration": 5.24
+  },
+  {
+    "text": "of um Elliot wave and things like that",
+    "start": 273.919,
+    "duration": 6.28
+  },
+  {
+    "text": "but I think this is worth pointing out",
+    "start": 277.36,
+    "duration": 6.64
+  },
+  {
+    "text": "in terms of you know a long-term Outlook",
+    "start": 280.199,
+    "duration": 6.161
+  },
+  {
+    "text": "and so from here you can see this is",
+    "start": 284.0,
+    "duration": 4.84
+  },
+  {
+    "text": "going all the way back to 2006 all right",
+    "start": 286.36,
+    "duration": 5.04
+  },
+  {
+    "text": "and you had this not a steady steady",
+    "start": 288.84,
+    "duration": 4.84
+  },
+  {
+    "text": "uptrend but bonds for the most part",
+    "start": 291.4,
+    "duration": 4.56
+  },
+  {
+    "text": "rallied you know inflation was at near",
+    "start": 293.68,
+    "duration": 4.88
+  },
+  {
+    "text": "2% obviously that that shifted a little",
+    "start": 295.96,
+    "duration": 4.88
+  },
+  {
+    "text": "bit okay but you know everything was",
+    "start": 298.56,
+    "duration": 4.0
+  },
+  {
+    "text": "kind of boring if you will all right we",
+    "start": 300.84,
+    "duration": 4.12
+  },
+  {
+    "text": "obviously had to run up into covid and",
+    "start": 302.56,
+    "duration": 4.04
+  },
+  {
+    "text": "you know the mistakes that the Federal",
+    "start": 304.96,
+    "duration": 3.36
+  },
+  {
+    "text": "Reserve treasury government in general",
+    "start": 306.6,
+    "duration": 5.0
+  },
+  {
+    "text": "made uh by printing gazillions of",
+    "start": 308.32,
+    "duration": 4.76
+  },
+  {
+    "text": "dollars trillions and trillions of",
+    "start": 311.6,
+    "duration": 3.2
+  },
+  {
+    "text": "dollars into the economy that resulted",
+    "start": 313.08,
+    "duration": 3.119
+  },
+  {
+    "text": "in inflation which is why we're here",
+    "start": 314.8,
+    "duration": 3.88
+  },
+  {
+    "text": "right now all right and you can see this",
+    "start": 316.199,
+    "duration": 4.681
+  },
+  {
+    "text": "reflected uh in the price of bonds all",
+    "start": 318.68,
+    "duration": 4.44
+  },
+  {
+    "text": "right so let's take it from the top and",
+    "start": 320.88,
+    "duration": 4.52
+  },
+  {
+    "text": "you can see here that I have um you know",
+    "start": 323.12,
+    "duration": 7.639
+  },
+  {
+    "text": "a larger 1 2 3 4 You know is this low",
+    "start": 325.4,
+    "duration": 10.28
+  },
+  {
+    "text": "okay from last year um the low now",
+    "start": 330.759,
+    "duration": 6.641
+  },
+  {
+    "text": "that's always a hard thing to do when",
+    "start": 335.68,
+    "duration": 4.16
+  },
+  {
+    "text": "we've had you know a what three foure",
+    "start": 337.4,
+    "duration": 4.88
+  },
+  {
+    "text": "Trend downtrend okay is to say this is",
+    "start": 339.84,
+    "duration": 4.56
+  },
+  {
+    "text": "going to be the exact low but so I like",
+    "start": 342.28,
+    "duration": 4.28
+  },
+  {
+    "text": "to have a little bit of a conservative",
+    "start": 344.4,
+    "duration": 4.2
+  },
+  {
+    "text": "Outlook and say all right at a minimum",
+    "start": 346.56,
+    "duration": 4.199
+  },
+  {
+    "text": "what could we look for and at a minimum",
+    "start": 348.6,
+    "duration": 4.12
+  },
+  {
+    "text": "and this is something I outlined",
+    "start": 350.759,
+    "duration": 6.16
+  },
+  {
+    "text": "to um subscribers earlier on Monday is",
+    "start": 352.72,
+    "duration": 5.8
+  },
+  {
+    "text": "that you know we could have this move",
+    "start": 356.919,
+    "duration": 4.0
+  },
+  {
+    "text": "here in blue which is just a minimum",
+    "start": 358.52,
+    "duration": 6.799
+  },
+  {
+    "text": "move of around 15% in TLT it rallies up",
+    "start": 360.919,
+    "duration": 6.241
+  },
+  {
+    "text": "you know and then you kind of you worry",
+    "start": 365.319,
+    "duration": 3.521
+  },
+  {
+    "text": "about what happens afterwards but to",
+    "start": 367.16,
+    "duration": 3.479
+  },
+  {
+    "text": "take advantage of that of this long",
+    "start": 368.84,
+    "duration": 4.759
+  },
+  {
+    "text": "setup is pretty good all right so what I",
+    "start": 370.639,
+    "duration": 6.68
+  },
+  {
+    "text": "also want to show you is how um this",
+    "start": 373.599,
+    "duration": 7.561
+  },
+  {
+    "text": "could look uh if if the conservative",
+    "start": 377.319,
+    "duration": 7.681
+  },
+  {
+    "text": "move um isn't there so and this would be",
+    "start": 381.16,
+    "duration": 6.0
+  },
+  {
+    "text": "something like this one two this is the",
+    "start": 385.0,
+    "duration": 4.96
+  },
+  {
+    "text": "bottom of a three okay and then this is",
+    "start": 387.16,
+    "duration": 5.319
+  },
+  {
+    "text": "a four yeah and then maybe we get um you",
+    "start": 389.96,
+    "duration": 5.519
+  },
+  {
+    "text": "know a bigger five wave moved down into",
+    "start": 392.479,
+    "duration": 6.321
+  },
+  {
+    "text": "you know call it um sometime in 2025",
+    "start": 395.479,
+    "duration": 5.321
+  },
+  {
+    "text": "after the election who knows okay that",
+    "start": 398.8,
+    "duration": 3.399
+  },
+  {
+    "text": "would be the more that would be the",
+    "start": 400.8,
+    "duration": 3.0
+  },
+  {
+    "text": "conservative look the other thing and",
+    "start": 402.199,
+    "duration": 3.601
+  },
+  {
+    "text": "you can see here I have these two red",
+    "start": 403.8,
+    "duration": 5.239
+  },
+  {
+    "text": "boxes is that these would be bigger",
+    "start": 405.8,
+    "duration": 5.119
+  },
+  {
+    "text": "bigger resistance levels where we could",
+    "start": 409.039,
+    "duration": 3.761
+  },
+  {
+    "text": "actually see something like this this",
+    "start": 410.919,
+    "duration": 4.361
+  },
+  {
+    "text": "happen Okay where you actually get a",
+    "start": 412.8,
+    "duration": 4.679
+  },
+  {
+    "text": "much bigger move that confirms the",
+    "start": 415.28,
+    "duration": 4.759
+  },
+  {
+    "text": "bottom okay that would be important so",
+    "start": 417.479,
+    "duration": 4.16
+  },
+  {
+    "text": "this would be a five and then this could",
+    "start": 420.039,
+    "duration": 4.16
+  },
+  {
+    "text": "start a 1 two 3 so it would look",
+    "start": 421.639,
+    "duration": 3.881
+  },
+  {
+    "text": "something like",
+    "start": 424.199,
+    "duration": 4.361
+  },
+  {
+    "text": "this let me uh just want to show you so",
+    "start": 425.52,
+    "duration": 6.76
+  },
+  {
+    "text": "we can so this would be",
+    "start": 428.56,
+    "duration": 5.44
+  },
+  {
+    "text": "one",
+    "start": 432.28,
+    "duration": 4.639
+  },
+  {
+    "text": "two and then we have a big third wave",
+    "start": 434.0,
+    "duration": 3.759
+  },
+  {
+    "text": "move",
+    "start": 436.919,
+    "duration": 3.761
+  },
+  {
+    "text": "up okay and then you know it look",
+    "start": 437.759,
+    "duration": 5.801
+  },
+  {
+    "text": "something like that where um we actually",
+    "start": 440.68,
+    "duration": 5.84
+  },
+  {
+    "text": "do see the bottom in interest rates and",
+    "start": 443.56,
+    "duration": 4.96
+  },
+  {
+    "text": "this would obviously be a huge Boon for",
+    "start": 446.52,
+    "duration": 3.959
+  },
+  {
+    "text": "stocks okay now now the other side of",
+    "start": 448.52,
+    "duration": 4.88
+  },
+  {
+    "text": "the argument is that if inflation is",
+    "start": 450.479,
+    "duration": 5.16
+  },
+  {
+    "text": "actually starting to come down uh and",
+    "start": 453.4,
+    "duration": 3.56
+  },
+  {
+    "text": "you know maybe the Federal Reserve",
+    "start": 455.639,
+    "duration": 2.801
+  },
+  {
+    "text": "starts cutting interest rates you know",
+    "start": 456.96,
+    "duration": 2.959
+  },
+  {
+    "text": "well this is a sign that the economy may",
+    "start": 458.44,
+    "duration": 4.0
+  },
+  {
+    "text": "be weaking 100% agree with that I I",
+    "start": 459.919,
+    "duration": 4.801
+  },
+  {
+    "text": "don't doubt that for a second but that's",
+    "start": 462.44,
+    "duration": 4.68
+  },
+  {
+    "text": "probably 12 to 18 months out so what we",
+    "start": 464.72,
+    "duration": 4.4
+  },
+  {
+    "text": "would have in the beginning is saying",
+    "start": 467.12,
+    "duration": 4.039
+  },
+  {
+    "text": "hey you know interest rate environment",
+    "start": 469.12,
+    "duration": 4.16
+  },
+  {
+    "text": "has actually changed this is going to be",
+    "start": 471.159,
+    "duration": 4.081
+  },
+  {
+    "text": "good at least in the short term because",
+    "start": 473.28,
+    "duration": 3.16
+  },
+  {
+    "text": "interest rates are going to come down",
+    "start": 475.24,
+    "duration": 2.72
+  },
+  {
+    "text": "and stocks are going to get positive to",
+    "start": 476.44,
+    "duration": 4.96
+  },
+  {
+    "text": "that now after a few months 6 months 12",
+    "start": 477.96,
+    "duration": 5.88
+  },
+  {
+    "text": "months whatever it might be if indeed",
+    "start": 481.4,
+    "duration": 4.079
+  },
+  {
+    "text": "inflation is coming down because the",
+    "start": 483.84,
+    "duration": 4.759
+  },
+  {
+    "text": "economy is is cooling off and not uh as",
+    "start": 485.479,
+    "duration": 5.241
+  },
+  {
+    "text": "robust as some might think yes that's",
+    "start": 488.599,
+    "duration": 4.72
+  },
+  {
+    "text": "when you see an increase in a bond",
+    "start": 490.72,
+    "duration": 4.919
+  },
+  {
+    "text": "prices probably start to be priced into",
+    "start": 493.319,
+    "duration": 4.481
+  },
+  {
+    "text": "stocks like hey this is actually a bad",
+    "start": 495.639,
+    "duration": 4.441
+  },
+  {
+    "text": "thing but in the short term this is what",
+    "start": 497.8,
+    "duration": 3.959
+  },
+  {
+    "text": "I'm looking at just in terms of a",
+    "start": 500.08,
+    "duration": 5.28
+  },
+  {
+    "text": "trading setup um that I think is worth",
+    "start": 501.759,
+    "duration": 5.761
+  },
+  {
+    "text": "noting so we we we looked at the",
+    "start": 505.36,
+    "duration": 3.76
+  },
+  {
+    "text": "short-term setup you know if it starts",
+    "start": 507.52,
+    "duration": 3.119
+  },
+  {
+    "text": "breaking above those resistance",
+    "start": 509.12,
+    "duration": 3.56
+  },
+  {
+    "text": "resistance levels that could be a flood",
+    "start": 510.639,
+    "duration": 3.4
+  },
+  {
+    "text": "into bonds which would be good for",
+    "start": 512.68,
+    "duration": 3.479
+  },
+  {
+    "text": "stocks and in the long term I've out",
+    "start": 514.039,
+    "duration": 4.48
+  },
+  {
+    "text": "I've outlined the conservative count uh",
+    "start": 516.159,
+    "duration": 4.081
+  },
+  {
+    "text": "as long as a more aggressive count about",
+    "start": 518.519,
+    "duration": 3.841
+  },
+  {
+    "text": "how to look for um more upside on",
+    "start": 520.24,
+    "duration": 4.32
+  },
+  {
+    "text": "bondage prices so we'll see what happens",
+    "start": 522.36,
+    "duration": 4.039
+  },
+  {
+    "text": "with um all the rest of inflation data",
+    "start": 524.56,
+    "duration": 3.0
+  },
+  {
+    "text": "this week and then obviously how the",
+    "start": 526.399,
+    "duration": 2.961
+  },
+  {
+    "text": "Federal Reserve reacts to this but this",
+    "start": 527.56,
+    "duration": 4.2
+  },
+  {
+    "text": "is a setup I'm looking for to trade uh",
+    "start": 529.36,
+    "duration": 5.85
+  },
+  {
+    "text": "over the next couple months thank you",
+    "start": 531.76,
+    "duration": 6.57
+  },
+  {
+    "text": "[Music]",
+    "start": 535.21,
+    "duration": 3.12
+  }
+]

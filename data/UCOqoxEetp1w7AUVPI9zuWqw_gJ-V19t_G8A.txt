@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Do you need capsules for your gold coins?\u00a0\nWell the answer depends on a few things.\u00a0\u00a0",
+    "start": 0.08,
+    "duration": 4.36
+  },
+  {
+    "text": "If you're worried about any potential\u00a0\nding, any potential scratch, then yes,\u00a0\u00a0",
+    "start": 4.44,
+    "duration": 4.68
+  },
+  {
+    "text": "you need capsules. Collectible coins like\u00a0\nthese Lunars back here from the Perth Mint\u00a0\u00a0",
+    "start": 9.12,
+    "duration": 4.24
+  },
+  {
+    "text": "should always be kept in a capsule. They actually\u00a0\nship that way. With standard bullion, though, it's\u00a0\u00a0",
+    "start": 13.36,
+    "duration": 5.36
+  },
+  {
+    "text": "really up to you. If you've ever seen a coin shop\u00a0\nowner handle gold coins, it's a bit like that. It\u00a0\u00a0",
+    "start": 18.72,
+    "duration": 5.0
+  },
+  {
+    "text": "might make your eye twitch the first time or two,\u00a0\nbut these American Gold Eagles are 22 karat gold,\u00a0\u00a0",
+    "start": 23.72,
+    "duration": 5.24
+  },
+  {
+    "text": "so we can splash them a little bit without dinging\u00a0\nthe coins. I'm a little bit more careful with my\u00a0\u00a0",
+    "start": 28.96,
+    "duration": 4.68
+  },
+  {
+    "text": "24 karat Gold Buffalos, but I still keep them in\u00a0\nmint tubes rather than individual capsules. So\u00a0\u00a0",
+    "start": 33.64,
+    "duration": 5.68
+  },
+  {
+    "text": "the simple answer is that I keep my American\u00a0\ngold bullion in mint tubes but no capsules,\u00a0\u00a0",
+    "start": 39.32,
+    "duration": 4.08
+  },
+  {
+    "text": "and I keep any collectible coin or coin that's\u00a0\neasily scratched in a capsule. A Krugerrand or\u00a0\u00a0",
+    "start": 43.4,
+    "duration": 5.48
+  },
+  {
+    "text": "a Centenario, I would leave out. A gold\u00a0\nMaple Leaf or proof Libertad I would put\u00a0\u00a0",
+    "start": 48.88,
+    "duration": 4.0
+  },
+  {
+    "text": "in a capsule. Pretty easy. The only downside I\u00a0\nguess is that splashing them just isn't as fun.",
+    "start": 52.88,
+    "duration": 5.32
+  }
+]

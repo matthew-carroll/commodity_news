@@ -1,0 +1,3287 @@
+[
+  {
+    "text": "hey everyone I'm Jeremy Safford and this",
+    "start": 0.52,
+    "duration": 2.84
+  },
+  {
+    "text": "is kit code news don't forget to hit",
+    "start": 1.8,
+    "duration": 2.999
+  },
+  {
+    "text": "that subscribe button if you haven't",
+    "start": 3.36,
+    "duration": 3.2
+  },
+  {
+    "text": "already well last month the core",
+    "start": 4.799,
+    "duration": 3.681
+  },
+  {
+    "text": "personal consumption expenditure or the",
+    "start": 6.56,
+    "duration": 4.68
+  },
+  {
+    "text": "pce price index which again strips out",
+    "start": 8.48,
+    "duration": 5.199
+  },
+  {
+    "text": "food and energy costs it's also data",
+    "start": 11.24,
+    "duration": 4.279
+  },
+  {
+    "text": "that the FED watch has VAR closely",
+    "start": 13.679,
+    "duration": 5.081
+  },
+  {
+    "text": "ticked up just. 2% last month marking",
+    "start": 15.519,
+    "duration": 5.84
+  },
+  {
+    "text": "the smallest gain this year meanwhile",
+    "start": 18.76,
+    "duration": 4.519
+  },
+  {
+    "text": "consumer spending dipped unexpectedly",
+    "start": 21.359,
+    "duration": 3.641
+  },
+  {
+    "text": "indicating a possible pullback in",
+    "start": 23.279,
+    "duration": 3.76
+  },
+  {
+    "text": "economic confidence that Traders are",
+    "start": 25.0,
+    "duration": 4.16
+  },
+  {
+    "text": "watching data very closely here giving",
+    "start": 27.039,
+    "duration": 3.961
+  },
+  {
+    "text": "some hope of a cut before the end of the",
+    "start": 29.16,
+    "duration": 3.239
+  },
+  {
+    "text": "year so what does this mean for your",
+    "start": 31.0,
+    "duration": 3.12
+  },
+  {
+    "text": "Investments and is it time to brace for",
+    "start": 32.399,
+    "duration": 4.401
+  },
+  {
+    "text": "a Slowdown or is this an opportune",
+    "start": 34.12,
+    "duration": 4.84
+  },
+  {
+    "text": "moment to adjust your portfolio well",
+    "start": 36.8,
+    "duration": 3.32
+  },
+  {
+    "text": "that brings us our next guest",
+    "start": 38.96,
+    "duration": 2.96
+  },
+  {
+    "text": "Christopher Mulan founder and chief",
+    "start": 40.12,
+    "duration": 3.56
+  },
+  {
+    "text": "Market strategist of the technical",
+    "start": 41.92,
+    "duration": 4.119
+  },
+  {
+    "text": "traders now Chris often uh highlights",
+    "start": 43.68,
+    "duration": 4.08
+  },
+  {
+    "text": "the pitfalls of overreacting to",
+    "start": 46.039,
+    "duration": 3.441
+  },
+  {
+    "text": "immediate economic data arguing",
+    "start": 47.76,
+    "duration": 3.0
+  },
+  {
+    "text": "investors should be looking at the",
+    "start": 49.48,
+    "duration": 3.52
+  },
+  {
+    "text": "long-term picture here hey Chris welcome",
+    "start": 50.76,
+    "duration": 4.52
+  },
+  {
+    "text": "back to the show hey thanks Jeremy",
+    "start": 53.0,
+    "duration": 4.559
+  },
+  {
+    "text": "always a pleasure yeah let's uh let's",
+    "start": 55.28,
+    "duration": 3.56
+  },
+  {
+    "text": "talk about this a little bit let's get",
+    "start": 57.559,
+    "duration": 3.0
+  },
+  {
+    "text": "into the economic data you know we",
+    "start": 58.84,
+    "duration": 4.199
+  },
+  {
+    "text": "showed a cooling in the core pce and a",
+    "start": 60.559,
+    "duration": 4.92
+  },
+  {
+    "text": "small downturn in consumer spinning you",
+    "start": 63.039,
+    "duration": 4.4
+  },
+  {
+    "text": "know there seems to be mixed signals in",
+    "start": 65.479,
+    "duration": 3.921
+  },
+  {
+    "text": "the market some say the markets are a",
+    "start": 67.439,
+    "duration": 3.961
+  },
+  {
+    "text": "little too quick to price in multiple",
+    "start": 69.4,
+    "duration": 4.399
+  },
+  {
+    "text": "Cuts how do you interpret this data in",
+    "start": 71.4,
+    "duration": 4.039
+  },
+  {
+    "text": "relation to the overall Market Health",
+    "start": 73.799,
+    "duration": 4.481
+  },
+  {
+    "text": "here Chris yeah I I believe the the",
+    "start": 75.439,
+    "duration": 4.68
+  },
+  {
+    "text": "general public or General market",
+    "start": 78.28,
+    "duration": 3.839
+  },
+  {
+    "text": "participants are are always way too",
+    "start": 80.119,
+    "duration": 4.121
+  },
+  {
+    "text": "sensitive way too jumpy in terms of",
+    "start": 82.119,
+    "duration": 4.241
+  },
+  {
+    "text": "piece of news comes out and and they",
+    "start": 84.24,
+    "duration": 3.72
+  },
+  {
+    "text": "overreact and I think we're seeing some",
+    "start": 86.36,
+    "duration": 3.719
+  },
+  {
+    "text": "selling today or as you and I recording",
+    "start": 87.96,
+    "duration": 3.799
+  },
+  {
+    "text": "this people are a little worried about",
+    "start": 90.079,
+    "duration": 3.881
+  },
+  {
+    "text": "that number coming out and um it's I",
+    "start": 91.759,
+    "duration": 4.32
+  },
+  {
+    "text": "think it's just an overreaction uh the",
+    "start": 93.96,
+    "duration": 3.92
+  },
+  {
+    "text": "underlying trend for the stock market is",
+    "start": 96.079,
+    "duration": 4.68
+  },
+  {
+    "text": "still to the upside right now I do feel",
+    "start": 97.88,
+    "duration": 5.16
+  },
+  {
+    "text": "like it's kind of on its last legs but I",
+    "start": 100.759,
+    "duration": 4.281
+  },
+  {
+    "text": "I never really get too excited about any",
+    "start": 103.04,
+    "duration": 3.88
+  },
+  {
+    "text": "move that happens around news even if",
+    "start": 105.04,
+    "duration": 3.96
+  },
+  {
+    "text": "it's in favor of of what we want whether",
+    "start": 106.92,
+    "duration": 4.4
+  },
+  {
+    "text": "it's higher or lower just because it's",
+    "start": 109.0,
+    "duration": 4.84
+  },
+  {
+    "text": "an emotional move it's alos it's just a",
+    "start": 111.32,
+    "duration": 4.759
+  },
+  {
+    "text": "bunch of people trading around the news",
+    "start": 113.84,
+    "duration": 3.959
+  },
+  {
+    "text": "trying to think that they can outsmart",
+    "start": 116.079,
+    "duration": 3.96
+  },
+  {
+    "text": "it or know what's going on so anything",
+    "start": 117.799,
+    "duration": 3.96
+  },
+  {
+    "text": "around news you really just have to like",
+    "start": 120.039,
+    "duration": 3.801
+  },
+  {
+    "text": "give it a day or three let the dust",
+    "start": 121.759,
+    "duration": 5.0
+  },
+  {
+    "text": "settle versus get caught up in in the in",
+    "start": 123.84,
+    "duration": 4.96
+  },
+  {
+    "text": "the news which I consider you know",
+    "start": 126.759,
+    "duration": 4.361
+  },
+  {
+    "text": "economic data and and a lot of that",
+    "start": 128.8,
+    "duration": 4.12
+  },
+  {
+    "text": "stuff can be a lot of noise especially",
+    "start": 131.12,
+    "duration": 3.08
+  },
+  {
+    "text": "if you get a lot of different opinions",
+    "start": 132.92,
+    "duration": 3.599
+  },
+  {
+    "text": "out there um you kind of get analysis",
+    "start": 134.2,
+    "duration": 4.119
+  },
+  {
+    "text": "paralysis so you kind of have to step",
+    "start": 136.519,
+    "duration": 3.8
+  },
+  {
+    "text": "back and I'm a I'm a technical analyst",
+    "start": 138.319,
+    "duration": 3.801
+  },
+  {
+    "text": "so I like to follow price and price is",
+    "start": 140.319,
+    "duration": 3.2
+  },
+  {
+    "text": "going to tell us whether we need to",
+    "start": 142.12,
+    "duration": 3.96
+  },
+  {
+    "text": "beong stay long or or you know bet on",
+    "start": 143.519,
+    "duration": 4.921
+  },
+  {
+    "text": "the downside right well I mean when we",
+    "start": 146.08,
+    "duration": 4.4
+  },
+  {
+    "text": "look at it on the one side we have",
+    "start": 148.44,
+    "duration": 3.68
+  },
+  {
+    "text": "consumer spending slowing down though",
+    "start": 150.48,
+    "duration": 3.64
+  },
+  {
+    "text": "and you know this could be seen as a bit",
+    "start": 152.12,
+    "duration": 3.72
+  },
+  {
+    "text": "of a warning signal of a potential",
+    "start": 154.12,
+    "duration": 3.6
+  },
+  {
+    "text": "slowdown but on the other hand it might",
+    "start": 155.84,
+    "duration": 3.759
+  },
+  {
+    "text": "provide the market with this necessary",
+    "start": 157.72,
+    "duration": 3.76
+  },
+  {
+    "text": "adjustment period so what's your",
+    "start": 159.599,
+    "duration": 3.521
+  },
+  {
+    "text": "perspective on this you know do you view",
+    "start": 161.48,
+    "duration": 3.759
+  },
+  {
+    "text": "it as a cause for caution or is it time",
+    "start": 163.12,
+    "duration": 3.039
+  },
+  {
+    "text": "to",
+    "start": 165.239,
+    "duration": 3.08
+  },
+  {
+    "text": "recalibrate I I definitely think things",
+    "start": 166.159,
+    "duration": 3.72
+  },
+  {
+    "text": "are slowing down I mean we can look at a",
+    "start": 168.319,
+    "duration": 3.521
+  },
+  {
+    "text": "couple different charts here that that",
+    "start": 169.879,
+    "duration": 4.521
+  },
+  {
+    "text": "actually show it very well if we take a",
+    "start": 171.84,
+    "duration": 7.039
+  },
+  {
+    "text": "look at um at at this this unemployment",
+    "start": 174.4,
+    "duration": 6.44
+  },
+  {
+    "text": "chart so this is like a 24mon moving",
+    "start": 178.879,
+    "duration": 3.561
+  },
+  {
+    "text": "average and more or less whenever the",
+    "start": 180.84,
+    "duration": 3.56
+  },
+  {
+    "text": "moving the the unemployment starts to",
+    "start": 182.44,
+    "duration": 4.96
+  },
+  {
+    "text": "move up uh past one of these red lines",
+    "start": 184.4,
+    "duration": 6.0
+  },
+  {
+    "text": "here we we tend to have some type of",
+    "start": 187.4,
+    "duration": 5.559
+  },
+  {
+    "text": "recession financial crisis of some sort",
+    "start": 190.4,
+    "duration": 4.72
+  },
+  {
+    "text": "and so we have done that and it makes",
+    "start": 192.959,
+    "duration": 3.601
+  },
+  {
+    "text": "sense because people are starting to get",
+    "start": 195.12,
+    "duration": 3.08
+  },
+  {
+    "text": "unemployed so spending is going to go",
+    "start": 196.56,
+    "duration": 4.2
+  },
+  {
+    "text": "down um another another really key piece",
+    "start": 198.2,
+    "duration": 4.759
+  },
+  {
+    "text": "of data here is you know there was a",
+    "start": 200.76,
+    "duration": 4.399
+  },
+  {
+    "text": "huge amount of excess Savings in",
+    "start": 202.959,
+    "duration": 4.881
+  },
+  {
+    "text": "people's bank accounts uh going in from",
+    "start": 205.159,
+    "duration": 4.8
+  },
+  {
+    "text": "covid there was a huge bubble everybody",
+    "start": 207.84,
+    "duration": 4.759
+  },
+  {
+    "text": "done had had done very well but now",
+    "start": 209.959,
+    "duration": 4.761
+  },
+  {
+    "text": "we're actually there's less Savings in",
+    "start": 212.599,
+    "duration": 4.321
+  },
+  {
+    "text": "bank accounts than there was preco so",
+    "start": 214.72,
+    "duration": 4.4
+  },
+  {
+    "text": "people have burned through their Capital",
+    "start": 216.92,
+    "duration": 4.16
+  },
+  {
+    "text": "they have been living the High Life",
+    "start": 219.12,
+    "duration": 3.24
+  },
+  {
+    "text": "thinking things are going to stay really",
+    "start": 221.08,
+    "duration": 3.32
+  },
+  {
+    "text": "good for a long time the reality is",
+    "start": 222.36,
+    "duration": 3.68
+  },
+  {
+    "text": "people are running out of money this is",
+    "start": 224.4,
+    "duration": 3.24
+  },
+  {
+    "text": "probably why consumer spending is",
+    "start": 226.04,
+    "duration": 3.36
+  },
+  {
+    "text": "starting to go down we're going to see a",
+    "start": 227.64,
+    "duration": 4.2
+  },
+  {
+    "text": "down tick um and we're probably going to",
+    "start": 229.4,
+    "duration": 4.0
+  },
+  {
+    "text": "see you know credit and debt start to",
+    "start": 231.84,
+    "duration": 4.0
+  },
+  {
+    "text": "rise which there's big interest rates",
+    "start": 233.4,
+    "duration": 4.399
+  },
+  {
+    "text": "all these things are very slow moving",
+    "start": 235.84,
+    "duration": 4.0
+  },
+  {
+    "text": "indicators telling us that though",
+    "start": 237.799,
+    "duration": 4.44
+  },
+  {
+    "text": "economy to me is slowing and spending is",
+    "start": 239.84,
+    "duration": 4.52
+  },
+  {
+    "text": "going to slow which means lower sales",
+    "start": 242.239,
+    "duration": 4.521
+  },
+  {
+    "text": "for companies earnings go down and it's",
+    "start": 244.36,
+    "duration": 4.28
+  },
+  {
+    "text": "a a b big Vicious Circle eventually",
+    "start": 246.76,
+    "duration": 4.28
+  },
+  {
+    "text": "layoffs real estate goes down right so",
+    "start": 248.64,
+    "duration": 4.76
+  },
+  {
+    "text": "it's this huge um uh kind of",
+    "start": 251.04,
+    "duration": 4.08
+  },
+  {
+    "text": "everything's tied together but these",
+    "start": 253.4,
+    "duration": 4.72
+  },
+  {
+    "text": "things really stand out in terms of why",
+    "start": 255.12,
+    "duration": 5.359
+  },
+  {
+    "text": "maybe spending is starting to go down",
+    "start": 258.12,
+    "duration": 3.959
+  },
+  {
+    "text": "and uh with inflation I mean this",
+    "start": 260.479,
+    "duration": 3.361
+  },
+  {
+    "text": "definitely hurts people's bank accounts",
+    "start": 262.079,
+    "duration": 3.041
+  },
+  {
+    "text": "you can't buy nearly as much as you",
+    "start": 263.84,
+    "duration": 2.919
+  },
+  {
+    "text": "could a few years ago with the same",
+    "start": 265.12,
+    "duration": 3.68
+  },
+  {
+    "text": "dollar yeah no a lot of people are",
+    "start": 266.759,
+    "duration": 4.241
+  },
+  {
+    "text": "struggling right now uh you know you've",
+    "start": 268.8,
+    "duration": 3.6
+  },
+  {
+    "text": "talking about the technical side you've",
+    "start": 271.0,
+    "duration": 2.96
+  },
+  {
+    "text": "always kind of emphasized the",
+    "start": 272.4,
+    "duration": 3.44
+  },
+  {
+    "text": "significance of long-term charts you",
+    "start": 273.96,
+    "duration": 4.12
+  },
+  {
+    "text": "know such as monthly and weekly we keep",
+    "start": 275.84,
+    "duration": 4.12
+  },
+  {
+    "text": "talking about this economic narrative we",
+    "start": 278.08,
+    "duration": 4.88
+  },
+  {
+    "text": "get so much of it every day uh talk to",
+    "start": 279.96,
+    "duration": 4.4
+  },
+  {
+    "text": "me a little bit why you look at these",
+    "start": 282.96,
+    "duration": 3.56
+  },
+  {
+    "text": "longer terms instead of maybe a daily or",
+    "start": 284.36,
+    "duration": 4.6
+  },
+  {
+    "text": "an intraday chart and is this how you",
+    "start": 286.52,
+    "duration": 4.04
+  },
+  {
+    "text": "kind of cut through that noise that we",
+    "start": 288.96,
+    "duration": 4.12
+  },
+  {
+    "text": "talked about yeah I think it's really",
+    "start": 290.56,
+    "duration": 4.52
+  },
+  {
+    "text": "important to look at the long-term chart",
+    "start": 293.08,
+    "duration": 4.0
+  },
+  {
+    "text": "so uh we could look at the weekly chart",
+    "start": 295.08,
+    "duration": 5.399
+  },
+  {
+    "text": "of the SP 500 and I like to look at the",
+    "start": 297.08,
+    "duration": 5.24
+  },
+  {
+    "text": "stock market uh prettyy much every",
+    "start": 300.479,
+    "duration": 5.44
+  },
+  {
+    "text": "Market as as a an ocean tide if the",
+    "start": 302.32,
+    "duration": 5.36
+  },
+  {
+    "text": "Tide's going up it lifts all boats if",
+    "start": 305.919,
+    "duration": 3.56
+  },
+  {
+    "text": "it's going down most boats go down and",
+    "start": 307.68,
+    "duration": 3.76
+  },
+  {
+    "text": "the key this is the weekly chart of the",
+    "start": 309.479,
+    "duration": 4.961
+  },
+  {
+    "text": "the SP 500 the key is to identify when",
+    "start": 311.44,
+    "duration": 4.84
+  },
+  {
+    "text": "the overall tide is going up that's when",
+    "start": 314.44,
+    "duration": 4.28
+  },
+  {
+    "text": "you want to own equities When the tide",
+    "start": 316.28,
+    "duration": 4.8
+  },
+  {
+    "text": "is naturally going down you want to be",
+    "start": 318.72,
+    "duration": 4.8
+  },
+  {
+    "text": "very defensive and probably not in",
+    "start": 321.08,
+    "duration": 4.76
+  },
+  {
+    "text": "equities and we're back into a rising",
+    "start": 323.52,
+    "duration": 4.519
+  },
+  {
+    "text": "tide environment right now now this is",
+    "start": 325.84,
+    "duration": 4.4
+  },
+  {
+    "text": "for the large cap stock this is like the",
+    "start": 328.039,
+    "duration": 5.361
+  },
+  {
+    "text": "sp500 the NASDAQ uh there was a very",
+    "start": 330.24,
+    "duration": 5.239
+  },
+  {
+    "text": "different picture being painted with the",
+    "start": 333.4,
+    "duration": 4.76
+  },
+  {
+    "text": "Russell 2000 uh and the majority of",
+    "start": 335.479,
+    "duration": 4.921
+  },
+  {
+    "text": "sectors that actually uh show a much",
+    "start": 338.16,
+    "duration": 4.599
+  },
+  {
+    "text": "more bearish picture and that's because",
+    "start": 340.4,
+    "duration": 4.0
+  },
+  {
+    "text": "they're much more sensitive they usually",
+    "start": 342.759,
+    "duration": 4.321
+  },
+  {
+    "text": "top out and reverse well before the",
+    "start": 344.4,
+    "duration": 4.84
+  },
+  {
+    "text": "stock market does and there's a really",
+    "start": 347.08,
+    "duration": 4.0
+  },
+  {
+    "text": "good way that I like to visualize this",
+    "start": 349.24,
+    "duration": 4.44
+  },
+  {
+    "text": "which is through stage analysis and if",
+    "start": 351.08,
+    "duration": 4.64
+  },
+  {
+    "text": "somebody understands there's four stages",
+    "start": 353.68,
+    "duration": 5.2
+  },
+  {
+    "text": "to a market a basing stage which is a a",
+    "start": 355.72,
+    "duration": 4.919
+  },
+  {
+    "text": "sideways DM",
+    "start": 358.88,
+    "duration": 3.599
+  },
+  {
+    "text": "difficult time to make money stage two",
+    "start": 360.639,
+    "duration": 3.961
+  },
+  {
+    "text": "is a bull market stage three is a",
+    "start": 362.479,
+    "duration": 3.681
+  },
+  {
+    "text": "topping phase which is where I believe",
+    "start": 364.6,
+    "duration": 3.68
+  },
+  {
+    "text": "the markets are right now and then stage",
+    "start": 366.16,
+    "duration": 4.24
+  },
+  {
+    "text": "four is a financial reset I believe",
+    "start": 368.28,
+    "duration": 4.52
+  },
+  {
+    "text": "we're headed towards a financial reset",
+    "start": 370.4,
+    "duration": 4.359
+  },
+  {
+    "text": "uh in the next few months and there's",
+    "start": 372.8,
+    "duration": 4.72
+  },
+  {
+    "text": "some a bunch of early warning indicators",
+    "start": 374.759,
+    "duration": 4.481
+  },
+  {
+    "text": "that are starting to flash on the charts",
+    "start": 377.52,
+    "duration": 4.04
+  },
+  {
+    "text": "from a technical standpoint um that we",
+    "start": 379.24,
+    "duration": 4.0
+  },
+  {
+    "text": "are getting very close to the markets",
+    "start": 381.56,
+    "duration": 3.199
+  },
+  {
+    "text": "running out of steam and if you take a",
+    "start": 383.24,
+    "duration": 3.48
+  },
+  {
+    "text": "look at this uh Jeremy this kind of",
+    "start": 384.759,
+    "duration": 3.961
+  },
+  {
+    "text": "blowoff top move and this this this",
+    "start": 386.72,
+    "duration": 4.64
+  },
+  {
+    "text": "sideways move this complacency move I",
+    "start": 388.72,
+    "duration": 5.12
+  },
+  {
+    "text": "call it this is where a lot of people",
+    "start": 391.36,
+    "duration": 4.279
+  },
+  {
+    "text": "feel like the stock market is is",
+    "start": 393.84,
+    "duration": 3.759
+  },
+  {
+    "text": "regaining traction and that it's going",
+    "start": 395.639,
+    "duration": 4.4
+  },
+  {
+    "text": "to want to go higher the general public",
+    "start": 397.599,
+    "duration": 5.241
+  },
+  {
+    "text": "um but the reality is it's most likely",
+    "start": 400.039,
+    "duration": 5.0
+  },
+  {
+    "text": "um you know G to fail and go to the",
+    "start": 402.84,
+    "duration": 4.4
+  },
+  {
+    "text": "downside and a really good visual of",
+    "start": 405.039,
+    "duration": 5.641
+  },
+  {
+    "text": "this is actually the Russell 2000 if we",
+    "start": 407.24,
+    "duration": 5.359
+  },
+  {
+    "text": "we zoom out here on the Russell 2000",
+    "start": 410.68,
+    "duration": 4.239
+  },
+  {
+    "text": "which is a great leading indicator you",
+    "start": 412.599,
+    "duration": 5.921
+  },
+  {
+    "text": "can see it has had a very big rally um",
+    "start": 414.919,
+    "duration": 5.84
+  },
+  {
+    "text": "blowing off to the side and now it has",
+    "start": 418.52,
+    "duration": 4.72
+  },
+  {
+    "text": "this kind of complacency move that",
+    "start": 420.759,
+    "duration": 4.16
+  },
+  {
+    "text": "eventually I believe is going to fail",
+    "start": 423.24,
+    "duration": 3.88
+  },
+  {
+    "text": "and we're going to see a big correction",
+    "start": 424.919,
+    "duration": 3.801
+  },
+  {
+    "text": "and this is this is the this is that",
+    "start": 427.12,
+    "duration": 3.32
+  },
+  {
+    "text": "stage three topping phase I just showed",
+    "start": 428.72,
+    "duration": 4.28
+  },
+  {
+    "text": "you on that uh that other chart and this",
+    "start": 430.44,
+    "duration": 5.439
+  },
+  {
+    "text": "is what the majority of stocks are doing",
+    "start": 433.0,
+    "duration": 5.36
+  },
+  {
+    "text": "this the NASDAQ and the sp500 are",
+    "start": 435.879,
+    "duration": 4.88
+  },
+  {
+    "text": "hitting new all-time highs really kind",
+    "start": 438.36,
+    "duration": 4.88
+  },
+  {
+    "text": "of camouflaging what's happening behind",
+    "start": 440.759,
+    "duration": 5.72
+  },
+  {
+    "text": "the scenes AI big Tech has drifted those",
+    "start": 443.24,
+    "duration": 5.76
+  },
+  {
+    "text": "indexes to new highs making people blind",
+    "start": 446.479,
+    "duration": 5.881
+  },
+  {
+    "text": "to what the reality is of most stocks",
+    "start": 449.0,
+    "duration": 5.4
+  },
+  {
+    "text": "and the strength of the market is not",
+    "start": 452.36,
+    "duration": 3.959
+  },
+  {
+    "text": "nearly as as strong as people think and",
+    "start": 454.4,
+    "duration": 3.16
+  },
+  {
+    "text": "there it's going to be pretty rude",
+    "start": 456.319,
+    "duration": 3.88
+  },
+  {
+    "text": "awakening uh when event rolls over and",
+    "start": 457.56,
+    "duration": 5.44
+  },
+  {
+    "text": "we go into a big stage for uh decline in",
+    "start": 460.199,
+    "duration": 5.56
+  },
+  {
+    "text": "the markets right so what cycle are we",
+    "start": 463.0,
+    "duration": 4.159
+  },
+  {
+    "text": "in then I mean I hear you saying we're a",
+    "start": 465.759,
+    "duration": 2.681
+  },
+  {
+    "text": "little bit at the top of the cycle I",
+    "start": 467.159,
+    "duration": 4.04
+  },
+  {
+    "text": "mean we saw nvidia's Revenue Surge and I",
+    "start": 468.44,
+    "duration": 5.12
+  },
+  {
+    "text": "guess the question is on the mag 7 we",
+    "start": 471.199,
+    "duration": 4.921
+  },
+  {
+    "text": "looking at the S&P kind of the tech side",
+    "start": 473.56,
+    "duration": 5.039
+  },
+  {
+    "text": "AI is there a top here in that narrative",
+    "start": 476.12,
+    "duration": 5.0
+  },
+  {
+    "text": "too I mean are eventually these earnings",
+    "start": 478.599,
+    "duration": 4.32
+  },
+  {
+    "text": "just going to kind of dwindle or maybe",
+    "start": 481.12,
+    "duration": 4.72
+  },
+  {
+    "text": "stay the same yeah when it comes to AI I",
+    "start": 482.919,
+    "duration": 4.601
+  },
+  {
+    "text": "mean it's a pretty big wild card I don't",
+    "start": 485.84,
+    "duration": 4.639
+  },
+  {
+    "text": "follow AI too specifically but there's",
+    "start": 487.52,
+    "duration": 5.2
+  },
+  {
+    "text": "no doubt we are still in the infancy",
+    "start": 490.479,
+    "duration": 4.521
+  },
+  {
+    "text": "stage I mean Nvidia who knows how much",
+    "start": 492.72,
+    "duration": 4.08
+  },
+  {
+    "text": "potential it's got I mean now that AI is",
+    "start": 495.0,
+    "duration": 4.159
+  },
+  {
+    "text": "so big and requires so much power uh",
+    "start": 496.8,
+    "duration": 3.839
+  },
+  {
+    "text": "it's probably going to open the doors to",
+    "start": 499.159,
+    "duration": 3.44
+  },
+  {
+    "text": "a whole bunch of new potential video",
+    "start": 500.639,
+    "duration": 3.441
+  },
+  {
+    "text": "card companies that that are going to",
+    "start": 502.599,
+    "duration": 2.761
+  },
+  {
+    "text": "want to try and get in this space",
+    "start": 504.08,
+    "duration": 4.16
+  },
+  {
+    "text": "because it really is just beginning um",
+    "start": 505.36,
+    "duration": 4.76
+  },
+  {
+    "text": "but AI has got potential keep growing it",
+    "start": 508.24,
+    "duration": 3.679
+  },
+  {
+    "text": "might be that one sector or the one",
+    "start": 510.12,
+    "duration": 4.279
+  },
+  {
+    "text": "group of stocks that could potentially",
+    "start": 511.919,
+    "duration": 4.441
+  },
+  {
+    "text": "hold value or maybe Buck the trend and",
+    "start": 514.399,
+    "duration": 4.281
+  },
+  {
+    "text": "keep going up even if we have a market",
+    "start": 516.36,
+    "duration": 4.599
+  },
+  {
+    "text": "correction but Jeremy if we look at the",
+    "start": 518.68,
+    "duration": 4.52
+  },
+  {
+    "text": "overall stock market we've got some",
+    "start": 520.959,
+    "duration": 4.44
+  },
+  {
+    "text": "really interesting cycles that play So",
+    "start": 523.2,
+    "duration": 4.48
+  },
+  {
+    "text": "this blue cycle here is the stock market",
+    "start": 525.399,
+    "duration": 4.361
+  },
+  {
+    "text": "cycle the yellow one in the background",
+    "start": 527.68,
+    "duration": 4.0
+  },
+  {
+    "text": "is the economic cycle now the stock",
+    "start": 529.76,
+    "duration": 5.0
+  },
+  {
+    "text": "market tops out generally three six nine",
+    "start": 531.68,
+    "duration": 6.08
+  },
+  {
+    "text": "months before the economy does and what",
+    "start": 534.76,
+    "duration": 5.6
+  },
+  {
+    "text": "I want to point out here is is typically",
+    "start": 537.76,
+    "duration": 4.759
+  },
+  {
+    "text": "near the top of a stock market just",
+    "start": 540.36,
+    "duration": 4.0
+  },
+  {
+    "text": "before it's about to roll over and more",
+    "start": 542.519,
+    "duration": 4.201
+  },
+  {
+    "text": "or less die we see precious metals come",
+    "start": 544.36,
+    "duration": 5.159
+  },
+  {
+    "text": "to life we see energy come to life and",
+    "start": 546.72,
+    "duration": 5.04
+  },
+  {
+    "text": "we see industrial capital goods which",
+    "start": 549.519,
+    "duration": 3.56
+  },
+  {
+    "text": "I'll touch on in a minute because it's",
+    "start": 551.76,
+    "duration": 2.6
+  },
+  {
+    "text": "actually really interesting and most",
+    "start": 553.079,
+    "duration": 4.161
+  },
+  {
+    "text": "people don't pick up on this um but we",
+    "start": 554.36,
+    "duration": 5.2
+  },
+  {
+    "text": "are seeing gold hitting new all-time",
+    "start": 557.24,
+    "duration": 5.039
+  },
+  {
+    "text": "highs we're seeing the energy sector um",
+    "start": 559.56,
+    "duration": 4.279
+  },
+  {
+    "text": "like if we go to Gold real quick and",
+    "start": 562.279,
+    "duration": 3.8
+  },
+  {
+    "text": "take a look at the the charts we",
+    "start": 563.839,
+    "duration": 4.12
+  },
+  {
+    "text": "obviously have gold pushing up to new",
+    "start": 566.079,
+    "duration": 4.641
+  },
+  {
+    "text": "all-time highs the big long-term picture",
+    "start": 567.959,
+    "duration": 5.521
+  },
+  {
+    "text": "of this is is very bullish investors",
+    "start": 570.72,
+    "duration": 5.2
+  },
+  {
+    "text": "Savvy investors are moving to safety and",
+    "start": 573.48,
+    "duration": 4.84
+  },
+  {
+    "text": "gold is one of those another one here is",
+    "start": 575.92,
+    "duration": 6.28
+  },
+  {
+    "text": "the energy sector stocks and uh while it",
+    "start": 578.32,
+    "duration": 5.959
+  },
+  {
+    "text": "may not look like there it's it's been",
+    "start": 582.2,
+    "duration": 4.84
+  },
+  {
+    "text": "screaming higher in reality longterm",
+    "start": 584.279,
+    "duration": 4.481
+  },
+  {
+    "text": "energy sector stocks are almost at",
+    "start": 587.04,
+    "duration": 3.52
+  },
+  {
+    "text": "all-time highs they have been musling",
+    "start": 588.76,
+    "duration": 3.28
+  },
+  {
+    "text": "their way up and that's because these",
+    "start": 590.56,
+    "duration": 4.04
+  },
+  {
+    "text": "are commodity-based we've got Wars going",
+    "start": 592.04,
+    "duration": 5.64
+  },
+  {
+    "text": "on typically energy and gold do well",
+    "start": 594.6,
+    "duration": 5.679
+  },
+  {
+    "text": "during war they also do well just before",
+    "start": 597.68,
+    "duration": 5.44
+  },
+  {
+    "text": "a stock market tops and and so those are",
+    "start": 600.279,
+    "duration": 5.0
+  },
+  {
+    "text": "two major things and I really like",
+    "start": 603.12,
+    "duration": 4.32
+  },
+  {
+    "text": "Precious Metals I think gold silver",
+    "start": 605.279,
+    "duration": 4.281
+  },
+  {
+    "text": "miners have got potential to run for a",
+    "start": 607.44,
+    "duration": 3.8
+  },
+  {
+    "text": "few more months before they might start",
+    "start": 609.56,
+    "duration": 4.8
+  },
+  {
+    "text": "to get pulled down with the stock market",
+    "start": 611.24,
+    "duration": 6.039
+  },
+  {
+    "text": "that's kind of my take my take on those",
+    "start": 614.36,
+    "duration": 5.0
+  },
+  {
+    "text": "um there is this really interesting",
+    "start": 617.279,
+    "duration": 4.721
+  },
+  {
+    "text": "angle around industrial capital goods so",
+    "start": 619.36,
+    "duration": 5.0
+  },
+  {
+    "text": "this is like um this is where I think",
+    "start": 622.0,
+    "duration": 4.519
+  },
+  {
+    "text": "there's a big disconnect you've got CEOs",
+    "start": 624.36,
+    "duration": 5.0
+  },
+  {
+    "text": "you've got Factory managers they've had",
+    "start": 626.519,
+    "duration": 5.161
+  },
+  {
+    "text": "amazing sales since covid everybody's in",
+    "start": 629.36,
+    "duration": 4.08
+  },
+  {
+    "text": "this bubble phase companies are making",
+    "start": 631.68,
+    "duration": 4.399
+  },
+  {
+    "text": "record profits so these these Factory",
+    "start": 633.44,
+    "duration": 4.36
+  },
+  {
+    "text": "managers are upgrading their their",
+    "start": 636.079,
+    "duration": 3.281
+  },
+  {
+    "text": "assembly lines their equipment their",
+    "start": 637.8,
+    "duration": 3.479
+  },
+  {
+    "text": "machines they're spending millions and",
+    "start": 639.36,
+    "duration": 3.599
+  },
+  {
+    "text": "there's a huge delay when they order",
+    "start": 641.279,
+    "duration": 3.68
+  },
+  {
+    "text": "these this type of equipment it takes a",
+    "start": 642.959,
+    "duration": 3.521
+  },
+  {
+    "text": "year or two to get delivery takes",
+    "start": 644.959,
+    "duration": 4.921
+  },
+  {
+    "text": "forever to install and uh you know this",
+    "start": 646.48,
+    "duration": 6.08
+  },
+  {
+    "text": "is this is the example of what the",
+    "start": 649.88,
+    "duration": 4.68
+  },
+  {
+    "text": "typical kind of business person is doing",
+    "start": 652.56,
+    "duration": 3.92
+  },
+  {
+    "text": "on this yellow cycle they're really",
+    "start": 654.56,
+    "duration": 3.719
+  },
+  {
+    "text": "ambitious right now they still think",
+    "start": 656.48,
+    "duration": 3.52
+  },
+  {
+    "text": "we're having a little slow down in",
+    "start": 658.279,
+    "duration": 3.161
+  },
+  {
+    "text": "business but bit their business is",
+    "start": 660.0,
+    "duration": 3.399
+  },
+  {
+    "text": "booming and strong they don't realize",
+    "start": 661.44,
+    "duration": 4.6
+  },
+  {
+    "text": "we're about to walk into a recession and",
+    "start": 663.399,
+    "duration": 4.56
+  },
+  {
+    "text": "uh they still think we're in this this",
+    "start": 666.04,
+    "duration": 4.239
+  },
+  {
+    "text": "expansion phase and so they're all gonna",
+    "start": 667.959,
+    "duration": 4.841
+  },
+  {
+    "text": "you know employ or bring all these new",
+    "start": 670.279,
+    "duration": 4.36
+  },
+  {
+    "text": "assembly lines in with huge interest",
+    "start": 672.8,
+    "duration": 5.44
+  },
+  {
+    "text": "rates huge margins or markups or sorry",
+    "start": 674.639,
+    "duration": 6.64
+  },
+  {
+    "text": "uh uh interest rates uh and then we're",
+    "start": 678.24,
+    "duration": 4.719
+  },
+  {
+    "text": "going to go into this recession and then",
+    "start": 681.279,
+    "duration": 2.8
+  },
+  {
+    "text": "they're going to be kicking themselves",
+    "start": 682.959,
+    "duration": 2.601
+  },
+  {
+    "text": "saying ah why didn't we just keep our",
+    "start": 684.079,
+    "duration": 3.681
+  },
+  {
+    "text": "old assembly line it was paid for now",
+    "start": 685.56,
+    "duration": 4.36
+  },
+  {
+    "text": "our demand's down we could have run",
+    "start": 687.76,
+    "duration": 4.68
+  },
+  {
+    "text": "so that's the interesting phase is and",
+    "start": 689.92,
+    "duration": 4.32
+  },
+  {
+    "text": "that tells us we're kind of in this hump",
+    "start": 692.44,
+    "duration": 4.16
+  },
+  {
+    "text": "here between the stock market topping",
+    "start": 694.24,
+    "duration": 4.8
+  },
+  {
+    "text": "and the economy getting very close to a",
+    "start": 696.6,
+    "duration": 4.96
+  },
+  {
+    "text": "pullback and when we look at the",
+    "start": 699.04,
+    "duration": 5.799
+  },
+  {
+    "text": "industrial um Goods sector you can see",
+    "start": 701.56,
+    "duration": 6.079
+  },
+  {
+    "text": "here it is screaming up to new all-time",
+    "start": 704.839,
+    "duration": 4.881
+  },
+  {
+    "text": "highs because all these factories are",
+    "start": 707.639,
+    "duration": 4.2
+  },
+  {
+    "text": "upgrading thinking they're going to be",
+    "start": 709.72,
+    "duration": 3.6
+  },
+  {
+    "text": "rich and they're going to be have",
+    "start": 711.839,
+    "duration": 3.081
+  },
+  {
+    "text": "amazing earnings but they don't realize",
+    "start": 713.32,
+    "duration": 3.56
+  },
+  {
+    "text": "they're spending all this money just",
+    "start": 714.92,
+    "duration": 3.44
+  },
+  {
+    "text": "before we're going into a down cycle",
+    "start": 716.88,
+    "duration": 3.8
+  },
+  {
+    "text": "that could last two three four five",
+    "start": 718.36,
+    "duration": 4.2
+  },
+  {
+    "text": "years because I actually believe we're",
+    "start": 720.68,
+    "duration": 4.56
+  },
+  {
+    "text": "very close to a a 2,000 Tech bubble type",
+    "start": 722.56,
+    "duration": 5.64
+  },
+  {
+    "text": "of scenario because Commodities the the",
+    "start": 725.24,
+    "duration": 6.08
+  },
+  {
+    "text": "commodity to equity ratio is is at",
+    "start": 728.2,
+    "duration": 4.92
+  },
+  {
+    "text": "alltime lows meaning stocks are the most",
+    "start": 731.32,
+    "duration": 3.519
+  },
+  {
+    "text": "valued they've ever been Commodities are",
+    "start": 733.12,
+    "duration": 4.32
+  },
+  {
+    "text": "the most undervalued they've ever been",
+    "start": 734.839,
+    "duration": 4.24
+  },
+  {
+    "text": "and that is very similar to what",
+    "start": 737.44,
+    "duration": 3.199
+  },
+  {
+    "text": "happened during the tech bubble same",
+    "start": 739.079,
+    "duration": 4.12
+  },
+  {
+    "text": "setup so how long do you think until we",
+    "start": 740.639,
+    "duration": 4.241
+  },
+  {
+    "text": "start to see this I mean you mentioned 3",
+    "start": 743.199,
+    "duration": 4.121
+  },
+  {
+    "text": "four months bullish on the metals side",
+    "start": 744.88,
+    "duration": 4.92
+  },
+  {
+    "text": "specifically gold when the markets come",
+    "start": 747.32,
+    "duration": 4.44
+  },
+  {
+    "text": "down it's not that may you know sell and",
+    "start": 749.8,
+    "duration": 3.599
+  },
+  {
+    "text": "may go away when the markets come down",
+    "start": 751.76,
+    "duration": 3.4
+  },
+  {
+    "text": "everything else is kind of cyclically",
+    "start": 753.399,
+    "duration": 3.921
+  },
+  {
+    "text": "going to top it as",
+    "start": 755.16,
+    "duration": 4.76
+  },
+  {
+    "text": "well yeah so I I think by the end of",
+    "start": 757.32,
+    "duration": 3.72
+  },
+  {
+    "text": "this year we're going to probably be in",
+    "start": 759.92,
+    "duration": 3.12
+  },
+  {
+    "text": "a very deep sell-off in the markets I",
+    "start": 761.04,
+    "duration": 3.28
+  },
+  {
+    "text": "don't know if we'll have start fully",
+    "start": 763.04,
+    "duration": 3.32
+  },
+  {
+    "text": "started a stage for decline we need a",
+    "start": 764.32,
+    "duration": 4.28
+  },
+  {
+    "text": "lot of downside damage before we're",
+    "start": 766.36,
+    "duration": 5.52
+  },
+  {
+    "text": "actually that huge trend has changed but",
+    "start": 768.6,
+    "duration": 7.0
+  },
+  {
+    "text": "um uh I I do think we're going to see a",
+    "start": 771.88,
+    "duration": 6.639
+  },
+  {
+    "text": "big pullback in the markets and um let",
+    "start": 775.6,
+    "duration": 5.039
+  },
+  {
+    "text": "me just see where uh where we're at oh",
+    "start": 778.519,
+    "duration": 4.241
+  },
+  {
+    "text": "yeah so there's this interesting um",
+    "start": 780.639,
+    "duration": 4.041
+  },
+  {
+    "text": "scenario here of the commodity and",
+    "start": 782.76,
+    "duration": 4.4
+  },
+  {
+    "text": "equity ratio where we are down at these",
+    "start": 784.68,
+    "duration": 5.519
+  },
+  {
+    "text": "crazy lowest levels ever for Commodities",
+    "start": 787.16,
+    "duration": 4.479
+  },
+  {
+    "text": "and this when we saw this back in the",
+    "start": 790.199,
+    "duration": 3.161
+  },
+  {
+    "text": "tech bubble that was like a three-year",
+    "start": 791.639,
+    "duration": 4.601
+  },
+  {
+    "text": "bare market and it took forever for the",
+    "start": 793.36,
+    "duration": 4.64
+  },
+  {
+    "text": "stock market to come back 16 years for",
+    "start": 796.24,
+    "duration": 4.88
+  },
+  {
+    "text": "the NASDAQ uh to come back so I do think",
+    "start": 798.0,
+    "duration": 4.88
+  },
+  {
+    "text": "this year is most likely going to be a",
+    "start": 801.12,
+    "duration": 4.36
+  },
+  {
+    "text": "top in equities and you need to protect",
+    "start": 802.88,
+    "duration": 4.44
+  },
+  {
+    "text": "your Capital because the Buy and Hold",
+    "start": 805.48,
+    "duration": 3.88
+  },
+  {
+    "text": "could be out of favor for a very very",
+    "start": 807.32,
+    "duration": 4.28
+  },
+  {
+    "text": "long time and uh there's ways that we",
+    "start": 809.36,
+    "duration": 4.4
+  },
+  {
+    "text": "can take advantage of this Market yeah",
+    "start": 811.6,
+    "duration": 4.08
+  },
+  {
+    "text": "when it is falling um through",
+    "start": 813.76,
+    "duration": 4.6
+  },
+  {
+    "text": "Commodities or through inverse ETFs or",
+    "start": 815.68,
+    "duration": 4.92
+  },
+  {
+    "text": "just stand aside and collect interest",
+    "start": 818.36,
+    "duration": 4.56
+  },
+  {
+    "text": "until the storm kind of passes",
+    "start": 820.6,
+    "duration": 4.599
+  },
+  {
+    "text": "is well then this is interesting because",
+    "start": 822.92,
+    "duration": 3.44
+  },
+  {
+    "text": "you know you talked a little bit about",
+    "start": 825.199,
+    "duration": 2.841
+  },
+  {
+    "text": "that market top and you know the",
+    "start": 826.36,
+    "duration": 3.96
+  },
+  {
+    "text": "potential risks associated with it then",
+    "start": 828.04,
+    "duration": 3.84
+  },
+  {
+    "text": "what are the strategies here Chris you",
+    "start": 830.32,
+    "duration": 3.519
+  },
+  {
+    "text": "know what do you recommend to investors",
+    "start": 831.88,
+    "duration": 3.759
+  },
+  {
+    "text": "right now is there is it time to shift",
+    "start": 833.839,
+    "duration": 3.881
+  },
+  {
+    "text": "towards more defensive assets or do you",
+    "start": 835.639,
+    "duration": 4.2
+  },
+  {
+    "text": "see you know value in maintaining",
+    "start": 837.72,
+    "duration": 3.84
+  },
+  {
+    "text": "positions and",
+    "start": 839.839,
+    "duration": 4.56
+  },
+  {
+    "text": "equities yeah so I'm a huge fan of",
+    "start": 841.56,
+    "duration": 5.519
+  },
+  {
+    "text": "following an asset hierarchy so I have a",
+    "start": 844.399,
+    "duration": 4.601
+  },
+  {
+    "text": "hierarchy that I follow and whatever is",
+    "start": 847.079,
+    "duration": 3.361
+  },
+  {
+    "text": "highest on the list carries the most",
+    "start": 849.0,
+    "duration": 4.0
+  },
+  {
+    "text": "waiting it's usually the most volatile I",
+    "start": 850.44,
+    "duration": 4.92
+  },
+  {
+    "text": "focus on the stock indexes and I'll move",
+    "start": 853.0,
+    "duration": 5.68
+  },
+  {
+    "text": "down this list to slower and slower",
+    "start": 855.36,
+    "duration": 5.56
+  },
+  {
+    "text": "assets depending how the markets unfold",
+    "start": 858.68,
+    "duration": 3.8
+  },
+  {
+    "text": "now they need to be in favor for us to",
+    "start": 860.92,
+    "duration": 3.8
+  },
+  {
+    "text": "get long but for example we naturally",
+    "start": 862.48,
+    "duration": 3.84
+  },
+  {
+    "text": "always want to be long stocks they have",
+    "start": 864.72,
+    "duration": 3.88
+  },
+  {
+    "text": "the most upside potential but if the",
+    "start": 866.32,
+    "duration": 3.72
+  },
+  {
+    "text": "stock market maret rolls over we're",
+    "start": 868.6,
+    "duration": 3.2
+  },
+  {
+    "text": "going to go and look at TLT which is",
+    "start": 870.04,
+    "duration": 3.76
+  },
+  {
+    "text": "long-term treasury bonds I believe",
+    "start": 871.8,
+    "duration": 4.599
+  },
+  {
+    "text": "they're getting closer to a major bottom",
+    "start": 873.8,
+    "duration": 3.92
+  },
+  {
+    "text": "and we're probably going to start to see",
+    "start": 876.399,
+    "duration": 3.761
+  },
+  {
+    "text": "those rally uh by the end of this year",
+    "start": 877.72,
+    "duration": 3.72
+  },
+  {
+    "text": "and they could have some pretty good",
+    "start": 880.16,
+    "duration": 4.239
+  },
+  {
+    "text": "upside potential uh so my strategy is",
+    "start": 881.44,
+    "duration": 4.319
+  },
+  {
+    "text": "quite different than everybody else I",
+    "start": 884.399,
+    "duration": 3.201
+  },
+  {
+    "text": "don't believe in diversifying across",
+    "start": 885.759,
+    "duration": 4.0
+  },
+  {
+    "text": "stocks and bonds and and a whole bunch",
+    "start": 887.6,
+    "duration": 4.64
+  },
+  {
+    "text": "of different assets uh when it comes to",
+    "start": 889.759,
+    "duration": 5.121
+  },
+  {
+    "text": "focusing on stock and U the stock and",
+    "start": 892.24,
+    "duration": 4.64
+  },
+  {
+    "text": "kind of commodity markets I focus on",
+    "start": 894.88,
+    "duration": 4.399
+  },
+  {
+    "text": "owning I just want to own equities if",
+    "start": 896.88,
+    "duration": 5.36
+  },
+  {
+    "text": "equities are in a stage two bull market",
+    "start": 899.279,
+    "duration": 4.441
+  },
+  {
+    "text": "if they're not I'm going to go to the",
+    "start": 902.24,
+    "duration": 3.56
+  },
+  {
+    "text": "next asset are bonds starting a new bull",
+    "start": 903.72,
+    "duration": 4.359
+  },
+  {
+    "text": "market if yes I jump into bonds we're",
+    "start": 905.8,
+    "duration": 4.76
+  },
+  {
+    "text": "100% into bonds we want to ride that up",
+    "start": 908.079,
+    "duration": 4.68
+  },
+  {
+    "text": "forget falling stocks there's no point",
+    "start": 910.56,
+    "duration": 4.44
+  },
+  {
+    "text": "of holding an asset going down so as you",
+    "start": 912.759,
+    "duration": 4.44
+  },
+  {
+    "text": "said Jeremy that I like to rotate to",
+    "start": 915.0,
+    "duration": 4.56
+  },
+  {
+    "text": "different asset classes and bonds are a",
+    "start": 917.199,
+    "duration": 6.08
+  },
+  {
+    "text": "different class uh uup udn those are the",
+    "start": 919.56,
+    "duration": 6.68
+  },
+  {
+    "text": "long and the inverse US dollar Index and",
+    "start": 923.279,
+    "duration": 3.761
+  },
+  {
+    "text": "in",
+    "start": 926.24,
+    "duration": 4.0
+  },
+  {
+    "text": "2022 uh that was that was the trade of",
+    "start": 927.04,
+    "duration": 6.44
+  },
+  {
+    "text": "of the year really was um that",
+    "start": 930.24,
+    "duration": 5.959
+  },
+  {
+    "text": "particular play if we actually look at",
+    "start": 933.48,
+    "duration": 6.279
+  },
+  {
+    "text": "the long-term chart here of our strategy",
+    "start": 936.199,
+    "duration": 6.241
+  },
+  {
+    "text": "um we had 2022 was a down year for the",
+    "start": 939.759,
+    "duration": 5.2
+  },
+  {
+    "text": "stock market well the US dollar which is",
+    "start": 942.44,
+    "duration": 5.879
+  },
+  {
+    "text": "one of the slowest moving most stable um",
+    "start": 944.959,
+    "duration": 7.161
+  },
+  {
+    "text": "ETFs that I like to play it rallied 18%",
+    "start": 948.319,
+    "duration": 5.681
+  },
+  {
+    "text": "and it and the biggest pullback along",
+    "start": 952.12,
+    "duration": 4.04
+  },
+  {
+    "text": "through that year was a 4% pullback so",
+    "start": 954.0,
+    "duration": 5.44
+  },
+  {
+    "text": "it's very low volatility low risk and",
+    "start": 956.16,
+    "duration": 4.88
+  },
+  {
+    "text": "you can catch these beautiful Trends and",
+    "start": 959.44,
+    "duration": 3.92
+  },
+  {
+    "text": "currencies so the key as you said is to",
+    "start": 961.04,
+    "duration": 4.32
+  },
+  {
+    "text": "literally just step out of the asset",
+    "start": 963.36,
+    "duration": 4.44
+  },
+  {
+    "text": "that's now going down and step into one",
+    "start": 965.36,
+    "duration": 4.76
+  },
+  {
+    "text": "that is going up or if none of them meet",
+    "start": 967.8,
+    "duration": 5.039
+  },
+  {
+    "text": "the criteria we'll actually just move to",
+    "start": 970.12,
+    "duration": 4.48
+  },
+  {
+    "text": "uh like a money market or a cash",
+    "start": 972.839,
+    "duration": 3.761
+  },
+  {
+    "text": "equivalent that pays us literally daily",
+    "start": 974.6,
+    "duration": 4.44
+  },
+  {
+    "text": "or monthly dividend payments as cash",
+    "start": 976.6,
+    "duration": 4.479
+  },
+  {
+    "text": "it's sometimes better to make a third",
+    "start": 979.04,
+    "duration": 4.76
+  },
+  {
+    "text": "percent return a month um and make your",
+    "start": 981.079,
+    "duration": 5.0
+  },
+  {
+    "text": "four percent a year sitting on the",
+    "start": 983.8,
+    "duration": 4.32
+  },
+  {
+    "text": "sidelines than it is to lose four five",
+    "start": 986.079,
+    "duration": 4.2
+  },
+  {
+    "text": "percent a week for the next you know",
+    "start": 988.12,
+    "duration": 4.159
+  },
+  {
+    "text": "several weeks or during a bare Market",
+    "start": 990.279,
+    "duration": 4.441
+  },
+  {
+    "text": "phase so it is critical to step to",
+    "start": 992.279,
+    "duration": 5.961
+  },
+  {
+    "text": "different asset classes as we go and one",
+    "start": 994.72,
+    "duration": 4.679
+  },
+  {
+    "text": "thing that a lot of people don't realize",
+    "start": 998.24,
+    "duration": 3.24
+  },
+  {
+    "text": "Jeremy is they look at the stock market",
+    "start": 999.399,
+    "duration": 3.36
+  },
+  {
+    "text": "and they're like oh I'm Diversified I",
+    "start": 1001.48,
+    "duration": 3.159
+  },
+  {
+    "text": "have a whole bunch of different um",
+    "start": 1002.759,
+    "duration": 3.721
+  },
+  {
+    "text": "sectors and stocks I'm all over the",
+    "start": 1004.639,
+    "duration": 4.801
+  },
+  {
+    "text": "place I'm completely Diversified but my",
+    "start": 1006.48,
+    "duration": 5.279
+  },
+  {
+    "text": "strategy of if the tide is going down if",
+    "start": 1009.44,
+    "duration": 4.36
+  },
+  {
+    "text": "the stock market is going down almost",
+    "start": 1011.759,
+    "duration": 5.601
+  },
+  {
+    "text": "all stocks go down it doesn't matter and",
+    "start": 1013.8,
+    "duration": 5.279
+  },
+  {
+    "text": "believe it or not we see a lot",
+    "start": 1017.36,
+    "duration": 3.88
+  },
+  {
+    "text": "Commodities we see almost everything go",
+    "start": 1019.079,
+    "duration": 4.081
+  },
+  {
+    "text": "down so it doesn't matter how",
+    "start": 1021.24,
+    "duration": 4.12
+  },
+  {
+    "text": "Diversified you are all of those stock",
+    "start": 1023.16,
+    "duration": 3.84
+  },
+  {
+    "text": "positions you have are probably going to",
+    "start": 1025.36,
+    "duration": 3.28
+  },
+  {
+    "text": "go down it's just some go down more than",
+    "start": 1027.0,
+    "duration": 3.959
+  },
+  {
+    "text": "others so I'm a firm believer of if the",
+    "start": 1028.64,
+    "duration": 4.76
+  },
+  {
+    "text": "Tide's going down step out of it or take",
+    "start": 1030.959,
+    "duration": 4.88
+  },
+  {
+    "text": "advantage of falling pricing uh don't",
+    "start": 1033.4,
+    "duration": 4.519
+  },
+  {
+    "text": "don't get stuck thinking oh I have all",
+    "start": 1035.839,
+    "duration": 3.881
+  },
+  {
+    "text": "kinds of different sectors I'm I'm I'm",
+    "start": 1037.919,
+    "duration": 4.12
+  },
+  {
+    "text": "Diversified because all you're doing is",
+    "start": 1039.72,
+    "duration": 4.319
+  },
+  {
+    "text": "spreading your wealth Out Among",
+    "start": 1042.039,
+    "duration": 3.721
+  },
+  {
+    "text": "something that's still going down",
+    "start": 1044.039,
+    "duration": 3.841
+  },
+  {
+    "text": "naturally right yeah can you take the",
+    "start": 1045.76,
+    "duration": 4.0
+  },
+  {
+    "text": "trade though Chris like can you you know",
+    "start": 1047.88,
+    "duration": 3.28
+  },
+  {
+    "text": "you you pointed out a little bit about",
+    "start": 1049.76,
+    "duration": 3.08
+  },
+  {
+    "text": "certain market segments specifically",
+    "start": 1051.16,
+    "duration": 3.92
+  },
+  {
+    "text": "small caps and sectors including the ark",
+    "start": 1052.84,
+    "duration": 3.839
+  },
+  {
+    "text": "ETF they're currently",
+    "start": 1055.08,
+    "duration": 4.64
+  },
+  {
+    "text": "underperforming if this indeed happens",
+    "start": 1056.679,
+    "duration": 4.681
+  },
+  {
+    "text": "are you putting your money into other",
+    "start": 1059.72,
+    "duration": 3.56
+  },
+  {
+    "text": "areas maybe Emerging Markets somewhere",
+    "start": 1061.36,
+    "duration": 3.96
+  },
+  {
+    "text": "where you can see a bit of an upside",
+    "start": 1063.28,
+    "duration": 4.48
+  },
+  {
+    "text": "when you know all the dominoes start to",
+    "start": 1065.32,
+    "duration": 5.479
+  },
+  {
+    "text": "fall um I know because generally if you",
+    "start": 1067.76,
+    "duration": 5.12
+  },
+  {
+    "text": "go and look at all the global indexes",
+    "start": 1070.799,
+    "duration": 4.041
+  },
+  {
+    "text": "when the US markets like I I found the",
+    "start": 1072.88,
+    "duration": 5.32
+  },
+  {
+    "text": "SP 500 if if you can identify the trend",
+    "start": 1074.84,
+    "duration": 6.079
+  },
+  {
+    "text": "and the money flow of the SP 500 you've",
+    "start": 1078.2,
+    "duration": 4.88
+  },
+  {
+    "text": "pretty much identified almost every",
+    "start": 1080.919,
+    "duration": 4.24
+  },
+  {
+    "text": "stock and every stock index around the",
+    "start": 1083.08,
+    "duration": 3.92
+  },
+  {
+    "text": "world they almost all follow suit",
+    "start": 1085.159,
+    "duration": 4.241
+  },
+  {
+    "text": "they're not perfect there's the odd one",
+    "start": 1087.0,
+    "duration": 4.28
+  },
+  {
+    "text": "that will Buck the trend but why try to",
+    "start": 1089.4,
+    "duration": 4.399
+  },
+  {
+    "text": "pick the one when you you the odds are",
+    "start": 1091.28,
+    "duration": 4.8
+  },
+  {
+    "text": "with you to just play the downside so I",
+    "start": 1093.799,
+    "duration": 3.88
+  },
+  {
+    "text": "wouldn't move to Emerging Markets I",
+    "start": 1096.08,
+    "duration": 3.28
+  },
+  {
+    "text": "personally just love the US equities",
+    "start": 1097.679,
+    "duration": 3.521
+  },
+  {
+    "text": "markets there's the volatility there's",
+    "start": 1099.36,
+    "duration": 4.16
+  },
+  {
+    "text": "the liquidity um I'm just comfortable",
+    "start": 1101.2,
+    "duration": 3.88
+  },
+  {
+    "text": "with it and it seems to kind of be the",
+    "start": 1103.52,
+    "duration": 3.44
+  },
+  {
+    "text": "engine if you know what the SP 500's",
+    "start": 1105.08,
+    "duration": 3.36
+  },
+  {
+    "text": "doing you know what the rest of the",
+    "start": 1106.96,
+    "duration": 3.52
+  },
+  {
+    "text": "market more or less is doing in my",
+    "start": 1108.44,
+    "duration": 5.599
+  },
+  {
+    "text": "opinion so um when the market turns down",
+    "start": 1110.48,
+    "duration": 5.319
+  },
+  {
+    "text": "I believe you know you need to find an",
+    "start": 1114.039,
+    "duration": 4.081
+  },
+  {
+    "text": "inverse ETF to to benefit from the",
+    "start": 1115.799,
+    "duration": 4.721
+  },
+  {
+    "text": "natural you know month after month lower",
+    "start": 1118.12,
+    "duration": 4.559
+  },
+  {
+    "text": "pricing uh or you need to move to a",
+    "start": 1120.52,
+    "duration": 4.159
+  },
+  {
+    "text": "different asset class that goes up and",
+    "start": 1122.679,
+    "duration": 4.12
+  },
+  {
+    "text": "um you know the like the AR ETF for",
+    "start": 1124.679,
+    "duration": 4.12
+  },
+  {
+    "text": "example I have on the chart you can see",
+    "start": 1126.799,
+    "duration": 4.921
+  },
+  {
+    "text": "it's gone through the the entire stage",
+    "start": 1128.799,
+    "duration": 5.681
+  },
+  {
+    "text": "one it has stage two blow off it had its",
+    "start": 1131.72,
+    "duration": 5.24
+  },
+  {
+    "text": "complacency move it went into a stage",
+    "start": 1134.48,
+    "duration": 5.079
+  },
+  {
+    "text": "four now it's back into a lot of people",
+    "start": 1136.96,
+    "duration": 4.4
+  },
+  {
+    "text": "think this is a stage one that the whole",
+    "start": 1139.559,
+    "duration": 3.881
+  },
+  {
+    "text": "cycle is going to rinse and repeat I",
+    "start": 1141.36,
+    "duration": 3.64
+  },
+  {
+    "text": "actually believe you know we're going to",
+    "start": 1143.44,
+    "duration": 3.44
+  },
+  {
+    "text": "go into a much deeper recession and",
+    "start": 1145.0,
+    "duration": 3.64
+  },
+  {
+    "text": "we're going to see this down into the 20",
+    "start": 1146.88,
+    "duration": 4.24
+  },
+  {
+    "text": "or the $16 range because this is",
+    "start": 1148.64,
+    "duration": 4.919
+  },
+  {
+    "text": "actually a large bare flag pattern",
+    "start": 1151.12,
+    "duration": 5.28
+  },
+  {
+    "text": "pointing to lower pricing so I I I don't",
+    "start": 1153.559,
+    "duration": 4.641
+  },
+  {
+    "text": "believe that this is a way to get in I",
+    "start": 1156.4,
+    "duration": 3.279
+  },
+  {
+    "text": "know a lot of people are loading up on",
+    "start": 1158.2,
+    "duration": 3.88
+  },
+  {
+    "text": "the arc ETFs thinking looking at this",
+    "start": 1159.679,
+    "duration": 4.801
+  },
+  {
+    "text": "cycle saying okay we're back at a bottom",
+    "start": 1162.08,
+    "duration": 4.599
+  },
+  {
+    "text": "um but there's there's a lot of downside",
+    "start": 1164.48,
+    "duration": 3.72
+  },
+  {
+    "text": "risk there isn't a whole lot of safety",
+    "start": 1166.679,
+    "duration": 3.081
+  },
+  {
+    "text": "there isn't a stock you can really move",
+    "start": 1168.2,
+    "duration": 4.479
+  },
+  {
+    "text": "into or stocks that will Buck the trend",
+    "start": 1169.76,
+    "duration": 6.56
+  },
+  {
+    "text": "if we go into a another uh bare Market",
+    "start": 1172.679,
+    "duration": 5.081
+  },
+  {
+    "text": "good talk to me a little bit about you",
+    "start": 1176.32,
+    "duration": 3.68
+  },
+  {
+    "text": "know the investment philosophy yours",
+    "start": 1177.76,
+    "duration": 4.84
+  },
+  {
+    "text": "usually prioritizes price trends rather",
+    "start": 1180.0,
+    "duration": 4.24
+  },
+  {
+    "text": "than predicting Market moves kind of",
+    "start": 1182.6,
+    "duration": 3.4
+  },
+  {
+    "text": "like what we talked about I'm curious",
+    "start": 1184.24,
+    "duration": 3.72
+  },
+  {
+    "text": "how responsive is this approach to",
+    "start": 1186.0,
+    "duration": 4.08
+  },
+  {
+    "text": "sudden Market shifts you know is there",
+    "start": 1187.96,
+    "duration": 4.92
+  },
+  {
+    "text": "triggers or something strategic where",
+    "start": 1190.08,
+    "duration": 5.16
+  },
+  {
+    "text": "you go okay I'm going from bullish to",
+    "start": 1192.88,
+    "duration": 4.56
+  },
+  {
+    "text": "bearish and that's my stance or vice",
+    "start": 1195.24,
+    "duration": 5.04
+  },
+  {
+    "text": "versa yeah good question well the",
+    "start": 1197.44,
+    "duration": 5.32
+  },
+  {
+    "text": "strategy that I follow it's more or less",
+    "start": 1200.28,
+    "duration": 3.96
+  },
+  {
+    "text": "kind of like position trading meaning",
+    "start": 1202.76,
+    "duration": 3.48
+  },
+  {
+    "text": "trades can last several months uh we got",
+    "start": 1204.24,
+    "duration": 4.48
+  },
+  {
+    "text": "long last November it lasted all the way",
+    "start": 1206.24,
+    "duration": 4.2
+  },
+  {
+    "text": "up until really just about a month ago",
+    "start": 1208.72,
+    "duration": 3.76
+  },
+  {
+    "text": "so we can catch trades and trends that",
+    "start": 1210.44,
+    "duration": 4.68
+  },
+  {
+    "text": "last several months big Returns the",
+    "start": 1212.48,
+    "duration": 4.64
+  },
+  {
+    "text": "strategy like I look at the stock market",
+    "start": 1215.12,
+    "duration": 3.88
+  },
+  {
+    "text": "like the ocean and and there's waves",
+    "start": 1217.12,
+    "duration": 3.64
+  },
+  {
+    "text": "that roll through and you look at like a",
+    "start": 1219.0,
+    "duration": 3.84
+  },
+  {
+    "text": "surfer you know out past the break",
+    "start": 1220.76,
+    "duration": 3.56
+  },
+  {
+    "text": "they're sitting out there floating",
+    "start": 1222.84,
+    "duration": 3.52
+  },
+  {
+    "text": "waiting for a clean set of waves to roll",
+    "start": 1224.32,
+    "duration": 4.0
+  },
+  {
+    "text": "through that's what I do in the stock",
+    "start": 1226.36,
+    "duration": 4.0
+  },
+  {
+    "text": "market I have a strategy we can identify",
+    "start": 1228.32,
+    "duration": 4.44
+  },
+  {
+    "text": "we see these momentum waves rolling",
+    "start": 1230.36,
+    "duration": 4.84
+  },
+  {
+    "text": "through a sector or index or asset class",
+    "start": 1232.76,
+    "duration": 4.36
+  },
+  {
+    "text": "whatever it is and then we pick the one",
+    "start": 1235.2,
+    "duration": 4.24
+  },
+  {
+    "text": "that fits our our risk criteria one that",
+    "start": 1237.12,
+    "duration": 5.28
+  },
+  {
+    "text": "we know well and we hop on that wave and",
+    "start": 1239.44,
+    "duration": 5.28
+  },
+  {
+    "text": "we ride it so we don't try to predict",
+    "start": 1242.4,
+    "duration": 4.0
+  },
+  {
+    "text": "anything there's no point in trying to",
+    "start": 1244.72,
+    "duration": 3.959
+  },
+  {
+    "text": "predict what we do is identify trends",
+    "start": 1246.4,
+    "duration": 4.96
+  },
+  {
+    "text": "that have lots of power behind them we",
+    "start": 1248.679,
+    "duration": 4.641
+  },
+  {
+    "text": "hop on that Trend we ride it and the",
+    "start": 1251.36,
+    "duration": 3.48
+  },
+  {
+    "text": "nice thing about jumping on something",
+    "start": 1253.32,
+    "duration": 3.4
+  },
+  {
+    "text": "that has got strength is we also know",
+    "start": 1254.84,
+    "duration": 3.319
+  },
+  {
+    "text": "when it's starting to lose its strength",
+    "start": 1256.72,
+    "duration": 3.52
+  },
+  {
+    "text": "so we can start trimming off profits we",
+    "start": 1258.159,
+    "duration": 4.561
+  },
+  {
+    "text": "can move up our stops and if we just",
+    "start": 1260.24,
+    "duration": 4.6
+  },
+  {
+    "text": "wait Jeremy for these like these waves",
+    "start": 1262.72,
+    "duration": 3.56
+  },
+  {
+    "text": "that roll through every year there's",
+    "start": 1264.84,
+    "duration": 4.4
+  },
+  {
+    "text": "about five to 12 trades just think five",
+    "start": 1266.28,
+    "duration": 5.279
+  },
+  {
+    "text": "to 12 waves that roll through the market",
+    "start": 1269.24,
+    "duration": 4.84
+  },
+  {
+    "text": "and we just pick the ones that fit our",
+    "start": 1271.559,
+    "duration": 5.0
+  },
+  {
+    "text": "strategy so we're not active as a as an",
+    "start": 1274.08,
+    "duration": 3.76
+  },
+  {
+    "text": "active Trader we don't have a lot of",
+    "start": 1276.559,
+    "duration": 2.841
+  },
+  {
+    "text": "Trades but we're definitely not a",
+    "start": 1277.84,
+    "duration": 2.88
+  },
+  {
+    "text": "passive investor sitting on the",
+    "start": 1279.4,
+    "duration": 3.399
+  },
+  {
+    "text": "sidelines just riding these you know",
+    "start": 1280.72,
+    "duration": 4.12
+  },
+  {
+    "text": "these storms these waves out we are just",
+    "start": 1282.799,
+    "duration": 4.441
+  },
+  {
+    "text": "hopping on catching a wave carving off",
+    "start": 1284.84,
+    "duration": 4.52
+  },
+  {
+    "text": "waiting for another one we sit in cash",
+    "start": 1287.24,
+    "duration": 3.72
+  },
+  {
+    "text": "about four months of the year if you",
+    "start": 1289.36,
+    "duration": 3.12
+  },
+  {
+    "text": "were to accumulate all the times we sit",
+    "start": 1290.96,
+    "duration": 4.48
+  },
+  {
+    "text": "in cash we're in cash and we collect",
+    "start": 1292.48,
+    "duration": 4.92
+  },
+  {
+    "text": "monthly interest you know a third or",
+    "start": 1295.44,
+    "duration": 4.359
+  },
+  {
+    "text": "more percent every month just sitting in",
+    "start": 1297.4,
+    "duration": 4.68
+  },
+  {
+    "text": "cash safely waiting for that next wave",
+    "start": 1299.799,
+    "duration": 4.401
+  },
+  {
+    "text": "to roll through yeah Chris are you",
+    "start": 1302.08,
+    "duration": 4.28
+  },
+  {
+    "text": "watching the metal prices in comparison",
+    "start": 1304.2,
+    "duration": 4.479
+  },
+  {
+    "text": "to the you know the mining equities and",
+    "start": 1306.36,
+    "duration": 3.919
+  },
+  {
+    "text": "that misbalance is there anything you're",
+    "start": 1308.679,
+    "duration": 3.6
+  },
+  {
+    "text": "jumping into to take this upside that",
+    "start": 1310.279,
+    "duration": 4.041
+  },
+  {
+    "text": "you say is maybe you know three to four",
+    "start": 1312.279,
+    "duration": 4.241
+  },
+  {
+    "text": "five months of upside here any any any",
+    "start": 1314.32,
+    "duration": 3.8
+  },
+  {
+    "text": "insight into some of those specific",
+    "start": 1316.52,
+    "duration": 3.399
+  },
+  {
+    "text": "equities",
+    "start": 1318.12,
+    "duration": 4.6
+  },
+  {
+    "text": "yeah so we're long SJ which is the uh",
+    "start": 1319.919,
+    "duration": 5.721
+  },
+  {
+    "text": "silver Miner Juniors uh I'm I'm heavy",
+    "start": 1322.72,
+    "duration": 4.6
+  },
+  {
+    "text": "long in physical medals I have been for",
+    "start": 1325.64,
+    "duration": 3.88
+  },
+  {
+    "text": "a long time I I slowly accumulate more",
+    "start": 1327.32,
+    "duration": 5.16
+  },
+  {
+    "text": "and more I do believe um I'm a huge fan",
+    "start": 1329.52,
+    "duration": 4.639
+  },
+  {
+    "text": "of physical medals I think there will be",
+    "start": 1332.48,
+    "duration": 5.12
+  },
+  {
+    "text": "a time probably next year hopefully next",
+    "start": 1334.159,
+    "duration": 6.52
+  },
+  {
+    "text": "year where the financial markets reset",
+    "start": 1337.6,
+    "duration": 5.24
+  },
+  {
+    "text": "it'll pull the the miners down in",
+    "start": 1340.679,
+    "duration": 4.6
+  },
+  {
+    "text": "Precious Metals as well um which they",
+    "start": 1342.84,
+    "duration": 4.16
+  },
+  {
+    "text": "almost always get pulled down during a",
+    "start": 1345.279,
+    "duration": 3.321
+  },
+  {
+    "text": "bare Market just because of panic",
+    "start": 1347.0,
+    "duration": 3.48
+  },
+  {
+    "text": "selling and force liquidation all kinds",
+    "start": 1348.6,
+    "duration": 4.88
+  },
+  {
+    "text": "of things um I believe after this next",
+    "start": 1350.48,
+    "duration": 4.679
+  },
+  {
+    "text": "Market pullback is going to be like the",
+    "start": 1353.48,
+    "duration": 4.079
+  },
+  {
+    "text": "ultimate buying opportunity for physical",
+    "start": 1355.159,
+    "duration": 4.561
+  },
+  {
+    "text": "gold and even more so it'll be that rare",
+    "start": 1357.559,
+    "duration": 4.24
+  },
+  {
+    "text": "opportunity to see like once every 10 15",
+    "start": 1359.72,
+    "duration": 4.36
+  },
+  {
+    "text": "years in miners where you can pick up",
+    "start": 1361.799,
+    "duration": 4.401
+  },
+  {
+    "text": "miners for pennies on the dollar catch",
+    "start": 1364.08,
+    "duration": 4.199
+  },
+  {
+    "text": "them for like hundreds or thousands tens",
+    "start": 1366.2,
+    "duration": 5.04
+  },
+  {
+    "text": "of thousands of percent like huge and I",
+    "start": 1368.279,
+    "duration": 4.201
+  },
+  {
+    "text": "mean anybody who's caught one of these",
+    "start": 1371.24,
+    "duration": 5.679
+  },
+  {
+    "text": "gold runs from like 2002 or or 2009 kind",
+    "start": 1372.48,
+    "duration": 7.799
+  },
+  {
+    "text": "of 2008 uh were put in a bottom I mean",
+    "start": 1376.919,
+    "duration": 5.041
+  },
+  {
+    "text": "we've been drooling for the next one and",
+    "start": 1380.279,
+    "duration": 3.441
+  },
+  {
+    "text": "I believe it's coming I hopefully in the",
+    "start": 1381.96,
+    "duration": 4.319
+  },
+  {
+    "text": "within the next so I will be looking at",
+    "start": 1383.72,
+    "duration": 5.88
+  },
+  {
+    "text": "gold miners specifically long-term holds",
+    "start": 1386.279,
+    "duration": 5.121
+  },
+  {
+    "text": "once we have a market correction right",
+    "start": 1389.6,
+    "duration": 3.8
+  },
+  {
+    "text": "now it's a short-term play we're we're",
+    "start": 1391.4,
+    "duration": 3.92
+  },
+  {
+    "text": "just trying to catch a move up in in the",
+    "start": 1393.4,
+    "duration": 3.8
+  },
+  {
+    "text": "precious metal space because I do think",
+    "start": 1395.32,
+    "duration": 3.959
+  },
+  {
+    "text": "they'll be coming back down a little bit",
+    "start": 1397.2,
+    "duration": 5.04
+  },
+  {
+    "text": "uh in due time in due time as things do",
+    "start": 1399.279,
+    "duration": 4.28
+  },
+  {
+    "text": "happen and it's healthy to take some",
+    "start": 1402.24,
+    "duration": 3.08
+  },
+  {
+    "text": "profits hey thanks for this Chris I",
+    "start": 1403.559,
+    "duration": 3.081
+  },
+  {
+    "text": "appreciate it chrisopher muet from the",
+    "start": 1405.32,
+    "duration": 3.28
+  },
+  {
+    "text": "technical traders joining us today uh",
+    "start": 1406.64,
+    "duration": 3.48
+  },
+  {
+    "text": "great Insight here we'll have you on",
+    "start": 1408.6,
+    "duration": 3.64
+  },
+  {
+    "text": "again soon thanks Jeremy always a",
+    "start": 1410.12,
+    "duration": 4.48
+  },
+  {
+    "text": "pleasure thanks thanks man I'm Jeremy",
+    "start": 1412.24,
+    "duration": 3.88
+  },
+  {
+    "text": "Safford for all of us here at K Cod news",
+    "start": 1414.6,
+    "duration": 3.0
+  },
+  {
+    "text": "thank you for watching don't forget to",
+    "start": 1416.12,
+    "duration": 3.76
+  },
+  {
+    "text": "subscribe of course go tell your buddies",
+    "start": 1417.6,
+    "duration": 4.16
+  },
+  {
+    "text": "and be sure to leave a comment of who",
+    "start": 1419.88,
+    "duration": 3.679
+  },
+  {
+    "text": "you'd like to see on the show next we'll",
+    "start": 1421.76,
+    "duration": 5.24
+  },
+  {
+    "text": "see you next time",
+    "start": 1423.559,
+    "duration": 3.441
+  },
+  {
+    "text": "[Music]",
+    "start": 1430.88,
+    "duration": 5.049
+  }
+]

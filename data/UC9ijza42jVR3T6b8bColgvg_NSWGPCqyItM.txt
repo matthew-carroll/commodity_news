@@ -1,0 +1,1987 @@
+[
+  {
+    "text": "hey everyone I'm Jeremy saffron this is",
+    "start": 0.24,
+    "duration": 2.919
+  },
+  {
+    "text": "kit Cod news don't forget to hit that",
+    "start": 1.64,
+    "duration": 3.6
+  },
+  {
+    "text": "subscribe button for the latest now our",
+    "start": 3.159,
+    "duration": 5.241
+  },
+  {
+    "text": "top story the US economy added 272,000",
+    "start": 5.24,
+    "duration": 6.88
+  },
+  {
+    "text": "jobs in May well above the expected",
+    "start": 8.4,
+    "duration": 5.92
+  },
+  {
+    "text": "185,000 however the unemployment rate",
+    "start": 12.12,
+    "duration": 5.079
+  },
+  {
+    "text": "Rose slightly to 4% from",
+    "start": 14.32,
+    "duration": 5.799
+  },
+  {
+    "text": "3.9% and additionally average hourly",
+    "start": 17.199,
+    "duration": 6.761
+  },
+  {
+    "text": "earnings increased by 4% from April and",
+    "start": 20.119,
+    "duration": 7.0
+  },
+  {
+    "text": "4.1% year-over-year now this mixed data",
+    "start": 23.96,
+    "duration": 5.28
+  },
+  {
+    "text": "paints a complex picture strong job",
+    "start": 27.119,
+    "duration": 4.201
+  },
+  {
+    "text": "growth indicates a resilient economy",
+    "start": 29.24,
+    "duration": 3.839
+  },
+  {
+    "text": "with significant gains in health care",
+    "start": 31.32,
+    "duration": 4.04
+  },
+  {
+    "text": "government and the Leisure sectors yet",
+    "start": 33.079,
+    "duration": 4.121
+  },
+  {
+    "text": "the rise in the unemployment rate and a",
+    "start": 35.36,
+    "duration": 3.84
+  },
+  {
+    "text": "drop in household employment highlight",
+    "start": 37.2,
+    "duration": 3.76
+  },
+  {
+    "text": "potential challenges now the",
+    "start": 39.2,
+    "duration": 3.0
+  },
+  {
+    "text": "implications are critical for the",
+    "start": 40.96,
+    "duration": 3.36
+  },
+  {
+    "text": "Federal Reserve policy higher interest",
+    "start": 42.2,
+    "duration": 4.839
+  },
+  {
+    "text": "rates are traditionally used to curb",
+    "start": 44.32,
+    "duration": 5.32
+  },
+  {
+    "text": "inflation but today's data suggests that",
+    "start": 47.039,
+    "duration": 4.561
+  },
+  {
+    "text": "higher rates might be contributing to",
+    "start": 49.64,
+    "duration": 4.2
+  },
+  {
+    "text": "inflationary pressures instead and this",
+    "start": 51.6,
+    "duration": 3.92
+  },
+  {
+    "text": "is led to a debate on whether the FED",
+    "start": 53.84,
+    "duration": 3.92
+  },
+  {
+    "text": "should rethink strategy here and to help",
+    "start": 55.52,
+    "duration": 4.519
+  },
+  {
+    "text": "us unpack all of this we have with us",
+    "start": 57.76,
+    "duration": 5.36
+  },
+  {
+    "text": "David Nelson he's a CFA and CMT and he's",
+    "start": 60.039,
+    "duration": 5.48
+  },
+  {
+    "text": "also the chief strategist at bellpoint",
+    "start": 63.12,
+    "duration": 4.28
+  },
+  {
+    "text": "in his latest note he argues that higher",
+    "start": 65.519,
+    "duration": 3.841
+  },
+  {
+    "text": "rates might not be the solution to our",
+    "start": 67.4,
+    "duration": 3.719
+  },
+  {
+    "text": "current economic challenges and calls",
+    "start": 69.36,
+    "duration": 3.64
+  },
+  {
+    "text": "for a more Innovative approach to",
+    "start": 71.119,
+    "duration": 3.601
+  },
+  {
+    "text": "monetary policy we're going to find out",
+    "start": 73.0,
+    "duration": 3.28
+  },
+  {
+    "text": "all about it welcome to the show David",
+    "start": 74.72,
+    "duration": 3.399
+  },
+  {
+    "text": "thanks for joining us hey thanks for",
+    "start": 76.28,
+    "duration": 4.159
+  },
+  {
+    "text": "having me I appreciate your time uh",
+    "start": 78.119,
+    "duration": 4.04
+  },
+  {
+    "text": "let's jump into this jobs report I mean",
+    "start": 80.439,
+    "duration": 3.841
+  },
+  {
+    "text": "as I mentioned off the top increase in",
+    "start": 82.159,
+    "duration": 5.681
+  },
+  {
+    "text": "non-farm payrolls up to 272,000 far",
+    "start": 84.28,
+    "duration": 6.199
+  },
+  {
+    "text": "exceeding the consensus of 185 five but",
+    "start": 87.84,
+    "duration": 5.36
+  },
+  {
+    "text": "then unemployment rate ticked up 4% from",
+    "start": 90.479,
+    "duration": 5.64
+  },
+  {
+    "text": "the 3.9 I'm curious you know how do you",
+    "start": 93.2,
+    "duration": 5.36
+  },
+  {
+    "text": "reconcile these seemingly contradictory",
+    "start": 96.119,
+    "duration": 4.201
+  },
+  {
+    "text": "indicators and what do they suggest",
+    "start": 98.56,
+    "duration": 4.28
+  },
+  {
+    "text": "about the current state of the labor",
+    "start": 100.32,
+    "duration": 5.56
+  },
+  {
+    "text": "market I'm not sure I can because uh the",
+    "start": 102.84,
+    "duration": 5.04
+  },
+  {
+    "text": "numbers are a bit confusing uh maybe",
+    "start": 105.88,
+    "duration": 4.76
+  },
+  {
+    "text": "even more telling is is the differences",
+    "start": 107.88,
+    "duration": 4.76
+  },
+  {
+    "text": "between the ADP numbers and the BLS",
+    "start": 110.64,
+    "duration": 4.079
+  },
+  {
+    "text": "numbers the Bureau of Labor statistic",
+    "start": 112.64,
+    "duration": 4.759
+  },
+  {
+    "text": "they've been very very different uh for",
+    "start": 114.719,
+    "duration": 5.641
+  },
+  {
+    "text": "some time and and makes the question you",
+    "start": 117.399,
+    "duration": 4.921
+  },
+  {
+    "text": "know they can't both be right you know",
+    "start": 120.36,
+    "duration": 3.64
+  },
+  {
+    "text": "something something's not not quite",
+    "start": 122.32,
+    "duration": 4.36
+  },
+  {
+    "text": "right there plus the revisions sometimes",
+    "start": 124.0,
+    "duration": 4.319
+  },
+  {
+    "text": "very very large that we get a month",
+    "start": 126.68,
+    "duration": 5.24
+  },
+  {
+    "text": "later in uh in these jobs numbers uh",
+    "start": 128.319,
+    "duration": 5.481
+  },
+  {
+    "text": "speaks to the quality of the data so I'm",
+    "start": 131.92,
+    "duration": 4.039
+  },
+  {
+    "text": "not quite sure what what is going on",
+    "start": 133.8,
+    "duration": 5.12
+  },
+  {
+    "text": "there but I think anecdotally you know",
+    "start": 135.959,
+    "duration": 5.201
+  },
+  {
+    "text": "the the labor market isn't quite as",
+    "start": 138.92,
+    "duration": 6.039
+  },
+  {
+    "text": "strong as we we we think it is uh maybe",
+    "start": 141.16,
+    "duration": 5.799
+  },
+  {
+    "text": "employers aren't laying people off yet",
+    "start": 144.959,
+    "duration": 3.601
+  },
+  {
+    "text": "but hiring is certainly slowed as a",
+    "start": 146.959,
+    "duration": 3.481
+  },
+  {
+    "text": "matter of fact Goldman's out with a note",
+    "start": 148.56,
+    "duration": 4.039
+  },
+  {
+    "text": "uh just recently saying that uh hiring",
+    "start": 150.44,
+    "duration": 5.24
+  },
+  {
+    "text": "is down to pre pandemic levels right now",
+    "start": 152.599,
+    "duration": 5.521
+  },
+  {
+    "text": "so uh we'll see how that plays out but",
+    "start": 155.68,
+    "duration": 5.04
+  },
+  {
+    "text": "to your point uh I do think the FED is",
+    "start": 158.12,
+    "duration": 3.88
+  },
+  {
+    "text": "going to have to start to think outside",
+    "start": 160.72,
+    "duration": 3.799
+  },
+  {
+    "text": "of the box uh at this point because",
+    "start": 162.0,
+    "duration": 4.44
+  },
+  {
+    "text": "they're not slowing down what they need",
+    "start": 164.519,
+    "duration": 3.161
+  },
+  {
+    "text": "to do and we're certainly not getting",
+    "start": 166.44,
+    "duration": 2.96
+  },
+  {
+    "text": "the inflation prints that they need to",
+    "start": 167.68,
+    "duration": 4.08
+  },
+  {
+    "text": "see yeah you know you've got this",
+    "start": 169.4,
+    "duration": 4.119
+  },
+  {
+    "text": "Divergence between the payroll survey",
+    "start": 171.76,
+    "duration": 3.64
+  },
+  {
+    "text": "and the household survey the latter",
+    "start": 173.519,
+    "duration": 4.72
+  },
+  {
+    "text": "showing 400,000 drop in employment and",
+    "start": 175.4,
+    "duration": 4.88
+  },
+  {
+    "text": "what's the underlying issue here about",
+    "start": 178.239,
+    "duration": 4.28
+  },
+  {
+    "text": "measuring employment I mean these",
+    "start": 180.28,
+    "duration": 5.36
+  },
+  {
+    "text": "discrepancies are are quite high they",
+    "start": 182.519,
+    "duration": 4.961
+  },
+  {
+    "text": "are high and you got to remember",
+    "start": 185.64,
+    "duration": 3.76
+  },
+  {
+    "text": "sometimes these are just surveys uh and",
+    "start": 187.48,
+    "duration": 3.839
+  },
+  {
+    "text": "they don't necessarily CT capture the",
+    "start": 189.4,
+    "duration": 6.08
+  },
+  {
+    "text": "real data you know I I'm almost willing",
+    "start": 191.319,
+    "duration": 6.441
+  },
+  {
+    "text": "to shift over to maybe the ADP because",
+    "start": 195.48,
+    "duration": 4.28
+  },
+  {
+    "text": "at least that that is a consistent",
+    "start": 197.76,
+    "duration": 5.479
+  },
+  {
+    "text": "process uh in here I think when you look",
+    "start": 199.76,
+    "duration": 5.88
+  },
+  {
+    "text": "at some of these numbers uh I think you",
+    "start": 203.239,
+    "duration": 4.201
+  },
+  {
+    "text": "know some like Barry sterck some in the",
+    "start": 205.64,
+    "duration": 3.04
+  },
+  {
+    "text": "real estate industry have kind of",
+    "start": 207.44,
+    "duration": 5.439
+  },
+  {
+    "text": "pointed out that despite you know these",
+    "start": 208.68,
+    "duration": 6.919
+  },
+  {
+    "text": "dramatic hiking rates you know o over",
+    "start": 212.879,
+    "duration": 6.241
+  },
+  {
+    "text": "the last couple of years uh despite that",
+    "start": 215.599,
+    "duration": 5.84
+  },
+  {
+    "text": "uh some key areas of employment have not",
+    "start": 219.12,
+    "duration": 4.16
+  },
+  {
+    "text": "come in you know you've seen some pretty",
+    "start": 221.439,
+    "duration": 4.041
+  },
+  {
+    "text": "big gains in construction throughout the",
+    "start": 223.28,
+    "duration": 4.92
+  },
+  {
+    "text": "the the last year this is the area that",
+    "start": 225.48,
+    "duration": 5.399
+  },
+  {
+    "text": "that that should in fact be be hit and",
+    "start": 228.2,
+    "duration": 5.039
+  },
+  {
+    "text": "maybe what's happening with with with",
+    "start": 230.879,
+    "duration": 5.36
+  },
+  {
+    "text": "with inflation right now it's not just",
+    "start": 233.239,
+    "duration": 4.681
+  },
+  {
+    "text": "uh it's not just you know the CPI",
+    "start": 236.239,
+    "duration": 3.56
+  },
+  {
+    "text": "numbers that we get the shelter",
+    "start": 237.92,
+    "duration": 2.76
+  },
+  {
+    "text": "inflation we're going to have to do",
+    "start": 239.799,
+    "duration": 2.601
+  },
+  {
+    "text": "something to bring that down because",
+    "start": 240.68,
+    "duration": 3.8
+  },
+  {
+    "text": "we're we're kind of splitting splitting",
+    "start": 242.4,
+    "duration": 3.6
+  },
+  {
+    "text": "things in two those at the top of the",
+    "start": 244.48,
+    "duration": 3.8
+  },
+  {
+    "text": "income ladder uh they're handling",
+    "start": 246.0,
+    "duration": 4.0
+  },
+  {
+    "text": "inflation just fine if you're long real",
+    "start": 248.28,
+    "duration": 4.08
+  },
+  {
+    "text": "estate in stocks you're doing okay but",
+    "start": 250.0,
+    "duration": 3.64
+  },
+  {
+    "text": "if you're at the bottom of the income",
+    "start": 252.36,
+    "duration": 4.52
+  },
+  {
+    "text": "ladder all right uh Consumer Staples the",
+    "start": 253.64,
+    "duration": 6.159
+  },
+  {
+    "text": "prices are in elastic meaning meaning",
+    "start": 256.88,
+    "duration": 4.68
+  },
+  {
+    "text": "they you know demand isn't going to go",
+    "start": 259.799,
+    "duration": 3.321
+  },
+  {
+    "text": "down you still have to buy food you",
+    "start": 261.56,
+    "duration": 2.96
+  },
+  {
+    "text": "still have to you know go to the gas",
+    "start": 263.12,
+    "duration": 4.32
+  },
+  {
+    "text": "station and fill up uh I think they're",
+    "start": 264.52,
+    "duration": 4.239
+  },
+  {
+    "text": "going to have to think outside the box",
+    "start": 267.44,
+    "duration": 2.96
+  },
+  {
+    "text": "and there's some strong evidence that",
+    "start": 268.759,
+    "duration": 2.841
+  },
+  {
+    "text": "suggests that they're actually going to",
+    "start": 270.4,
+    "duration": 3.32
+  },
+  {
+    "text": "have to cut rates and I'll repeat that",
+    "start": 271.6,
+    "duration": 5.439
+  },
+  {
+    "text": "cut rates uh to go this last mile of",
+    "start": 273.72,
+    "duration": 5.56
+  },
+  {
+    "text": "inflation wow okay that's interesting",
+    "start": 277.039,
+    "duration": 3.6
+  },
+  {
+    "text": "we're going to unpack that I mean",
+    "start": 279.28,
+    "duration": 3.16
+  },
+  {
+    "text": "obviously the market pricing a little",
+    "start": 280.639,
+    "duration": 4.361
+  },
+  {
+    "text": "bit here for CPI next week but uh let's",
+    "start": 282.44,
+    "duration": 3.84
+  },
+  {
+    "text": "go back to your note I read it this",
+    "start": 285.0,
+    "duration": 2.919
+  },
+  {
+    "text": "morning you mentioned that higher rates",
+    "start": 286.28,
+    "duration": 3.72
+  },
+  {
+    "text": "might actually contribute to inflation",
+    "start": 287.919,
+    "duration": 4.161
+  },
+  {
+    "text": "particularly by increasing the interest",
+    "start": 290.0,
+    "duration": 4.08
+  },
+  {
+    "text": "expense for the consumers I mean we're",
+    "start": 292.08,
+    "duration": 4.32
+  },
+  {
+    "text": "definitely feeling the punch but uh the",
+    "start": 294.08,
+    "duration": 4.839
+  },
+  {
+    "text": "pinch rather and the punch but elaborate",
+    "start": 296.4,
+    "duration": 4.84
+  },
+  {
+    "text": "a little bit here David on how this",
+    "start": 298.919,
+    "duration": 4.041
+  },
+  {
+    "text": "mechanism works in the implications for",
+    "start": 301.24,
+    "duration": 4.799
+  },
+  {
+    "text": "the FED strategy here sure uh and it's",
+    "start": 302.96,
+    "duration": 5.239
+  },
+  {
+    "text": "not an original thought I think some",
+    "start": 306.039,
+    "duration": 4.481
+  },
+  {
+    "text": "like Rick reer over Black Rock uh Jack",
+    "start": 308.199,
+    "duration": 4.201
+  },
+  {
+    "text": "Manley over JP Morgan they brought this",
+    "start": 310.52,
+    "duration": 4.88
+  },
+  {
+    "text": "up in the past as well I I buy into this",
+    "start": 312.4,
+    "duration": 6.28
+  },
+  {
+    "text": "thesis uh in the following sense uh if",
+    "start": 315.4,
+    "duration": 5.76
+  },
+  {
+    "text": "you think about it you know in the",
+    "start": 318.68,
+    "duration": 4.88
+  },
+  {
+    "text": "United States we're a consumer economy",
+    "start": 321.16,
+    "duration": 3.68
+  },
+  {
+    "text": "uh and it's not as much about the",
+    "start": 323.56,
+    "duration": 2.72
+  },
+  {
+    "text": "business cycle it's really more about",
+    "start": 324.84,
+    "duration": 3.68
+  },
+  {
+    "text": "the the housing cycle and right now",
+    "start": 326.28,
+    "duration": 5.359
+  },
+  {
+    "text": "shelter inflation is quite High uh and",
+    "start": 328.52,
+    "duration": 6.72
+  },
+  {
+    "text": "until mortgage rates come down all right",
+    "start": 331.639,
+    "duration": 6.761
+  },
+  {
+    "text": "no one no one can sell their house and",
+    "start": 335.24,
+    "duration": 5.56
+  },
+  {
+    "text": "we can't clear that inventory so the",
+    "start": 338.4,
+    "duration": 4.48
+  },
+  {
+    "text": "idea is that if we cut rates even just",
+    "start": 340.8,
+    "duration": 4.32
+  },
+  {
+    "text": "modestly enough people can get out from",
+    "start": 342.88,
+    "duration": 4.4
+  },
+  {
+    "text": "under that they can sell their homes",
+    "start": 345.12,
+    "duration": 4.4
+  },
+  {
+    "text": "housing prices will fall shelter shelter",
+    "start": 347.28,
+    "duration": 7.08
+  },
+  {
+    "text": "inflation will will will will fall uh if",
+    "start": 349.52,
+    "duration": 7.08
+  },
+  {
+    "text": "if I add on to that and I I think about",
+    "start": 354.36,
+    "duration": 5.72
+  },
+  {
+    "text": "it a little further uh I think if you",
+    "start": 356.6,
+    "duration": 5.84
+  },
+  {
+    "text": "look at just a split between the",
+    "start": 360.08,
+    "duration": 3.76
+  },
+  {
+    "text": "corporate sector the private sector",
+    "start": 362.44,
+    "duration": 3.28
+  },
+  {
+    "text": "between The Have and the Have Nots",
+    "start": 363.84,
+    "duration": 4.72
+  },
+  {
+    "text": "credit inflation is very real the the",
+    "start": 365.72,
+    "duration": 4.599
+  },
+  {
+    "text": "apples the microsofts of the world they",
+    "start": 368.56,
+    "duration": 5.079
+  },
+  {
+    "text": "have pristine balance sheets the top 10",
+    "start": 370.319,
+    "duration": 5.761
+  },
+  {
+    "text": "companies in the S&P 500 at 400 billion",
+    "start": 373.639,
+    "duration": 5.161
+  },
+  {
+    "text": "in cash they don't need access to credit",
+    "start": 376.08,
+    "duration": 5.76
+  },
+  {
+    "text": "everyone else does to fund their work in",
+    "start": 378.8,
+    "duration": 5.08
+  },
+  {
+    "text": "capital and until we get those rates",
+    "start": 381.84,
+    "duration": 3.96
+  },
+  {
+    "text": "down I I don't think we're going to you",
+    "start": 383.88,
+    "duration": 3.56
+  },
+  {
+    "text": "know get this last mile of inflation",
+    "start": 385.8,
+    "duration": 4.119
+  },
+  {
+    "text": "that the FED would like to to accomplish",
+    "start": 387.44,
+    "duration": 4.159
+  },
+  {
+    "text": "yeah well could give me some alternative",
+    "start": 389.919,
+    "duration": 3.081
+  },
+  {
+    "text": "measures that we could potentially put",
+    "start": 391.599,
+    "duration": 3.121
+  },
+  {
+    "text": "in I mean obviously a rate cut but could",
+    "start": 393.0,
+    "duration": 4.639
+  },
+  {
+    "text": "the FED what could the FED do to take if",
+    "start": 394.72,
+    "duration": 4.759
+  },
+  {
+    "text": "higher rates are indeed exasperating",
+    "start": 397.639,
+    "duration": 3.321
+  },
+  {
+    "text": "this inflationary pressure I mean what",
+    "start": 399.479,
+    "duration": 2.681
+  },
+  {
+    "text": "can they do",
+    "start": 400.96,
+    "duration": 4.4
+  },
+  {
+    "text": "here I think they could uh do two cuts",
+    "start": 402.16,
+    "duration": 5.12
+  },
+  {
+    "text": "this year maybe 25 basis Points each",
+    "start": 405.36,
+    "duration": 4.64
+  },
+  {
+    "text": "cach bring it down 50 basis points and",
+    "start": 407.28,
+    "duration": 4.96
+  },
+  {
+    "text": "right now real rates that's what Wall",
+    "start": 410.0,
+    "duration": 4.56
+  },
+  {
+    "text": "Street looks at real rates are the FED",
+    "start": 412.24,
+    "duration": 5.04
+  },
+  {
+    "text": "funds rate uh when you back out",
+    "start": 414.56,
+    "duration": 6.44
+  },
+  {
+    "text": "inflation right now it's at about 2.7 %",
+    "start": 417.28,
+    "duration": 6.16
+  },
+  {
+    "text": "uh even if we brought it down just 50",
+    "start": 421.0,
+    "duration": 4.479
+  },
+  {
+    "text": "basis points we they'll still be in",
+    "start": 423.44,
+    "duration": 4.12
+  },
+  {
+    "text": "restrictive territory it's not easy",
+    "start": 425.479,
+    "duration": 4.201
+  },
+  {
+    "text": "money as a matter of fact even with a 50",
+    "start": 427.56,
+    "duration": 4.639
+  },
+  {
+    "text": "basis point cut uh you're going to be",
+    "start": 429.68,
+    "duration": 5.28
+  },
+  {
+    "text": "well above uh you know the average of",
+    "start": 432.199,
+    "duration": 4.961
+  },
+  {
+    "text": "the over the last half century for real",
+    "start": 434.96,
+    "duration": 4.6
+  },
+  {
+    "text": "rat so it's not re it's not easing",
+    "start": 437.16,
+    "duration": 4.24
+  },
+  {
+    "text": "policy it's just enough to get out from",
+    "start": 439.56,
+    "duration": 4.319
+  },
+  {
+    "text": "under to clear this inventory in housing",
+    "start": 441.4,
+    "duration": 4.6
+  },
+  {
+    "text": "and I think that's the Juggernaut and",
+    "start": 443.879,
+    "duration": 4.0
+  },
+  {
+    "text": "that's what I think Rick reer Jack",
+    "start": 446.0,
+    "duration": 4.4
+  },
+  {
+    "text": "Manley uh and even Barry stle over",
+    "start": 447.879,
+    "duration": 4.521
+  },
+  {
+    "text": "Starwood are are saying here and I",
+    "start": 450.4,
+    "duration": 5.199
+  },
+  {
+    "text": "endorse that view as well yeah let's go",
+    "start": 452.4,
+    "duration": 4.639
+  },
+  {
+    "text": "back to your recent note here I mean you",
+    "start": 455.599,
+    "duration": 2.961
+  },
+  {
+    "text": "pointed out the government spending",
+    "start": 457.039,
+    "duration": 3.121
+  },
+  {
+    "text": "remains High I mean we all know that we",
+    "start": 458.56,
+    "duration": 4.16
+  },
+  {
+    "text": "have record debt uh Federal outlays in",
+    "start": 460.16,
+    "duration": 6.36
+  },
+  {
+    "text": "2024 amounting to 23.1% of the GDP it's",
+    "start": 462.72,
+    "duration": 6.12
+  },
+  {
+    "text": "crazy high uh talk to me about the",
+    "start": 466.52,
+    "duration": 5.04
+  },
+  {
+    "text": "sustained spending and and the impact of",
+    "start": 468.84,
+    "duration": 5.44
+  },
+  {
+    "text": "the effectiveness on the fed's monetary",
+    "start": 471.56,
+    "duration": 4.919
+  },
+  {
+    "text": "policies it it crowds out the real",
+    "start": 474.28,
+    "duration": 4.4
+  },
+  {
+    "text": "economy and the FED is trying to drain",
+    "start": 476.479,
+    "duration": 4.881
+  },
+  {
+    "text": "liquidity uh from the system uh and",
+    "start": 478.68,
+    "duration": 4.84
+  },
+  {
+    "text": "they're not succeeding because the",
+    "start": 481.36,
+    "duration": 4.2
+  },
+  {
+    "text": "government is pouring it back in and",
+    "start": 483.52,
+    "duration": 3.959
+  },
+  {
+    "text": "it's all these programs that we have",
+    "start": 485.56,
+    "duration": 4.96
+  },
+  {
+    "text": "whether it's student loan forgiveness uh",
+    "start": 487.479,
+    "duration": 5.521
+  },
+  {
+    "text": "the uh the inflation reduction act I use",
+    "start": 490.52,
+    "duration": 5.519
+  },
+  {
+    "text": "that term loosely uh the chips act all",
+    "start": 493.0,
+    "duration": 5.0
+  },
+  {
+    "text": "these things add up and pour money back",
+    "start": 496.039,
+    "duration": 4.361
+  },
+  {
+    "text": "into the economy and it's unprecedented",
+    "start": 498.0,
+    "duration": 4.199
+  },
+  {
+    "text": "because you're adding money into an",
+    "start": 500.4,
+    "duration": 4.4
+  },
+  {
+    "text": "economy that is it's not in a crisis",
+    "start": 502.199,
+    "duration": 4.321
+  },
+  {
+    "text": "situation it's that we're doing the kind",
+    "start": 504.8,
+    "duration": 4.72
+  },
+  {
+    "text": "of spending you might see uh in in a",
+    "start": 506.52,
+    "duration": 6.04
+  },
+  {
+    "text": "financial crisis or a deep recession and",
+    "start": 509.52,
+    "duration": 4.36
+  },
+  {
+    "text": "right now you're you're dealing with",
+    "start": 512.56,
+    "duration": 4.12
+  },
+  {
+    "text": "debts deficits that are so large that",
+    "start": 513.88,
+    "duration": 5.839
+  },
+  {
+    "text": "the juice on the debt the the interest",
+    "start": 516.68,
+    "duration": 4.719
+  },
+  {
+    "text": "think of it like a loone shark that",
+    "start": 519.719,
+    "duration": 4.361
+  },
+  {
+    "text": "interest rate uh that that money we're",
+    "start": 521.399,
+    "duration": 4.801
+  },
+  {
+    "text": "paying each year is it's going to",
+    "start": 524.08,
+    "duration": 4.28
+  },
+  {
+    "text": "surpass the uh the amount of money we",
+    "start": 526.2,
+    "duration": 5.6
+  },
+  {
+    "text": "spent on defense uh so that's",
+    "start": 528.36,
+    "duration": 5.64
+  },
+  {
+    "text": "unsustainable obviously yeah and",
+    "start": 531.8,
+    "duration": 3.8
+  },
+  {
+    "text": "someone's got to pay for it I mean if",
+    "start": 534.0,
+    "duration": 3.56
+  },
+  {
+    "text": "government spending continues to rise do",
+    "start": 535.6,
+    "duration": 4.16
+  },
+  {
+    "text": "you think it could offset the int Ed",
+    "start": 537.56,
+    "duration": 4.279
+  },
+  {
+    "text": "effects of the feds rate hikes and you",
+    "start": 539.76,
+    "duration": 4.0
+  },
+  {
+    "text": "know what can better be done here to",
+    "start": 541.839,
+    "duration": 4.041
+  },
+  {
+    "text": "coordinate fiscal and monetary policiy",
+    "start": 543.76,
+    "duration": 4.24
+  },
+  {
+    "text": "something has to be done well you just",
+    "start": 545.88,
+    "duration": 3.519
+  },
+  {
+    "text": "said it you're going to have to have a",
+    "start": 548.0,
+    "duration": 3.12
+  },
+  {
+    "text": "coordination of fiscal and monetary",
+    "start": 549.399,
+    "duration": 3.641
+  },
+  {
+    "text": "policy you can't have can't have you",
+    "start": 551.12,
+    "duration": 3.719
+  },
+  {
+    "text": "know the left side left hand doing one",
+    "start": 553.04,
+    "duration": 2.96
+  },
+  {
+    "text": "thing and the right hand doing something",
+    "start": 554.839,
+    "duration": 2.721
+  },
+  {
+    "text": "else they're count they're they're",
+    "start": 556.0,
+    "duration": 3.24
+  },
+  {
+    "text": "canceling each other out and",
+    "start": 557.56,
+    "duration": 5.32
+  },
+  {
+    "text": "accomplishing very little uh uh you know",
+    "start": 559.24,
+    "duration": 5.52
+  },
+  {
+    "text": "we've gone from the you know the 9%",
+    "start": 562.88,
+    "duration": 3.399
+  },
+  {
+    "text": "we're not in those Draconian numbers",
+    "start": 564.76,
+    "duration": 4.079
+  },
+  {
+    "text": "anymore we come back that back down but",
+    "start": 566.279,
+    "duration": 4.24
+  },
+  {
+    "text": "we're not going to get that last smile",
+    "start": 568.839,
+    "duration": 3.761
+  },
+  {
+    "text": "until we do something very different",
+    "start": 570.519,
+    "duration": 3.241
+  },
+  {
+    "text": "what than what we're doing and it's not",
+    "start": 572.6,
+    "duration": 3.4
+  },
+  {
+    "text": "going to just be cuts and and fixing the",
+    "start": 573.76,
+    "duration": 4.72
+  },
+  {
+    "text": "housing market that as I suggested uh",
+    "start": 576.0,
+    "duration": 3.92
+  },
+  {
+    "text": "government's got to get their act",
+    "start": 578.48,
+    "duration": 3.76
+  },
+  {
+    "text": "together this is an unsustainable path",
+    "start": 579.92,
+    "duration": 4.8
+  },
+  {
+    "text": "and you can't tax your way out of it we",
+    "start": 582.24,
+    "duration": 5.599
+  },
+  {
+    "text": "can have a debate uh about a political",
+    "start": 584.72,
+    "duration": 4.92
+  },
+  {
+    "text": "debate about who's paying too much or",
+    "start": 587.839,
+    "duration": 3.361
+  },
+  {
+    "text": "too little in taxes but what isn't Up",
+    "start": 589.64,
+    "duration": 3.879
+  },
+  {
+    "text": "For Debate is that we're starting to hit",
+    "start": 591.2,
+    "duration": 5.639
+  },
+  {
+    "text": "levels of uh of tax revenue that is",
+    "start": 593.519,
+    "duration": 4.88
+  },
+  {
+    "text": "crowding out that real economy we're",
+    "start": 596.839,
+    "duration": 5.481
+  },
+  {
+    "text": "already at 23 on its way to 24 than 25%",
+    "start": 598.399,
+    "duration": 7.44
+  },
+  {
+    "text": "of uh of GDP can't do it yeah you know",
+    "start": 602.32,
+    "duration": 5.079
+  },
+  {
+    "text": "interesting data to say the least you",
+    "start": 605.839,
+    "duration": 3.081
+  },
+  {
+    "text": "know following the jobs report we saw",
+    "start": 607.399,
+    "duration": 3.641
+  },
+  {
+    "text": "significant Market reactions we saw a",
+    "start": 608.92,
+    "duration": 4.0
+  },
+  {
+    "text": "bit of a sell-off in treasuries a rise",
+    "start": 611.04,
+    "duration": 3.919
+  },
+  {
+    "text": "in the dollar and some mixed movement in",
+    "start": 612.92,
+    "duration": 4.88
+  },
+  {
+    "text": "equities what do these Market responses",
+    "start": 614.959,
+    "duration": 5.0
+  },
+  {
+    "text": "tell you about the investor sentiment",
+    "start": 617.8,
+    "duration": 4.24
+  },
+  {
+    "text": "here especially in all-time highs with",
+    "start": 619.959,
+    "duration": 4.12
+  },
+  {
+    "text": "the S&P and as you mentioned a lot of",
+    "start": 622.04,
+    "duration": 3.799
+  },
+  {
+    "text": "these Meg seven having a lot of cash in",
+    "start": 624.079,
+    "duration": 2.76
+  },
+  {
+    "text": "the",
+    "start": 625.839,
+    "duration": 3.521
+  },
+  {
+    "text": "bank uh you've seen a lot you've seen",
+    "start": 626.839,
+    "duration": 5.841
+  },
+  {
+    "text": "seen the market really the uh go back to",
+    "start": 629.36,
+    "duration": 5.039
+  },
+  {
+    "text": "the mega cap trade and the mega cap",
+    "start": 632.68,
+    "duration": 3.68
+  },
+  {
+    "text": "trade in many ways that's the safety",
+    "start": 634.399,
+    "duration": 3.601
+  },
+  {
+    "text": "trade because of the balance sheets of",
+    "start": 636.36,
+    "duration": 3.88
+  },
+  {
+    "text": "the of of the of these companies this is",
+    "start": 638.0,
+    "duration": 4.92
+  },
+  {
+    "text": "where you where you go to hide and I",
+    "start": 640.24,
+    "duration": 4.08
+  },
+  {
+    "text": "think people have been uncomfortable",
+    "start": 642.92,
+    "duration": 2.88
+  },
+  {
+    "text": "with that because everybody's looking",
+    "start": 644.32,
+    "duration": 4.4
+  },
+  {
+    "text": "for the rotation into small caps midcaps",
+    "start": 645.8,
+    "duration": 5.479
+  },
+  {
+    "text": "and other asset classes and it's just",
+    "start": 648.72,
+    "duration": 4.119
+  },
+  {
+    "text": "not happening yet and I don't think",
+    "start": 651.279,
+    "duration": 3.36
+  },
+  {
+    "text": "that's going to happen until we see",
+    "start": 652.839,
+    "duration": 3.601
+  },
+  {
+    "text": "rates start to fall because a lot of",
+    "start": 654.639,
+    "duration": 3.681
+  },
+  {
+    "text": "these smaller companies they have",
+    "start": 656.44,
+    "duration": 3.519
+  },
+  {
+    "text": "adjustable rate there they're they're",
+    "start": 658.32,
+    "duration": 3.68
+  },
+  {
+    "text": "they're paying out a lot just like the",
+    "start": 659.959,
+    "duration": 4.281
+  },
+  {
+    "text": "consumer credit card debt is very very",
+    "start": 662.0,
+    "duration": 4.12
+  },
+  {
+    "text": "high and it's very hard for some Corp",
+    "start": 664.24,
+    "duration": 4.039
+  },
+  {
+    "text": "very high for some corporations as well",
+    "start": 666.12,
+    "duration": 4.76
+  },
+  {
+    "text": "to fund their working capital yeah talk",
+    "start": 668.279,
+    "duration": 4.321
+  },
+  {
+    "text": "to the investors here David I mean",
+    "start": 670.88,
+    "duration": 3.48
+  },
+  {
+    "text": "considering the market Market's quick",
+    "start": 672.6,
+    "duration": 3.919
+  },
+  {
+    "text": "shift from higher for longer to now that",
+    "start": 674.36,
+    "duration": 3.64
+  },
+  {
+    "text": "you know there's potential rate cuts by",
+    "start": 676.519,
+    "duration": 3.281
+  },
+  {
+    "text": "the end of the year how do investors",
+    "start": 678.0,
+    "duration": 3.519
+  },
+  {
+    "text": "balance between short-term Market",
+    "start": 679.8,
+    "duration": 4.719
+  },
+  {
+    "text": "reactions and then the long-term",
+    "start": 681.519,
+    "duration": 5.481
+  },
+  {
+    "text": "fundamentals H that's what we try to do",
+    "start": 684.519,
+    "duration": 5.281
+  },
+  {
+    "text": "every day and it's not an easy task and",
+    "start": 687.0,
+    "duration": 4.6
+  },
+  {
+    "text": "a lot of times we make bad decisions",
+    "start": 689.8,
+    "duration": 3.68
+  },
+  {
+    "text": "because we do react in the short term",
+    "start": 691.6,
+    "duration": 3.88
+  },
+  {
+    "text": "and you know I've always thought you",
+    "start": 693.48,
+    "duration": 4.799
+  },
+  {
+    "text": "know sometimes you you you know you",
+    "start": 695.48,
+    "duration": 4.12
+  },
+  {
+    "text": "you're selling the stock today and",
+    "start": 698.279,
+    "duration": 2.761
+  },
+  {
+    "text": "you're buying it back maybe a month",
+    "start": 699.6,
+    "duration": 4.52
+  },
+  {
+    "text": "later sometimes at higher prices so many",
+    "start": 701.04,
+    "duration": 5.56
+  },
+  {
+    "text": "times professionals and Retail investors",
+    "start": 704.12,
+    "duration": 4.76
+  },
+  {
+    "text": "sometimes we over trade and overthink it",
+    "start": 706.6,
+    "duration": 3.679
+  },
+  {
+    "text": "some of these companies are great",
+    "start": 708.88,
+    "duration": 3.04
+  },
+  {
+    "text": "companies and we just hold on to them a",
+    "start": 710.279,
+    "duration": 4.721
+  },
+  {
+    "text": "little longer and forget about you know",
+    "start": 711.92,
+    "duration": 5.2
+  },
+  {
+    "text": "trying to avoid you know a minor you",
+    "start": 715.0,
+    "duration": 5.079
+  },
+  {
+    "text": "know correction in the market on uh you",
+    "start": 717.12,
+    "duration": 4.2
+  },
+  {
+    "text": "know what's going to be the Catalyst to",
+    "start": 720.079,
+    "duration": 3.721
+  },
+  {
+    "text": "get back in even if you avoid a 10%",
+    "start": 721.32,
+    "duration": 5.24
+  },
+  {
+    "text": "correction in the market I guarantee you",
+    "start": 723.8,
+    "duration": 4.88
+  },
+  {
+    "text": "that down 10% is going to feel like",
+    "start": 726.56,
+    "duration": 4.2
+  },
+  {
+    "text": "we're going down 20 and you'll probably",
+    "start": 728.68,
+    "duration": 3.36
+  },
+  {
+    "text": "get back into the market when the",
+    "start": 730.76,
+    "duration": 4.12
+  },
+  {
+    "text": "market's at another all-time high yeah",
+    "start": 732.04,
+    "duration": 4.32
+  },
+  {
+    "text": "well what are you looking at then in in",
+    "start": 734.88,
+    "duration": 3.12
+  },
+  {
+    "text": "terms of you know key indicators when",
+    "start": 736.36,
+    "duration": 3.719
+  },
+  {
+    "text": "you're checking out to gauge the fed's",
+    "start": 738.0,
+    "duration": 4.399
+  },
+  {
+    "text": "next move I mean we have CPI next week",
+    "start": 740.079,
+    "duration": 4.481
+  },
+  {
+    "text": "that's coming up how might it influence",
+    "start": 742.399,
+    "duration": 4.12
+  },
+  {
+    "text": "the fed's decision-making process a lot",
+    "start": 744.56,
+    "duration": 3.68
+  },
+  {
+    "text": "of Talking Heads this morning saying",
+    "start": 746.519,
+    "duration": 4.401
+  },
+  {
+    "text": "it's not going to do anything",
+    "start": 748.24,
+    "duration": 4.8
+  },
+  {
+    "text": "uh I've been wrong for a year uh on the",
+    "start": 750.92,
+    "duration": 3.719
+  },
+  {
+    "text": "Fed so I'm not sure my opinion is going",
+    "start": 753.04,
+    "duration": 2.96
+  },
+  {
+    "text": "to carry a lot of weight I've been",
+    "start": 754.639,
+    "duration": 4.361
+  },
+  {
+    "text": "forced to push out when these these cuts",
+    "start": 756.0,
+    "duration": 4.959
+  },
+  {
+    "text": "are going to happen the one thing I can",
+    "start": 759.0,
+    "duration": 4.959
+  },
+  {
+    "text": "tell you is it won't be a surprise uh",
+    "start": 760.959,
+    "duration": 5.721
+  },
+  {
+    "text": "they will let us know probably at least",
+    "start": 763.959,
+    "duration": 5.761
+  },
+  {
+    "text": "two meetings uh before they actually do",
+    "start": 766.68,
+    "duration": 5.04
+  },
+  {
+    "text": "it uh you'll get a very strong",
+    "start": 769.72,
+    "duration": 3.64
+  },
+  {
+    "text": "indication it'll start off with some",
+    "start": 771.72,
+    "duration": 4.04
+  },
+  {
+    "text": "rhetoric in a meeting uh in a press",
+    "start": 773.36,
+    "duration": 4.56
+  },
+  {
+    "text": "conference followed up by you know fed",
+    "start": 775.76,
+    "duration": 4.16
+  },
+  {
+    "text": "speak as these Governors come out and",
+    "start": 777.92,
+    "duration": 5.159
+  },
+  {
+    "text": "kind of talk their uh talk to the Press",
+    "start": 779.92,
+    "duration": 5.24
+  },
+  {
+    "text": "periodically and then they'll get a lot",
+    "start": 783.079,
+    "duration": 3.281
+  },
+  {
+    "text": "closer you'll see something in the",
+    "start": 785.16,
+    "duration": 2.919
+  },
+  {
+    "text": "language of a press release and then",
+    "start": 786.36,
+    "duration": 4.0
+  },
+  {
+    "text": "finally it'll happen uh a couple of",
+    "start": 788.079,
+    "duration": 3.841
+  },
+  {
+    "text": "months later they'll they're they're",
+    "start": 790.36,
+    "duration": 3.56
+  },
+  {
+    "text": "very keen on letting the market know",
+    "start": 791.92,
+    "duration": 3.279
+  },
+  {
+    "text": "what they're going to do before they do",
+    "start": 793.92,
+    "duration": 3.919
+  },
+  {
+    "text": "it yeah and I mean is the Fed at risk of",
+    "start": 795.199,
+    "duration": 4.041
+  },
+  {
+    "text": "overtightening here I mean how should",
+    "start": 797.839,
+    "duration": 3.56
+  },
+  {
+    "text": "they balance this immediate data and",
+    "start": 799.24,
+    "duration": 4.32
+  },
+  {
+    "text": "then understanding the delayed effects",
+    "start": 801.399,
+    "duration": 3.8
+  },
+  {
+    "text": "of what's happening it feels like we're",
+    "start": 803.56,
+    "duration": 3.88
+  },
+  {
+    "text": "only understanding it months",
+    "start": 805.199,
+    "duration": 4.64
+  },
+  {
+    "text": "later I I wish they would read some of",
+    "start": 807.44,
+    "duration": 4.28
+  },
+  {
+    "text": "the things that I've written and others",
+    "start": 809.839,
+    "duration": 4.281
+  },
+  {
+    "text": "have written about this I think maybe at",
+    "start": 811.72,
+    "duration": 4.4
+  },
+  {
+    "text": "least take a look at it I think the idea",
+    "start": 814.12,
+    "duration": 3.719
+  },
+  {
+    "text": "of clearing the inventory in housing",
+    "start": 816.12,
+    "duration": 3.2
+  },
+  {
+    "text": "could should be something should be",
+    "start": 817.839,
+    "duration": 4.601
+  },
+  {
+    "text": "tried I don't think a couple of uh Cuts",
+    "start": 819.32,
+    "duration": 4.759
+  },
+  {
+    "text": "would be the end of Life as we know it",
+    "start": 822.44,
+    "duration": 4.0
+  },
+  {
+    "text": "as someone that F uh like to think uh",
+    "start": 824.079,
+    "duration": 5.32
+  },
+  {
+    "text": "Neil cash carry uh Minneapolis fate",
+    "start": 826.44,
+    "duration": 4.6
+  },
+  {
+    "text": "Governor he's probably the most vocal",
+    "start": 829.399,
+    "duration": 3.12
+  },
+  {
+    "text": "he's not a voting member this time",
+    "start": 831.04,
+    "duration": 4.0
+  },
+  {
+    "text": "around he's been the most vocal but he",
+    "start": 832.519,
+    "duration": 4.521
+  },
+  {
+    "text": "he was part of the easy money you know",
+    "start": 835.04,
+    "duration": 4.12
+  },
+  {
+    "text": "he was on the other side of the boat",
+    "start": 837.04,
+    "duration": 4.28
+  },
+  {
+    "text": "back in 2021 thinking that there was",
+    "start": 839.16,
+    "duration": 4.039
+  },
+  {
+    "text": "absolutely no need to raise race so I'm",
+    "start": 841.32,
+    "duration": 4.56
+  },
+  {
+    "text": "not sure how how valuable his opinion is",
+    "start": 843.199,
+    "duration": 4.801
+  },
+  {
+    "text": "right now yeah David Nelson Chief",
+    "start": 845.88,
+    "duration": 3.8
+  },
+  {
+    "text": "strategist at bellpoint joining us today",
+    "start": 848.0,
+    "duration": 3.199
+  },
+  {
+    "text": "to break it all down it's so interesting",
+    "start": 849.68,
+    "duration": 3.2
+  },
+  {
+    "text": "and in fact I'm going to put up a little",
+    "start": 851.199,
+    "duration": 3.44
+  },
+  {
+    "text": "link to your substack because I think",
+    "start": 852.88,
+    "duration": 3.24
+  },
+  {
+    "text": "more people need to read what you are",
+    "start": 854.639,
+    "duration": 3.2
+  },
+  {
+    "text": "just putting out there hey I appreciate",
+    "start": 856.12,
+    "duration": 3.56
+  },
+  {
+    "text": "that thanks so much thank you so much",
+    "start": 857.839,
+    "duration": 4.44
+  },
+  {
+    "text": "for joing us today cheers I'm Jerry",
+    "start": 859.68,
+    "duration": 4.36
+  },
+  {
+    "text": "saffr for all of us here at Kito news",
+    "start": 862.279,
+    "duration": 3.36
+  },
+  {
+    "text": "thank you for watching don't forget to",
+    "start": 864.04,
+    "duration": 3.68
+  },
+  {
+    "text": "subscribe leave a comment who you'd like",
+    "start": 865.639,
+    "duration": 3.64
+  },
+  {
+    "text": "to see on the show and we'll see see you",
+    "start": 867.72,
+    "duration": 3.01
+  },
+  {
+    "text": "next time",
+    "start": 869.279,
+    "duration": 4.791
+  },
+  {
+    "text": "[Music]",
+    "start": 870.73,
+    "duration": 3.34
+  },
+  {
+    "text": "[Music]",
+    "start": 876.29,
+    "duration": 5.05
+  }
+]

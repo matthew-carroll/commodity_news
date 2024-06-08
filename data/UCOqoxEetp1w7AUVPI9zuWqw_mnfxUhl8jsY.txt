@@ -1,0 +1,1322 @@
+[
+  {
+    "text": "so the problem with buying the dip is",
+    "start": 0.08,
+    "duration": 4.04
+  },
+  {
+    "text": "that first of all you have to know when",
+    "start": 1.719,
+    "duration": 5.401
+  },
+  {
+    "text": "we're in a dip and easier said than done",
+    "start": 4.12,
+    "duration": 7.28
+  },
+  {
+    "text": "so let's start by figuring that part",
+    "start": 7.12,
+    "duration": 4.28
+  },
+  {
+    "text": "out so if you've been waiting for a drop",
+    "start": 13.48,
+    "duration": 5.24
+  },
+  {
+    "text": "in gold price get",
+    "start": 16.119,
+    "duration": 5.201
+  },
+  {
+    "text": "excited because we might be seeing it",
+    "start": 18.72,
+    "duration": 5.559
+  },
+  {
+    "text": "right now now if you're thinking what",
+    "start": 21.32,
+    "duration": 5.4
+  },
+  {
+    "text": "we're seeing right now isn't really a",
+    "start": 24.279,
+    "duration": 5.121
+  },
+  {
+    "text": "dip maybe those dips they just don't dip",
+    "start": 26.72,
+    "duration": 4.16
+  },
+  {
+    "text": "much these day so we're going to try to",
+    "start": 29.4,
+    "duration": 3.92
+  },
+  {
+    "text": "come to a number of what an actual dip",
+    "start": 30.88,
+    "duration": 4.6
+  },
+  {
+    "text": "would look like this is starting to feel",
+    "start": 33.32,
+    "duration": 4.28
+  },
+  {
+    "text": "like a drinking game take a drink every",
+    "start": 35.48,
+    "duration": 5.68
+  },
+  {
+    "text": "time I say dip don't actually do that",
+    "start": 37.6,
+    "duration": 5.88
+  },
+  {
+    "text": "though last week what did we see we",
+    "start": 41.16,
+    "duration": 4.16
+  },
+  {
+    "text": "actually did see the price of gold and",
+    "start": 43.48,
+    "duration": 3.599
+  },
+  {
+    "text": "silver come down the gold market had",
+    "start": 45.32,
+    "duration": 3.68
+  },
+  {
+    "text": "three consecutive down sessions bringing",
+    "start": 47.079,
+    "duration": 4.881
+  },
+  {
+    "text": "the spot price of gold down about $100",
+    "start": 49.0,
+    "duration": 5.199
+  },
+  {
+    "text": "from the high now silver it fell a few",
+    "start": 51.96,
+    "duration": 4.64
+  },
+  {
+    "text": "dollars back below that $30 Mark that",
+    "start": 54.199,
+    "duration": 4.761
+  },
+  {
+    "text": "had everybody so excited so that number",
+    "start": 56.6,
+    "duration": 3.84
+  },
+  {
+    "text": "is still being tested",
+    "start": 58.96,
+    "duration": 3.64
+  },
+  {
+    "text": "so was last week a good week for Metals",
+    "start": 60.44,
+    "duration": 4.039
+  },
+  {
+    "text": "prices or bad week I guess it all",
+    "start": 62.6,
+    "duration": 3.68
+  },
+  {
+    "text": "depends on your perspective so where",
+    "start": 64.479,
+    "duration": 3.721
+  },
+  {
+    "text": "should our excitement level be here",
+    "start": 66.28,
+    "duration": 4.64
+  },
+  {
+    "text": "should we be buying should we be getting",
+    "start": 68.2,
+    "duration": 5.32
+  },
+  {
+    "text": "out entirely selling it all maybe we",
+    "start": 70.92,
+    "duration": 5.08
+  },
+  {
+    "text": "just relax let's start though by",
+    "start": 73.52,
+    "duration": 4.239
+  },
+  {
+    "text": "figuring out what caused last week's",
+    "start": 76.0,
+    "duration": 3.84
+  },
+  {
+    "text": "drop so there were two things really to",
+    "start": 77.759,
+    "duration": 4.761
+  },
+  {
+    "text": "look at we had jobs numbers coming in",
+    "start": 79.84,
+    "duration": 4.319
+  },
+  {
+    "text": "good we'll come back to that and then we",
+    "start": 82.52,
+    "duration": 3.48
+  },
+  {
+    "text": "had the mention of the possibility of",
+    "start": 84.159,
+    "duration": 4.161
+  },
+  {
+    "text": "rate Cuts showing up in the FED policy",
+    "start": 86.0,
+    "duration": 4.4
+  },
+  {
+    "text": "meeting minutes now that alone Lo was",
+    "start": 88.32,
+    "duration": 3.56
+  },
+  {
+    "text": "enough to slow things down and that's",
+    "start": 90.4,
+    "duration": 3.32
+  },
+  {
+    "text": "what we're talking about here gold and",
+    "start": 91.88,
+    "duration": 5.36
+  },
+  {
+    "text": "silver had a few bad days but only after",
+    "start": 93.72,
+    "duration": 5.719
+  },
+  {
+    "text": "having some crazy good days a week ago",
+    "start": 97.24,
+    "duration": 4.0
+  },
+  {
+    "text": "gold put in another all-time high that",
+    "start": 99.439,
+    "duration": 4.761
+  },
+  {
+    "text": "was 2450 so",
+    "start": 101.24,
+    "duration": 5.76
+  },
+  {
+    "text": "$2,450 now just to put that into",
+    "start": 104.2,
+    "duration": 6.76
+  },
+  {
+    "text": "perspective a year ago gold was at 19950",
+    "start": 107.0,
+    "duration": 8.2
+  },
+  {
+    "text": "so that's a 26% gain in 12 months now",
+    "start": 110.96,
+    "duration": 6.159
+  },
+  {
+    "text": "the pullback has to do with US dollar",
+    "start": 115.2,
+    "duration": 4.16
+  },
+  {
+    "text": "advancing and the rate cut Outlook",
+    "start": 117.119,
+    "duration": 4.841
+  },
+  {
+    "text": "weaken I think that's how Reuters put it",
+    "start": 119.36,
+    "duration": 4.079
+  },
+  {
+    "text": "now I'm not here to explain the advance",
+    "start": 121.96,
+    "duration": 3.24
+  },
+  {
+    "text": "of the dollar we all know it's relative",
+    "start": 123.439,
+    "duration": 4.521
+  },
+  {
+    "text": "to the performance of others so best",
+    "start": 125.2,
+    "duration": 4.839
+  },
+  {
+    "text": "horse in the glue factory but the data",
+    "start": 127.96,
+    "duration": 4.12
+  },
+  {
+    "text": "justifying this particular move has to",
+    "start": 130.039,
+    "duration": 5.081
+  },
+  {
+    "text": "do with jobless claims because those are",
+    "start": 132.08,
+    "duration": 5.0
+  },
+  {
+    "text": "always accurate well they posted the",
+    "start": 135.12,
+    "duration": 3.44
+  },
+  {
+    "text": "biggest back-to-back drop since",
+    "start": 137.08,
+    "duration": 3.159
+  },
+  {
+    "text": "September and it just seems to me that",
+    "start": 138.56,
+    "duration": 3.959
+  },
+  {
+    "text": "these numbers tend to get modified after",
+    "start": 140.239,
+    "duration": 4.64
+  },
+  {
+    "text": "the fact so who knows how accurate they",
+    "start": 142.519,
+    "duration": 4.921
+  },
+  {
+    "text": "actually are but it just doesn't matter",
+    "start": 144.879,
+    "duration": 4.64
+  },
+  {
+    "text": "still move the markets and then we got",
+    "start": 147.44,
+    "duration": 4.84
+  },
+  {
+    "text": "the Fed rate policy fud somebody",
+    "start": 149.519,
+    "duration": 5.641
+  },
+  {
+    "text": "somewhere said in a meeting hey we can",
+    "start": 152.28,
+    "duration": 5.48
+  },
+  {
+    "text": "still increase rates if we want to so",
+    "start": 155.16,
+    "duration": 4.079
+  },
+  {
+    "text": "put those two things together and we",
+    "start": 157.76,
+    "duration": 3.479
+  },
+  {
+    "text": "ended up with a $100 sale on the price",
+    "start": 159.239,
+    "duration": 4.401
+  },
+  {
+    "text": "of gold now what's interesting to me is",
+    "start": 161.239,
+    "duration": 4.0
+  },
+  {
+    "text": "that it isn't really all that",
+    "start": 163.64,
+    "duration": 3.92
+  },
+  {
+    "text": "interesting to investors we saw $100",
+    "start": 165.239,
+    "duration": 4.08
+  },
+  {
+    "text": "drop in spot price for gold but that's",
+    "start": 167.56,
+    "duration": 3.92
+  },
+  {
+    "text": "from the peak and that's great for you",
+    "start": 169.319,
+    "duration": 3.761
+  },
+  {
+    "text": "and I if we're buying a coin but it",
+    "start": 171.48,
+    "duration": 3.6
+  },
+  {
+    "text": "isn't really a big overall correction",
+    "start": 173.08,
+    "duration": 3.64
+  },
+  {
+    "text": "it's not to the level that I would have",
+    "start": 175.08,
+    "duration": 3.68
+  },
+  {
+    "text": "called this a dip we're going to come",
+    "start": 176.72,
+    "duration": 3.96
+  },
+  {
+    "text": "back to that in a minute this sellers",
+    "start": 178.76,
+    "duration": 3.64
+  },
+  {
+    "text": "they're just not selling much and the",
+    "start": 180.68,
+    "duration": 3.8
+  },
+  {
+    "text": "biggest players are the central banks",
+    "start": 182.4,
+    "duration": 3.44
+  },
+  {
+    "text": "and they really don't seem to be as",
+    "start": 184.48,
+    "duration": 3.319
+  },
+  {
+    "text": "panicky about somebody at the FED",
+    "start": 185.84,
+    "duration": 4.2
+  },
+  {
+    "text": "mentioning the possibility of a rate cut",
+    "start": 187.799,
+    "duration": 4.481
+  },
+  {
+    "text": "if certain things happen so stepping",
+    "start": 190.04,
+    "duration": 3.68
+  },
+  {
+    "text": "back a little bit if we were to analyze",
+    "start": 192.28,
+    "duration": 3.519
+  },
+  {
+    "text": "what we're analyzing here fed comments",
+    "start": 193.72,
+    "duration": 3.76
+  },
+  {
+    "text": "affect the price of gold we know that",
+    "start": 195.799,
+    "duration": 4.921
+  },
+  {
+    "text": "it's fair to say that they also know",
+    "start": 197.48,
+    "duration": 5.24
+  },
+  {
+    "text": "that their comments affect the stock",
+    "start": 200.72,
+    "duration": 3.64
+  },
+  {
+    "text": "market the crypto market and the gold",
+    "start": 202.72,
+    "duration": 3.28
+  },
+  {
+    "text": "and silver market and I would say that",
+    "start": 204.36,
+    "duration": 3.519
+  },
+  {
+    "text": "somewhere in the chain of command there",
+    "start": 206.0,
+    "duration": 4.0
+  },
+  {
+    "text": "there is an awareness of their ability",
+    "start": 207.879,
+    "duration": 4.481
+  },
+  {
+    "text": "to cool those markets and there's also a",
+    "start": 210.0,
+    "duration": 3.72
+  },
+  {
+    "text": "willingness to do it so I think what",
+    "start": 212.36,
+    "duration": 3.76
+  },
+  {
+    "text": "we're seeing here is a little bit of",
+    "start": 213.72,
+    "duration": 4.2
+  },
+  {
+    "text": "intentional cooling I'm not even saying",
+    "start": 216.12,
+    "duration": 3.44
+  },
+  {
+    "text": "manipulation the FED sees something",
+    "start": 217.92,
+    "duration": 4.16
+  },
+  {
+    "text": "happening they think hold on now and",
+    "start": 219.56,
+    "duration": 3.92
+  },
+  {
+    "text": "then they make some comments to get",
+    "start": 222.08,
+    "duration": 3.92
+  },
+  {
+    "text": "investors to do just that it's a pretty",
+    "start": 223.48,
+    "duration": 5.039
+  },
+  {
+    "text": "impressive trick so with all these",
+    "start": 226.0,
+    "duration": 5.599
+  },
+  {
+    "text": "forces in play what does a dip look like",
+    "start": 228.519,
+    "duration": 4.56
+  },
+  {
+    "text": "what would get us to buy well I always",
+    "start": 231.599,
+    "duration": 4.041
+  },
+  {
+    "text": "think it's 5% off of the high that's",
+    "start": 233.079,
+    "duration": 4.44
+  },
+  {
+    "text": "maybe oversimplifying things a little",
+    "start": 235.64,
+    "duration": 4.439
+  },
+  {
+    "text": "bit but if we set 5% off 2450 that would",
+    "start": 237.519,
+    "duration": 4.64
+  },
+  {
+    "text": "be",
+    "start": 240.079,
+    "duration": 2.08
+  },
+  {
+    "text": "$2,327 I know it's a little too specific",
+    "start": 243.92,
+    "duration": 6.0
+  },
+  {
+    "text": "but call it low 2300s now as for the",
+    "start": 246.879,
+    "duration": 4.961
+  },
+  {
+    "text": "longer term direction of gold and silver",
+    "start": 249.92,
+    "duration": 3.36
+  },
+  {
+    "text": "this rally is really just getting",
+    "start": 251.84,
+    "duration": 5.079
+  },
+  {
+    "text": "started so ask yourself if you think",
+    "start": 253.28,
+    "duration": 6.76
+  },
+  {
+    "text": "$2,450 is as high as gold is going",
+    "start": 256.919,
+    "duration": 5.28
+  },
+  {
+    "text": "you're probably going to say no now even",
+    "start": 260.04,
+    "duration": 5.92
+  },
+  {
+    "text": "UBS raised their 2024 gold forecasts in",
+    "start": 262.199,
+    "duration": 6.201
+  },
+  {
+    "text": "the midst of last week's correction up",
+    "start": 265.96,
+    "duration": 5.56
+  },
+  {
+    "text": "to 2600 $ and they recommend buying on",
+    "start": 268.4,
+    "duration": 5.04
+  },
+  {
+    "text": "the dips somewhere around",
+    "start": 271.52,
+    "duration": 5.119
+  },
+  {
+    "text": "$2300 so they know more than I do I'd",
+    "start": 273.44,
+    "duration": 6.12
+  },
+  {
+    "text": "probably go with them a dip to them",
+    "start": 276.639,
+    "duration": 5.481
+  },
+  {
+    "text": "$2,300 so I agree with UBS I think it",
+    "start": 279.56,
+    "duration": 4.12
+  },
+  {
+    "text": "makes sense to be buying on the dips",
+    "start": 282.12,
+    "duration": 3.04
+  },
+  {
+    "text": "because I think gold and silver both",
+    "start": 283.68,
+    "duration": 4.48
+  },
+  {
+    "text": "have a long way to go up that is so I",
+    "start": 285.16,
+    "duration": 5.56
+  },
+  {
+    "text": "agree $2,300 that's a reasonable dip",
+    "start": 288.16,
+    "duration": 5.28
+  },
+  {
+    "text": "that would actually be about 6% and to",
+    "start": 290.72,
+    "duration": 5.16
+  },
+  {
+    "text": "me like I said any 5% pullback is enough",
+    "start": 293.44,
+    "duration": 4.8
+  },
+  {
+    "text": "for me to good about a purchase and",
+    "start": 295.88,
+    "duration": 3.44
+  },
+  {
+    "text": "we're seeing that right now now I",
+    "start": 298.24,
+    "duration": 2.56
+  },
+  {
+    "text": "wouldn't call it a backup the truck",
+    "start": 299.32,
+    "duration": 4.36
+  },
+  {
+    "text": "moment unless we saw a 10% or 15%",
+    "start": 300.8,
+    "duration": 6.76
+  },
+  {
+    "text": "pullback those numbers would be",
+    "start": 303.68,
+    "duration": 5.84
+  },
+  {
+    "text": "$225 or",
+    "start": 307.56,
+    "duration": 5.0
+  },
+  {
+    "text": "$285 so round that out a little bit",
+    "start": 309.52,
+    "duration": 6.76
+  },
+  {
+    "text": "right around 2,200 or less than 2100 and",
+    "start": 312.56,
+    "duration": 6.079
+  },
+  {
+    "text": "those numbers just don't seem very",
+    "start": 316.28,
+    "duration": 4.759
+  },
+  {
+    "text": "likely right now we might have to be",
+    "start": 318.639,
+    "duration": 5.481
+  },
+  {
+    "text": "happy with this five or 6% pullback that",
+    "start": 321.039,
+    "duration": 6.361
+  },
+  {
+    "text": "we're seeing right now so this next part",
+    "start": 324.12,
+    "duration": 4.799
+  },
+  {
+    "text": "is sponsored I would have never known",
+    "start": 327.4,
+    "duration": 3.079
+  },
+  {
+    "text": "about this one otherwise and there are a",
+    "start": 328.919,
+    "duration": 3.4
+  },
+  {
+    "text": "few reasons for that one is that the",
+    "start": 330.479,
+    "duration": 4.241
+  },
+  {
+    "text": "activity around this one is happening in",
+    "start": 332.319,
+    "duration": 4.6
+  },
+  {
+    "text": "Europe the company is Iber American",
+    "start": 334.72,
+    "duration": 4.28
+  },
+  {
+    "text": "another reason is that we're talking",
+    "start": 336.919,
+    "duration": 5.12
+  },
+  {
+    "text": "about 10 and yeah you heard that right",
+    "start": 339.0,
+    "duration": 5.479
+  },
+  {
+    "text": "10 now to be honest tin has just never",
+    "start": 342.039,
+    "duration": 4.521
+  },
+  {
+    "text": "hit my radar it's a base metal a",
+    "start": 344.479,
+    "duration": 4.521
+  },
+  {
+    "text": "commodity one of the big reasons it is",
+    "start": 346.56,
+    "duration": 3.759
+  },
+  {
+    "text": "coming up right now is that it's",
+    "start": 349.0,
+    "duration": 3.0
+  },
+  {
+    "text": "critical to semiconductors and we know",
+    "start": 350.319,
+    "duration": 3.841
+  },
+  {
+    "text": "why that matters semiconductors they're",
+    "start": 352.0,
+    "duration": 4.759
+  },
+  {
+    "text": "the play right now in the AI rush and AI",
+    "start": 354.16,
+    "duration": 4.68
+  },
+  {
+    "text": "Rush it's probably an understatement",
+    "start": 356.759,
+    "duration": 3.401
+  },
+  {
+    "text": "artificial intellig Ence and the",
+    "start": 358.84,
+    "duration": 4.079
+  },
+  {
+    "text": "semiconductors supporting it they are in",
+    "start": 360.16,
+    "duration": 4.52
+  },
+  {
+    "text": "a huge rally you can see what's",
+    "start": 362.919,
+    "duration": 3.761
+  },
+  {
+    "text": "happening with Nvidia and we don't want",
+    "start": 364.68,
+    "duration": 4.04
+  },
+  {
+    "text": "to sell it short it's also critical to",
+    "start": 366.68,
+    "duration": 4.72
+  },
+  {
+    "text": "any electrification infrastructure we",
+    "start": 368.72,
+    "duration": 4.52
+  },
+  {
+    "text": "hear about Silver's industrial demand",
+    "start": 371.4,
+    "duration": 3.32
+  },
+  {
+    "text": "that gets mentioned for its role in",
+    "start": 373.24,
+    "duration": 3.56
+  },
+  {
+    "text": "electrification but base metals like",
+    "start": 374.72,
+    "duration": 4.919
+  },
+  {
+    "text": "copper and Tin are really more directly",
+    "start": 376.8,
+    "duration": 4.64
+  },
+  {
+    "text": "in demand maybe you've seen Rick rule",
+    "start": 379.639,
+    "duration": 3.4
+  },
+  {
+    "text": "talking about tin lately he called it",
+    "start": 381.44,
+    "duration": 4.039
+  },
+  {
+    "text": "the Forgotten energy transition material",
+    "start": 383.039,
+    "duration": 5.081
+  },
+  {
+    "text": "well it's because if you need to solder",
+    "start": 385.479,
+    "duration": 5.681
+  },
+  {
+    "text": "something you need 10 now if the fact",
+    "start": 388.12,
+    "duration": 4.359
+  },
+  {
+    "text": "that we're talking about 10 here",
+    "start": 391.16,
+    "duration": 3.52
+  },
+  {
+    "text": "surprises you or the fact that Rick Ru",
+    "start": 392.479,
+    "duration": 4.12
+  },
+  {
+    "text": "has been talking about 10 surprises you",
+    "start": 394.68,
+    "duration": 3.799
+  },
+  {
+    "text": "well let me just show you a chart to",
+    "start": 396.599,
+    "duration": 4.44
+  },
+  {
+    "text": "explain the price run I think we're all",
+    "start": 398.479,
+    "duration": 5.16
+  },
+  {
+    "text": "aware that Commodities are all making a",
+    "start": 401.039,
+    "duration": 4.201
+  },
+  {
+    "text": "run we see it with copper we're just now",
+    "start": 403.639,
+    "duration": 3.921
+  },
+  {
+    "text": "seeing it with silver well tin has been",
+    "start": 405.24,
+    "duration": 4.92
+  },
+  {
+    "text": "making a huge run all year it's actually",
+    "start": 407.56,
+    "duration": 5.32
+  },
+  {
+    "text": "the best performing base medal of 2024",
+    "start": 410.16,
+    "duration": 7.0
+  },
+  {
+    "text": "it's up 31% so far so Iber American the",
+    "start": 412.88,
+    "duration": 6.52
+  },
+  {
+    "text": "sponsor of this is in the final stages",
+    "start": 417.16,
+    "duration": 4.28
+  },
+  {
+    "text": "of of acquiring one of Europe's largest",
+    "start": 419.4,
+    "duration": 4.4
+  },
+  {
+    "text": "tin mines the panota project and they",
+    "start": 421.44,
+    "duration": 4.039
+  },
+  {
+    "text": "are planning to put it right back into",
+    "start": 423.8,
+    "duration": 3.239
+  },
+  {
+    "text": "production so the estimates are that the",
+    "start": 425.479,
+    "duration": 3.921
+  },
+  {
+    "text": "panota mine gets purchased for $6",
+    "start": 427.039,
+    "duration": 4.681
+  },
+  {
+    "text": "million Canadian and then once the",
+    "start": 429.4,
+    "duration": 4.919
+  },
+  {
+    "text": "transaction goes through Iber americ",
+    "start": 431.72,
+    "duration": 5.4
+  },
+  {
+    "text": "market cap could be as high as 22",
+    "start": 434.319,
+    "duration": 5.641
+  },
+  {
+    "text": "million USD and that's really what we're",
+    "start": 437.12,
+    "duration": 4.759
+  },
+  {
+    "text": "looking at here a huge jump in value",
+    "start": 439.96,
+    "duration": 4.4
+  },
+  {
+    "text": "based on the transaction there about to",
+    "start": 441.879,
+    "duration": 5.801
+  },
+  {
+    "text": "finalize the CEO of Iber Amer says the",
+    "start": 444.36,
+    "duration": 5.119
+  },
+  {
+    "text": "plan is to resume production immediately",
+    "start": 447.68,
+    "duration": 4.04
+  },
+  {
+    "text": "imately after completing the acquisition",
+    "start": 449.479,
+    "duration": 4.521
+  },
+  {
+    "text": "make it profitable and then possibly",
+    "start": 451.72,
+    "duration": 4.56
+  },
+  {
+    "text": "expand so I told you the Pinot mine is",
+    "start": 454.0,
+    "duration": 4.36
+  },
+  {
+    "text": "in Spain so we're talking about a first",
+    "start": 456.28,
+    "duration": 3.68
+  },
+  {
+    "text": "world country we should also look at the",
+    "start": 458.36,
+    "duration": 3.6
+  },
+  {
+    "text": "leadership team the leadership team is",
+    "start": 459.96,
+    "duration": 4.44
+  },
+  {
+    "text": "world class we have David T young he was",
+    "start": 461.96,
+    "duration": 4.48
+  },
+  {
+    "text": "a principal at Carlile which is the",
+    "start": 464.4,
+    "duration": 4.56
+  },
+  {
+    "text": "fifth largest Equity Firm in the world",
+    "start": 466.44,
+    "duration": 4.199
+  },
+  {
+    "text": "he was a head of the commodity research",
+    "start": 468.96,
+    "duration": 5.16
+  },
+  {
+    "text": "there managing $4 billion for investors",
+    "start": 470.639,
+    "duration": 5.361
+  },
+  {
+    "text": "now he took on the role of director at",
+    "start": 474.12,
+    "duration": 3.799
+  },
+  {
+    "text": "Iber americ and maybe you recognize",
+    "start": 476.0,
+    "duration": 4.879
+  },
+  {
+    "text": "sarafino he's from s Jean MCC Bernie",
+    "start": 477.919,
+    "duration": 4.68
+  },
+  {
+    "text": "he's the former chairman and CEO of",
+    "start": 480.879,
+    "duration": 4.241
+  },
+  {
+    "text": "canor genuity Emerging Markets it's a",
+    "start": 482.599,
+    "duration": 5.401
+  },
+  {
+    "text": "financial advisory firm he's the m in",
+    "start": 485.12,
+    "duration": 6.56
+  },
+  {
+    "text": "GMP Securities the CEO Campbell Becker's",
+    "start": 488.0,
+    "duration": 5.639
+  },
+  {
+    "text": "background it's Investment Banking",
+    "start": 491.68,
+    "duration": 5.16
+  },
+  {
+    "text": "focused on electric Metals sector so",
+    "start": 493.639,
+    "duration": 5.481
+  },
+  {
+    "text": "this is a group focused on Capital",
+    "start": 496.84,
+    "duration": 5.039
+  },
+  {
+    "text": "markets and Mining in layman's terms",
+    "start": 499.12,
+    "duration": 4.56
+  },
+  {
+    "text": "they know what they're doing and one of",
+    "start": 501.879,
+    "duration": 4.72
+  },
+  {
+    "text": "those things is how to make money so",
+    "start": 503.68,
+    "duration": 6.44
+  },
+  {
+    "text": "wrapping this up tin is up 31% so far",
+    "start": 506.599,
+    "duration": 7.041
+  },
+  {
+    "text": "this year 50% of all tin production goes",
+    "start": 510.12,
+    "duration": 5.839
+  },
+  {
+    "text": "to joining circuit boards semiconductor",
+    "start": 513.64,
+    "duration": 4.639
+  },
+  {
+    "text": "Market it's projected to double in the",
+    "start": 515.959,
+    "duration": 5.2
+  },
+  {
+    "text": "next 5 years so demand is crazy Supply",
+    "start": 518.279,
+    "duration": 5.56
+  },
+  {
+    "text": "is tight China is the biggest producer",
+    "start": 521.159,
+    "duration": 4.761
+  },
+  {
+    "text": "of tin but they actually use more than",
+    "start": 523.839,
+    "duration": 4.161
+  },
+  {
+    "text": "they produce so supply has to come from",
+    "start": 525.92,
+    "duration": 4.52
+  },
+  {
+    "text": "places like Africa from Indonesia",
+    "start": 528.0,
+    "duration": 5.48
+  },
+  {
+    "text": "Myanmar and Peru so as you can imagine",
+    "start": 530.44,
+    "duration": 4.88
+  },
+  {
+    "text": "that's not ideal now if you just looked",
+    "start": 533.48,
+    "duration": 4.56
+  },
+  {
+    "text": "at the chips sack that includes $39",
+    "start": 535.32,
+    "duration": 5.199
+  },
+  {
+    "text": "billion in taxes benefits and Loan",
+    "start": 538.04,
+    "duration": 4.919
+  },
+  {
+    "text": "guarantees and grants to encourage",
+    "start": 540.519,
+    "duration": 4.281
+  },
+  {
+    "text": "American companies to build new chip",
+    "start": 542.959,
+    "duration": 4.801
+  },
+  {
+    "text": "manufacturing plants in the US those",
+    "start": 544.8,
+    "duration": 5.279
+  },
+  {
+    "text": "chips need soldering so demand is only",
+    "start": 547.76,
+    "duration": 4.56
+  },
+  {
+    "text": "going to increase making Supply a bigger",
+    "start": 550.079,
+    "duration": 5.2
+  },
+  {
+    "text": "concern and there is no ETF for tin the",
+    "start": 552.32,
+    "duration": 5.199
+  },
+  {
+    "text": "P to mine is one of the largest tin",
+    "start": 555.279,
+    "duration": 4.0
+  },
+  {
+    "text": "mines in Europe so if you're looking for",
+    "start": 557.519,
+    "duration": 3.88
+  },
+  {
+    "text": "a play in a metal needed for computing",
+    "start": 559.279,
+    "duration": 4.281
+  },
+  {
+    "text": "and electrification and just a company",
+    "start": 561.399,
+    "duration": 3.481
+  },
+  {
+    "text": "that might be on the verge of something",
+    "start": 563.56,
+    "duration": 3.839
+  },
+  {
+    "text": "big well Iber Amer is worth your time to",
+    "start": 564.88,
+    "duration": 4.04
+  },
+  {
+    "text": "check out now the vote to approve the",
+    "start": 567.399,
+    "duration": 3.761
+  },
+  {
+    "text": "acquisition is happening any day so if",
+    "start": 568.92,
+    "duration": 4.4
+  },
+  {
+    "text": "you're interested check the links in the",
+    "start": 571.16,
+    "duration": 4.119
+  },
+  {
+    "text": "description and like always don't just",
+    "start": 573.32,
+    "duration": 3.519
+  },
+  {
+    "text": "take somebody's word on it get in there",
+    "start": 575.279,
+    "duration": 3.321
+  },
+  {
+    "text": "and check them out make your own",
+    "start": 576.839,
+    "duration": 3.881
+  },
+  {
+    "text": "decisions so I think that does it here",
+    "start": 578.6,
+    "duration": 4.56
+  },
+  {
+    "text": "so let us know if you're buying on the",
+    "start": 580.72,
+    "duration": 5.119
+  },
+  {
+    "text": "dip and what you think constitutes a dip",
+    "start": 583.16,
+    "duration": 4.679
+  },
+  {
+    "text": "maybe what would get you to backup the",
+    "start": 585.839,
+    "duration": 3.801
+  },
+  {
+    "text": "truck let us know and then while you're",
+    "start": 587.839,
+    "duration": 3.081
+  },
+  {
+    "text": "in the comments be sure to hit the like",
+    "start": 589.64,
+    "duration": 2.84
+  },
+  {
+    "text": "button if you found any of this",
+    "start": 590.92,
+    "duration": 3.64
+  },
+  {
+    "text": "interesting be sure you're subscribed",
+    "start": 592.48,
+    "duration": 3.4
+  },
+  {
+    "text": "with notifications turned on if you want",
+    "start": 594.56,
+    "duration": 3.12
+  },
+  {
+    "text": "to hear more on the topic and if you're",
+    "start": 595.88,
+    "duration": 4.12
+  },
+  {
+    "text": "still here thanks again for watching in",
+    "start": 597.68,
+    "duration": 6.1
+  },
+  {
+    "text": "I always appreciate your time take care",
+    "start": 600.0,
+    "duration": 18.009
+  },
+  {
+    "text": "[Music]",
+    "start": 603.78,
+    "duration": 14.229
+  },
+  {
+    "text": "[Music]",
+    "start": 622.24,
+    "duration": 2.399
+  }
+]

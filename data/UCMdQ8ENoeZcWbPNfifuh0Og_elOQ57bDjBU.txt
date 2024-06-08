@@ -1,0 +1,972 @@
+[
+  {
+    "text": "everybody agrees I mean even you go on",
+    "start": 0.399,
+    "duration": 4.721
+  },
+  {
+    "text": "the federal reserve's website and you",
+    "start": 2.679,
+    "duration": 4.72
+  },
+  {
+    "text": "look for the attributes of what what is",
+    "start": 5.12,
+    "duration": 5.24
+  },
+  {
+    "text": "money what what does money have to be",
+    "start": 7.399,
+    "duration": 5.16
+  },
+  {
+    "text": "and the very first thing is a store of",
+    "start": 10.36,
+    "duration": 4.239
+  },
+  {
+    "text": "value and after that they go medium of",
+    "start": 12.559,
+    "duration": 3.72
+  },
+  {
+    "text": "exchange unit of account and all these",
+    "start": 14.599,
+    "duration": 3.401
+  },
+  {
+    "text": "other things fungible indivisible and",
+    "start": 16.279,
+    "duration": 4.24
+  },
+  {
+    "text": "all that other stuff and so I came up",
+    "start": 18.0,
+    "duration": 4.6
+  },
+  {
+    "text": "with a couple of questions that you can",
+    "start": 20.519,
+    "duration": 4.641
+  },
+  {
+    "text": "ask somebody if somebody is insisting no",
+    "start": 22.6,
+    "duration": 4.999
+  },
+  {
+    "text": "you're wrong the euro is money no you're",
+    "start": 25.16,
+    "duration": 6.56
+  },
+  {
+    "text": "wrong the dollar is money ask them does",
+    "start": 27.599,
+    "duration": 6.081
+  },
+  {
+    "text": "money have to be a store of value is",
+    "start": 31.72,
+    "duration": 3.6
+  },
+  {
+    "text": "that one of its attributes and if they",
+    "start": 33.68,
+    "duration": 4.719
+  },
+  {
+    "text": "say yes ask them is there inflation and",
+    "start": 35.32,
+    "duration": 5.8
+  },
+  {
+    "text": "if they say yes then ask them aren't",
+    "start": 38.399,
+    "duration": 5.0
+  },
+  {
+    "text": "those two things mutually exclusive if",
+    "start": 41.12,
+    "duration": 4.64
+  },
+  {
+    "text": "there is inflation it is not storing",
+    "start": 43.399,
+    "duration": 5.601
+  },
+  {
+    "text": "value and National fat currencies all of",
+    "start": 45.76,
+    "duration": 5.68
+  },
+  {
+    "text": "them on this planet now are borrowed",
+    "start": 49.0,
+    "duration": 4.52
+  },
+  {
+    "text": "into existence and they're owed back",
+    "start": 51.44,
+    "duration": 4.56
+  },
+  {
+    "text": "plus interest but the currency to pay",
+    "start": 53.52,
+    "duration": 5.08
+  },
+  {
+    "text": "the interest doesn't exist yet it wasn't",
+    "start": 56.0,
+    "duration": 5.16
+  },
+  {
+    "text": "borrowed into existence when it is",
+    "start": 58.6,
+    "duration": 5.36
+  },
+  {
+    "text": "borrowed into existence you owe interest",
+    "start": 61.16,
+    "duration": 4.72
+  },
+  {
+    "text": "on that so if you've got if you start",
+    "start": 63.96,
+    "duration": 4.32
+  },
+  {
+    "text": "off with $1 and you're going to owe that",
+    "start": 65.88,
+    "duration": 4.2
+  },
+  {
+    "text": "plus a dollar is worth of interest uh",
+    "start": 68.28,
+    "duration": 3.8
+  },
+  {
+    "text": "and then you borrow the second dollar to",
+    "start": 70.08,
+    "duration": 4.719
+  },
+  {
+    "text": "pay that interest eventually now you",
+    "start": 72.08,
+    "duration": 5.0
+  },
+  {
+    "text": "there's $2 in existence one is",
+    "start": 74.799,
+    "duration": 4.441
+  },
+  {
+    "text": "disappearing into the debt payment but",
+    "start": 77.08,
+    "duration": 5.719
+  },
+  {
+    "text": "now you've got $4 there's $2 of interest",
+    "start": 79.24,
+    "duration": 7.559
+  },
+  {
+    "text": "and $2 of debt and $1 is Vanishing to",
+    "start": 82.799,
+    "duration": 6.921
+  },
+  {
+    "text": "pay off the principal on the first loan",
+    "start": 86.799,
+    "duration": 5.721
+  },
+  {
+    "text": "when whenever you borrow currency into",
+    "start": 89.72,
+    "duration": 4.64
+  },
+  {
+    "text": "existence whether it's from a bank or",
+    "start": 92.52,
+    "duration": 4.04
+  },
+  {
+    "text": "whether it's the central bank doing it",
+    "start": 94.36,
+    "duration": 4.399
+  },
+  {
+    "text": "the currency appears as a double entry",
+    "start": 96.56,
+    "duration": 5.16
+  },
+  {
+    "text": "bookkeeping thing there's a debt and a",
+    "start": 98.759,
+    "duration": 5.32
+  },
+  {
+    "text": "credit and these two things when you",
+    "start": 101.72,
+    "duration": 5.28
+  },
+  {
+    "text": "make payments you're extinguishing the",
+    "start": 104.079,
+    "duration": 6.08
+  },
+  {
+    "text": "debt that is owed on that balance sheet",
+    "start": 107.0,
+    "duration": 5.88
+  },
+  {
+    "text": "with the currency that you save up and",
+    "start": 110.159,
+    "duration": 5.88
+  },
+  {
+    "text": "so the principle vanishes but the",
+    "start": 112.88,
+    "duration": 7.36
+  },
+  {
+    "text": "interest is still owed and so in our",
+    "start": 116.039,
+    "duration": 7.561
+  },
+  {
+    "text": "society there are constantly more loans",
+    "start": 120.24,
+    "duration": 6.839
+  },
+  {
+    "text": "being made than there are paid uh and so",
+    "start": 123.6,
+    "duration": 5.879
+  },
+  {
+    "text": "if if you're talking about M2 currency",
+    "start": 127.079,
+    "duration": 5.52
+  },
+  {
+    "text": "Supply you're talking about 90% Bank",
+    "start": 129.479,
+    "duration": 6.681
+  },
+  {
+    "text": "credit and uh so you uh go out and find",
+    "start": 132.599,
+    "duration": 5.201
+  },
+  {
+    "text": "a house that you want to buy you need a",
+    "start": 136.16,
+    "duration": 5.0
+  },
+  {
+    "text": "million doll loan the bank says okay",
+    "start": 137.8,
+    "duration": 4.84
+  },
+  {
+    "text": "here's the loan document you have to",
+    "start": 141.16,
+    "duration": 3.24
+  },
+  {
+    "text": "agree to they just check you out and see",
+    "start": 142.64,
+    "duration": 3.52
+  },
+  {
+    "text": "if if they think you can repay it and if",
+    "start": 144.4,
+    "duration": 4.32
+  },
+  {
+    "text": "they think so then here's the loan",
+    "start": 146.16,
+    "duration": 4.84
+  },
+  {
+    "text": "document your signature hit that paper",
+    "start": 148.72,
+    "duration": 5.0
+  },
+  {
+    "text": "they type they imagine a million dollar",
+    "start": 151.0,
+    "duration": 4.2
+  },
+  {
+    "text": "into existence we're going to loan you a",
+    "start": 153.72,
+    "duration": 2.879
+  },
+  {
+    "text": "million dollars on that house they",
+    "start": 155.2,
+    "duration": 3.6
+  },
+  {
+    "text": "imagine that into existence type it into",
+    "start": 156.599,
+    "duration": 4.36
+  },
+  {
+    "text": "your checking account and at the same",
+    "start": 158.8,
+    "duration": 5.519
+  },
+  {
+    "text": "time there is a debt owed to the bank on",
+    "start": 160.959,
+    "duration": 6.521
+  },
+  {
+    "text": "that loan and so this brand new imagined",
+    "start": 164.319,
+    "duration": 5.481
+  },
+  {
+    "text": "currency just appears and when you make",
+    "start": 167.48,
+    "duration": 3.72
+  },
+  {
+    "text": "the payments on the principal it",
+    "start": 169.8,
+    "duration": 4.439
+  },
+  {
+    "text": "vanishes uh however you then have to",
+    "start": 171.2,
+    "duration": 5.319
+  },
+  {
+    "text": "save up some of the existing pool of",
+    "start": 174.239,
+    "duration": 4.681
+  },
+  {
+    "text": "currency that is always being borrowed",
+    "start": 176.519,
+    "duration": 3.961
+  },
+  {
+    "text": "into existence",
+    "start": 178.92,
+    "duration": 4.319
+  },
+  {
+    "text": "and pay the interest which is the bank's",
+    "start": 180.48,
+    "duration": 4.96
+  },
+  {
+    "text": "profit and pays all of the employees and",
+    "start": 183.239,
+    "duration": 3.601
+  },
+  {
+    "text": "pays for the building and everything",
+    "start": 185.44,
+    "duration": 3.68
+  },
+  {
+    "text": "else and it goes out and it circulates",
+    "start": 186.84,
+    "duration": 4.479
+  },
+  {
+    "text": "but the point is those dollars that",
+    "start": 189.12,
+    "duration": 4.119
+  },
+  {
+    "text": "you're paying with they were borrowed",
+    "start": 191.319,
+    "duration": 3.761
+  },
+  {
+    "text": "into existence there're somebody else's",
+    "start": 193.239,
+    "duration": 3.481
+  },
+  {
+    "text": "principle that was brought into",
+    "start": 195.08,
+    "duration": 4.239
+  },
+  {
+    "text": "existence just in the currency pool the",
+    "start": 196.72,
+    "duration": 4.76
+  },
+  {
+    "text": "more you dig into the monetary system",
+    "start": 199.319,
+    "duration": 4.401
+  },
+  {
+    "text": "the more you figure out that this is",
+    "start": 201.48,
+    "duration": 5.479
+  },
+  {
+    "text": "just such an illusion it is just it's",
+    "start": 203.72,
+    "duration": 5.079
+  },
+  {
+    "text": "it's amazing and it's really important",
+    "start": 206.959,
+    "duration": 3.761
+  },
+  {
+    "text": "right now for every everybody to start",
+    "start": 208.799,
+    "duration": 3.761
+  },
+  {
+    "text": "learning this stuff because we're about",
+    "start": 210.72,
+    "duration": 4.76
+  },
+  {
+    "text": "to go through some enormous changes in",
+    "start": 212.56,
+    "duration": 5.0
+  },
+  {
+    "text": "just the next few years this decade is",
+    "start": 215.48,
+    "duration": 4.24
+  },
+  {
+    "text": "going to see some upheavals in the",
+    "start": 217.56,
+    "duration": 4.84
+  },
+  {
+    "text": "monetary system I do believe that gold",
+    "start": 219.72,
+    "duration": 4.2
+  },
+  {
+    "text": "and silver are going to be the big",
+    "start": 222.4,
+    "duration": 4.039
+  },
+  {
+    "text": "winners in all of this there's two forms",
+    "start": 223.92,
+    "duration": 4.959
+  },
+  {
+    "text": "of Base currency uh the first is the",
+    "start": 226.439,
+    "duration": 4.681
+  },
+  {
+    "text": "paper notes that are in your wallet and",
+    "start": 228.879,
+    "duration": 5.28
+  },
+  {
+    "text": "that is an IOU from the Federal Reserve",
+    "start": 231.12,
+    "duration": 5.199
+  },
+  {
+    "text": "if you live in the United States the ECB",
+    "start": 234.159,
+    "duration": 3.961
+  },
+  {
+    "text": "if you're in Europe Bank of England if",
+    "start": 236.319,
+    "duration": 4.521
+  },
+  {
+    "text": "you're in England so the paper notes are",
+    "start": 238.12,
+    "duration": 6.039
+  },
+  {
+    "text": "one form of Base currency and they used",
+    "start": 240.84,
+    "duration": 6.759
+  },
+  {
+    "text": "to be the vast vast majority of Base",
+    "start": 244.159,
+    "duration": 5.401
+  },
+  {
+    "text": "currency but then with quantitative",
+    "start": 247.599,
+    "duration": 4.56
+  },
+  {
+    "text": "easing Ben Bernan because of the",
+    "start": 249.56,
+    "duration": 5.48
+  },
+  {
+    "text": "mechanics of the way quantitative easing",
+    "start": 252.159,
+    "duration": 6.001
+  },
+  {
+    "text": "Works base currency sort of gets trapped",
+    "start": 255.04,
+    "duration": 5.36
+  },
+  {
+    "text": "in this second form of the base currency",
+    "start": 258.16,
+    "duration": 5.36
+  },
+  {
+    "text": "which is Bank Reserves Bank Reserves are",
+    "start": 260.4,
+    "duration": 6.04
+  },
+  {
+    "text": "a dollar that the public never sees",
+    "start": 263.52,
+    "duration": 5.88
+  },
+  {
+    "text": "touches or interacts with it is",
+    "start": 266.44,
+    "duration": 4.68
+  },
+  {
+    "text": "something that is only used for",
+    "start": 269.4,
+    "duration": 4.56
+  },
+  {
+    "text": "interbank settlement and interbank Loans",
+    "start": 271.12,
+    "duration": 5.4
+  },
+  {
+    "text": "so they're borrowing and and lending to",
+    "start": 273.96,
+    "duration": 6.239
+  },
+  {
+    "text": "one another and then when if I pay you",
+    "start": 276.52,
+    "duration": 5.32
+  },
+  {
+    "text": "and I write a check to you and you go",
+    "start": 280.199,
+    "duration": 4.161
+  },
+  {
+    "text": "and cash that check your bank is going",
+    "start": 281.84,
+    "duration": 4.919
+  },
+  {
+    "text": "to contact my bank and tell them that",
+    "start": 284.36,
+    "duration": 4.92
+  },
+  {
+    "text": "you've got a check from me and they'll",
+    "start": 286.759,
+    "duration": 6.361
+  },
+  {
+    "text": "make $1,000 worth of the imagined Bank",
+    "start": 289.28,
+    "duration": 6.28
+  },
+  {
+    "text": "credit currency digits these dollars",
+    "start": 293.12,
+    "duration": 4.4
+  },
+  {
+    "text": "that are just digits which the bank of",
+    "start": 295.56,
+    "duration": 5.479
+  },
+  {
+    "text": "England actually States these digits are",
+    "start": 297.52,
+    "duration": 7.04
+  },
+  {
+    "text": "reminders that the Bank owes you an IOU",
+    "start": 301.039,
+    "duration": 6.361
+  },
+  {
+    "text": "they aren't even an IOU the Bank owes",
+    "start": 304.56,
+    "duration": 5.96
+  },
+  {
+    "text": "you the paper note IUS the base currency",
+    "start": 307.4,
+    "duration": 5.6
+  },
+  {
+    "text": "IUS so there's about $2 trillion doll",
+    "start": 310.52,
+    "duration": 5.959
+  },
+  {
+    "text": "worth of Base currency IUS that we use",
+    "start": 313.0,
+    "duration": 6.44
+  },
+  {
+    "text": "in circulation paper notes the banks use",
+    "start": 316.479,
+    "duration": 5.361
+  },
+  {
+    "text": "that for just interbank settlement the",
+    "start": 319.44,
+    "duration": 4.12
+  },
+  {
+    "text": "vast majority of the currency Supply",
+    "start": 321.84,
+    "duration": 6.16
+  },
+  {
+    "text": "about 90% of M2 is Bank credit currency",
+    "start": 323.56,
+    "duration": 8.079
+  },
+  {
+    "text": "so these are like I said digits in your",
+    "start": 328.0,
+    "duration": 6.24
+  },
+  {
+    "text": "bank account that remind the bank that",
+    "start": 331.639,
+    "duration": 6.361
+  },
+  {
+    "text": "it owes you that many Central Bank IUS",
+    "start": 334.24,
+    "duration": 6.799
+  },
+  {
+    "text": "today's fiat currency is a trade of",
+    "start": 338.0,
+    "duration": 5.759
+  },
+  {
+    "text": "nothing for something which is a fraud",
+    "start": 341.039,
+    "duration": 6.041
+  },
+  {
+    "text": "and you know they're inventing digits",
+    "start": 343.759,
+    "duration": 6.56
+  },
+  {
+    "text": "that are reminders to pay IUS and when",
+    "start": 347.08,
+    "duration": 6.959
+  },
+  {
+    "text": "they do it dilutes the IOU Supply that",
+    "start": 350.319,
+    "duration": 7.641
+  },
+  {
+    "text": "is out there the M2 IOU Supply and and",
+    "start": 354.039,
+    "duration": 6.201
+  },
+  {
+    "text": "thereby steals purchasing power from all",
+    "start": 357.96,
+    "duration": 5.0
+  },
+  {
+    "text": "the existing units of currency we saw",
+    "start": 360.24,
+    "duration": 5.2
+  },
+  {
+    "text": "that in the stock market with QE and the",
+    "start": 362.96,
+    "duration": 5.16
+  },
+  {
+    "text": "the inflation they don't measure the",
+    "start": 365.44,
+    "duration": 4.319
+  },
+  {
+    "text": "there's something I came up with a long",
+    "start": 368.12,
+    "duration": 4.28
+  },
+  {
+    "text": "time ago called cup inflation",
+    "start": 369.759,
+    "duration": 6.84
+  },
+  {
+    "text": "cup currency units per person and",
+    "start": 372.4,
+    "duration": 6.6
+  },
+  {
+    "text": "nothing else really matters in the long",
+    "start": 376.599,
+    "duration": 6.081
+  },
+  {
+    "text": "run if the CPI also included the stock",
+    "start": 379.0,
+    "duration": 7.36
+  },
+  {
+    "text": "market real estate and and so on then",
+    "start": 382.68,
+    "duration": 5.359
+  },
+  {
+    "text": "they would get an accurate measure of",
+    "start": 386.36,
+    "duration": 4.36
+  },
+  {
+    "text": "inflation that reflected the growth of",
+    "start": 388.039,
+    "duration": 5.361
+  },
+  {
+    "text": "the currency Supply because there is one",
+    "start": 390.72,
+    "duration": 4.96
+  },
+  {
+    "text": "truth every dollar created has to go",
+    "start": 393.4,
+    "duration": 4.84
+  },
+  {
+    "text": "somewhere if people can Define if they",
+    "start": 395.68,
+    "duration": 4.04
+  },
+  {
+    "text": "can discern the difference between",
+    "start": 398.24,
+    "duration": 3.92
+  },
+  {
+    "text": "currency and money it makes a huge",
+    "start": 399.72,
+    "duration": 5.72
+  },
+  {
+    "text": "difference in your life and it shows you",
+    "start": 402.16,
+    "duration": 6.319
+  },
+  {
+    "text": "how you are being robbed by the system",
+    "start": 405.44,
+    "duration": 4.92
+  },
+  {
+    "text": "the system benefits the few at the",
+    "start": 408.479,
+    "duration": 4.801
+  },
+  {
+    "text": "expense of the many when they do QE uh",
+    "start": 410.36,
+    "duration": 6.2
+  },
+  {
+    "text": "because of the mechanism of QE they can",
+    "start": 413.28,
+    "duration": 5.96
+  },
+  {
+    "text": "only make their asset purchases through",
+    "start": 416.56,
+    "duration": 4.6
+  },
+  {
+    "text": "their primary dealers which are these",
+    "start": 419.24,
+    "duration": 4.959
+  },
+  {
+    "text": "big brokerage houses and such and when",
+    "start": 421.16,
+    "duration": 5.24
+  },
+  {
+    "text": "they do that it means that they are",
+    "start": 424.199,
+    "duration": 5.241
+  },
+  {
+    "text": "funneling currency directly into the",
+    "start": 426.4,
+    "duration": 5.639
+  },
+  {
+    "text": "stock markets into you know their the",
+    "start": 429.44,
+    "duration": 4.24
+  },
+  {
+    "text": "primary dealers can buy either directly",
+    "start": 432.039,
+    "duration": 3.28
+  },
+  {
+    "text": "from the treasury or they can buy from",
+    "start": 433.68,
+    "duration": 5.56
+  },
+  {
+    "text": "the open market and so the FED wants",
+    "start": 435.319,
+    "duration": 5.921
+  },
+  {
+    "text": "some bonds or they want some mortgage",
+    "start": 439.24,
+    "duration": 5.16
+  },
+  {
+    "text": "back Securities and they go out there",
+    "start": 441.24,
+    "duration": 5.16
+  },
+  {
+    "text": "and they make a purchase and if it",
+    "start": 444.4,
+    "duration": 3.919
+  },
+  {
+    "text": "happens to be from a pension fund or",
+    "start": 446.4,
+    "duration": 4.28
+  },
+  {
+    "text": "something a pension fund may decide to",
+    "start": 448.319,
+    "duration": 4.201
+  },
+  {
+    "text": "replace that bond that was just",
+    "start": 450.68,
+    "duration": 4.4
+  },
+  {
+    "text": "purchased with stocks the correlation",
+    "start": 452.52,
+    "duration": 5.679
+  },
+  {
+    "text": "between the rise I mean from qe1 two and",
+    "start": 455.08,
+    "duration": 7.519
+  },
+  {
+    "text": "three if the base currency increased by",
+    "start": 458.199,
+    "duration": 7.361
+  },
+  {
+    "text": "10% the stock market would go up 10% if",
+    "start": 462.599,
+    "duration": 5.28
+  },
+  {
+    "text": "it increased by 20% the stock market",
+    "start": 465.56,
+    "duration": 5.359
+  },
+  {
+    "text": "would go up by 20% the correlations are",
+    "start": 467.879,
+    "duration": 7.04
+  },
+  {
+    "text": "astounding and so when you do that when",
+    "start": 470.919,
+    "duration": 7.321
+  },
+  {
+    "text": "you dilute the currency Supply and spend",
+    "start": 474.919,
+    "duration": 6.601
+  },
+  {
+    "text": "that new currency into one area one",
+    "start": 478.24,
+    "duration": 5.76
+  },
+  {
+    "text": "sector that area becomes warped but it's",
+    "start": 481.52,
+    "duration": 4.84
+  },
+  {
+    "text": "robbing from the other area as it does",
+    "start": 484.0,
+    "duration": 4.28
+  },
+  {
+    "text": "it this is what kept all of the",
+    "start": 486.36,
+    "duration": 4.279
+  },
+  {
+    "text": "groceries and gasoline and stuff down",
+    "start": 488.28,
+    "duration": 4.56
+  },
+  {
+    "text": "for so many years we they were having",
+    "start": 490.639,
+    "duration": 4.96
+  },
+  {
+    "text": "trouble creating that inflation because",
+    "start": 492.84,
+    "duration": 4.359
+  },
+  {
+    "text": "the mechanics of the way they create",
+    "start": 495.599,
+    "duration": 3.961
+  },
+  {
+    "text": "inflation is to inflate the stock market",
+    "start": 497.199,
+    "duration": 5.0
+  },
+  {
+    "text": "and that's it",
+    "start": 499.56,
+    "duration": 2.639
+  }
+]

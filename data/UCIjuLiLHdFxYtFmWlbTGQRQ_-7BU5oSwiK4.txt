@@ -1,0 +1,7347 @@
+[
+  {
+    "text": "the Peter shift",
+    "start": 3.399,
+    "duration": 3.001
+  },
+  {
+    "text": "show today's podcast is sponsored by",
+    "start": 8.12,
+    "duration": 5.0
+  },
+  {
+    "text": "mintmobile get your new customer offer",
+    "start": 10.679,
+    "duration": 4.241
+  },
+  {
+    "text": "and your new three-month Unlimited",
+    "start": 13.12,
+    "duration": 4.28
+  },
+  {
+    "text": "Wireless plan for just 15 bucks a month",
+    "start": 14.92,
+    "duration": 5.519
+  },
+  {
+    "text": "at mintmobile.com Gold additional taxes",
+    "start": 17.4,
+    "duration": 4.76
+  },
+  {
+    "text": "fees and restrictions apply see",
+    "start": 20.439,
+    "duration": 4.121
+  },
+  {
+    "text": "mintmobile for details today's podcast",
+    "start": 22.16,
+    "duration": 5.08
+  },
+  {
+    "text": "is also sponsored by Constant Contact",
+    "start": 24.56,
+    "duration": 4.36
+  },
+  {
+    "text": "constant contact's award-winning",
+    "start": 27.24,
+    "duration": 3.72
+  },
+  {
+    "text": "marketing platform has powerful tools",
+    "start": 28.92,
+    "duration": 4.319
+  },
+  {
+    "text": "that make it easy to grow your audience",
+    "start": 30.96,
+    "duration": 4.52
+  },
+  {
+    "text": "engage your customers and sell more to",
+    "start": 33.239,
+    "duration": 4.881
+  },
+  {
+    "text": "boost your business in just a few clicks",
+    "start": 35.48,
+    "duration": 4.239
+  },
+  {
+    "text": "you can launch a marketing campaign",
+    "start": 38.12,
+    "duration": 3.439
+  },
+  {
+    "text": "that's tailored to your business and",
+    "start": 39.719,
+    "duration": 5.601
+  },
+  {
+    "text": "goals that includes email social SMS and",
+    "start": 41.559,
+    "duration": 5.921
+  },
+  {
+    "text": "more start growing your business today",
+    "start": 45.32,
+    "duration": 3.879
+  },
+  {
+    "text": "with a free trial at constant",
+    "start": 47.48,
+    "duration": 4.599
+  },
+  {
+    "text": "contact.com",
+    "start": 49.199,
+    "duration": 2.88
+  },
+  {
+    "text": "good evening everybody Another Sunday",
+    "start": 52.16,
+    "duration": 6.32
+  },
+  {
+    "text": "Night Live podcast this time from my",
+    "start": 55.68,
+    "duration": 5.48
+  },
+  {
+    "text": "basement in conect concut I'm finally",
+    "start": 58.48,
+    "duration": 4.92
+  },
+  {
+    "text": "back here in Connecticut I'll be",
+    "start": 61.16,
+    "duration": 4.52
+  },
+  {
+    "text": "traveling for the rest of the summer",
+    "start": 63.4,
+    "duration": 4.12
+  },
+  {
+    "text": "although some of the time is going to be",
+    "start": 65.68,
+    "duration": 4.4
+  },
+  {
+    "text": "spent here in Connecticut in about 10",
+    "start": 67.52,
+    "duration": 6.08
+  },
+  {
+    "text": "days or 12 days I leave on the real",
+    "start": 70.08,
+    "duration": 5.6
+  },
+  {
+    "text": "estate guys Summit at Sea I mentioned",
+    "start": 73.6,
+    "duration": 5.04
+  },
+  {
+    "text": "that so I'm hoping to see some of my",
+    "start": 75.68,
+    "duration": 5.92
+  },
+  {
+    "text": "podcast listeners on that eight-day",
+    "start": 78.64,
+    "duration": 5.159
+  },
+  {
+    "text": "cruise that's going to leave I think on",
+    "start": 81.6,
+    "duration": 6.72
+  },
+  {
+    "text": "the 15th of of this month the land",
+    "start": 83.799,
+    "duration": 7.801
+  },
+  {
+    "text": "seminar begins on the thir 13th in Fort",
+    "start": 88.32,
+    "duration": 6.36
+  },
+  {
+    "text": "Lauderdale and then we we we embark on",
+    "start": 91.6,
+    "duration": 8.12
+  },
+  {
+    "text": "an 8-day Cruise of the um the Dutch",
+    "start": 94.68,
+    "duration": 8.84
+  },
+  {
+    "text": "Islands the ABC islands in the Caribbean",
+    "start": 99.72,
+    "duration": 7.399
+  },
+  {
+    "text": "Aruba Bonaire and carero uh so that",
+    "start": 103.52,
+    "duration": 5.76
+  },
+  {
+    "text": "should be fun my whole family will be on",
+    "start": 107.119,
+    "duration": 5.521
+  },
+  {
+    "text": "that trip including my son Spencer who",
+    "start": 109.28,
+    "duration": 7.04
+  },
+  {
+    "text": "some of you know from uh prior uh bitan",
+    "start": 112.64,
+    "duration": 6.799
+  },
+  {
+    "text": "Bitcoin encounters uh that I've had with",
+    "start": 116.32,
+    "duration": 5.6
+  },
+  {
+    "text": "him but any event so I want to get",
+    "start": 119.439,
+    "duration": 4.6
+  },
+  {
+    "text": "started by talking about what happened",
+    "start": 121.92,
+    "duration": 4.04
+  },
+  {
+    "text": "during the week you know there's that",
+    "start": 124.039,
+    "duration": 5.681
+  },
+  {
+    "text": "old adage selling May and and go away",
+    "start": 125.96,
+    "duration": 6.44
+  },
+  {
+    "text": "well not this may I think there was some",
+    "start": 129.72,
+    "duration": 5.0
+  },
+  {
+    "text": "selling early in the month but it",
+    "start": 132.4,
+    "duration": 4.199
+  },
+  {
+    "text": "finished on a strong note in fact the",
+    "start": 134.72,
+    "duration": 5.56
+  },
+  {
+    "text": "Dow was up almost 600 points on Friday I",
+    "start": 136.599,
+    "duration": 5.481
+  },
+  {
+    "text": "think it was the strongest day of the",
+    "start": 140.28,
+    "duration": 4.8
+  },
+  {
+    "text": "year for the Dow in fact the NASDAQ",
+    "start": 142.08,
+    "duration": 5.72
+  },
+  {
+    "text": "which had been down pretty sharply",
+    "start": 145.08,
+    "duration": 5.879
+  },
+  {
+    "text": "earlier in the day even managed to",
+    "start": 147.8,
+    "duration": 7.0
+  },
+  {
+    "text": "recover those losses by the closing belt",
+    "start": 150.959,
+    "duration": 7.121
+  },
+  {
+    "text": "and I think what the Catalyst for the",
+    "start": 154.8,
+    "duration": 4.799
+  },
+  {
+    "text": "Friday",
+    "start": 158.08,
+    "duration": 4.72
+  },
+  {
+    "text": "rally was more bad economic",
+    "start": 159.599,
+    "duration": 6.64
+  },
+  {
+    "text": "news which is you know encouraging",
+    "start": 162.8,
+    "duration": 5.68
+  },
+  {
+    "text": "investors that the FED is going to cut",
+    "start": 166.239,
+    "duration": 4.441
+  },
+  {
+    "text": "rates I mean we all know everybody knows",
+    "start": 168.48,
+    "duration": 3.88
+  },
+  {
+    "text": "the FED is going to cut rates the only",
+    "start": 170.68,
+    "duration": 5.08
+  },
+  {
+    "text": "question is how soon are the rate Cuts",
+    "start": 172.36,
+    "duration": 7.12
+  },
+  {
+    "text": "happening we also got inflation data on",
+    "start": 175.76,
+    "duration": 6.52
+  },
+  {
+    "text": "fra Friday that wasn't worse than",
+    "start": 179.48,
+    "duration": 6.08
+  },
+  {
+    "text": "expected but it wasn't any better so it",
+    "start": 182.28,
+    "duration": 6.64
+  },
+  {
+    "text": "wasn't good news in fact from my",
+    "start": 185.56,
+    "duration": 6.679
+  },
+  {
+    "text": "perspective it was more evidence of",
+    "start": 188.92,
+    "duration": 6.08
+  },
+  {
+    "text": "stagflation that is the worst possible",
+    "start": 192.239,
+    "duration": 5.241
+  },
+  {
+    "text": "news for the market certainly it's the",
+    "start": 195.0,
+    "duration": 4.599
+  },
+  {
+    "text": "worst news for the bond market it's the",
+    "start": 197.48,
+    "duration": 4.92
+  },
+  {
+    "text": "worst news for the dollar it's the best",
+    "start": 199.599,
+    "duration": 5.121
+  },
+  {
+    "text": "news for gold yet gold not only didn't",
+    "start": 202.4,
+    "duration": 5.64
+  },
+  {
+    "text": "rally it sold off about 18 bucks on the",
+    "start": 204.72,
+    "duration": 6.28
+  },
+  {
+    "text": "day uh it initially rallied on the the",
+    "start": 208.04,
+    "duration": 4.68
+  },
+  {
+    "text": "bad news I mean gold was up in the",
+    "start": 211.0,
+    "duration": 4.799
+  },
+  {
+    "text": "morning by about the same amount uh but",
+    "start": 212.72,
+    "duration": 6.079
+  },
+  {
+    "text": "but it sold off and I think because of",
+    "start": 215.799,
+    "duration": 4.841
+  },
+  {
+    "text": "the investor optimism right when people",
+    "start": 218.799,
+    "duration": 4.44
+  },
+  {
+    "text": "are just very enthusiastic about the",
+    "start": 220.64,
+    "duration": 5.72
+  },
+  {
+    "text": "stock market they lose their enthusiasm",
+    "start": 223.239,
+    "duration": 6.56
+  },
+  {
+    "text": "for for gold but let me go over some of",
+    "start": 226.36,
+    "duration": 6.879
+  },
+  {
+    "text": "the the data points that came out on",
+    "start": 229.799,
+    "duration": 5.561
+  },
+  {
+    "text": "Friday the big number that everybody was",
+    "start": 233.239,
+    "duration": 3.961
+  },
+  {
+    "text": "talking about was the personal income",
+    "start": 235.36,
+    "duration": 4.599
+  },
+  {
+    "text": "and spending number because contained",
+    "start": 237.2,
+    "duration": 5.399
+  },
+  {
+    "text": "that number is the",
+    "start": 239.959,
+    "duration": 5.64
+  },
+  {
+    "text": "pce the personal consumption expenditure",
+    "start": 242.599,
+    "duration": 6.72
+  },
+  {
+    "text": "index that is the fed's favorite way to",
+    "start": 245.599,
+    "duration": 7.48
+  },
+  {
+    "text": "measure inflation now I think it's the",
+    "start": 249.319,
+    "duration": 6.681
+  },
+  {
+    "text": "favorite way because it's the least",
+    "start": 253.079,
+    "duration": 6.601
+  },
+  {
+    "text": "accurate it's the inflation measure that",
+    "start": 256.0,
+    "duration": 6.12
+  },
+  {
+    "text": "most understates what's actually",
+    "start": 259.68,
+    "duration": 4.2
+  },
+  {
+    "text": "happening to prices that's why the FED",
+    "start": 262.12,
+    "duration": 4.68
+  },
+  {
+    "text": "likes it right because it's not",
+    "start": 263.88,
+    "duration": 6.64
+  },
+  {
+    "text": "honest and If the Fed focuses on",
+    "start": 266.8,
+    "duration": 6.92
+  },
+  {
+    "text": "pce it's easier to achieve its so-called",
+    "start": 270.52,
+    "duration": 8.0
+  },
+  {
+    "text": "2% Target uh than if it focuses on other",
+    "start": 273.72,
+    "duration": 6.96
+  },
+  {
+    "text": "measures of inflation that are less",
+    "start": 278.52,
+    "duration": 3.679
+  },
+  {
+    "text": "inaccurate I mean none of them are",
+    "start": 280.68,
+    "duration": 4.56
+  },
+  {
+    "text": "accurate they all by Design understate",
+    "start": 282.199,
+    "duration": 5.961
+  },
+  {
+    "text": "inflation it's just that the pce by",
+    "start": 285.24,
+    "duration": 6.48
+  },
+  {
+    "text": "design understates it the most and so",
+    "start": 288.16,
+    "duration": 6.44
+  },
+  {
+    "text": "that number came out pretty much exactly",
+    "start": 291.72,
+    "duration": 6.16
+  },
+  {
+    "text": "as expected they were looking for up",
+    "start": 294.6,
+    "duration": 6.28
+  },
+  {
+    "text": "point3 we got up point .",
+    "start": 297.88,
+    "duration": 4.96
+  },
+  {
+    "text": "3 uh they were looking for the",
+    "start": 300.88,
+    "duration": 5.84
+  },
+  {
+    "text": "year-over-year pce to be up 2.7 it was",
+    "start": 302.84,
+    "duration": 4.639
+  },
+  {
+    "text": "up",
+    "start": 306.72,
+    "duration": 4.4
+  },
+  {
+    "text": "2.7 the core which strips out you know",
+    "start": 307.479,
+    "duration": 6.44
+  },
+  {
+    "text": "food and energy that was supposed to be",
+    "start": 311.12,
+    "duration": 6.0
+  },
+  {
+    "text": "up .2 and it was up point2 up point2 and",
+    "start": 313.919,
+    "duration": 5.72
+  },
+  {
+    "text": "the year over year again exactly as",
+    "start": 317.12,
+    "duration": 6.96
+  },
+  {
+    "text": "expected expecting up 2.8 we got up 2.8",
+    "start": 319.639,
+    "duration": 6.321
+  },
+  {
+    "text": "the markets like this because the",
+    "start": 324.08,
+    "duration": 4.399
+  },
+  {
+    "text": "numbers weren't worse than what they had",
+    "start": 325.96,
+    "duration": 4.76
+  },
+  {
+    "text": "expected but it doesn't matter",
+    "start": 328.479,
+    "duration": 4.961
+  },
+  {
+    "text": "even if they matched expectations the",
+    "start": 330.72,
+    "duration": 5.919
+  },
+  {
+    "text": "expectations were not good if the fed's",
+    "start": 333.44,
+    "duration": 7.199
+  },
+  {
+    "text": "target is 2% and even the measure of",
+    "start": 336.639,
+    "duration": 7.321
+  },
+  {
+    "text": "inflation that understates it the most",
+    "start": 340.639,
+    "duration": 7.721
+  },
+  {
+    "text": "is at 2.7 or 2.8 that's still a long way",
+    "start": 343.96,
+    "duration": 10.44
+  },
+  {
+    "text": "to go to get to 2% remember at 2.7 2.8",
+    "start": 348.36,
+    "duration": 9.76
+  },
+  {
+    "text": "we're much farther above 2% than we were",
+    "start": 354.4,
+    "duration": 7.16
+  },
+  {
+    "text": "below it with when we were below 2% by a",
+    "start": 358.12,
+    "duration": 6.6
+  },
+  {
+    "text": "lot less than 7 or point8 the FED had",
+    "start": 361.56,
+    "duration": 5.6
+  },
+  {
+    "text": "interest rates at zero the Fed was doing",
+    "start": 364.72,
+    "duration": 4.72
+  },
+  {
+    "text": "quantitative easy because they said oh",
+    "start": 367.16,
+    "duration": 5.28
+  },
+  {
+    "text": "this is terrible look how far below 2%",
+    "start": 369.44,
+    "duration": 5.68
+  },
+  {
+    "text": "we are we're at one and a half we're at",
+    "start": 372.44,
+    "duration": 5.4
+  },
+  {
+    "text": "1.6 we need to pull out the stops here",
+    "start": 375.12,
+    "duration": 4.96
+  },
+  {
+    "text": "we need emergency measures to get",
+    "start": 377.84,
+    "duration": 5.12
+  },
+  {
+    "text": "inflation up to 2% because we're so far",
+    "start": 380.08,
+    "duration": 6.08
+  },
+  {
+    "text": "below that Target well we're now above",
+    "start": 382.96,
+    "duration": 5.4
+  },
+  {
+    "text": "the Target by much more than we used to",
+    "start": 386.16,
+    "duration": 4.68
+  },
+  {
+    "text": "be below yet this means that you know we",
+    "start": 388.36,
+    "duration": 4.559
+  },
+  {
+    "text": "don't have to hike rates in fact that we",
+    "start": 390.84,
+    "duration": 4.68
+  },
+  {
+    "text": "can cut rates that we've already won the",
+    "start": 392.919,
+    "duration": 5.761
+  },
+  {
+    "text": "inflation fight what the data should be",
+    "start": 395.52,
+    "duration": 5.399
+  },
+  {
+    "text": "proving is that the FED hasn't done",
+    "start": 398.68,
+    "duration": 4.84
+  },
+  {
+    "text": "enough that inflation is not going back",
+    "start": 400.919,
+    "duration": 8.56
+  },
+  {
+    "text": "down the 2% from 2.7 2.8 in fact all of",
+    "start": 403.52,
+    "duration": 9.04
+  },
+  {
+    "text": "the evidence suggests that inflation's",
+    "start": 409.479,
+    "duration": 6.681
+  },
+  {
+    "text": "going up that we've stopped going down",
+    "start": 412.56,
+    "duration": 5.24
+  },
+  {
+    "text": "and we're going to be heading higher so",
+    "start": 416.16,
+    "duration": 4.159
+  },
+  {
+    "text": "the market still got this wrong if they",
+    "start": 417.8,
+    "duration": 5.079
+  },
+  {
+    "text": "breathed the sigh of relief because it",
+    "start": 420.319,
+    "duration": 4.28
+  },
+  {
+    "text": "could have been worse yes it could have",
+    "start": 422.879,
+    "duration": 3.16
+  },
+  {
+    "text": "been worse and eventually it will be",
+    "start": 424.599,
+    "duration": 4.28
+  },
+  {
+    "text": "worse but it wasn't better and it really",
+    "start": 426.039,
+    "duration": 4.84
+  },
+  {
+    "text": "needs to be better it needs to be a lot",
+    "start": 428.879,
+    "duration": 3.641
+  },
+  {
+    "text": "better to",
+    "start": 430.879,
+    "duration": 4.281
+  },
+  {
+    "text": "justify the rate cuts that everybody",
+    "start": 432.52,
+    "duration": 4.76
+  },
+  {
+    "text": "believes are coming and that the FED",
+    "start": 435.16,
+    "duration": 5.52
+  },
+  {
+    "text": "still insists are not only coming but",
+    "start": 437.28,
+    "duration": 5.8
+  },
+  {
+    "text": "they're appropriate and they couldn't be",
+    "start": 440.68,
+    "duration": 4.84
+  },
+  {
+    "text": "more inappropriate what the fend should",
+    "start": 443.08,
+    "duration": 4.88
+  },
+  {
+    "text": "be doing is hiking rates not because the",
+    "start": 445.52,
+    "duration": 4.84
+  },
+  {
+    "text": "economy is strong but because inflation",
+    "start": 447.96,
+    "duration": 5.359
+  },
+  {
+    "text": "is strong and in fact we got some very",
+    "start": 450.36,
+    "duration": 5.239
+  },
+  {
+    "text": "weak economic data on Friday that came",
+    "start": 453.319,
+    "duration": 4.921
+  },
+  {
+    "text": "out later in the morning we got to",
+    "start": 455.599,
+    "duration": 4.401
+  },
+  {
+    "text": "Chicago",
+    "start": 458.24,
+    "duration": 4.399
+  },
+  {
+    "text": "PMI now the forecast was for an",
+    "start": 460.0,
+    "duration": 5.879
+  },
+  {
+    "text": "improvement in May from the April number",
+    "start": 462.639,
+    "duration": 5.52
+  },
+  {
+    "text": "which was pretty bad the April number",
+    "start": 465.879,
+    "duration": 4.241
+  },
+  {
+    "text": "was",
+    "start": 468.159,
+    "duration": 5.801
+  },
+  {
+    "text": "37.9 and the expectation was for 40.8",
+    "start": 470.12,
+    "duration": 5.44
+  },
+  {
+    "text": "which would have been an improvement but",
+    "start": 473.96,
+    "duration": 3.04
+  },
+  {
+    "text": "still a weak",
+    "start": 475.56,
+    "duration": 6.24
+  },
+  {
+    "text": "number instead the actual number came in",
+    "start": 477.0,
+    "duration": 7.12
+  },
+  {
+    "text": "at",
+    "start": 481.8,
+    "duration": 2.32
+  },
+  {
+    "text": "35.4 that is a horrific number that is",
+    "start": 484.199,
+    "duration": 8.161
+  },
+  {
+    "text": "lower than the low end of the range",
+    "start": 488.319,
+    "duration": 6.0
+  },
+  {
+    "text": "which went from a low of",
+    "start": 492.36,
+    "duration": 5.239
+  },
+  {
+    "text": "38.3 to a high of 44 so some people",
+    "start": 494.319,
+    "duration": 6.201
+  },
+  {
+    "text": "expected a number as high as",
+    "start": 497.599,
+    "duration": 6.481
+  },
+  {
+    "text": "44 other analysts that were pessimistic",
+    "start": 500.52,
+    "duration": 6.32
+  },
+  {
+    "text": "thought it might be as low as",
+    "start": 504.08,
+    "duration": 7.64
+  },
+  {
+    "text": "38.3 and instead we got 35 .4 which way",
+    "start": 506.84,
+    "duration": 7.84
+  },
+  {
+    "text": "below the low end in order to find a",
+    "start": 511.72,
+    "duration": 8.48
+  },
+  {
+    "text": "Chicago PMI this low it was four years",
+    "start": 514.68,
+    "duration": 9.24
+  },
+  {
+    "text": "ago in early",
+    "start": 520.2,
+    "duration": 6.04
+  },
+  {
+    "text": "2020 about May of",
+    "start": 523.92,
+    "duration": 6.72
+  },
+  {
+    "text": "2020 now what was going on in May of",
+    "start": 526.24,
+    "duration": 7.719
+  },
+  {
+    "text": "2020 well in case you don't remember it",
+    "start": 530.64,
+    "duration": 7.0
+  },
+  {
+    "text": "was covid it was the lockdown we shut",
+    "start": 533.959,
+    "duration": 6.44
+  },
+  {
+    "text": "the entire economy down",
+    "start": 537.64,
+    "duration": 5.12
+  },
+  {
+    "text": "and so you have to go back to an",
+    "start": 540.399,
+    "duration": 6.88
+  },
+  {
+    "text": "economic shutdown to find a Chicago",
+    "start": 542.76,
+    "duration": 8.36
+  },
+  {
+    "text": "PMI that was this",
+    "start": 547.279,
+    "duration": 6.68
+  },
+  {
+    "text": "low what does that tell you they're",
+    "start": 551.12,
+    "duration": 5.6
+  },
+  {
+    "text": "talking about this strong economy we",
+    "start": 553.959,
+    "duration": 5.521
+  },
+  {
+    "text": "have an exceptionally weak economy that",
+    "start": 556.72,
+    "duration": 4.559
+  },
+  {
+    "text": "has only been weaker when it was shut",
+    "start": 559.48,
+    "duration": 5.039
+  },
+  {
+    "text": "down completely so not only do we have",
+    "start": 561.279,
+    "duration": 5.641
+  },
+  {
+    "text": "much stronger inflation numbers than",
+    "start": 564.519,
+    "duration": 4.681
+  },
+  {
+    "text": "what the FED estimated but the economy",
+    "start": 566.92,
+    "duration": 4.52
+  },
+  {
+    "text": "is is actually a lot weaker despite all",
+    "start": 569.2,
+    "duration": 5.36
+  },
+  {
+    "text": "this talk about a strong economy the",
+    "start": 571.44,
+    "duration": 6.36
+  },
+  {
+    "text": "evidence uh supports a weak economy and",
+    "start": 574.56,
+    "duration": 5.64
+  },
+  {
+    "text": "in fact we got more evidence of a weak",
+    "start": 577.8,
+    "duration": 4.719
+  },
+  {
+    "text": "economy with the international trade",
+    "start": 580.2,
+    "duration": 4.84
+  },
+  {
+    "text": "deficit numbers which were horrific",
+    "start": 582.519,
+    "duration": 4.32
+  },
+  {
+    "text": "again nobody talks about these numbers",
+    "start": 585.04,
+    "duration": 4.52
+  },
+  {
+    "text": "but me no one seems to care but the",
+    "start": 586.839,
+    "duration": 5.641
+  },
+  {
+    "text": "merchandise trade deficit",
+    "start": 589.56,
+    "duration": 5.0
+  },
+  {
+    "text": "exploded in",
+    "start": 592.48,
+    "duration": 5.56
+  },
+  {
+    "text": "April to a multi-year height it was",
+    "start": 594.56,
+    "duration": 6.719
+  },
+  {
+    "text": "supposed to be 92 and a half",
+    "start": 598.04,
+    "duration": 5.08
+  },
+  {
+    "text": "billion which would have been a little",
+    "start": 601.279,
+    "duration": 5.24
+  },
+  {
+    "text": "bit worse than the 91.8 billion from",
+    "start": 603.12,
+    "duration": 6.76
+  },
+  {
+    "text": "March well they revised the 91.8 billion",
+    "start": 606.519,
+    "duration": 9.121
+  },
+  {
+    "text": "up to 93. 92.3 billion but the April",
+    "start": 609.88,
+    "duration": 8.72
+  },
+  {
+    "text": "deficit was",
+    "start": 615.64,
+    "duration": 2.96
+  },
+  {
+    "text": "99.4",
+    "start": 619.36,
+    "duration": 5.32
+  },
+  {
+    "text": "billion a huge widening of the trade",
+    "start": 621.0,
+    "duration": 6.079
+  },
+  {
+    "text": "deficit because of a",
+    "start": 624.68,
+    "duration": 5.399
+  },
+  {
+    "text": "3.1% increase in import",
+    "start": 627.079,
+    "duration": 7.88
+  },
+  {
+    "text": "and only a 05% increase in exports now",
+    "start": 630.079,
+    "duration": 7.841
+  },
+  {
+    "text": "again this evidences a weak economy the",
+    "start": 634.959,
+    "duration": 4.961
+  },
+  {
+    "text": "economy was too weak to produce the",
+    "start": 637.92,
+    "duration": 4.88
+  },
+  {
+    "text": "goods that we need and so we relied more",
+    "start": 639.92,
+    "duration": 6.64
+  },
+  {
+    "text": "heavily on Imports because our weak",
+    "start": 642.8,
+    "duration": 6.2
+  },
+  {
+    "text": "economy couldn't produce the stuff we",
+    "start": 646.56,
+    "duration": 5.2
+  },
+  {
+    "text": "needed and so we had to rely on stronger",
+    "start": 649.0,
+    "duration": 6.079
+  },
+  {
+    "text": "economies abroad to produce that stuff",
+    "start": 651.76,
+    "duration": 6.519
+  },
+  {
+    "text": "but not only does the exploding trade",
+    "start": 655.079,
+    "duration": 4.921
+  },
+  {
+    "text": "deficit in Goods",
+    "start": 658.279,
+    "duration": 4.041
+  },
+  {
+    "text": "evidence a weak economy but it evidences",
+    "start": 660.0,
+    "duration": 4.8
+  },
+  {
+    "text": "more inflation because we're not",
+    "start": 662.32,
+    "duration": 5.12
+  },
+  {
+    "text": "producing as much stuff so we have to",
+    "start": 664.8,
+    "duration": 5.68
+  },
+  {
+    "text": "import it but less stuff means higher",
+    "start": 667.44,
+    "duration": 5.88
+  },
+  {
+    "text": "prices just like more money means higher",
+    "start": 670.48,
+    "duration": 4.599
+  },
+  {
+    "text": "prices we have more demand we have less",
+    "start": 673.32,
+    "duration": 4.16
+  },
+  {
+    "text": "Supply and of course eventually the",
+    "start": 675.079,
+    "duration": 4.801
+  },
+  {
+    "text": "dollar is going to collapse under the",
+    "start": 677.48,
+    "duration": 3.96
+  },
+  {
+    "text": "weight of all these trade deficits you",
+    "start": 679.88,
+    "duration": 4.12
+  },
+  {
+    "text": "know once upon a time when currency",
+    "start": 681.44,
+    "duration": 4.519
+  },
+  {
+    "text": "Traders actually cared about these trade",
+    "start": 684.0,
+    "duration": 5.399
+  },
+  {
+    "text": "deficits the dollar would be clobbered",
+    "start": 685.959,
+    "duration": 5.361
+  },
+  {
+    "text": "a day with this bad a trade deficit no",
+    "start": 689.399,
+    "duration": 4.921
+  },
+  {
+    "text": "one cares anymore but ultimately these",
+    "start": 691.32,
+    "duration": 4.84
+  },
+  {
+    "text": "trade deficits are going to weigh on the",
+    "start": 694.32,
+    "duration": 3.959
+  },
+  {
+    "text": "dollar the dollar is going to fall and",
+    "start": 696.16,
+    "duration": 4.44
+  },
+  {
+    "text": "that's going to push up prices even more",
+    "start": 698.279,
+    "duration": 3.761
+  },
+  {
+    "text": "because now we're going to need more",
+    "start": 700.6,
+    "duration": 4.239
+  },
+  {
+    "text": "dollars to buy all these Imports and in",
+    "start": 702.04,
+    "duration": 4.84
+  },
+  {
+    "text": "fact foreigners won't need as many",
+    "start": 704.839,
+    "duration": 4.201
+  },
+  {
+    "text": "dollars to buy the stuff that we make",
+    "start": 706.88,
+    "duration": 3.84
+  },
+  {
+    "text": "and so that'll bid up the prices of the",
+    "start": 709.04,
+    "duration": 4.08
+  },
+  {
+    "text": "stuff that we export as well as the",
+    "start": 710.72,
+    "duration": 5.32
+  },
+  {
+    "text": "stuff that we import so this was a weak",
+    "start": 713.12,
+    "duration": 5.36
+  },
+  {
+    "text": "economic number weak inflation but we",
+    "start": 716.04,
+    "duration": 4.64
+  },
+  {
+    "text": "also got the GDP number which is",
+    "start": 718.48,
+    "duration": 4.159
+  },
+  {
+    "text": "specifically supposed to be right about",
+    "start": 720.68,
+    "duration": 7.24
+  },
+  {
+    "text": "the economy this was the estimate for q1",
+    "start": 722.639,
+    "duration": 9.081
+  },
+  {
+    "text": "GDP and by the way the Atlanta fed",
+    "start": 727.92,
+    "duration": 6.719
+  },
+  {
+    "text": "revised down on Friday quite a bit their",
+    "start": 731.72,
+    "duration": 6.96
+  },
+  {
+    "text": "forecast for uh Q2 GDP and I think",
+    "start": 734.639,
+    "duration": 5.88
+  },
+  {
+    "text": "there's a lot more downward revisions",
+    "start": 738.68,
+    "duration": 3.719
+  },
+  {
+    "text": "coming because they're still way too",
+    "start": 740.519,
+    "duration": 4.041
+  },
+  {
+    "text": "optimistic on what they think's going to",
+    "start": 742.399,
+    "duration": 4.88
+  },
+  {
+    "text": "happen in the second quarter or happen",
+    "start": 744.56,
+    "duration": 5.32
+  },
+  {
+    "text": "because it's basically over",
+    "start": 747.279,
+    "duration": 4.761
+  },
+  {
+    "text": "but for",
+    "start": 749.88,
+    "duration": 5.519
+  },
+  {
+    "text": "q1 the estimate was",
+    "start": 752.04,
+    "duration": 6.479
+  },
+  {
+    "text": "1.5% GDP growth and that would have been",
+    "start": 755.399,
+    "duration": 6.081
+  },
+  {
+    "text": "a little bit less than the",
+    "start": 758.519,
+    "duration": 5.68
+  },
+  {
+    "text": "1.6% that they estimated last time they",
+    "start": 761.48,
+    "duration": 3.799
+  },
+  {
+    "text": "released the",
+    "start": 764.199,
+    "duration": 4.88
+  },
+  {
+    "text": "numbers well we ended up getting 1.3 so",
+    "start": 765.279,
+    "duration": 5.201
+  },
+  {
+    "text": "not only is",
+    "start": 769.079,
+    "duration": 6.961
+  },
+  {
+    "text": "it 3% below the original report but it's",
+    "start": 770.48,
+    "duration": 7.479
+  },
+  {
+    "text": "0 2% below what they thought it was",
+    "start": 776.04,
+    "duration": 4.12
+  },
+  {
+    "text": "going to be",
+    "start": 777.959,
+    "duration": 3.641
+  },
+  {
+    "text": "so that's a weak",
+    "start": 780.16,
+    "duration": 4.44
+  },
+  {
+    "text": "number and the personal consumption",
+    "start": 781.6,
+    "duration": 6.64
+  },
+  {
+    "text": "expenditure uh component was also quite",
+    "start": 784.6,
+    "duration": 6.359
+  },
+  {
+    "text": "a bit weaker it was originally reported",
+    "start": 788.24,
+    "duration": 6.279
+  },
+  {
+    "text": "at two and a half the estimate was 2.2",
+    "start": 790.959,
+    "duration": 7.041
+  },
+  {
+    "text": "and we got 2.0 which again was below the",
+    "start": 794.519,
+    "duration": 6.161
+  },
+  {
+    "text": "low end of the consensus range so more",
+    "start": 798.0,
+    "duration": 6.48
+  },
+  {
+    "text": "weak economic data in fact what we got",
+    "start": 800.68,
+    "duration": 6.12
+  },
+  {
+    "text": "throughout the course of the week was",
+    "start": 804.48,
+    "duration": 4.64
+  },
+  {
+    "text": "weak economic data the Richmond fed",
+    "start": 806.8,
+    "duration": 4.039
+  },
+  {
+    "text": "manufacturing came out earlier in the",
+    "start": 809.12,
+    "duration": 4.519
+  },
+  {
+    "text": "week uh that was at zero I mean that it",
+    "start": 810.839,
+    "duration": 4.921
+  },
+  {
+    "text": "was actually not as weak as it was",
+    "start": 813.639,
+    "duration": 5.161
+  },
+  {
+    "text": "forecast to be but zero is still weak",
+    "start": 815.76,
+    "duration": 6.759
+  },
+  {
+    "text": "the Dallas fed manufacturing was minus1",
+    "start": 818.8,
+    "duration": 7.88
+  },
+  {
+    "text": "19.4 that was worse than the minus",
+    "start": 822.519,
+    "duration": 7.12
+  },
+  {
+    "text": "14.5 from the prior month and worse than",
+    "start": 826.68,
+    "duration": 4.24
+  },
+  {
+    "text": "the minus",
+    "start": 829.639,
+    "duration": 3.56
+  },
+  {
+    "text": "14.4 which they expected and the",
+    "start": 830.92,
+    "duration": 3.76
+  },
+  {
+    "text": "production",
+    "start": 833.199,
+    "duration": 5.32
+  },
+  {
+    "text": "index sank to minus 2.8 the prior month",
+    "start": 834.68,
+    "duration": 7.36
+  },
+  {
+    "text": "was up 4.8 so that was a bad number so",
+    "start": 838.519,
+    "duration": 5.56
+  },
+  {
+    "text": "over the course of the week we continue",
+    "start": 842.04,
+    "duration": 4.039
+  },
+  {
+    "text": "to get evidence that the markets are",
+    "start": 844.079,
+    "duration": 4.0
+  },
+  {
+    "text": "completely ignoring that the FED is",
+    "start": 846.079,
+    "duration": 4.76
+  },
+  {
+    "text": "completely ignoring that the economy is",
+    "start": 848.079,
+    "duration": 5.76
+  },
+  {
+    "text": "weak the only thing that's strong is",
+    "start": 850.839,
+    "duration": 4.721
+  },
+  {
+    "text": "inflation and the markets don't seem to",
+    "start": 853.839,
+    "duration": 3.521
+  },
+  {
+    "text": "care about that either anyway we got a",
+    "start": 855.56,
+    "duration": 3.36
+  },
+  {
+    "text": "quick commercial break so stick around",
+    "start": 857.36,
+    "duration": 2.8
+  },
+  {
+    "text": "we'll be right",
+    "start": 858.92,
+    "duration": 4.0
+  },
+  {
+    "text": "back my favorite part of spring cleaning",
+    "start": 860.16,
+    "duration": 5.0
+  },
+  {
+    "text": "is the clarity afterwards making me",
+    "start": 862.92,
+    "duration": 4.4
+  },
+  {
+    "text": "wonder how have I been living like this",
+    "start": 865.16,
+    "duration": 3.599
+  },
+  {
+    "text": "it's kind of like finding out that",
+    "start": 867.32,
+    "duration": 3.0
+  },
+  {
+    "text": "you've been overpaying for your current",
+    "start": 868.759,
+    "duration": 4.041
+  },
+  {
+    "text": "Wireless plan when mmobile offers plans",
+    "start": 870.32,
+    "duration": 4.959
+  },
+  {
+    "text": "for just $15 a month with the purchase",
+    "start": 872.8,
+    "duration": 4.479
+  },
+  {
+    "text": "of a 3-month plan it's time to switch to",
+    "start": 875.279,
+    "duration": 4.441
+  },
+  {
+    "text": "midmobile today and enjoy unlimited talk",
+    "start": 877.279,
+    "duration": 5.48
+  },
+  {
+    "text": "text and data for just $15 a month in",
+    "start": 879.72,
+    "duration": 4.679
+  },
+  {
+    "text": "fact when it was time to get my son",
+    "start": 882.759,
+    "duration": 4.041
+  },
+  {
+    "text": "Preston his own phone mintmobile was the",
+    "start": 884.399,
+    "duration": 4.521
+  },
+  {
+    "text": "perfect choice forget about the Steep",
+    "start": 886.8,
+    "duration": 4.2
+  },
+  {
+    "text": "monthly fees and overages that you get",
+    "start": 888.92,
+    "duration": 4.0
+  },
+  {
+    "text": "with your current Wireless plan and make",
+    "start": 891.0,
+    "duration": 3.639
+  },
+  {
+    "text": "the switch to Mt Mobile's premium",
+    "start": 892.92,
+    "duration": 4.359
+  },
+  {
+    "text": "Wireless plans starting at just 15 bucks",
+    "start": 894.639,
+    "duration": 4.721
+  },
+  {
+    "text": "a month choose any mmobile plan which",
+    "start": 897.279,
+    "duration": 4.401
+  },
+  {
+    "text": "includes high-speed data with unlimited",
+    "start": 899.36,
+    "duration": 5.2
+  },
+  {
+    "text": "talk and text on the nation's largest 5G",
+    "start": 901.68,
+    "duration": 4.8
+  },
+  {
+    "text": "Network you can even keep your current",
+    "start": 904.56,
+    "duration": 3.959
+  },
+  {
+    "text": "phone and number when you switch and",
+    "start": 906.48,
+    "duration": 4.56
+  },
+  {
+    "text": "bring over all your existing contracts",
+    "start": 908.519,
+    "duration": 4.361
+  },
+  {
+    "text": "ditch overpriced Wireless with M",
+    "start": 911.04,
+    "duration": 3.52
+  },
+  {
+    "text": "Mobile's limited time deal and get three",
+    "start": 912.88,
+    "duration": 3.6
+  },
+  {
+    "text": "months or premium wireless service for",
+    "start": 914.56,
+    "duration": 3.839
+  },
+  {
+    "text": "15 bucks a month to get this new",
+    "start": 916.48,
+    "duration": 3.84
+  },
+  {
+    "text": "customer offer and your new 3month",
+    "start": 918.399,
+    "duration": 4.161
+  },
+  {
+    "text": "Unlimited Wireless plan for just 15",
+    "start": 920.32,
+    "duration": 4.6
+  },
+  {
+    "text": "bucks a month go to midmobile",
+    "start": 922.56,
+    "duration": 4.759
+  },
+  {
+    "text": "docomo that's midmobile",
+    "start": 924.92,
+    "duration": 5.399
+  },
+  {
+    "text": "docomo cut your wir spill to 15 bucks a",
+    "start": 927.319,
+    "duration": 7.32
+  },
+  {
+    "text": "month at mintmobile.com Gold $45 upfront",
+    "start": 930.319,
+    "duration": 6.96
+  },
+  {
+    "text": "payment required equivalent to $15 a",
+    "start": 934.639,
+    "duration": 4.081
+  },
+  {
+    "text": "month new customers on the first",
+    "start": 937.279,
+    "duration": 3.8
+  },
+  {
+    "text": "three-month plan only speed slower above",
+    "start": 938.72,
+    "duration": 4.919
+  },
+  {
+    "text": "40 gigb on unlimited plans additional",
+    "start": 941.079,
+    "duration": 4.721
+  },
+  {
+    "text": "taxes fees and restrictions apply see",
+    "start": 943.639,
+    "duration": 4.961
+  },
+  {
+    "text": "mintmobile for",
+    "start": 945.8,
+    "duration": 2.8
+  },
+  {
+    "text": "details all right well while the media",
+    "start": 948.8,
+    "duration": 7.039
+  },
+  {
+    "text": "of course was focused on the May gains",
+    "start": 951.36,
+    "duration": 6.44
+  },
+  {
+    "text": "in the stock market they really didn't",
+    "start": 955.839,
+    "duration": 3.68
+  },
+  {
+    "text": "pay any attention",
+    "start": 957.8,
+    "duration": 3.839
+  },
+  {
+    "text": "to the gains in the precious metals",
+    "start": 959.519,
+    "duration": 4.841
+  },
+  {
+    "text": "Market because as far as I'm concerned",
+    "start": 961.639,
+    "duration": 5.361
+  },
+  {
+    "text": "that's where the significant move was",
+    "start": 964.36,
+    "duration": 5.52
+  },
+  {
+    "text": "because we saw gold during the month of",
+    "start": 967.0,
+    "duration": 5.639
+  },
+  {
+    "text": "May rise to a new all-time record high",
+    "start": 969.88,
+    "duration": 5.72
+  },
+  {
+    "text": "even though it it ended the month uh on",
+    "start": 972.639,
+    "duration": 5.0
+  },
+  {
+    "text": "a bit of a decline but if I look at the",
+    "start": 975.6,
+    "duration": 4.239
+  },
+  {
+    "text": "price right now on Sunday Night uh for",
+    "start": 977.639,
+    "duration": 4.401
+  },
+  {
+    "text": "the price of gold we're still trading",
+    "start": 979.839,
+    "duration": 5.641
+  },
+  {
+    "text": "above 2,300 we",
+    "start": 982.04,
+    "duration": 7.76
+  },
+  {
+    "text": "2328 so a solid Breakout in the month of",
+    "start": 985.48,
+    "duration": 7.88
+  },
+  {
+    "text": "May and and more particular or more",
+    "start": 989.8,
+    "duration": 5.599
+  },
+  {
+    "text": "significant is the breakout in the price",
+    "start": 993.36,
+    "duration": 5.08
+  },
+  {
+    "text": "of silver which went north of $30 an",
+    "start": 995.399,
+    "duration": 5.601
+  },
+  {
+    "text": "ounce and never looked back it got as",
+    "start": 998.44,
+    "duration": 5.0
+  },
+  {
+    "text": "high as",
+    "start": 1001.0,
+    "duration": 6.0
+  },
+  {
+    "text": "$32.50 I believe and then pulled back",
+    "start": 1003.44,
+    "duration": 7.0
+  },
+  {
+    "text": "but it never even got back below 30 it's",
+    "start": 1007.0,
+    "duration": 6.92
+  },
+  {
+    "text": "held up above 30 and closed the month",
+    "start": 1010.44,
+    "duration": 6.12
+  },
+  {
+    "text": "above 30 so that is extremely",
+    "start": 1013.92,
+    "duration": 6.44
+  },
+  {
+    "text": "significant but I think the in the stock",
+    "start": 1016.56,
+    "duration": 7.36
+  },
+  {
+    "text": "market is causing investors really not",
+    "start": 1020.36,
+    "duration": 6.24
+  },
+  {
+    "text": "to pay attention and of course all the",
+    "start": 1023.92,
+    "duration": 6.039
+  },
+  {
+    "text": "continued noise uh surrounding Bitcoin",
+    "start": 1026.6,
+    "duration": 6.12
+  },
+  {
+    "text": "this time it's really not Bitcoin but",
+    "start": 1029.959,
+    "duration": 4.761
+  },
+  {
+    "text": "ethereum because everybody is now",
+    "start": 1032.72,
+    "duration": 5.28
+  },
+  {
+    "text": "focusing on the fact that the ethereum",
+    "start": 1034.72,
+    "duration": 5.52
+  },
+  {
+    "text": "ETF is going to be approved and there's",
+    "start": 1038.0,
+    "duration": 5.16
+  },
+  {
+    "text": "a whole bunch of these ETFs that are in",
+    "start": 1040.24,
+    "duration": 5.4
+  },
+  {
+    "text": "the queue because the same companies",
+    "start": 1043.16,
+    "duration": 5.759
+  },
+  {
+    "text": "that are making money on bitcoin ETFs",
+    "start": 1045.64,
+    "duration": 5.039
+  },
+  {
+    "text": "because they get to charge fees to",
+    "start": 1048.919,
+    "duration": 4.681
+  },
+  {
+    "text": "basically custody nothing well the same",
+    "start": 1050.679,
+    "duration": 6.641
+  },
+  {
+    "text": "C companies that are charging to custody",
+    "start": 1053.6,
+    "duration": 5.36
+  },
+  {
+    "text": "Bitcoin well they're going to charge the",
+    "start": 1057.32,
+    "duration": 4.96
+  },
+  {
+    "text": "same group of people to custody ethereum",
+    "start": 1058.96,
+    "duration": 6.48
+  },
+  {
+    "text": "but you know I think it's uh the the the",
+    "start": 1062.28,
+    "duration": 7.04
+  },
+  {
+    "text": "the Bulls are missing the point that",
+    "start": 1065.44,
+    "duration": 7.84
+  },
+  {
+    "text": "there isn't a whole lot of money on the",
+    "start": 1069.32,
+    "duration": 7.12
+  },
+  {
+    "text": "sideline waiting to buy",
+    "start": 1073.28,
+    "duration": 6.08
+  },
+  {
+    "text": "ethereum I think the",
+    "start": 1076.44,
+    "duration": 8.479
+  },
+  {
+    "text": "money that whoever bought these Bitcoin",
+    "start": 1079.36,
+    "duration": 8.04
+  },
+  {
+    "text": "ETFs that money is already in the",
+    "start": 1084.919,
+    "duration": 4.601
+  },
+  {
+    "text": "Bitcoin ETFs that's the crypto money",
+    "start": 1087.4,
+    "duration": 4.6
+  },
+  {
+    "text": "that's the crypto allocation it's not",
+    "start": 1089.52,
+    "duration": 5.08
+  },
+  {
+    "text": "that people are like well oh now there's",
+    "start": 1092.0,
+    "duration": 5.32
+  },
+  {
+    "text": "ether oh let me let me buy a similar",
+    "start": 1094.6,
+    "duration": 5.36
+  },
+  {
+    "text": "amount of ether I already put $10,000",
+    "start": 1097.32,
+    "duration": 4.96
+  },
+  {
+    "text": "into Bitcoin so let me put another",
+    "start": 1099.96,
+    "duration": 6.4
+  },
+  {
+    "text": "10,000 into ether I think if that",
+    "start": 1102.28,
+    "duration": 7.24
+  },
+  {
+    "text": "individual wanted to put 20,000 into",
+    "start": 1106.36,
+    "duration": 6.24
+  },
+  {
+    "text": "crypto it would already be in Bitcoin",
+    "start": 1109.52,
+    "duration": 5.279
+  },
+  {
+    "text": "right people aren't holding back waiting",
+    "start": 1112.6,
+    "duration": 4.88
+  },
+  {
+    "text": "for the ethereum ETF I think they",
+    "start": 1114.799,
+    "duration": 5.081
+  },
+  {
+    "text": "already put their chips on the table and",
+    "start": 1117.48,
+    "duration": 6.76
+  },
+  {
+    "text": "they got them on Bitcoin now if the same",
+    "start": 1119.88,
+    "duration": 8.08
+  },
+  {
+    "text": "companies roll out these ethereum",
+    "start": 1124.24,
+    "duration": 6.48
+  },
+  {
+    "text": "ETFs I think what investors are more",
+    "start": 1127.96,
+    "duration": 6.56
+  },
+  {
+    "text": "likely to do is move some of their",
+    "start": 1130.72,
+    "duration": 7.6
+  },
+  {
+    "text": "Bitcoin chips and slide them over to the",
+    "start": 1134.52,
+    "duration": 5.639
+  },
+  {
+    "text": "ethereum of ETF because that's their",
+    "start": 1138.32,
+    "duration": 4.12
+  },
+  {
+    "text": "allocation hey I got",
+    "start": 1140.159,
+    "duration": 4.88
+  },
+  {
+    "text": "$110,000 in crypto I put it all in",
+    "start": 1142.44,
+    "duration": 5.32
+  },
+  {
+    "text": "Bitcoin because that's all there was now",
+    "start": 1145.039,
+    "duration": 5.201
+  },
+  {
+    "text": "there's two now there's Bitcoin and",
+    "start": 1147.76,
+    "duration": 4.44
+  },
+  {
+    "text": "there's ethereum well let me let me",
+    "start": 1150.24,
+    "duration": 4.64
+  },
+  {
+    "text": "shift five grand over to Ether and I got",
+    "start": 1152.2,
+    "duration": 4.959
+  },
+  {
+    "text": "both bases covered right I'm betting on",
+    "start": 1154.88,
+    "duration": 5.4
+  },
+  {
+    "text": "two horses instead of one that's what I",
+    "start": 1157.159,
+    "duration": 5.441
+  },
+  {
+    "text": "think is more likely to happen so why is",
+    "start": 1160.28,
+    "duration": 5.399
+  },
+  {
+    "text": "that bullish for Bitcoin it's not it",
+    "start": 1162.6,
+    "duration": 5.439
+  },
+  {
+    "text": "means that a lot of Bitcoin is going to",
+    "start": 1165.679,
+    "duration": 4.921
+  },
+  {
+    "text": "have to get sold sold in order to free",
+    "start": 1168.039,
+    "duration": 6.041
+  },
+  {
+    "text": "up the money to buy the ethereum and so",
+    "start": 1170.6,
+    "duration": 7.439
+  },
+  {
+    "text": "I don't see this as another big Catalyst",
+    "start": 1174.08,
+    "duration": 6.76
+  },
+  {
+    "text": "for a huge move up in Bitcoin it could",
+    "start": 1178.039,
+    "duration": 4.721
+  },
+  {
+    "text": "be a catalyst for a big move down in",
+    "start": 1180.84,
+    "duration": 3.48
+  },
+  {
+    "text": "Bitcoin which is going to drag down",
+    "start": 1182.76,
+    "duration": 3.919
+  },
+  {
+    "text": "ethereum right so I don't know that this",
+    "start": 1184.32,
+    "duration": 4.16
+  },
+  {
+    "text": "is bullish for any of the cryptos but it",
+    "start": 1186.679,
+    "duration": 4.561
+  },
+  {
+    "text": "is a lot of noise and it is kind of",
+    "start": 1188.48,
+    "duration": 5.8
+  },
+  {
+    "text": "sucking the oxygen out of the",
+    "start": 1191.24,
+    "duration": 7.52
+  },
+  {
+    "text": "room with respect to gold and silver",
+    "start": 1194.28,
+    "duration": 8.759
+  },
+  {
+    "text": "because again Wall Street sees",
+    "start": 1198.76,
+    "duration": 7.12
+  },
+  {
+    "text": "Bitcoin as digital gold as an",
+    "start": 1203.039,
+    "duration": 5.041
+  },
+  {
+    "text": "alternative to gold as an alternative to",
+    "start": 1205.88,
+    "duration": 6.96
+  },
+  {
+    "text": "Silver so the fact that all of these um",
+    "start": 1208.08,
+    "duration": 8.36
+  },
+  {
+    "text": "uh news coverage in fact I read a story",
+    "start": 1212.84,
+    "duration": 5.04
+  },
+  {
+    "text": "that came",
+    "start": 1216.44,
+    "duration": 4.64
+  },
+  {
+    "text": "out that basically said that most",
+    "start": 1217.88,
+    "duration": 5.56
+  },
+  {
+    "text": "financial advisors were not willing to",
+    "start": 1221.08,
+    "duration": 4.4
+  },
+  {
+    "text": "recommend the Bitcoin ETFs which is not",
+    "start": 1223.44,
+    "duration": 4.119
+  },
+  {
+    "text": "news to me it's something that I I",
+    "start": 1225.48,
+    "duration": 3.439
+  },
+  {
+    "text": "always said was going to happen and I",
+    "start": 1227.559,
+    "duration": 3.961
+  },
+  {
+    "text": "didn't see how financial advisors were",
+    "start": 1228.919,
+    "duration": 4.561
+  },
+  {
+    "text": "going to recommend these products it's",
+    "start": 1231.52,
+    "duration": 4.84
+  },
+  {
+    "text": "just not worth it to them uh because you",
+    "start": 1233.48,
+    "duration": 4.64
+  },
+  {
+    "text": "know they're exposing themselves to a",
+    "start": 1236.36,
+    "duration": 5.84
+  },
+  {
+    "text": "lot of liability if uh the ETFs go down",
+    "start": 1238.12,
+    "duration": 7.039
+  },
+  {
+    "text": "they can get sued um and you know it's",
+    "start": 1242.2,
+    "duration": 4.719
+  },
+  {
+    "text": "very easy to sue your stock broker it's",
+    "start": 1245.159,
+    "duration": 4.76
+  },
+  {
+    "text": "very easy to sue your advisor and and so",
+    "start": 1246.919,
+    "duration": 4.681
+  },
+  {
+    "text": "why go out on the LI I just didn't think",
+    "start": 1249.919,
+    "duration": 3.441
+  },
+  {
+    "text": "there was any reason I didn't even think",
+    "start": 1251.6,
+    "duration": 5.079
+  },
+  {
+    "text": "most of the firms would allow their reps",
+    "start": 1253.36,
+    "duration": 5.96
+  },
+  {
+    "text": "uh to recommend this stuff",
+    "start": 1256.679,
+    "duration": 4.641
+  },
+  {
+    "text": "um and and they haven't done it and so I",
+    "start": 1259.32,
+    "duration": 5.8
+  },
+  {
+    "text": "was watching CNBC did a did a a a report",
+    "start": 1261.32,
+    "duration": 7.52
+  },
+  {
+    "text": "on Friday about this story that came out",
+    "start": 1265.12,
+    "duration": 5.559
+  },
+  {
+    "text": "about the fact that the advisor",
+    "start": 1268.84,
+    "duration": 4.52
+  },
+  {
+    "text": "Community is not recommending it because",
+    "start": 1270.679,
+    "duration": 4.24
+  },
+  {
+    "text": "the whole point",
+    "start": 1273.36,
+    "duration": 5.319
+  },
+  {
+    "text": "supposedly of the Bitcoin ETFs was so",
+    "start": 1274.919,
+    "duration": 5.36
+  },
+  {
+    "text": "the advisor Community could could",
+    "start": 1278.679,
+    "duration": 3.081
+  },
+  {
+    "text": "recommend it that supposedly there was",
+    "start": 1280.279,
+    "duration": 3.76
+  },
+  {
+    "text": "all these investment professionals that",
+    "start": 1281.76,
+    "duration": 4.32
+  },
+  {
+    "text": "really wanted to allocate to bitcoin but",
+    "start": 1284.039,
+    "duration": 3.64
+  },
+  {
+    "text": "they didn't have a way of doing it",
+    "start": 1286.08,
+    "duration": 4.16
+  },
+  {
+    "text": "within the regular framework that they",
+    "start": 1287.679,
+    "duration": 4.6
+  },
+  {
+    "text": "operated and so we just needed these",
+    "start": 1290.24,
+    "duration": 4.4
+  },
+  {
+    "text": "ETFs and now all these advisors were",
+    "start": 1292.279,
+    "duration": 4.081
+  },
+  {
+    "text": "going to start allocating money to",
+    "start": 1294.64,
+    "duration": 3.2
+  },
+  {
+    "text": "bitcoin well it's not",
+    "start": 1296.36,
+    "duration": 3.84
+  },
+  {
+    "text": "happening and you know and so what was",
+    "start": 1297.84,
+    "duration": 3.959
+  },
+  {
+    "text": "the point of all this right it was just",
+    "start": 1300.2,
+    "duration": 5.28
+  },
+  {
+    "text": "to facilitate another uh vehicle for",
+    "start": 1301.799,
+    "duration": 6.801
+  },
+  {
+    "text": "gambling yeah there are some uh",
+    "start": 1305.48,
+    "duration": 5.28
+  },
+  {
+    "text": "investors you know look they buy",
+    "start": 1308.6,
+    "duration": 4.079
+  },
+  {
+    "text": "GameStop they bought AMC I mean there",
+    "start": 1310.76,
+    "duration": 3.159
+  },
+  {
+    "text": "are people that'll buy anything they",
+    "start": 1312.679,
+    "duration": 2.921
+  },
+  {
+    "text": "don't care right they just GNA jump on",
+    "start": 1313.919,
+    "duration": 3.841
+  },
+  {
+    "text": "any bandwagon they think they can make",
+    "start": 1315.6,
+    "duration": 3.439
+  },
+  {
+    "text": "some money",
+    "start": 1317.76,
+    "duration": 3.76
+  },
+  {
+    "text": "and that's what happened uh with the",
+    "start": 1319.039,
+    "duration": 4.721
+  },
+  {
+    "text": "Bitcoin ETFs that's all you got and",
+    "start": 1321.52,
+    "duration": 3.84
+  },
+  {
+    "text": "again I don't think there's a new pool",
+    "start": 1323.76,
+    "duration": 3.56
+  },
+  {
+    "text": "of money waiting around for the ethereum",
+    "start": 1325.36,
+    "duration": 3.88
+  },
+  {
+    "text": "ETF it's the same",
+    "start": 1327.32,
+    "duration": 5.0
+  },
+  {
+    "text": "money but the the reason I'm bringing it",
+    "start": 1329.24,
+    "duration": 5.799
+  },
+  {
+    "text": "up now really is because people should",
+    "start": 1332.32,
+    "duration": 8.239
+  },
+  {
+    "text": "be talking about $2,400 goal $2,300 goal",
+    "start": 1335.039,
+    "duration": 7.801
+  },
+  {
+    "text": "people should be asking the question why",
+    "start": 1340.559,
+    "duration": 3.961
+  },
+  {
+    "text": "is gold at this",
+    "start": 1342.84,
+    "duration": 6.079
+  },
+  {
+    "text": "price and if it's at this price why",
+    "start": 1344.52,
+    "duration": 5.8
+  },
+  {
+    "text": "what's going to stop it from going to a",
+    "start": 1348.919,
+    "duration": 4.281
+  },
+  {
+    "text": "higher price or why is",
+    "start": 1350.32,
+    "duration": 5.88
+  },
+  {
+    "text": "silver above $30 an ounce what's going",
+    "start": 1353.2,
+    "duration": 5.88
+  },
+  {
+    "text": "on what what is that telling you because",
+    "start": 1356.2,
+    "duration": 5.12
+  },
+  {
+    "text": "these again are monetary Metals they're",
+    "start": 1359.08,
+    "duration": 5.24
+  },
+  {
+    "text": "not just Commodities they're special in",
+    "start": 1361.32,
+    "duration": 6.4
+  },
+  {
+    "text": "that they are monetary alternatives to",
+    "start": 1364.32,
+    "duration": 5.92
+  },
+  {
+    "text": "fiat currency they are alternatives to",
+    "start": 1367.72,
+    "duration": 5.04
+  },
+  {
+    "text": "the dollar now interest rates have gone",
+    "start": 1370.24,
+    "duration": 4.2
+  },
+  {
+    "text": "up a lot recently in the United States",
+    "start": 1372.76,
+    "duration": 3.84
+  },
+  {
+    "text": "right you can get five and a",
+    "start": 1374.44,
+    "duration": 5.719
+  },
+  {
+    "text": "half% on Treasury",
+    "start": 1376.6,
+    "duration": 6.319
+  },
+  {
+    "text": "not too long ago treasury yields were",
+    "start": 1380.159,
+    "duration": 5.281
+  },
+  {
+    "text": "basically zero you couldn't get anything",
+    "start": 1382.919,
+    "duration": 4.441
+  },
+  {
+    "text": "on 90day",
+    "start": 1385.44,
+    "duration": 4.44
+  },
+  {
+    "text": "treasuries but the price of gold is much",
+    "start": 1387.36,
+    "duration": 5.52
+  },
+  {
+    "text": "higher today when you can get five and a",
+    "start": 1389.88,
+    "duration": 5.799
+  },
+  {
+    "text": "half percent than it was when you got a",
+    "start": 1392.88,
+    "duration": 4.6
+  },
+  {
+    "text": "quarter of",
+    "start": 1395.679,
+    "duration": 4.88
+  },
+  {
+    "text": "1% what is that telling you what is that",
+    "start": 1397.48,
+    "duration": 5.559
+  },
+  {
+    "text": "telling you that the markets think about",
+    "start": 1400.559,
+    "duration": 4.881
+  },
+  {
+    "text": "that five and a half percent they don't",
+    "start": 1403.039,
+    "duration": 5.88
+  },
+  {
+    "text": "care the markets aren't being fooled by",
+    "start": 1405.44,
+    "duration": 5.32
+  },
+  {
+    "text": "that number because they'd rather own",
+    "start": 1408.919,
+    "duration": 4.401
+  },
+  {
+    "text": "gold they're more interested in owning",
+    "start": 1410.76,
+    "duration": 7.159
+  },
+  {
+    "text": "gold now when interest rates are over 5%",
+    "start": 1413.32,
+    "duration": 6.359
+  },
+  {
+    "text": "than they were when they were",
+    "start": 1417.919,
+    "duration": 3.36
+  },
+  {
+    "text": "practically",
+    "start": 1419.679,
+    "duration": 5.761
+  },
+  {
+    "text": "zero and that's because the gold buyers",
+    "start": 1421.279,
+    "duration": 6.441
+  },
+  {
+    "text": "understand that that five and a half%",
+    "start": 1425.44,
+    "duration": 6.16
+  },
+  {
+    "text": "yield is BS that real yields may",
+    "start": 1427.72,
+    "duration": 6.52
+  },
+  {
+    "text": "actually be lower now than they were",
+    "start": 1431.6,
+    "duration": 5.36
+  },
+  {
+    "text": "when nominal yields were near zero",
+    "start": 1434.24,
+    "duration": 5.28
+  },
+  {
+    "text": "because inflation is so much higher but",
+    "start": 1436.96,
+    "duration": 5.12
+  },
+  {
+    "text": "not only is inflation so much higher now",
+    "start": 1439.52,
+    "duration": 4.6
+  },
+  {
+    "text": "than it was when rates were",
+    "start": 1442.08,
+    "duration": 5.36
+  },
+  {
+    "text": "zero but the the anticipation or the",
+    "start": 1444.12,
+    "duration": 5.88
+  },
+  {
+    "text": "expectation of where inflation is going",
+    "start": 1447.44,
+    "duration": 3.68
+  },
+  {
+    "text": "to",
+    "start": 1450.0,
+    "duration": 5.6
+  },
+  {
+    "text": "be in the future is so much higher",
+    "start": 1451.12,
+    "duration": 7.52
+  },
+  {
+    "text": "especially since basically both",
+    "start": 1455.6,
+    "duration": 6.04
+  },
+  {
+    "text": "political parties have obviously thrown",
+    "start": 1458.64,
+    "duration": 6.56
+  },
+  {
+    "text": "in the towel on fiscal responsibility",
+    "start": 1461.64,
+    "duration": 6.84
+  },
+  {
+    "text": "nobody cares nobody even wants to",
+    "start": 1465.2,
+    "duration": 6.76
+  },
+  {
+    "text": "propose a committee to study the problem",
+    "start": 1468.48,
+    "duration": 4.52
+  },
+  {
+    "text": "of the",
+    "start": 1471.96,
+    "duration": 4.079
+  },
+  {
+    "text": "deficit certainly the Federal Reserve",
+    "start": 1473.0,
+    "duration": 5.039
+  },
+  {
+    "text": "doesn't want to weigh in on it no they",
+    "start": 1476.039,
+    "duration": 4.88
+  },
+  {
+    "text": "they refuse to say oh we can't we got to",
+    "start": 1478.039,
+    "duration": 5.601
+  },
+  {
+    "text": "stay in our lane that's what pal said oh",
+    "start": 1480.919,
+    "duration": 5.161
+  },
+  {
+    "text": "I can't talk about the the budget",
+    "start": 1483.64,
+    "duration": 4.44
+  },
+  {
+    "text": "deficits we just take it as it comes",
+    "start": 1486.08,
+    "duration": 4.12
+  },
+  {
+    "text": "right we just take whatever fiscal",
+    "start": 1488.08,
+    "duration": 4.76
+  },
+  {
+    "text": "policy uh Congress wants to hand us",
+    "start": 1490.2,
+    "duration": 4.92
+  },
+  {
+    "text": "right we're indifferent we don't really",
+    "start": 1492.84,
+    "duration": 5.0
+  },
+  {
+    "text": "care well the FED doesn't care why",
+    "start": 1495.12,
+    "duration": 5.439
+  },
+  {
+    "text": "should anybody care right Biden doesn't",
+    "start": 1497.84,
+    "duration": 5.92
+  },
+  {
+    "text": "care Trump doesn't care nobody cares",
+    "start": 1500.559,
+    "duration": 8.881
+  },
+  {
+    "text": "right I mean so we at least in the past",
+    "start": 1503.76,
+    "duration": 8.0
+  },
+  {
+    "text": "some people pretended to care now I knew",
+    "start": 1509.44,
+    "duration": 4.32
+  },
+  {
+    "text": "it was all Bs it didn't matter what they",
+    "start": 1511.76,
+    "duration": 4.44
+  },
+  {
+    "text": "said it was all politics but at this",
+    "start": 1513.76,
+    "duration": 3.96
+  },
+  {
+    "text": "point they don't even bother with the",
+    "start": 1516.2,
+    "duration": 3.359
+  },
+  {
+    "text": "pretense because no one even thinks it's",
+    "start": 1517.72,
+    "duration": 3.76
+  },
+  {
+    "text": "a problem anymore because the problem",
+    "start": 1519.559,
+    "duration": 5.641
+  },
+  {
+    "text": "has gotten so big without a supposed",
+    "start": 1521.48,
+    "duration": 6.48
+  },
+  {
+    "text": "catastrophe that it's supposedly no",
+    "start": 1525.2,
+    "duration": 5.599
+  },
+  {
+    "text": "longer a problem and and and people are",
+    "start": 1527.96,
+    "duration": 4.079
+  },
+  {
+    "text": "tired of being",
+    "start": 1530.799,
+    "duration": 4.161
+  },
+  {
+    "text": "warned about the debt because nothing",
+    "start": 1532.039,
+    "duration": 4.681
+  },
+  {
+    "text": "has happened and of course now you got",
+    "start": 1534.96,
+    "duration": 4.959
+  },
+  {
+    "text": "the popularity of the mmt that coming",
+    "start": 1536.72,
+    "duration": 5.319
+  },
+  {
+    "text": "out and saying you see look we don't",
+    "start": 1539.919,
+    "duration": 3.521
+  },
+  {
+    "text": "need to worry about the debt it's just",
+    "start": 1542.039,
+    "duration": 4.681
+  },
+  {
+    "text": "the number who cares right it's it's and",
+    "start": 1543.44,
+    "duration": 5.479
+  },
+  {
+    "text": "so that's the mentality well that is",
+    "start": 1546.72,
+    "duration": 3.12
+  },
+  {
+    "text": "what's",
+    "start": 1548.919,
+    "duration": 5.36
+  },
+  {
+    "text": "driving the buying in gold and silver",
+    "start": 1549.84,
+    "duration": 6.64
+  },
+  {
+    "text": "and this is just getting started right",
+    "start": 1554.279,
+    "duration": 6.321
+  },
+  {
+    "text": "this is a huge uh wake up what's",
+    "start": 1556.48,
+    "duration": 6.919
+  },
+  {
+    "text": "happening and so we've seen the original",
+    "start": 1560.6,
+    "duration": 6.199
+  },
+  {
+    "text": "or the initial breakout to new highs in",
+    "start": 1563.399,
+    "duration": 6.361
+  },
+  {
+    "text": "Gold above 30 in",
+    "start": 1566.799,
+    "duration": 6.401
+  },
+  {
+    "text": "silver and nobody has noticed it it it's",
+    "start": 1569.76,
+    "duration": 6.2
+  },
+  {
+    "text": "basically happened without any Fanfare",
+    "start": 1573.2,
+    "duration": 5.839
+  },
+  {
+    "text": "you know completely uh in",
+    "start": 1575.96,
+    "duration": 5.52
+  },
+  {
+    "text": "obscurity and to",
+    "start": 1579.039,
+    "duration": 6.88
+  },
+  {
+    "text": "me that's what makes it that much more",
+    "start": 1581.48,
+    "duration": 7.919
+  },
+  {
+    "text": "real because even even though gold is at",
+    "start": 1585.919,
+    "duration": 7.161
+  },
+  {
+    "text": "a new high it's a contrarian investment",
+    "start": 1589.399,
+    "duration": 6.88
+  },
+  {
+    "text": "to buy it see normally when something's",
+    "start": 1593.08,
+    "duration": 4.92
+  },
+  {
+    "text": "at a new high it's because everybody's",
+    "start": 1596.279,
+    "duration": 3.841
+  },
+  {
+    "text": "buying it right so it wouldn't be a",
+    "start": 1598.0,
+    "duration": 4.76
+  },
+  {
+    "text": "contrarian investment to buy a new high",
+    "start": 1600.12,
+    "duration": 4.64
+  },
+  {
+    "text": "right you would be doing what everybody",
+    "start": 1602.76,
+    "duration": 3.279
+  },
+  {
+    "text": "else was doing you would be jumping on",
+    "start": 1604.76,
+    "duration": 6.039
+  },
+  {
+    "text": "the bandw but you can buy gold today and",
+    "start": 1606.039,
+    "duration": 7.201
+  },
+  {
+    "text": "silver and be a contrarian even though",
+    "start": 1610.799,
+    "duration": 5.081
+  },
+  {
+    "text": "gold isn't an all-time record high",
+    "start": 1613.24,
+    "duration": 5.48
+  },
+  {
+    "text": "that's how skeptical people people are",
+    "start": 1615.88,
+    "duration": 5.44
+  },
+  {
+    "text": "right there's an old saying that a bull",
+    "start": 1618.72,
+    "duration": 6.439
+  },
+  {
+    "text": "market climbs a wall of worry well",
+    "start": 1621.32,
+    "duration": 7.28
+  },
+  {
+    "text": "that's what you have in in Gold people",
+    "start": 1625.159,
+    "duration": 6.12
+  },
+  {
+    "text": "are not optimistic they're still",
+    "start": 1628.6,
+    "duration": 5.28
+  },
+  {
+    "text": "pessimistic and again that's why we",
+    "start": 1631.279,
+    "duration": 4.64
+  },
+  {
+    "text": "haven't seen any of these Wall Street",
+    "start": 1633.88,
+    "duration": 5.24
+  },
+  {
+    "text": "analysts this month even though we had a",
+    "start": 1635.919,
+    "duration": 6.041
+  },
+  {
+    "text": "surge in the price of gold and silver",
+    "start": 1639.12,
+    "duration": 7.88
+  },
+  {
+    "text": "during the month nobody came out and",
+    "start": 1641.96,
+    "duration": 7.439
+  },
+  {
+    "text": "recommended any of these min stocks",
+    "start": 1647.0,
+    "duration": 5.559
+  },
+  {
+    "text": "nobody nobody upgraded any of these",
+    "start": 1649.399,
+    "duration": 6.76
+  },
+  {
+    "text": "mining stocks I mean the last um",
+    "start": 1652.559,
+    "duration": 6.36
+  },
+  {
+    "text": "movements that were made were downgrades",
+    "start": 1656.159,
+    "duration": 5.321
+  },
+  {
+    "text": "they downgraded numont they downgraded",
+    "start": 1658.919,
+    "duration": 4.88
+  },
+  {
+    "text": "Barrack the two biggest gold companies",
+    "start": 1661.48,
+    "duration": 5.24
+  },
+  {
+    "text": "in the world were downgraded when gold",
+    "start": 1663.799,
+    "duration": 6.88
+  },
+  {
+    "text": "was at 2000 it's moved up 20% and if you",
+    "start": 1666.72,
+    "duration": 7.319
+  },
+  {
+    "text": "remember the Ral for the downgrades was",
+    "start": 1670.679,
+    "duration": 5.921
+  },
+  {
+    "text": "that there was no more upside in Gold",
+    "start": 1674.039,
+    "duration": 5.321
+  },
+  {
+    "text": "everybody assumed that 200 was the top",
+    "start": 1676.6,
+    "duration": 4.559
+  },
+  {
+    "text": "that we couldn't go any higher and so",
+    "start": 1679.36,
+    "duration": 4.36
+  },
+  {
+    "text": "there was no point in buying gold stocks",
+    "start": 1681.159,
+    "duration": 4.481
+  },
+  {
+    "text": "what was I saying at the time the 2,000",
+    "start": 1683.72,
+    "duration": 3.679
+  },
+  {
+    "text": "was the floor there was no point in",
+    "start": 1685.64,
+    "duration": 3.36
+  },
+  {
+    "text": "selling gold stocks because gold",
+    "start": 1687.399,
+    "duration": 3.601
+  },
+  {
+    "text": "couldn't go any lower we were at the",
+    "start": 1689.0,
+    "duration": 5.32
+  },
+  {
+    "text": "floor and now we're 20% higher approxim",
+    "start": 1691.0,
+    "duration": 7.519
+  },
+  {
+    "text": "or we got to 20% higher but none of the",
+    "start": 1694.32,
+    "duration": 6.8
+  },
+  {
+    "text": "companies that downgraded these stocks",
+    "start": 1698.519,
+    "duration": 5.04
+  },
+  {
+    "text": "have come back and said oops my bad you",
+    "start": 1701.12,
+    "duration": 5.0
+  },
+  {
+    "text": "know we were wrong uh and now we're",
+    "start": 1703.559,
+    "duration": 4.761
+  },
+  {
+    "text": "going to raise the recommendation back",
+    "start": 1706.12,
+    "duration": 3.84
+  },
+  {
+    "text": "no no they haven't even acknowledged",
+    "start": 1708.32,
+    "duration": 3.92
+  },
+  {
+    "text": "that they got anything wrong yet so we",
+    "start": 1709.96,
+    "duration": 5.12
+  },
+  {
+    "text": "still got a long way to go uh in this",
+    "start": 1712.24,
+    "duration": 5.679
+  },
+  {
+    "text": "rally I think before we have any kind of",
+    "start": 1715.08,
+    "duration": 4.64
+  },
+  {
+    "text": "meaningful pullback I mean the pullbacks",
+    "start": 1717.919,
+    "duration": 3.921
+  },
+  {
+    "text": "we're seeing now are not meaningful I",
+    "start": 1719.72,
+    "duration": 3.799
+  },
+  {
+    "text": "mean they could be meaningful to",
+    "start": 1721.84,
+    "duration": 3.559
+  },
+  {
+    "text": "somebody who's just day trading and",
+    "start": 1723.519,
+    "duration": 4.361
+  },
+  {
+    "text": "trading in Futures but for real buyers",
+    "start": 1725.399,
+    "duration": 4.16
+  },
+  {
+    "text": "right of people who are buying gold and",
+    "start": 1727.88,
+    "duration": 4.2
+  },
+  {
+    "text": "silver it means nothing there's there's",
+    "start": 1729.559,
+    "duration": 4.12
+  },
+  {
+    "text": "not going to be I don't think a big",
+    "start": 1732.08,
+    "duration": 3.92
+  },
+  {
+    "text": "enough pullback to wait people should",
+    "start": 1733.679,
+    "duration": 4.84
+  },
+  {
+    "text": "just be buying uh the metal they should",
+    "start": 1736.0,
+    "duration": 4.919
+  },
+  {
+    "text": "be buying the minors and unfortunately",
+    "start": 1738.519,
+    "duration": 6.121
+  },
+  {
+    "text": "they're not getting this uh these these",
+    "start": 1740.919,
+    "duration": 5.76
+  },
+  {
+    "text": "recommendations uh from from the",
+    "start": 1744.64,
+    "duration": 6.639
+  },
+  {
+    "text": "financial Community anyway I W to take a",
+    "start": 1746.679,
+    "duration": 6.441
+  },
+  {
+    "text": "quick break and then when I come back I",
+    "start": 1751.279,
+    "duration": 4.24
+  },
+  {
+    "text": "want to talk a little bit of politics",
+    "start": 1753.12,
+    "duration": 6.279
+  },
+  {
+    "text": "because we've had a very big political",
+    "start": 1755.519,
+    "duration": 8.4
+  },
+  {
+    "text": "week with the conviction of former",
+    "start": 1759.399,
+    "duration": 6.321
+  },
+  {
+    "text": "president Donald",
+    "start": 1763.919,
+    "duration": 7.041
+  },
+  {
+    "text": "Trump um and I want to discuss uh the US",
+    "start": 1765.72,
+    "duration": 8.52
+  },
+  {
+    "text": "uh judicial system and and and and what",
+    "start": 1770.96,
+    "duration": 4.88
+  },
+  {
+    "text": "that means on the other side of this",
+    "start": 1774.24,
+    "duration": 4.0
+  },
+  {
+    "text": "break so stick around I'll be right back",
+    "start": 1775.84,
+    "duration": 4.24
+  },
+  {
+    "text": "feel like you need a marketing degree",
+    "start": 1778.24,
+    "duration": 3.559
+  },
+  {
+    "text": "and an extra day in your week to",
+    "start": 1780.08,
+    "duration": 4.0
+  },
+  {
+    "text": "successfully Market your small business",
+    "start": 1781.799,
+    "duration": 4.321
+  },
+  {
+    "text": "let Constant Contact do the heavy",
+    "start": 1784.08,
+    "duration": 4.199
+  },
+  {
+    "text": "lifting for you constant contact's",
+    "start": 1786.12,
+    "duration": 4.32
+  },
+  {
+    "text": "award-winning marketing platform has",
+    "start": 1788.279,
+    "duration": 4.561
+  },
+  {
+    "text": "powerful tools that make it easy to grow",
+    "start": 1790.44,
+    "duration": 4.839
+  },
+  {
+    "text": "your audience engage your customers and",
+    "start": 1792.84,
+    "duration": 5.839
+  },
+  {
+    "text": "sell more to boost your business now in",
+    "start": 1795.279,
+    "duration": 5.321
+  },
+  {
+    "text": "just a few clicks you can launch a",
+    "start": 1798.679,
+    "duration": 3.88
+  },
+  {
+    "text": "marketing campaign that's tailored to",
+    "start": 1800.6,
+    "duration": 4.439
+  },
+  {
+    "text": "your business and goals that includes",
+    "start": 1802.559,
+    "duration": 6.641
+  },
+  {
+    "text": "email social SMS and more you can sell",
+    "start": 1805.039,
+    "duration": 6.801
+  },
+  {
+    "text": "more raise more and FASTT trck your",
+    "start": 1809.2,
+    "duration": 4.64
+  },
+  {
+    "text": "business growth plus you can always",
+    "start": 1811.84,
+    "duration": 4.4
+  },
+  {
+    "text": "count on constant contacts award-winning",
+    "start": 1813.84,
+    "duration": 4.6
+  },
+  {
+    "text": "customer support for guidance along the",
+    "start": 1816.24,
+    "duration": 4.919
+  },
+  {
+    "text": "way so get going and start growing your",
+    "start": 1818.44,
+    "duration": 5.0
+  },
+  {
+    "text": "business with a free trial at constant",
+    "start": 1821.159,
+    "duration": 5.481
+  },
+  {
+    "text": "contact.com constant contact helping the",
+    "start": 1823.44,
+    "duration": 6.52
+  },
+  {
+    "text": "small stand tall",
+    "start": 1826.64,
+    "duration": 3.32
+  },
+  {
+    "text": "all right oh so before I I get into the",
+    "start": 1831.159,
+    "duration": 7.24
+  },
+  {
+    "text": "the Trump uh conviction I did want to",
+    "start": 1835.44,
+    "duration": 5.88
+  },
+  {
+    "text": "remind everybody about uh shift",
+    "start": 1838.399,
+    "duration": 4.4
+  },
+  {
+    "text": "Sovereign in fact now if you're starting",
+    "start": 1841.32,
+    "duration": 4.599
+  },
+  {
+    "text": "to look at the the podcast you'll notice",
+    "start": 1842.799,
+    "duration": 5.921
+  },
+  {
+    "text": "we have the shift Sovereign logo up",
+    "start": 1845.919,
+    "duration": 7.12
+  },
+  {
+    "text": "there and if you're not getting our free",
+    "start": 1848.72,
+    "duration": 6.319
+  },
+  {
+    "text": "uh email newsletter that comes out",
+    "start": 1853.039,
+    "duration": 3.961
+  },
+  {
+    "text": "pretty much every day we've got uh",
+    "start": 1855.039,
+    "duration": 3.88
+  },
+  {
+    "text": "something that we put out",
+    "start": 1857.0,
+    "duration": 3.399
+  },
+  {
+    "text": "if you're not getting that you want to",
+    "start": 1858.919,
+    "duration": 3.76
+  },
+  {
+    "text": "go to shifts sovereign. comom and sign",
+    "start": 1860.399,
+    "duration": 4.88
+  },
+  {
+    "text": "up by giving us your email address and",
+    "start": 1862.679,
+    "duration": 5.041
+  },
+  {
+    "text": "you'll be on the list to get the the",
+    "start": 1865.279,
+    "duration": 4.681
+  },
+  {
+    "text": "free newsletter",
+    "start": 1867.72,
+    "duration": 6.04
+  },
+  {
+    "text": "but we also have a premium letter uh",
+    "start": 1869.96,
+    "duration": 5.559
+  },
+  {
+    "text": "shift shift premium there's actually a",
+    "start": 1873.76,
+    "duration": 4.2
+  },
+  {
+    "text": "few products but the the lowest tier the",
+    "start": 1875.519,
+    "duration": 5.921
+  },
+  {
+    "text": "least expensive product to buy uh is",
+    "start": 1877.96,
+    "duration": 7.0
+  },
+  {
+    "text": "premium and that's $9 a month uh you can",
+    "start": 1881.44,
+    "duration": 5.32
+  },
+  {
+    "text": "get a I think the first month there's a",
+    "start": 1884.96,
+    "duration": 4.24
+  },
+  {
+    "text": "money back guarantee if you're not",
+    "start": 1886.76,
+    "duration": 6.6
+  },
+  {
+    "text": "satisfied not only do you get the my",
+    "start": 1889.2,
+    "duration": 6.479
+  },
+  {
+    "text": "podcasts you know commercial free if",
+    "start": 1893.36,
+    "duration": 4.24
+  },
+  {
+    "text": "that's something that you you feel is",
+    "start": 1895.679,
+    "duration": 5.12
+  },
+  {
+    "text": "important that's part of it but you also",
+    "start": 1897.6,
+    "duration": 5.88
+  },
+  {
+    "text": "get the newsletter the the premium",
+    "start": 1900.799,
+    "duration": 4.521
+  },
+  {
+    "text": "newsletter that comes with a lot more",
+    "start": 1903.48,
+    "duration": 4.0
+  },
+  {
+    "text": "information a lot of valuable",
+    "start": 1905.32,
+    "duration": 4.479
+  },
+  {
+    "text": "information that you're not going to get",
+    "start": 1907.48,
+    "duration": 4.24
+  },
+  {
+    "text": "if you're just subscribing to the free",
+    "start": 1909.799,
+    "duration": 4.161
+  },
+  {
+    "text": "newsletter so you should sign up for the",
+    "start": 1911.72,
+    "duration": 4.52
+  },
+  {
+    "text": "free one for sure but I would encourage",
+    "start": 1913.96,
+    "duration": 4.4
+  },
+  {
+    "text": "people to take uh the",
+    "start": 1916.24,
+    "duration": 5.559
+  },
+  {
+    "text": "opportunity uh to take a membership to",
+    "start": 1918.36,
+    "duration": 6.279
+  },
+  {
+    "text": "the PID newsletter it's only $9 a month",
+    "start": 1921.799,
+    "duration": 4.561
+  },
+  {
+    "text": "but there's a lot of value that you're",
+    "start": 1924.639,
+    "duration": 5.16
+  },
+  {
+    "text": "going to be receiving for your $9 and",
+    "start": 1926.36,
+    "duration": 5.88
+  },
+  {
+    "text": "this is you know a good way to stay in",
+    "start": 1929.799,
+    "duration": 4.76
+  },
+  {
+    "text": "touch with me I I've wanted to have a",
+    "start": 1932.24,
+    "duration": 4.559
+  },
+  {
+    "text": "newsletter to be part of a newsletter",
+    "start": 1934.559,
+    "duration": 5.0
+  },
+  {
+    "text": "for a long time and the main reason I",
+    "start": 1936.799,
+    "duration": 4.84
+  },
+  {
+    "text": "didn't do that was because of finra",
+    "start": 1939.559,
+    "duration": 6.321
+  },
+  {
+    "text": "right because I was a a a registered",
+    "start": 1941.639,
+    "duration": 8.0
+  },
+  {
+    "text": "stock broker and and that really tied my",
+    "start": 1945.88,
+    "duration": 6.799
+  },
+  {
+    "text": "hands with respect to stuff that I could",
+    "start": 1949.639,
+    "duration": 5.801
+  },
+  {
+    "text": "put into a financial newsletter but now",
+    "start": 1952.679,
+    "duration": 6.521
+  },
+  {
+    "text": "that I am no longer in that club you",
+    "start": 1955.44,
+    "duration": 8.079
+  },
+  {
+    "text": "know after 30 years basically of being a",
+    "start": 1959.2,
+    "duration": 5.76
+  },
+  {
+    "text": "licensed stock",
+    "start": 1963.519,
+    "duration": 3.841
+  },
+  {
+    "text": "broker uh as of the beginning of this",
+    "start": 1964.96,
+    "duration": 6.04
+  },
+  {
+    "text": "year I let all my licenses lapse uh so",
+    "start": 1967.36,
+    "duration": 7.0
+  },
+  {
+    "text": "I'm no longer beholden uh to them and",
+    "start": 1971.0,
+    "duration": 6.12
+  },
+  {
+    "text": "and so I have a lot more freedom in the",
+    "start": 1974.36,
+    "duration": 4.319
+  },
+  {
+    "text": "things that I can say and the things",
+    "start": 1977.12,
+    "duration": 4.48
+  },
+  {
+    "text": "that I can write and and so that's you",
+    "start": 1978.679,
+    "duration": 4.84
+  },
+  {
+    "text": "know part of why I have this this letter",
+    "start": 1981.6,
+    "duration": 4.52
+  },
+  {
+    "text": "in fact I don't know you know did I give",
+    "start": 1983.519,
+    "duration": 5.4
+  },
+  {
+    "text": "up my finra registration so I could have",
+    "start": 1986.12,
+    "duration": 4.919
+  },
+  {
+    "text": "the letter or because I have the letter",
+    "start": 1988.919,
+    "duration": 4.201
+  },
+  {
+    "text": "I gave up the finra registration I mean",
+    "start": 1991.039,
+    "duration": 4.721
+  },
+  {
+    "text": "I I never really like being part of of",
+    "start": 1993.12,
+    "duration": 4.64
+  },
+  {
+    "text": "of finra and again I've always thought",
+    "start": 1995.76,
+    "duration": 3.12
+  },
+  {
+    "text": "it was",
+    "start": 1997.76,
+    "duration": 3.24
+  },
+  {
+    "text": "unconstitutional because I don't think",
+    "start": 1998.88,
+    "duration": 5.56
+  },
+  {
+    "text": "that I should have to be a member of a",
+    "start": 2001.0,
+    "duration": 7.32
+  },
+  {
+    "text": "government sanctioned club right",
+    "start": 2004.44,
+    "duration": 7.88
+  },
+  {
+    "text": "organization in order to practice a",
+    "start": 2008.32,
+    "duration": 6.0
+  },
+  {
+    "text": "profession there's nothing in the",
+    "start": 2012.32,
+    "duration": 3.959
+  },
+  {
+    "text": "Constitution that gives the government",
+    "start": 2014.32,
+    "duration": 3.76
+  },
+  {
+    "text": "The Authority the federal government to",
+    "start": 2016.279,
+    "duration": 3.12
+  },
+  {
+    "text": "limit my",
+    "start": 2018.08,
+    "duration": 3.839
+  },
+  {
+    "text": "occupations to say that hey if you want",
+    "start": 2019.399,
+    "duration": 4.721
+  },
+  {
+    "text": "to be a stock broker you need to be a",
+    "start": 2021.919,
+    "duration": 4.921
+  },
+  {
+    "text": "member of this organization and if you",
+    "start": 2024.12,
+    "duration": 5.399
+  },
+  {
+    "text": "don't join this organization and pay his",
+    "start": 2026.84,
+    "duration": 5.24
+  },
+  {
+    "text": "fees and subject yourself to all its",
+    "start": 2029.519,
+    "duration": 4.241
+  },
+  {
+    "text": "rules and regulations you can't be a",
+    "start": 2032.08,
+    "duration": 3.76
+  },
+  {
+    "text": "stock broker where does it say that in",
+    "start": 2033.76,
+    "duration": 5.279
+  },
+  {
+    "text": "the Constitution mean I a right to be a",
+    "start": 2035.84,
+    "duration": 4.719
+  },
+  {
+    "text": "stock broker right I have a right to",
+    "start": 2039.039,
+    "duration": 3.721
+  },
+  {
+    "text": "pursue happiness and if I pursue",
+    "start": 2040.559,
+    "duration": 4.681
+  },
+  {
+    "text": "Happiness by being a stock broker what",
+    "start": 2042.76,
+    "duration": 4.2
+  },
+  {
+    "text": "difference is it make to the federal",
+    "start": 2045.24,
+    "duration": 4.28
+  },
+  {
+    "text": "government and if somebody wants to hire",
+    "start": 2046.96,
+    "duration": 4.32
+  },
+  {
+    "text": "me if that's how they pursue their",
+    "start": 2049.52,
+    "duration": 3.639
+  },
+  {
+    "text": "happiness if they want me to be their",
+    "start": 2051.28,
+    "duration": 2.839
+  },
+  {
+    "text": "stock",
+    "start": 2053.159,
+    "duration": 3.361
+  },
+  {
+    "text": "broker who is the government to say no",
+    "start": 2054.119,
+    "duration": 5.48
+  },
+  {
+    "text": "you can't hire shift because right now",
+    "start": 2056.52,
+    "duration": 4.92
+  },
+  {
+    "text": "if somebody wanted to use me as a stock",
+    "start": 2059.599,
+    "duration": 4.881
+  },
+  {
+    "text": "broker they can't do it it's illegal I",
+    "start": 2061.44,
+    "duration": 5.399
+  },
+  {
+    "text": "can't be a stock broker right now my own",
+    "start": 2064.48,
+    "duration": 3.879
+  },
+  {
+    "text": "mother couldn't hire me as a stock",
+    "start": 2066.839,
+    "duration": 4.08
+  },
+  {
+    "text": "broker because I'm not registered with",
+    "start": 2068.359,
+    "duration": 5.641
+  },
+  {
+    "text": "finra right as a stock broker my Series",
+    "start": 2070.919,
+    "duration": 7.281
+  },
+  {
+    "text": "7 isn't hung anywhere right that's all",
+    "start": 2074.0,
+    "duration": 7.159
+  },
+  {
+    "text": "illegal anybody in this country should",
+    "start": 2078.2,
+    "duration": 5.159
+  },
+  {
+    "text": "be able to be a stock broker if there's",
+    "start": 2081.159,
+    "duration": 3.841
+  },
+  {
+    "text": "a firm that'll hire them or they can",
+    "start": 2083.359,
+    "duration": 3.56
+  },
+  {
+    "text": "start their own firm they shouldn't have",
+    "start": 2085.0,
+    "duration": 3.839
+  },
+  {
+    "text": "to be a member of some",
+    "start": 2086.919,
+    "duration": 5.801
+  },
+  {
+    "text": "organization and if somebody wants to",
+    "start": 2088.839,
+    "duration": 5.361
+  },
+  {
+    "text": "hire a stock broker they should be able",
+    "start": 2092.72,
+    "duration": 3.8
+  },
+  {
+    "text": "to hire whoever they want they shouldn't",
+    "start": 2094.2,
+    "duration": 4.96
+  },
+  {
+    "text": "have to be a member of this organization",
+    "start": 2096.52,
+    "duration": 3.24
+  },
+  {
+    "text": "I",
+    "start": 2099.16,
+    "duration": 3.0
+  },
+  {
+    "text": "mean I mean if you get bad investment",
+    "start": 2099.76,
+    "duration": 4.48
+  },
+  {
+    "text": "advice so you can fire your broker go",
+    "start": 2102.16,
+    "duration": 4.36
+  },
+  {
+    "text": "someplace else right I we don't need the",
+    "start": 2104.24,
+    "duration": 4.8
+  },
+  {
+    "text": "government all this stuff is illegal",
+    "start": 2106.52,
+    "duration": 5.28
+  },
+  {
+    "text": "nobody bothers to question why it's",
+    "start": 2109.04,
+    "duration": 4.16
+  },
+  {
+    "text": "illegal but because you know you have",
+    "start": 2111.8,
+    "duration": 4.12
+  },
+  {
+    "text": "occupational Licensing Laws everywhere",
+    "start": 2113.2,
+    "duration": 4.2
+  },
+  {
+    "text": "you know you want to you want to be a",
+    "start": 2115.92,
+    "duration": 3.56
+  },
+  {
+    "text": "barber you want to cut somebody's hair",
+    "start": 2117.4,
+    "duration": 3.64
+  },
+  {
+    "text": "you got to have a license but these are",
+    "start": 2119.48,
+    "duration": 4.24
+  },
+  {
+    "text": "at least aren't Federal licenses they're",
+    "start": 2121.04,
+    "duration": 5.2
+  },
+  {
+    "text": "state licenses so the states can do it",
+    "start": 2123.72,
+    "duration": 4.24
+  },
+  {
+    "text": "if they want because the Constitution",
+    "start": 2126.24,
+    "duration": 4.119
+  },
+  {
+    "text": "wasn't written to limit the power of the",
+    "start": 2127.96,
+    "duration": 4.56
+  },
+  {
+    "text": "states right their their power is",
+    "start": 2130.359,
+    "duration": 3.72
+  },
+  {
+    "text": "limited by their own",
+    "start": 2132.52,
+    "duration": 3.599
+  },
+  {
+    "text": "Constitution the Constitution was",
+    "start": 2134.079,
+    "duration": 3.241
+  },
+  {
+    "text": "written to limit the power of the",
+    "start": 2136.119,
+    "duration": 3.081
+  },
+  {
+    "text": "federal government the federal",
+    "start": 2137.32,
+    "duration": 3.16
+  },
+  {
+    "text": "government can only do what the",
+    "start": 2139.2,
+    "duration": 3.28
+  },
+  {
+    "text": "Constitution authorizes to do and it",
+    "start": 2140.48,
+    "duration": 5.08
+  },
+  {
+    "text": "doesn't say it can you know license any",
+    "start": 2142.48,
+    "duration": 5.2
+  },
+  {
+    "text": "occupation but the states if they want",
+    "start": 2145.56,
+    "duration": 4.039
+  },
+  {
+    "text": "to do it but think about how ridiculous",
+    "start": 2147.68,
+    "duration": 4.04
+  },
+  {
+    "text": "it is why should you need to have a",
+    "start": 2149.599,
+    "duration": 5.361
+  },
+  {
+    "text": "license to cut somebody's hair I mean",
+    "start": 2151.72,
+    "duration": 5.879
+  },
+  {
+    "text": "what's the big deal I mean to protect",
+    "start": 2154.96,
+    "duration": 4.8
+  },
+  {
+    "text": "prot people from bad haircut I mean hair",
+    "start": 2157.599,
+    "duration": 4.24
+  },
+  {
+    "text": "grows back who cares if you get a bad",
+    "start": 2159.76,
+    "duration": 3.96
+  },
+  {
+    "text": "haircut just don't go back to the same",
+    "start": 2161.839,
+    "duration": 4.48
+  },
+  {
+    "text": "Barber right go to somebody else I mean",
+    "start": 2163.72,
+    "duration": 5.04
+  },
+  {
+    "text": "it's not a life or death thing you know",
+    "start": 2166.319,
+    "duration": 3.641
+  },
+  {
+    "text": "they even",
+    "start": 2168.76,
+    "duration": 5.24
+  },
+  {
+    "text": "require licenses to arrange flowers",
+    "start": 2169.96,
+    "duration": 7.92
+  },
+  {
+    "text": "right if you want to be a florist and",
+    "start": 2174.0,
+    "duration": 6.4
+  },
+  {
+    "text": "take flowers and arrange them in a vase",
+    "start": 2177.88,
+    "duration": 5.92
+  },
+  {
+    "text": "you need a license why right what I mean",
+    "start": 2180.4,
+    "duration": 5.56
+  },
+  {
+    "text": "oh my God I'm gonna get a bad floral",
+    "start": 2183.8,
+    "duration": 4.76
+  },
+  {
+    "text": "arrangement I mean how do we need",
+    "start": 2185.96,
+    "duration": 4.56
+  },
+  {
+    "text": "government why do we need government to",
+    "start": 2188.56,
+    "duration": 4.84
+  },
+  {
+    "text": "protect us from flowers that are not",
+    "start": 2190.52,
+    "duration": 6.16
+  },
+  {
+    "text": "arranged properly in a vase who cares",
+    "start": 2193.4,
+    "duration": 5.719
+  },
+  {
+    "text": "and again if you go to a florist and",
+    "start": 2196.68,
+    "duration": 3.96
+  },
+  {
+    "text": "they give you a bad Arrangement well",
+    "start": 2199.119,
+    "duration": 3.561
+  },
+  {
+    "text": "then go to a different florist I mean",
+    "start": 2200.64,
+    "duration": 4.479
+  },
+  {
+    "text": "how much competition is there in Flores",
+    "start": 2202.68,
+    "duration": 3.56
+  },
+  {
+    "text": "and you know there'd be even more",
+    "start": 2205.119,
+    "duration": 2.841
+  },
+  {
+    "text": "competition if you didn't have to be",
+    "start": 2206.24,
+    "duration": 3.52
+  },
+  {
+    "text": "licensed to arrange the flowers but",
+    "start": 2207.96,
+    "duration": 4.28
+  },
+  {
+    "text": "anyway my point here was not to talk",
+    "start": 2209.76,
+    "duration": 3.52
+  },
+  {
+    "text": "about the",
+    "start": 2212.24,
+    "duration": 3.4
+  },
+  {
+    "text": "Ridiculousness of Occupational licensing",
+    "start": 2213.28,
+    "duration": 3.72
+  },
+  {
+    "text": "I'm not even sure how I got into this",
+    "start": 2215.64,
+    "duration": 3.679
+  },
+  {
+    "text": "tangent yeah because I was talking about",
+    "start": 2217.0,
+    "duration": 3.72
+  },
+  {
+    "text": "about",
+    "start": 2219.319,
+    "duration": 3.841
+  },
+  {
+    "text": "Fin but I wanted to talk about this",
+    "start": 2220.72,
+    "duration": 4.28
+  },
+  {
+    "text": "other travesty of",
+    "start": 2223.16,
+    "duration": 5.84
+  },
+  {
+    "text": "justice and that's what happened to um",
+    "start": 2225.0,
+    "duration": 5.56
+  },
+  {
+    "text": "to Donald",
+    "start": 2229.0,
+    "duration": 4.28
+  },
+  {
+    "text": "Trump uh over the",
+    "start": 2230.56,
+    "duration": 6.799
+  },
+  {
+    "text": "weekend so the jury came back in New",
+    "start": 2233.28,
+    "duration": 8.44
+  },
+  {
+    "text": "York and convicted Trump on all 34",
+    "start": 2237.359,
+    "duration": 8.561
+  },
+  {
+    "text": "counts of this concocted campaign or you",
+    "start": 2241.72,
+    "duration": 6.8
+  },
+  {
+    "text": "know not of falsifying",
+    "start": 2245.92,
+    "duration": 4.48
+  },
+  {
+    "text": "government business",
+    "start": 2248.52,
+    "duration": 6.4
+  },
+  {
+    "text": "records now it wasn't a surprise to me",
+    "start": 2250.4,
+    "duration": 8.439
+  },
+  {
+    "text": "that a handpicked judge who was",
+    "start": 2254.92,
+    "duration": 5.84
+  },
+  {
+    "text": "specifically picked because he hated",
+    "start": 2258.839,
+    "duration": 4.201
+  },
+  {
+    "text": "Trump and because he was a highly",
+    "start": 2260.76,
+    "duration": 5.2
+  },
+  {
+    "text": "partisan Democrat whose daughter was a",
+    "start": 2263.04,
+    "duration": 5.0
+  },
+  {
+    "text": "huge fundraiser for the Democrats who",
+    "start": 2265.96,
+    "duration": 4.399
+  },
+  {
+    "text": "has donated a lot of money himself to",
+    "start": 2268.04,
+    "duration": 4.24
+  },
+  {
+    "text": "Democrats they they picked this guy it",
+    "start": 2270.359,
+    "duration": 4.161
+  },
+  {
+    "text": "wasn't like a random draw like Trump",
+    "start": 2272.28,
+    "duration": 4.52
+  },
+  {
+    "text": "just happened to get this judge this",
+    "start": 2274.52,
+    "duration": 6.36
+  },
+  {
+    "text": "judge was put in this position to make",
+    "start": 2276.8,
+    "duration": 7.799
+  },
+  {
+    "text": "sure that Trump was convicted and judges",
+    "start": 2280.88,
+    "duration": 4.88
+  },
+  {
+    "text": "have a lot of",
+    "start": 2284.599,
+    "duration": 4.041
+  },
+  {
+    "text": "power over a trial right they you know",
+    "start": 2285.76,
+    "duration": 4.96
+  },
+  {
+    "text": "they basically give the jury the",
+    "start": 2288.64,
+    "duration": 4.6
+  },
+  {
+    "text": "instructions and if you have a corrupt",
+    "start": 2290.72,
+    "duration": 5.599
+  },
+  {
+    "text": "judge he can instruct a jury in such a",
+    "start": 2293.24,
+    "duration": 5.24
+  },
+  {
+    "text": "way as to get a conviction and they also",
+    "start": 2296.319,
+    "duration": 4.76
+  },
+  {
+    "text": "decide you know what evidence comes in",
+    "start": 2298.48,
+    "duration": 4.52
+  },
+  {
+    "text": "what evidence doesn't come in right they",
+    "start": 2301.079,
+    "duration": 4.681
+  },
+  {
+    "text": "can they can make it easy or hard to get",
+    "start": 2303.0,
+    "duration": 4.52
+  },
+  {
+    "text": "a conviction now normally a judge is",
+    "start": 2305.76,
+    "duration": 5.0
+  },
+  {
+    "text": "supposed to be you know neutral he's not",
+    "start": 2307.52,
+    "duration": 6.0
+  },
+  {
+    "text": "supposed to be biased if he is biased",
+    "start": 2310.76,
+    "duration": 5.12
+  },
+  {
+    "text": "he's supposed to refuse himself a judge",
+    "start": 2313.52,
+    "duration": 4.0
+  },
+  {
+    "text": "is supposed to have enough",
+    "start": 2315.88,
+    "duration": 4.199
+  },
+  {
+    "text": "Integrity that if they know they're not",
+    "start": 2317.52,
+    "duration": 4.24
+  },
+  {
+    "text": "you know if they know they're biased",
+    "start": 2320.079,
+    "duration": 4.24
+  },
+  {
+    "text": "right for whatever reason they bow out",
+    "start": 2321.76,
+    "duration": 4.04
+  },
+  {
+    "text": "they say you know what you know I got",
+    "start": 2324.319,
+    "duration": 4.201
+  },
+  {
+    "text": "some conflicts here you gota I got I",
+    "start": 2325.8,
+    "duration": 5.68
+  },
+  {
+    "text": "can't be the judge I'm not neutral right",
+    "start": 2328.52,
+    "duration": 4.2
+  },
+  {
+    "text": "so gu somebody",
+    "start": 2331.48,
+    "duration": 4.4
+  },
+  {
+    "text": "else this judge not only knew he was",
+    "start": 2332.72,
+    "duration": 6.119
+  },
+  {
+    "text": "biased that's why he got the job he got",
+    "start": 2335.88,
+    "duration": 5.56
+  },
+  {
+    "text": "the job because he was going to convict",
+    "start": 2338.839,
+    "duration": 4.961
+  },
+  {
+    "text": "Trump or make sure that the jury so this",
+    "start": 2341.44,
+    "duration": 5.639
+  },
+  {
+    "text": "was not a a real trial in the sense that",
+    "start": 2343.8,
+    "duration": 5.92
+  },
+  {
+    "text": "they were looking for justice you know",
+    "start": 2347.079,
+    "duration": 5.801
+  },
+  {
+    "text": "in in in the US legal system the job",
+    "start": 2349.72,
+    "duration": 5.52
+  },
+  {
+    "text": "even of the prosecutors is not just to",
+    "start": 2352.88,
+    "duration": 5.32
+  },
+  {
+    "text": "convict somebody the job is to make sure",
+    "start": 2355.24,
+    "duration": 6.44
+  },
+  {
+    "text": "that Justice is served and Justice might",
+    "start": 2358.2,
+    "duration": 6.32
+  },
+  {
+    "text": "mean dropping the charges if you realize",
+    "start": 2361.68,
+    "duration": 5.0
+  },
+  {
+    "text": "that the guy that you've accused of a",
+    "start": 2364.52,
+    "duration": 3.52
+  },
+  {
+    "text": "crime is innocent",
+    "start": 2366.68,
+    "duration": 3.639
+  },
+  {
+    "text": "right if you get a bunch of exculpable",
+    "start": 2368.04,
+    "duration": 4.76
+  },
+  {
+    "text": "material you're supposed to say oh we",
+    "start": 2370.319,
+    "duration": 5.04
+  },
+  {
+    "text": "were wrong the guy's not guilty let's",
+    "start": 2372.8,
+    "duration": 5.319
+  },
+  {
+    "text": "let them go right but in today's you",
+    "start": 2375.359,
+    "duration": 4.121
+  },
+  {
+    "text": "know jurist Prudence it's like well we",
+    "start": 2378.119,
+    "duration": 3.321
+  },
+  {
+    "text": "got to convict this person we've charged",
+    "start": 2379.48,
+    "duration": 3.44
+  },
+  {
+    "text": "them we want to convict them we don't",
+    "start": 2381.44,
+    "duration": 2.8
+  },
+  {
+    "text": "care if they're guilty or innocent we",
+    "start": 2382.92,
+    "duration": 2.84
+  },
+  {
+    "text": "just need to win right we need to get",
+    "start": 2384.24,
+    "duration": 5.68
+  },
+  {
+    "text": "this guy uh in jail and certainly when",
+    "start": 2385.76,
+    "duration": 7.2
+  },
+  {
+    "text": "you're talking about a former president",
+    "start": 2389.92,
+    "duration": 6.12
+  },
+  {
+    "text": "and presidential candidate Donald Trump",
+    "start": 2392.96,
+    "duration": 4.92
+  },
+  {
+    "text": "so the fact that",
+    "start": 2396.04,
+    "duration": 4.96
+  },
+  {
+    "text": "a judge that was picked specifically",
+    "start": 2397.88,
+    "duration": 6.8
+  },
+  {
+    "text": "because he didn't like Trump and a jury",
+    "start": 2401.0,
+    "duration": 5.76
+  },
+  {
+    "text": "was picked out of a population of trump",
+    "start": 2404.68,
+    "duration": 4.8
+  },
+  {
+    "text": "haters in New York City the fact that",
+    "start": 2406.76,
+    "duration": 6.44
+  },
+  {
+    "text": "these biased Trump haters would convict",
+    "start": 2409.48,
+    "duration": 8.2
+  },
+  {
+    "text": "Trump with a you know hating trunk judge",
+    "start": 2413.2,
+    "duration": 7.2
+  },
+  {
+    "text": "right that didn't surprise me at all in",
+    "start": 2417.68,
+    "duration": 4.36
+  },
+  {
+    "text": "fact I would have been more surprised if",
+    "start": 2420.4,
+    "duration": 4.84
+  },
+  {
+    "text": "he was acquitted now a hung jury maybe",
+    "start": 2422.04,
+    "duration": 5.6
+  },
+  {
+    "text": "you know maybe people would have thought",
+    "start": 2425.24,
+    "duration": 4.76
+  },
+  {
+    "text": "okay look they're not going to find 12",
+    "start": 2427.64,
+    "duration": 5.24
+  },
+  {
+    "text": "people corrupt enough to to to convict",
+    "start": 2430.0,
+    "duration": 4.64
+  },
+  {
+    "text": "him but but they",
+    "start": 2432.88,
+    "duration": 4.32
+  },
+  {
+    "text": "did and you know I think one of the",
+    "start": 2434.64,
+    "duration": 7.0
+  },
+  {
+    "text": "reasons and it had to do with the jury",
+    "start": 2437.2,
+    "duration": 6.44
+  },
+  {
+    "text": "instructions which have got to be the",
+    "start": 2441.64,
+    "duration": 5.24
+  },
+  {
+    "text": "worst jury instruction since my father",
+    "start": 2443.64,
+    "duration": 5.84
+  },
+  {
+    "text": "you know my father Winship always made a",
+    "start": 2446.88,
+    "duration": 6.28
+  },
+  {
+    "text": "big deal and correctly so out of the",
+    "start": 2449.48,
+    "duration": 5.32
+  },
+  {
+    "text": "fact that he was never really convicted",
+    "start": 2453.16,
+    "duration": 4.199
+  },
+  {
+    "text": "of tax evasion because the judge",
+    "start": 2454.8,
+    "duration": 5.12
+  },
+  {
+    "text": "instructed the jury that they could",
+    "start": 2457.359,
+    "duration": 5.321
+  },
+  {
+    "text": "convict my father even if the government",
+    "start": 2459.92,
+    "duration": 5.04
+  },
+  {
+    "text": "didn't prove that he evaded",
+    "start": 2462.68,
+    "duration": 4.8
+  },
+  {
+    "text": "taxes now because he was went to jail",
+    "start": 2464.96,
+    "duration": 6.159
+  },
+  {
+    "text": "for tax evasion but the jury came back",
+    "start": 2467.48,
+    "duration": 5.44
+  },
+  {
+    "text": "because they had been deadlocked for a",
+    "start": 2471.119,
+    "duration": 4.601
+  },
+  {
+    "text": "number of days and asked the judge a",
+    "start": 2472.92,
+    "duration": 4.96
+  },
+  {
+    "text": "question and said hey does the",
+    "start": 2475.72,
+    "duration": 5.68
+  },
+  {
+    "text": "government have to prove that Mr Schiff",
+    "start": 2477.88,
+    "duration": 6.92
+  },
+  {
+    "text": "you know illegally evaded taxes now the",
+    "start": 2481.4,
+    "duration": 5.12
+  },
+  {
+    "text": "answer to that question was obvious of",
+    "start": 2484.8,
+    "duration": 3.279
+  },
+  {
+    "text": "course they have to Pro it that's what",
+    "start": 2486.52,
+    "duration": 5.44
+  },
+  {
+    "text": "he's been charged with the judge came",
+    "start": 2488.079,
+    "duration": 6.841
+  },
+  {
+    "text": "back and told the jury no the government",
+    "start": 2491.96,
+    "duration": 5.399
+  },
+  {
+    "text": "doesn't have to prove that the judge",
+    "start": 2494.92,
+    "duration": 5.0
+  },
+  {
+    "text": "said if you think he did something",
+    "start": 2497.359,
+    "duration": 4.96
+  },
+  {
+    "text": "else and you want to convict him based",
+    "start": 2499.92,
+    "duration": 4.199
+  },
+  {
+    "text": "on that then that's good enough or so I",
+    "start": 2502.319,
+    "duration": 3.76
+  },
+  {
+    "text": "forget exactly what it was but it was",
+    "start": 2504.119,
+    "duration": 4.72
+  },
+  {
+    "text": "ridiculous jury jury instructions and",
+    "start": 2506.079,
+    "duration": 4.601
+  },
+  {
+    "text": "the New England Journal of Taxation",
+    "start": 2508.839,
+    "duration": 3.881
+  },
+  {
+    "text": "actually wrote it up and they said you",
+    "start": 2510.68,
+    "duration": 3.439
+  },
+  {
+    "text": "know Mr Schiff was not actually",
+    "start": 2512.72,
+    "duration": 4.76
+  },
+  {
+    "text": "convicted of tax evasion uh and they",
+    "start": 2514.119,
+    "duration": 5.0
+  },
+  {
+    "text": "they they wondered if the law had been",
+    "start": 2517.48,
+    "duration": 4.24
+  },
+  {
+    "text": "changed because this article said for",
+    "start": 2519.119,
+    "duration": 6.641
+  },
+  {
+    "text": "all of history tax evasion meant that",
+    "start": 2521.72,
+    "duration": 5.879
+  },
+  {
+    "text": "you had to be convicted of an",
+    "start": 2525.76,
+    "duration": 4.16
+  },
+  {
+    "text": "affirmative Act of evasion but here in",
+    "start": 2527.599,
+    "duration": 4.76
+  },
+  {
+    "text": "the Irv sh Irwin shift trial the judge",
+    "start": 2529.92,
+    "duration": 5.36
+  },
+  {
+    "text": "said that you can conv Irwin Shi of tax",
+    "start": 2532.359,
+    "duration": 4.72
+  },
+  {
+    "text": "evasion even if the government doesn't",
+    "start": 2535.28,
+    "duration": 4.92
+  },
+  {
+    "text": "prove he evaded any taxes and so the",
+    "start": 2537.079,
+    "duration": 4.601
+  },
+  {
+    "text": "they were said does this mean their laws",
+    "start": 2540.2,
+    "duration": 3.56
+  },
+  {
+    "text": "have changed right is it now like",
+    "start": 2541.68,
+    "duration": 4.439
+  },
+  {
+    "text": "anybody can get convicted of tax evasion",
+    "start": 2543.76,
+    "duration": 4.24
+  },
+  {
+    "text": "even if they don't evade their tax taxes",
+    "start": 2546.119,
+    "duration": 4.681
+  },
+  {
+    "text": "and they basically said well no we think",
+    "start": 2548.0,
+    "duration": 4.44
+  },
+  {
+    "text": "it's not it hasn't changed just that",
+    "start": 2550.8,
+    "duration": 4.08
+  },
+  {
+    "text": "Irwin Schiff was a tax protester and so",
+    "start": 2552.44,
+    "duration": 4.399
+  },
+  {
+    "text": "the rules were different for him right",
+    "start": 2554.88,
+    "duration": 3.92
+  },
+  {
+    "text": "and they didn't really care you know",
+    "start": 2556.839,
+    "duration": 4.361
+  },
+  {
+    "text": "what that meant because obviously my",
+    "start": 2558.8,
+    "duration": 4.48
+  },
+  {
+    "text": "father is entitled to equal protection",
+    "start": 2561.2,
+    "duration": 4.32
+  },
+  {
+    "text": "under the law and just because he's a",
+    "start": 2563.28,
+    "duration": 4.4
+  },
+  {
+    "text": "tax protester doesn't mean there's a",
+    "start": 2565.52,
+    "duration": 4.64
+  },
+  {
+    "text": "different set of rules for him than",
+    "start": 2567.68,
+    "duration": 5.28
+  },
+  {
+    "text": "everybody else and the same is true of",
+    "start": 2570.16,
+    "duration": 4.6
+  },
+  {
+    "text": "Donald Trump just because he used to be",
+    "start": 2572.96,
+    "duration": 4.56
+  },
+  {
+    "text": "president doesn't mean that there's a",
+    "start": 2574.76,
+    "duration": 5.48
+  },
+  {
+    "text": "set of rules for him that doesn't apply",
+    "start": 2577.52,
+    "duration": 4.0
+  },
+  {
+    "text": "to everybody else but that's what's",
+    "start": 2580.24,
+    "duration": 2.72
+  },
+  {
+    "text": "happening we're not getting equal",
+    "start": 2581.52,
+    "duration": 2.799
+  },
+  {
+    "text": "protection under the",
+    "start": 2582.96,
+    "duration": 4.56
+  },
+  {
+    "text": "law and in fact the irony of",
+    "start": 2584.319,
+    "duration": 8.441
+  },
+  {
+    "text": "this is the media and the Democrats are",
+    "start": 2587.52,
+    "duration": 8.559
+  },
+  {
+    "text": "using what happened to Trump to try to",
+    "start": 2592.76,
+    "duration": 5.52
+  },
+  {
+    "text": "show that nobody is above the law you",
+    "start": 2596.079,
+    "duration": 5.681
+  },
+  {
+    "text": "see if you break the law you can go to",
+    "start": 2598.28,
+    "duration": 6.24
+  },
+  {
+    "text": "jail you get charged even if you're a",
+    "start": 2601.76,
+    "duration": 6.4
+  },
+  {
+    "text": "former president well the reality is is",
+    "start": 2604.52,
+    "duration": 6.2
+  },
+  {
+    "text": "had anybody other than Trump done",
+    "start": 2608.16,
+    "duration": 5.52
+  },
+  {
+    "text": "exactly what Trump did they would never",
+    "start": 2610.72,
+    "duration": 5.879
+  },
+  {
+    "text": "have been charged he is only being",
+    "start": 2613.68,
+    "duration": 6.04
+  },
+  {
+    "text": "charged because he's Donald Trump",
+    "start": 2616.599,
+    "duration": 5.72
+  },
+  {
+    "text": "because he was a former president and",
+    "start": 2619.72,
+    "duration": 5.839
+  },
+  {
+    "text": "I'm convinced it's not just because he",
+    "start": 2622.319,
+    "duration": 5.641
+  },
+  {
+    "text": "was a former president he is being",
+    "start": 2625.559,
+    "duration": 4.52
+  },
+  {
+    "text": "charged because he's trying to be a",
+    "start": 2627.96,
+    "duration": 3.44
+  },
+  {
+    "text": "future",
+    "start": 2630.079,
+    "duration": 3.76
+  },
+  {
+    "text": "president if Trump were not running for",
+    "start": 2631.4,
+    "duration": 4.0
+  },
+  {
+    "text": "re-election I don't believe these",
+    "start": 2633.839,
+    "duration": 3.72
+  },
+  {
+    "text": "charges would have would have taking",
+    "start": 2635.4,
+    "duration": 4.76
+  },
+  {
+    "text": "place so what I think is",
+    "start": 2637.559,
+    "duration": 6.921
+  },
+  {
+    "text": "happening is they're trying to interfere",
+    "start": 2640.16,
+    "duration": 8.24
+  },
+  {
+    "text": "with the election oh the irony because",
+    "start": 2644.48,
+    "duration": 6.28
+  },
+  {
+    "text": "that's what the left claims Trump was",
+    "start": 2648.4,
+    "duration": 5.64
+  },
+  {
+    "text": "doing with the January 6 St oh he was he",
+    "start": 2650.76,
+    "duration": 5.48
+  },
+  {
+    "text": "was trying to interfere with the results",
+    "start": 2654.04,
+    "duration": 3.64
+  },
+  {
+    "text": "of the election no he was just",
+    "start": 2656.24,
+    "duration": 3.44
+  },
+  {
+    "text": "questioning whether those results were",
+    "start": 2657.68,
+    "duration": 4.8
+  },
+  {
+    "text": "honest or not he wasn't interfering he",
+    "start": 2659.68,
+    "duration": 5.52
+  },
+  {
+    "text": "just maybe demanded a recount wanted to",
+    "start": 2662.48,
+    "duration": 4.92
+  },
+  {
+    "text": "make sure that you know he lost fair and",
+    "start": 2665.2,
+    "duration": 4.56
+  },
+  {
+    "text": "square that's not interference that's",
+    "start": 2667.4,
+    "duration": 5.84
+  },
+  {
+    "text": "trying to make sure that the results",
+    "start": 2669.76,
+    "duration": 5.4
+  },
+  {
+    "text": "accurately reflected the votes which",
+    "start": 2673.24,
+    "duration": 3.96
+  },
+  {
+    "text": "every president has done I mean every",
+    "start": 2675.16,
+    "duration": 4.919
+  },
+  {
+    "text": "time there's an election the loser uh",
+    "start": 2677.2,
+    "duration": 4.48
+  },
+  {
+    "text": "you know hey let's have a recount or",
+    "start": 2680.079,
+    "duration": 3.161
+  },
+  {
+    "text": "what about this or was that fair of",
+    "start": 2681.68,
+    "duration": 4.639
+  },
+  {
+    "text": "course that that makes perfect sense but",
+    "start": 2683.24,
+    "duration": 5.68
+  },
+  {
+    "text": "the people who have accused Trump of",
+    "start": 2686.319,
+    "duration": 6.28
+  },
+  {
+    "text": "trying to rig the 20 24 election or 2020",
+    "start": 2688.92,
+    "duration": 6.84
+  },
+  {
+    "text": "election are actively rigging before our",
+    "start": 2692.599,
+    "duration": 7.76
+  },
+  {
+    "text": "eyes the 2024 election by trying to put",
+    "start": 2695.76,
+    "duration": 8.16
+  },
+  {
+    "text": "the main um",
+    "start": 2700.359,
+    "duration": 6.601
+  },
+  {
+    "text": "Contender for the President Biden's",
+    "start": 2703.92,
+    "duration": 4.04
+  },
+  {
+    "text": "Chief",
+    "start": 2706.96,
+    "duration": 4.04
+  },
+  {
+    "text": "rival the presumptive nominee it's not",
+    "start": 2707.96,
+    "duration": 4.48
+  },
+  {
+    "text": "just presumptive I mean he is going to",
+    "start": 2711.0,
+    "duration": 3.319
+  },
+  {
+    "text": "be the nominee there's nobody else I",
+    "start": 2712.44,
+    "duration": 4.119
+  },
+  {
+    "text": "mean he's got all the votes so he's",
+    "start": 2714.319,
+    "duration": 4.52
+  },
+  {
+    "text": "going to be the nominee three or four",
+    "start": 2716.559,
+    "duration": 4.921
+  },
+  {
+    "text": "days after the sentencing right they",
+    "start": 2718.839,
+    "duration": 5.361
+  },
+  {
+    "text": "have the sentencing scheduled for just a",
+    "start": 2721.48,
+    "duration": 5.52
+  },
+  {
+    "text": "few days before uh the Republican",
+    "start": 2724.2,
+    "duration": 4.8
+  },
+  {
+    "text": "vention so that he could be you know",
+    "start": 2727.0,
+    "duration": 3.599
+  },
+  {
+    "text": "this convicted felon in fact everybody",
+    "start": 2729.0,
+    "duration": 4.079
+  },
+  {
+    "text": "is saying H how can we how can we elect",
+    "start": 2730.599,
+    "duration": 5.401
+  },
+  {
+    "text": "a convicted felon as president well",
+    "start": 2733.079,
+    "duration": 4.641
+  },
+  {
+    "text": "we've got an unconvicted felon as",
+    "start": 2736.0,
+    "duration": 4.24
+  },
+  {
+    "text": "president right now right I mean as far",
+    "start": 2737.72,
+    "duration": 4.32
+  },
+  {
+    "text": "as I'm concerned Biden has committed",
+    "start": 2740.24,
+    "duration": 4.2
+  },
+  {
+    "text": "real felonies and just because he hasn't",
+    "start": 2742.04,
+    "duration": 3.92
+  },
+  {
+    "text": "been convicted doesn't mean he's not",
+    "start": 2744.44,
+    "duration": 3.48
+  },
+  {
+    "text": "guilty because they haven't had the",
+    "start": 2745.96,
+    "duration": 4.599
+  },
+  {
+    "text": "Integrity to charge him but the stuff",
+    "start": 2747.92,
+    "duration": 5.08
+  },
+  {
+    "text": "that Trump was accused of doing is even",
+    "start": 2750.559,
+    "duration": 6.121
+  },
+  {
+    "text": "a felony they had a make up a felony the",
+    "start": 2753.0,
+    "duration": 6.599
+  },
+  {
+    "text": "ACT charge was a",
+    "start": 2756.68,
+    "duration": 5.52
+  },
+  {
+    "text": "misdemeanor right you know falsifying",
+    "start": 2759.599,
+    "duration": 5.361
+  },
+  {
+    "text": "business records that was a misdemeanor",
+    "start": 2762.2,
+    "duration": 6.72
+  },
+  {
+    "text": "and he falsified them allegedly so long",
+    "start": 2764.96,
+    "duration": 6.399
+  },
+  {
+    "text": "ago that it's outside the statute of",
+    "start": 2768.92,
+    "duration": 5.0
+  },
+  {
+    "text": "limitations to even bring the charge so",
+    "start": 2771.359,
+    "duration": 4.321
+  },
+  {
+    "text": "the only way they were able to Trump up",
+    "start": 2773.92,
+    "duration": 5.199
+  },
+  {
+    "text": "the charge against Trump was to claim",
+    "start": 2775.68,
+    "duration": 6.36
+  },
+  {
+    "text": "that this mdem meter was",
+    "start": 2779.119,
+    "duration": 6.2
+  },
+  {
+    "text": "committed because of another felony that",
+    "start": 2782.04,
+    "duration": 5.279
+  },
+  {
+    "text": "was that but there was no other felony",
+    "start": 2785.319,
+    "duration": 4.601
+  },
+  {
+    "text": "he was not charged but the government",
+    "start": 2787.319,
+    "duration": 4.481
+  },
+  {
+    "text": "claimed that there were three possible",
+    "start": 2789.92,
+    "duration": 4.32
+  },
+  {
+    "text": "felonies that he committed yet they were",
+    "start": 2791.8,
+    "duration": 6.68
+  },
+  {
+    "text": "able to introduce no evidence to prove",
+    "start": 2794.24,
+    "duration": 6.56
+  },
+  {
+    "text": "that he committed any of these felonies",
+    "start": 2798.48,
+    "duration": 5.599
+  },
+  {
+    "text": "yet in order for the jury to convict him",
+    "start": 2800.8,
+    "duration": 6.559
+  },
+  {
+    "text": "of this crime this misdemeanor and",
+    "start": 2804.079,
+    "duration": 5.04
+  },
+  {
+    "text": "converted to a",
+    "start": 2807.359,
+    "duration": 4.361
+  },
+  {
+    "text": "felony the government had a prove that",
+    "start": 2809.119,
+    "duration": 5.2
+  },
+  {
+    "text": "he committed one of these other felonies",
+    "start": 2811.72,
+    "duration": 4.68
+  },
+  {
+    "text": "which they did not prove and in fact the",
+    "start": 2814.319,
+    "duration": 3.681
+  },
+  {
+    "text": "judge told the jury that we don't even",
+    "start": 2816.4,
+    "duration": 3.919
+  },
+  {
+    "text": "have to prove it all we have to do is",
+    "start": 2818.0,
+    "duration": 4.52
+  },
+  {
+    "text": "prove that he intended to evade his",
+    "start": 2820.319,
+    "duration": 5.881
+  },
+  {
+    "text": "taxes or intended to violate campaign",
+    "start": 2822.52,
+    "duration": 5.44
+  },
+  {
+    "text": "Finance laws even if he didn't violate",
+    "start": 2826.2,
+    "duration": 3.76
+  },
+  {
+    "text": "them even if he didn't commit tax",
+    "start": 2827.96,
+    "duration": 4.399
+  },
+  {
+    "text": "evasion I mean what the hell is that so",
+    "start": 2829.96,
+    "duration": 5.92
+  },
+  {
+    "text": "if you if you wanted to violate the law",
+    "start": 2832.359,
+    "duration": 4.881
+  },
+  {
+    "text": "if that was your intention but it turned",
+    "start": 2835.88,
+    "duration": 3.239
+  },
+  {
+    "text": "out you didn't even violate it well then",
+    "start": 2837.24,
+    "duration": 4.16
+  },
+  {
+    "text": "you're still guilty and it was actually",
+    "start": 2839.119,
+    "duration": 5.041
+  },
+  {
+    "text": "worse this is what the judge instructed",
+    "start": 2841.4,
+    "duration": 4.919
+  },
+  {
+    "text": "the jury because there were three",
+    "start": 2844.16,
+    "duration": 4.32
+  },
+  {
+    "text": "potential",
+    "start": 2846.319,
+    "duration": 4.881
+  },
+  {
+    "text": "uh uh felonies that supposedly he",
+    "start": 2848.48,
+    "duration": 4.28
+  },
+  {
+    "text": "intended to",
+    "start": 2851.2,
+    "duration": 4.359
+  },
+  {
+    "text": "commit and the judge told the jury that",
+    "start": 2852.76,
+    "duration": 4.96
+  },
+  {
+    "text": "you don't all have to agree on it right",
+    "start": 2855.559,
+    "duration": 5.52
+  },
+  {
+    "text": "so there's 12 of you if four of you",
+    "start": 2857.72,
+    "duration": 6.28
+  },
+  {
+    "text": "think that he intended to commit one",
+    "start": 2861.079,
+    "duration": 5.52
+  },
+  {
+    "text": "crime but eight of you don't believe it",
+    "start": 2864.0,
+    "duration": 4.92
+  },
+  {
+    "text": "but another four of you think he",
+    "start": 2866.599,
+    "duration": 4.321
+  },
+  {
+    "text": "intended to commit a different crime but",
+    "start": 2868.92,
+    "duration": 3.679
+  },
+  {
+    "text": "eight of you don't believe it and then",
+    "start": 2870.92,
+    "duration": 3.48
+  },
+  {
+    "text": "another four of you think that maybe he",
+    "start": 2872.599,
+    "duration": 3.76
+  },
+  {
+    "text": "did this other crime but eight of you",
+    "start": 2874.4,
+    "duration": 4.159
+  },
+  {
+    "text": "don't believe it as long as you got four",
+    "start": 2876.359,
+    "duration": 5.681
+  },
+  {
+    "text": "people three times that's 12 so even if",
+    "start": 2878.559,
+    "duration": 6.04
+  },
+  {
+    "text": "the government couldn't actually prove",
+    "start": 2882.04,
+    "duration": 5.64
+  },
+  {
+    "text": "that he intended to commit any crimes",
+    "start": 2884.599,
+    "duration": 5.121
+  },
+  {
+    "text": "the jury can still find him guilty of",
+    "start": 2887.68,
+    "duration": 4.32
+  },
+  {
+    "text": "committing those crimes Not only was it",
+    "start": 2889.72,
+    "duration": 4.72
+  },
+  {
+    "text": "not unanimous but they didn't even have",
+    "start": 2892.0,
+    "duration": 5.68
+  },
+  {
+    "text": "a majority I mean it's it was the most",
+    "start": 2894.44,
+    "duration": 6.0
+  },
+  {
+    "text": "crazy jury instructions at least as",
+    "start": 2897.68,
+    "duration": 5.52
+  },
+  {
+    "text": "crazy as the jury instructions in my",
+    "start": 2900.44,
+    "duration": 5.919
+  },
+  {
+    "text": "father's case now hopefully at least",
+    "start": 2903.2,
+    "duration": 4.96
+  },
+  {
+    "text": "this time you know it'll get overturned",
+    "start": 2906.359,
+    "duration": 4.641
+  },
+  {
+    "text": "on appeal I mean my dad his conviction",
+    "start": 2908.16,
+    "duration": 4.919
+  },
+  {
+    "text": "should have been overturned but it",
+    "start": 2911.0,
+    "duration": 3.599
+  },
+  {
+    "text": "wasn't and the Supreme Court courts",
+    "start": 2913.079,
+    "duration": 3.881
+  },
+  {
+    "text": "didn't have the Integrity to even hear",
+    "start": 2914.599,
+    "duration": 4.601
+  },
+  {
+    "text": "the case and the second circuit you know",
+    "start": 2916.96,
+    "duration": 4.159
+  },
+  {
+    "text": "a bunch of liberals rubber stamp the",
+    "start": 2919.2,
+    "duration": 3.96
+  },
+  {
+    "text": "conviction and the jury",
+    "start": 2921.119,
+    "duration": 4.521
+  },
+  {
+    "text": "instructions but I think that the Trump",
+    "start": 2923.16,
+    "duration": 3.959
+  },
+  {
+    "text": "case is so",
+    "start": 2925.64,
+    "duration": 5.12
+  },
+  {
+    "text": "high-profile that there's no way uh that",
+    "start": 2927.119,
+    "duration": 6.841
+  },
+  {
+    "text": "this conviction is going to stand up but",
+    "start": 2930.76,
+    "duration": 7.039
+  },
+  {
+    "text": "of course it will stand up long enough",
+    "start": 2933.96,
+    "duration": 6.879
+  },
+  {
+    "text": "for the 2024 election right they're not",
+    "start": 2937.799,
+    "duration": 4.841
+  },
+  {
+    "text": "going to be able to overturn the",
+    "start": 2940.839,
+    "duration": 5.081
+  },
+  {
+    "text": "conviction before uh the votes are",
+    "start": 2942.64,
+    "duration": 5.8
+  },
+  {
+    "text": "counted for the election so the",
+    "start": 2945.92,
+    "duration": 4.12
+  },
+  {
+    "text": "Democrats will have",
+    "start": 2948.44,
+    "duration": 6.159
+  },
+  {
+    "text": "succeeded in branding Trump a",
+    "start": 2950.04,
+    "duration": 7.92
+  },
+  {
+    "text": "felon uh and so he will be running for",
+    "start": 2954.599,
+    "duration": 7.72
+  },
+  {
+    "text": "office as a convicted felon the only uh",
+    "start": 2957.96,
+    "duration": 6.04
+  },
+  {
+    "text": "president if he does get elected that'll",
+    "start": 2962.319,
+    "duration": 4.961
+  },
+  {
+    "text": "be a first he'll be the only convicted a",
+    "start": 2964.0,
+    "duration": 5.119
+  },
+  {
+    "text": "felon to ever be elected president in",
+    "start": 2967.28,
+    "duration": 4.0
+  },
+  {
+    "text": "fact he's the only president to be",
+    "start": 2969.119,
+    "duration": 4.561
+  },
+  {
+    "text": "convicted of a felony right after he",
+    "start": 2971.28,
+    "duration": 3.64
+  },
+  {
+    "text": "left",
+    "start": 2973.68,
+    "duration": 5.28
+  },
+  {
+    "text": "office but of course this isn't a felony",
+    "start": 2974.92,
+    "duration": 9.399
+  },
+  {
+    "text": "the whole thing is a a farce it's a",
+    "start": 2978.96,
+    "duration": 8.599
+  },
+  {
+    "text": "fraud but it does highlight the point",
+    "start": 2984.319,
+    "duration": 5.0
+  },
+  {
+    "text": "I've been making too from my own",
+    "start": 2987.559,
+    "duration": 4.76
+  },
+  {
+    "text": "experience how corrupt our judicial",
+    "start": 2989.319,
+    "duration": 5.641
+  },
+  {
+    "text": "system is you know a lot of people you",
+    "start": 2992.319,
+    "duration": 5.361
+  },
+  {
+    "text": "know they they they have for",
+    "start": 2994.96,
+    "duration": 4.599
+  },
+  {
+    "text": "politicians you know they they don't",
+    "start": 2997.68,
+    "duration": 3.439
+  },
+  {
+    "text": "like lawyers but for some reason they",
+    "start": 2999.559,
+    "duration": 4.441
+  },
+  {
+    "text": "like judges you know judges are just",
+    "start": 3001.119,
+    "duration": 4.72
+  },
+  {
+    "text": "lawyers that have political connections",
+    "start": 3004.0,
+    "duration": 3.64
+  },
+  {
+    "text": "they're a lawyer who got appointed as a",
+    "start": 3005.839,
+    "duration": 3.48
+  },
+  {
+    "text": "judge and most of them are also",
+    "start": 3007.64,
+    "duration": 5.719
+  },
+  {
+    "text": "politicians so these judges are just as",
+    "start": 3009.319,
+    "duration": 5.961
+  },
+  {
+    "text": "corrupt and and",
+    "start": 3013.359,
+    "duration": 4.841
+  },
+  {
+    "text": "so in general people have a high opinion",
+    "start": 3015.28,
+    "duration": 6.36
+  },
+  {
+    "text": "of Judges they shouldn't most of them",
+    "start": 3018.2,
+    "duration": 4.879
+  },
+  {
+    "text": "you know they should have a very low",
+    "start": 3021.64,
+    "duration": 3.88
+  },
+  {
+    "text": "opinion because they've really sold out",
+    "start": 3023.079,
+    "duration": 6.321
+  },
+  {
+    "text": "America uh they haven't uh done what",
+    "start": 3025.52,
+    "duration": 6.88
+  },
+  {
+    "text": "they're supposed to do with respect to",
+    "start": 3029.4,
+    "duration": 5.12
+  },
+  {
+    "text": "the law with respect to the",
+    "start": 3032.4,
+    "duration": 4.159
+  },
+  {
+    "text": "Constitution they often let their",
+    "start": 3034.52,
+    "duration": 6.16
+  },
+  {
+    "text": "politics rule uh their decisions and how",
+    "start": 3036.559,
+    "duration": 6.721
+  },
+  {
+    "text": "they handle a court and so in the case",
+    "start": 3040.68,
+    "duration": 5.48
+  },
+  {
+    "text": "of Donald Trump Justice went out the",
+    "start": 3043.28,
+    "duration": 6.799
+  },
+  {
+    "text": "window and they weaponized the judicial",
+    "start": 3046.16,
+    "duration": 6.76
+  },
+  {
+    "text": "system just like they did with me like",
+    "start": 3050.079,
+    "duration": 5.121
+  },
+  {
+    "text": "they did with my bank you know and",
+    "start": 3052.92,
+    "duration": 3.76
+  },
+  {
+    "text": "people some people say hey why do you",
+    "start": 3055.2,
+    "duration": 3.24
+  },
+  {
+    "text": "keep talking about your bank well",
+    "start": 3056.68,
+    "duration": 4.6
+  },
+  {
+    "text": "because it happened to me I got",
+    "start": 3058.44,
+    "duration": 6.0
+  },
+  {
+    "text": "firsthand knowledge of this",
+    "start": 3061.28,
+    "duration": 6.559
+  },
+  {
+    "text": "crime right laws were",
+    "start": 3064.44,
+    "duration": 7.24
+  },
+  {
+    "text": "broken by the US government Puerto Rican",
+    "start": 3067.839,
+    "duration": 6.361
+  },
+  {
+    "text": "government it even involved corrupt",
+    "start": 3071.68,
+    "duration": 5.439
+  },
+  {
+    "text": "politicians in other countries in the",
+    "start": 3074.2,
+    "duration": 5.72
+  },
+  {
+    "text": "United Kingdom in",
+    "start": 3077.119,
+    "duration": 6.561
+  },
+  {
+    "text": "Australia right corrupt politicians",
+    "start": 3079.92,
+    "duration": 6.96
+  },
+  {
+    "text": "framed an innocent Bank",
+    "start": 3083.68,
+    "duration": 4.76
+  },
+  {
+    "text": "even though they investigated my bank",
+    "start": 3086.88,
+    "duration": 3.239
+  },
+  {
+    "text": "for two years and found that it did",
+    "start": 3088.44,
+    "duration": 3.399
+  },
+  {
+    "text": "absolutely nothing",
+    "start": 3090.119,
+    "duration": 3.48
+  },
+  {
+    "text": "wrong they",
+    "start": 3091.839,
+    "duration": 4.48
+  },
+  {
+    "text": "pretended that it did something wrong",
+    "start": 3093.599,
+    "duration": 6.161
+  },
+  {
+    "text": "they shut it down based on a lie so they",
+    "start": 3096.319,
+    "duration": 5.881
+  },
+  {
+    "text": "can pretend that it did something wrong",
+    "start": 3099.76,
+    "duration": 6.2
+  },
+  {
+    "text": "you know I I as a kick I went on chat",
+    "start": 3102.2,
+    "duration": 6.0
+  },
+  {
+    "text": "GPT today because I was you know I was",
+    "start": 3105.96,
+    "duration": 6.08
+  },
+  {
+    "text": "looking for any information transcript",
+    "start": 3108.2,
+    "duration": 5.919
+  },
+  {
+    "text": "on the press conference you know the day",
+    "start": 3112.04,
+    "duration": 5.2
+  },
+  {
+    "text": "they closed my bank they which was 23",
+    "start": 3114.119,
+    "duration": 5.321
+  },
+  {
+    "text": "months ago now it's almost been two",
+    "start": 3117.24,
+    "duration": 6.119
+  },
+  {
+    "text": "years it was 23 months on the on on",
+    "start": 3119.44,
+    "duration": 8.6
+  },
+  {
+    "text": "Friday right and by the way my bank",
+    "start": 3123.359,
+    "duration": 9.121
+  },
+  {
+    "text": "customers 23 months no one's gotten a",
+    "start": 3128.04,
+    "duration": 7.72
+  },
+  {
+    "text": "nickel no everybody would have had their",
+    "start": 3132.48,
+    "duration": 6.839
+  },
+  {
+    "text": "money 23 months ago if Regulators didn't",
+    "start": 3135.76,
+    "duration": 5.64
+  },
+  {
+    "text": "put my bank into",
+    "start": 3139.319,
+    "duration": 4.24
+  },
+  {
+    "text": "receivership nobody's account was in",
+    "start": 3141.4,
+    "duration": 4.28
+  },
+  {
+    "text": "Jeopardy the bank was totally solvent",
+    "start": 3143.559,
+    "duration": 3.76
+  },
+  {
+    "text": "all the money was there",
+    "start": 3145.68,
+    "duration": 3.679
+  },
+  {
+    "text": "and I had a large company that wanted to",
+    "start": 3147.319,
+    "duration": 3.921
+  },
+  {
+    "text": "buy the bank that wanted to put even",
+    "start": 3149.359,
+    "duration": 4.24
+  },
+  {
+    "text": "more capital in that wanted to expand it",
+    "start": 3151.24,
+    "duration": 4.04
+  },
+  {
+    "text": "bring in new management bringing a new",
+    "start": 3153.599,
+    "duration": 4.361
+  },
+  {
+    "text": "board great for Puerto Rico great for",
+    "start": 3155.28,
+    "duration": 5.039
+  },
+  {
+    "text": "the bank great for the customers great",
+    "start": 3157.96,
+    "duration": 4.28
+  },
+  {
+    "text": "for the employees why was the bank shut",
+    "start": 3160.319,
+    "duration": 4.52
+  },
+  {
+    "text": "down why was a totally solvent Bank put",
+    "start": 3162.24,
+    "duration": 5.8
+  },
+  {
+    "text": "into bankruptcy when it had no debts it",
+    "start": 3164.839,
+    "duration": 6.801
+  },
+  {
+    "text": "had no loans had no pass through bills",
+    "start": 3168.04,
+    "duration": 6.799
+  },
+  {
+    "text": "it was all part of a grand plan to make",
+    "start": 3171.64,
+    "duration": 5.6
+  },
+  {
+    "text": "it look like the bank",
+    "start": 3174.839,
+    "duration": 4.841
+  },
+  {
+    "text": "help customers launder money and evade",
+    "start": 3177.24,
+    "duration": 5.64
+  },
+  {
+    "text": "taxes so the IRS and the J5 could take",
+    "start": 3179.68,
+    "duration": 5.8
+  },
+  {
+    "text": "credit for shutting down a bank that",
+    "start": 3182.88,
+    "duration": 4.959
+  },
+  {
+    "text": "laundered money and evaded taxes even if",
+    "start": 3185.48,
+    "duration": 4.48
+  },
+  {
+    "text": "the bank didn't do the things that they",
+    "start": 3187.839,
+    "duration": 3.881
+  },
+  {
+    "text": "were claiming it did so it could take",
+    "start": 3189.96,
+    "duration": 4.24
+  },
+  {
+    "text": "credit for shutting it down right this",
+    "start": 3191.72,
+    "duration": 6.0
+  },
+  {
+    "text": "was a huge criminal uh conspiracy that",
+    "start": 3194.2,
+    "duration": 5.56
+  },
+  {
+    "text": "took place not only did I lose my",
+    "start": 3197.72,
+    "duration": 4.32
+  },
+  {
+    "text": "constitutional rights was I deprived of",
+    "start": 3199.76,
+    "duration": 5.079
+  },
+  {
+    "text": "my property without any due process uh",
+    "start": 3202.04,
+    "duration": 4.92
+  },
+  {
+    "text": "and was I also deprived of my",
+    "start": 3204.839,
+    "duration": 4.76
+  },
+  {
+    "text": "presumption of innocence without a trial",
+    "start": 3206.96,
+    "duration": 4.8
+  },
+  {
+    "text": "right I mean and at least in Trump's",
+    "start": 3209.599,
+    "duration": 4.76
+  },
+  {
+    "text": "case he got a phony trial I didn't even",
+    "start": 3211.76,
+    "duration": 5.52
+  },
+  {
+    "text": "get that I mean these corrupt government",
+    "start": 3214.359,
+    "duration": 4.24
+  },
+  {
+    "text": "officials couldn't even get an",
+    "start": 3217.28,
+    "duration": 3.6
+  },
+  {
+    "text": "indictment against me or anyone in my",
+    "start": 3218.599,
+    "duration": 4.76
+  },
+  {
+    "text": "bank right normally you can indict a ham",
+    "start": 3220.88,
+    "duration": 5.08
+  },
+  {
+    "text": "sandwich but they couldn't even do that",
+    "start": 3223.359,
+    "duration": 5.401
+  },
+  {
+    "text": "because that's how innocent my bank was",
+    "start": 3225.96,
+    "duration": 4.52
+  },
+  {
+    "text": "so instead of just saying well I guess",
+    "start": 3228.76,
+    "duration": 3.839
+  },
+  {
+    "text": "we got it wrong shift's Bank didn't do",
+    "start": 3230.48,
+    "duration": 3.24
+  },
+  {
+    "text": "anything wrong they said well you know",
+    "start": 3232.599,
+    "duration": 2.641
+  },
+  {
+    "text": "what shift's Bank didn't do anything",
+    "start": 3233.72,
+    "duration": 3.52
+  },
+  {
+    "text": "wrong but let's pretend it did something",
+    "start": 3235.24,
+    "duration": 4.319
+  },
+  {
+    "text": "wrong let's put the bank out of business",
+    "start": 3237.24,
+    "duration": 4.359
+  },
+  {
+    "text": "so we can pretend it did something wrong",
+    "start": 3239.559,
+    "duration": 4.441
+  },
+  {
+    "text": "so we can look good so we can pretend",
+    "start": 3241.599,
+    "duration": 4.2
+  },
+  {
+    "text": "that our failed investigation was a",
+    "start": 3244.0,
+    "duration": 3.88
+  },
+  {
+    "text": "success so let's shut this whole Bank",
+    "start": 3245.799,
+    "duration": 4.56
+  },
+  {
+    "text": "down let's let's stop this sale from",
+    "start": 3247.88,
+    "duration": 4.36
+  },
+  {
+    "text": "taking place let's steal this guy's",
+    "start": 3250.359,
+    "duration": 4.041
+  },
+  {
+    "text": "property and in the process we're going",
+    "start": 3252.24,
+    "duration": 4.64
+  },
+  {
+    "text": "to screw over thousands of innocent",
+    "start": 3254.4,
+    "duration": 5.48
+  },
+  {
+    "text": "customers who have now been deprived of",
+    "start": 3256.88,
+    "duration": 5.64
+  },
+  {
+    "text": "their deposits some of my customers had",
+    "start": 3259.88,
+    "duration": 5.4
+  },
+  {
+    "text": "their life savings in my bank and",
+    "start": 3262.52,
+    "duration": 6.279
+  },
+  {
+    "text": "they've had no access ACC uh to that",
+    "start": 3265.28,
+    "duration": 7.12
+  },
+  {
+    "text": "money uh for now almost two years but I",
+    "start": 3268.799,
+    "duration": 5.681
+  },
+  {
+    "text": "went on to uh chat",
+    "start": 3272.4,
+    "duration": 5.36
+  },
+  {
+    "text": "GPT and I want to find uh the result and",
+    "start": 3274.48,
+    "duration": 5.079
+  },
+  {
+    "text": "you could do this yourselves too right",
+    "start": 3277.76,
+    "duration": 5.44
+  },
+  {
+    "text": "because anybody uh with chat GTP can can",
+    "start": 3279.559,
+    "duration": 6.961
+  },
+  {
+    "text": "go uh and ask this question but so I was",
+    "start": 3283.2,
+    "duration": 4.28
+  },
+  {
+    "text": "looking",
+    "start": 3286.52,
+    "duration": 6.079
+  },
+  {
+    "text": "for um information on the the press",
+    "start": 3287.48,
+    "duration": 6.92
+  },
+  {
+    "text": "conference so here's what I asked chat",
+    "start": 3292.599,
+    "duration": 4.561
+  },
+  {
+    "text": "GPT",
+    "start": 3294.4,
+    "duration": 6.32
+  },
+  {
+    "text": "this is my question on April 30th",
+    "start": 3297.16,
+    "duration": 6.639
+  },
+  {
+    "text": "2022 o held a press conference in Puerto",
+    "start": 3300.72,
+    "duration": 6.96
+  },
+  {
+    "text": "Rico with IRS Chief Jim Lee Simon York",
+    "start": 3303.799,
+    "duration": 6.081
+  },
+  {
+    "text": "and will day can you find any",
+    "start": 3307.68,
+    "duration": 4.96
+  },
+  {
+    "text": "transcripts of that press conference",
+    "start": 3309.88,
+    "duration": 6.36
+  },
+  {
+    "text": "online now here's what chat",
+    "start": 3312.64,
+    "duration": 7.52
+  },
+  {
+    "text": "GPT responded I was unable to locate a",
+    "start": 3316.24,
+    "duration": 7.76
+  },
+  {
+    "text": "full transcript of the April 30th 2022",
+    "start": 3320.16,
+    "duration": 6.28
+  },
+  {
+    "text": "Press Conference held by the O in in",
+    "start": 3324.0,
+    "duration": 5.4
+  },
+  {
+    "text": "Puerto Rico with IRS Chief Jim Lee Simon",
+    "start": 3326.44,
+    "duration": 6.08
+  },
+  {
+    "text": "York and will day however I did find",
+    "start": 3329.4,
+    "duration": 4.88
+  },
+  {
+    "text": "detailed summaries of the press",
+    "start": 3332.52,
+    "duration": 4.24
+  },
+  {
+    "text": "conference and the actions discussed",
+    "start": 3334.28,
+    "duration": 4.72
+  },
+  {
+    "text": "okay so it looked over the internet and",
+    "start": 3336.76,
+    "duration": 4.44
+  },
+  {
+    "text": "was able to figure out what happened to",
+    "start": 3339.0,
+    "duration": 5.2
+  },
+  {
+    "text": "my bank based on the reports of what",
+    "start": 3341.2,
+    "duration": 5.119
+  },
+  {
+    "text": "happened in my bank now here's what Chad",
+    "start": 3344.2,
+    "duration": 5.119
+  },
+  {
+    "text": "GPT wrote the press conference was",
+    "start": 3346.319,
+    "duration": 5.121
+  },
+  {
+    "text": "focused on the shutdown of europacific",
+    "start": 3349.319,
+    "duration": 4.441
+  },
+  {
+    "text": "International Bank for facilitating",
+    "start": 3351.44,
+    "duration": 5.08
+  },
+  {
+    "text": "offer tax evasion and money laundering",
+    "start": 3353.76,
+    "duration": 5.0
+  },
+  {
+    "text": "so in other words my bank was shut down",
+    "start": 3356.52,
+    "duration": 4.16
+  },
+  {
+    "text": "for facilitating officer tax evasion and",
+    "start": 3358.76,
+    "duration": 3.68
+  },
+  {
+    "text": "money Laing when that had nothing to do",
+    "start": 3360.68,
+    "duration": 4.359
+  },
+  {
+    "text": "with it officially because it was exod",
+    "start": 3362.44,
+    "duration": 4.399
+  },
+  {
+    "text": "of that it was shut down for not having",
+    "start": 3365.039,
+    "duration": 4.481
+  },
+  {
+    "text": "enough Capital but chat GPT doesn't know",
+    "start": 3366.839,
+    "duration": 5.76
+  },
+  {
+    "text": "that Jim Lee the IRS chief of criminal",
+    "start": 3369.52,
+    "duration": 4.88
+  },
+  {
+    "text": "investigations highlighted the",
+    "start": 3372.599,
+    "duration": 4.121
+  },
+  {
+    "text": "coordinated International efforts that",
+    "start": 3374.4,
+    "duration": 5.52
+  },
+  {
+    "text": "led to this action well but they claimed",
+    "start": 3376.72,
+    "duration": 5.119
+  },
+  {
+    "text": "there was no coordination but here based",
+    "start": 3379.92,
+    "duration": 4.36
+  },
+  {
+    "text": "on the The Press accounts chat gbd",
+    "start": 3381.839,
+    "duration": 5.161
+  },
+  {
+    "text": "saying coordination",
+    "start": 3384.28,
+    "duration": 5.0
+  },
+  {
+    "text": "although there were no indictments the",
+    "start": 3387.0,
+    "duration": 3.68
+  },
+  {
+    "text": "bank's",
+    "start": 3389.28,
+    "duration": 4.12
+  },
+  {
+    "text": "operations were suspended to deter",
+    "start": 3390.68,
+    "duration": 5.24
+  },
+  {
+    "text": "further illegal activity what do you",
+    "start": 3393.4,
+    "duration": 5.199
+  },
+  {
+    "text": "mean to deter further activity ille",
+    "start": 3395.92,
+    "duration": 4.36
+  },
+  {
+    "text": "illegal activity there was no illegal",
+    "start": 3398.599,
+    "duration": 3.841
+  },
+  {
+    "text": "activity there was no illegal activity",
+    "start": 3400.28,
+    "duration": 4.44
+  },
+  {
+    "text": "at all at my bank if there was illegal",
+    "start": 3402.44,
+    "duration": 3.8
+  },
+  {
+    "text": "activity somebody would have been",
+    "start": 3404.72,
+    "duration": 3.48
+  },
+  {
+    "text": "charged with a crime see how do you have",
+    "start": 3406.24,
+    "duration": 5.04
+  },
+  {
+    "text": "illegal activity without criminal",
+    "start": 3408.2,
+    "duration": 5.119
+  },
+  {
+    "text": "Behavior right if there was something",
+    "start": 3411.28,
+    "duration": 4.6
+  },
+  {
+    "text": "illegal then somebody at my bank did",
+    "start": 3413.319,
+    "duration": 4.121
+  },
+  {
+    "text": "something illegal and they would have",
+    "start": 3415.88,
+    "duration": 4.04
+  },
+  {
+    "text": "been indicted the whole purpose of",
+    "start": 3417.44,
+    "duration": 4.48
+  },
+  {
+    "text": "opening up a grand jury was to get an",
+    "start": 3419.92,
+    "duration": 5.119
+  },
+  {
+    "text": "indictment that was the goal so if there",
+    "start": 3421.92,
+    "duration": 6.24
+  },
+  {
+    "text": "was illegal activity the people who were",
+    "start": 3425.039,
+    "duration": 5.161
+  },
+  {
+    "text": "doing the illegal activity would have",
+    "start": 3428.16,
+    "duration": 5.28
+  },
+  {
+    "text": "been charged with those crimes so here",
+    "start": 3430.2,
+    "duration": 6.0
+  },
+  {
+    "text": "chat GPT thinks that my bank was doing",
+    "start": 3433.44,
+    "duration": 4.919
+  },
+  {
+    "text": "illegal activity even though nobody was",
+    "start": 3436.2,
+    "duration": 4.0
+  },
+  {
+    "text": "indicted because that's the way it was",
+    "start": 3438.359,
+    "duration": 4.68
+  },
+  {
+    "text": "reported because that's the way the IRS",
+    "start": 3440.2,
+    "duration": 5.399
+  },
+  {
+    "text": "and the J5 and OSF wanted it to be",
+    "start": 3443.039,
+    "duration": 4.841
+  },
+  {
+    "text": "reported they deliberately created the",
+    "start": 3445.599,
+    "duration": 4.681
+  },
+  {
+    "text": "false impression that my bank was guilty",
+    "start": 3447.88,
+    "duration": 4.8
+  },
+  {
+    "text": "of crimes they knew it did not commit",
+    "start": 3450.28,
+    "duration": 3.96
+  },
+  {
+    "text": "because they tried to get indictments",
+    "start": 3452.68,
+    "duration": 3.0
+  },
+  {
+    "text": "and they couldn't because there was no",
+    "start": 3454.24,
+    "duration": 3.4
+  },
+  {
+    "text": "evidence here's the rest of what they",
+    "start": 3455.68,
+    "duration": 3.96
+  },
+  {
+    "text": "wrote the press conference also",
+    "start": 3457.64,
+    "duration": 4.6
+  },
+  {
+    "text": "emphasized the role of the Joint Chiefs",
+    "start": 3459.64,
+    "duration": 5.32
+  },
+  {
+    "text": "of Global Tax enforcement J5 which",
+    "start": 3462.24,
+    "duration": 5.16
+  },
+  {
+    "text": "includes the tax authorities from the US",
+    "start": 3464.96,
+    "duration": 4.839
+  },
+  {
+    "text": "the UK Canada Australia and the",
+    "start": 3467.4,
+    "duration": 4.959
+  },
+  {
+    "text": "Netherlands in these enforcement actions",
+    "start": 3469.799,
+    "duration": 4.681
+  },
+  {
+    "text": "so now they're claiming that all these",
+    "start": 3472.359,
+    "duration": 6.881
+  },
+  {
+    "text": "J5 Nations had a role in oa's decision",
+    "start": 3474.48,
+    "duration": 7.119
+  },
+  {
+    "text": "to shut down my bank but of course",
+    "start": 3479.24,
+    "duration": 4.0
+  },
+  {
+    "text": "officially they claimed that those",
+    "start": 3481.599,
+    "duration": 4.2
+  },
+  {
+    "text": "countries had no role that osf's actions",
+    "start": 3483.24,
+    "duration": 5.52
+  },
+  {
+    "text": "were independent well I now know that",
+    "start": 3485.799,
+    "duration": 5.401
+  },
+  {
+    "text": "they weren't independent because again I",
+    "start": 3488.76,
+    "duration": 5.279
+  },
+  {
+    "text": "finally got proof in my heavily redacted",
+    "start": 3491.2,
+    "duration": 6.8
+  },
+  {
+    "text": "Foya uh response that the IRS and OSF",
+    "start": 3494.039,
+    "duration": 6.881
+  },
+  {
+    "text": "coordinated and collaborated and conspir",
+    "start": 3498.0,
+    "duration": 5.28
+  },
+  {
+    "text": "to shut down my bank and hold a press",
+    "start": 3500.92,
+    "duration": 4.439
+  },
+  {
+    "text": "conference to frame it for tax evasion",
+    "start": 3503.28,
+    "duration": 4.2
+  },
+  {
+    "text": "and money laundering over three months",
+    "start": 3505.359,
+    "duration": 5.361
+  },
+  {
+    "text": "before it actually happened so they were",
+    "start": 3507.48,
+    "duration": 5.4
+  },
+  {
+    "text": "lying to us for months and months and",
+    "start": 3510.72,
+    "duration": 4.76
+  },
+  {
+    "text": "months allowing us to believe that a",
+    "start": 3512.88,
+    "duration": 4.719
+  },
+  {
+    "text": "sale was still being considered when it",
+    "start": 3515.48,
+    "duration": 4.079
+  },
+  {
+    "text": "had already been rejected but it wasn't",
+    "start": 3517.599,
+    "duration": 4.161
+  },
+  {
+    "text": "rejected for honest reasons it was",
+    "start": 3519.559,
+    "duration": 4.401
+  },
+  {
+    "text": "rejected for illegal reasons and they",
+    "start": 3521.76,
+    "duration": 4.2
+  },
+  {
+    "text": "had to come up with a pretense to",
+    "start": 3523.96,
+    "duration": 3.68
+  },
+  {
+    "text": "justify it so we've got all this",
+    "start": 3525.96,
+    "duration": 4.359
+  },
+  {
+    "text": "examples I've got my own personal",
+    "start": 3527.64,
+    "duration": 6.719
+  },
+  {
+    "text": "experience with corruption in government",
+    "start": 3530.319,
+    "duration": 6.681
+  },
+  {
+    "text": "and now you have another example",
+    "start": 3534.359,
+    "duration": 4.96
+  },
+  {
+    "text": "with respect to Donald Trump and that",
+    "start": 3537.0,
+    "duration": 3.4
+  },
+  {
+    "text": "sham",
+    "start": 3539.319,
+    "duration": 3.401
+  },
+  {
+    "text": "trial and the fact that you've got so",
+    "start": 3540.4,
+    "duration": 4.719
+  },
+  {
+    "text": "many people you know claiming oh this is",
+    "start": 3542.72,
+    "duration": 4.68
+  },
+  {
+    "text": "good I mean this shows that you know",
+    "start": 3545.119,
+    "duration": 4.641
+  },
+  {
+    "text": "there's Justice and and you know and and",
+    "start": 3547.4,
+    "duration": 4.76
+  },
+  {
+    "text": "Donald Trump got some kind of fair trial",
+    "start": 3549.76,
+    "duration": 3.72
+  },
+  {
+    "text": "I mean this is",
+    "start": 3552.16,
+    "duration": 4.84
+  },
+  {
+    "text": "preposterous and we look ridiculous on",
+    "start": 3553.48,
+    "duration": 5.119
+  },
+  {
+    "text": "the national",
+    "start": 3557.0,
+    "duration": 3.92
+  },
+  {
+    "text": "stage doing stuff like this but the",
+    "start": 3558.599,
+    "duration": 5.601
+  },
+  {
+    "text": "whole country you know is unraveling",
+    "start": 3560.92,
+    "duration": 5.8
+  },
+  {
+    "text": "when the judicial system",
+    "start": 3564.2,
+    "duration": 7.24
+  },
+  {
+    "text": "uh is so corrupted and so unfair and and",
+    "start": 3566.72,
+    "duration": 8.2
+  },
+  {
+    "text": "people lose confidence in the judicial",
+    "start": 3571.44,
+    "duration": 5.599
+  },
+  {
+    "text": "system right that we're not a",
+    "start": 3574.92,
+    "duration": 5.8
+  },
+  {
+    "text": "nation of of laws We're a nation of men",
+    "start": 3577.039,
+    "duration": 5.681
+  },
+  {
+    "text": "We're a nation of very corrupt men okay",
+    "start": 3580.72,
+    "duration": 3.76
+  },
+  {
+    "text": "men and women I don't want to I don't",
+    "start": 3582.72,
+    "duration": 4.44
+  },
+  {
+    "text": "want to you know be uh you know gender",
+    "start": 3584.48,
+    "duration": 5.319
+  },
+  {
+    "text": "this thing uh it's both sexes that are",
+    "start": 3587.16,
+    "duration": 5.6
+  },
+  {
+    "text": "equally culpable uh in the",
+    "start": 3589.799,
+    "duration": 6.601
+  },
+  {
+    "text": "degreg of our country but this is a big",
+    "start": 3592.76,
+    "duration": 7.079
+  },
+  {
+    "text": "deal and in fact it's reason enough even",
+    "start": 3596.4,
+    "duration": 4.679
+  },
+  {
+    "text": "if you don't like",
+    "start": 3599.839,
+    "duration": 4.801
+  },
+  {
+    "text": "Trump and you know Trump is not our",
+    "start": 3601.079,
+    "duration": 5.72
+  },
+  {
+    "text": "savior right Trump's not going to get",
+    "start": 3604.64,
+    "duration": 4.12
+  },
+  {
+    "text": "elected and make inflation go away it's",
+    "start": 3606.799,
+    "duration": 4.28
+  },
+  {
+    "text": "going to get worse regardless of who",
+    "start": 3608.76,
+    "duration": 5.319
+  },
+  {
+    "text": "gets reelected but just to stop the",
+    "start": 3611.079,
+    "duration": 6.441
+  },
+  {
+    "text": "corruption in the legal system is reason",
+    "start": 3614.079,
+    "duration": 6.881
+  },
+  {
+    "text": "enough to vote for Trump uh because you",
+    "start": 3617.52,
+    "duration": 4.36
+  },
+  {
+    "text": "can't",
+    "start": 3620.96,
+    "duration": 4.44
+  },
+  {
+    "text": "sanction what has taken place you know",
+    "start": 3621.88,
+    "duration": 6.439
+  },
+  {
+    "text": "and you can't allow the judicial system",
+    "start": 3625.4,
+    "duration": 5.48
+  },
+  {
+    "text": "to be perverted in the way that it has",
+    "start": 3628.319,
+    "duration": 5.361
+  },
+  {
+    "text": "now I'm hoping I can do something uh",
+    "start": 3630.88,
+    "duration": 5.439
+  },
+  {
+    "text": "with respect to what happened to me and",
+    "start": 3633.68,
+    "duration": 5.96
+  },
+  {
+    "text": "what happened to thousands of innocent",
+    "start": 3636.319,
+    "duration": 6.561
+  },
+  {
+    "text": "customers who banked with me so hope",
+    "start": 3639.64,
+    "duration": 4.76
+  },
+  {
+    "text": "hopefully I'll be able to get some kind",
+    "start": 3642.88,
+    "duration": 4.32
+  },
+  {
+    "text": "of vindication I got minimal Vindication",
+    "start": 3644.4,
+    "duration": 5.679
+  },
+  {
+    "text": "from my defamation lawsuit which I W in",
+    "start": 3647.2,
+    "duration": 5.44
+  },
+  {
+    "text": "Australia and which the media covered up",
+    "start": 3650.079,
+    "duration": 5.04
+  },
+  {
+    "text": "but they had no problem reporting when I",
+    "start": 3652.64,
+    "duration": 5.24
+  },
+  {
+    "text": "was falsely accused of crimes but when I",
+    "start": 3655.119,
+    "duration": 5.92
+  },
+  {
+    "text": "sued the newspaper that accused me and",
+    "start": 3657.88,
+    "duration": 5.32
+  },
+  {
+    "text": "one oh no no they don't want to cover",
+    "start": 3661.039,
+    "duration": 4.161
+  },
+  {
+    "text": "that story so that that's the the",
+    "start": 3663.2,
+    "duration": 5.159
+  },
+  {
+    "text": "complicit media which is also helping to",
+    "start": 3665.2,
+    "duration": 6.24
+  },
+  {
+    "text": "advance uh you know the the the the the",
+    "start": 3668.359,
+    "duration": 5.881
+  },
+  {
+    "text": "phony charges against against Trump so I",
+    "start": 3671.44,
+    "duration": 6.44
+  },
+  {
+    "text": "wasn't able to get any kind of real",
+    "start": 3674.24,
+    "duration": 5.76
+  },
+  {
+    "text": "Vindication other than my followers know",
+    "start": 3677.88,
+    "duration": 4.919
+  },
+  {
+    "text": "that I won in fact my followers never",
+    "start": 3680.0,
+    "duration": 4.48
+  },
+  {
+    "text": "really doubted me it's like I I didn't",
+    "start": 3682.799,
+    "duration": 4.921
+  },
+  {
+    "text": "have to convince my followers that that",
+    "start": 3684.48,
+    "duration": 6.24
+  },
+  {
+    "text": "that they lie right people trusted me",
+    "start": 3687.72,
+    "duration": 5.04
+  },
+  {
+    "text": "and they could see through the Sham of",
+    "start": 3690.72,
+    "duration": 4.52
+  },
+  {
+    "text": "60 Minutes Australia people don't even",
+    "start": 3692.76,
+    "duration": 4.559
+  },
+  {
+    "text": "realize how bad it was it wasn't just",
+    "start": 3695.24,
+    "duration": 4.839
+  },
+  {
+    "text": "defamation they just flat out lied and",
+    "start": 3697.319,
+    "duration": 5.161
+  },
+  {
+    "text": "even in their newspaper because the",
+    "start": 3700.079,
+    "duration": 4.881
+  },
+  {
+    "text": "judge ruled that the newspaper article",
+    "start": 3702.48,
+    "duration": 5.68
+  },
+  {
+    "text": "in the age wasn't defamatory about me",
+    "start": 3704.96,
+    "duration": 6.0
+  },
+  {
+    "text": "personally right and I think she got",
+    "start": 3708.16,
+    "duration": 4.56
+  },
+  {
+    "text": "that wrong and I think the second judge",
+    "start": 3710.96,
+    "duration": 3.52
+  },
+  {
+    "text": "judge Jackman would not have ruled that",
+    "start": 3712.72,
+    "duration": 3.76
+  },
+  {
+    "text": "way and had I appealed I probably would",
+    "start": 3714.48,
+    "duration": 5.079
+  },
+  {
+    "text": "have won but even though it wasn't in",
+    "start": 3716.48,
+    "duration": 5.079
+  },
+  {
+    "text": "theory defamatory of me personally it",
+    "start": 3719.559,
+    "duration": 4.121
+  },
+  {
+    "text": "certainly was defamatory of the bank but",
+    "start": 3721.559,
+    "duration": 4.0
+  },
+  {
+    "text": "the bank couldn't sue for defamation it",
+    "start": 3723.68,
+    "duration": 4.08
+  },
+  {
+    "text": "was just me personally and it was loaded",
+    "start": 3725.559,
+    "duration": 5.161
+  },
+  {
+    "text": "with lies there were like 50 or 60 false",
+    "start": 3727.76,
+    "duration": 6.0
+  },
+  {
+    "text": "statements in that article false",
+    "start": 3730.72,
+    "duration": 6.96
+  },
+  {
+    "text": "outright lies that their own evidence",
+    "start": 3733.76,
+    "duration": 5.72
+  },
+  {
+    "text": "proved were lies I didn't even have to",
+    "start": 3737.68,
+    "duration": 4.48
+  },
+  {
+    "text": "prove that the reporters lied their own",
+    "start": 3739.48,
+    "duration": 5.119
+  },
+  {
+    "text": "evidence proved they lied they had the",
+    "start": 3742.16,
+    "duration": 4.6
+  },
+  {
+    "text": "truth in front of them and they lied",
+    "start": 3744.599,
+    "duration": 4.2
+  },
+  {
+    "text": "anyway it wasn't like I had to present",
+    "start": 3746.76,
+    "duration": 4.319
+  },
+  {
+    "text": "the truth at the trial they already had",
+    "start": 3748.799,
+    "duration": 6.121
+  },
+  {
+    "text": "it they shared it with me in Discovery",
+    "start": 3751.079,
+    "duration": 6.2
+  },
+  {
+    "text": "and so it was way worse than just",
+    "start": 3754.92,
+    "duration": 4.639
+  },
+  {
+    "text": "defamation but you know I got",
+    "start": 3757.279,
+    "duration": 5.481
+  },
+  {
+    "text": "Vindication to my own group of followers",
+    "start": 3759.559,
+    "duration": 5.401
+  },
+  {
+    "text": "most people in Australia who saw that 60",
+    "start": 3762.76,
+    "duration": 4.88
+  },
+  {
+    "text": "Minutes broadcast have no idea that it",
+    "start": 3764.96,
+    "duration": 4.839
+  },
+  {
+    "text": "was rule defamatory and they had to take",
+    "start": 3767.64,
+    "duration": 3.88
+  },
+  {
+    "text": "it down right because there's been like",
+    "start": 3769.799,
+    "duration": 5.24
+  },
+  {
+    "text": "a media blackout of my win uh to to",
+    "start": 3771.52,
+    "duration": 5.36
+  },
+  {
+    "text": "whitewash the reputations of these",
+    "start": 3775.039,
+    "duration": 5.28
+  },
+  {
+    "text": "corrupt reporters uh Charlie grieve and",
+    "start": 3776.88,
+    "duration": 5.88
+  },
+  {
+    "text": "Nick McKenzie by the way I keep calling",
+    "start": 3780.319,
+    "duration": 4.52
+  },
+  {
+    "text": "them corrupt I call them Liars I call",
+    "start": 3782.76,
+    "duration": 4.0
+  },
+  {
+    "text": "them frauds you'll notice they don't sue",
+    "start": 3784.839,
+    "duration": 4.28
+  },
+  {
+    "text": "me for defamation they can't because I",
+    "start": 3786.76,
+    "duration": 5.24
+  },
+  {
+    "text": "got a perfect defense it's true right",
+    "start": 3789.119,
+    "duration": 4.761
+  },
+  {
+    "text": "and so I can say all the stuff I want",
+    "start": 3792.0,
+    "duration": 3.72
+  },
+  {
+    "text": "because I can prove it's true they can't",
+    "start": 3793.88,
+    "duration": 3.84
+  },
+  {
+    "text": "say it about me because I can sue them",
+    "start": 3795.72,
+    "duration": 4.079
+  },
+  {
+    "text": "for defamation because they this to be",
+    "start": 3797.72,
+    "duration": 5.2
+  },
+  {
+    "text": "false uh but hopefully I can get some uh",
+    "start": 3799.799,
+    "duration": 5.161
+  },
+  {
+    "text": "some Vindication I'm working on that now",
+    "start": 3802.92,
+    "duration": 4.8
+  },
+  {
+    "text": "and I will keep everybody informed as to",
+    "start": 3804.96,
+    "duration": 5.56
+  },
+  {
+    "text": "any kind of progress I can make as far",
+    "start": 3807.72,
+    "duration": 5.319
+  },
+  {
+    "text": "as some type of legal Vindication in the",
+    "start": 3810.52,
+    "duration": 4.72
+  },
+  {
+    "text": "US for the crimes that were committed",
+    "start": 3813.039,
+    "duration": 4.481
+  },
+  {
+    "text": "not just against me but against",
+    "start": 3815.24,
+    "duration": 4.559
+  },
+  {
+    "text": "thousands of innocent customers of Eur",
+    "start": 3817.52,
+    "duration": 4.839
+  },
+  {
+    "text": "Pacific Bank anyway that's it for now uh",
+    "start": 3819.799,
+    "duration": 4.76
+  },
+  {
+    "text": "I'll be back again later in the week uh",
+    "start": 3822.359,
+    "duration": 5.121
+  },
+  {
+    "text": "with more podcast so stick around and uh",
+    "start": 3824.559,
+    "duration": 5.601
+  },
+  {
+    "text": "I'm glad you uh you guys were able to",
+    "start": 3827.48,
+    "duration": 5.4
+  },
+  {
+    "text": "finally uh participate or or hear uh",
+    "start": 3830.16,
+    "duration": 5.83
+  },
+  {
+    "text": "this Sunday night podcast take care",
+    "start": 3832.88,
+    "duration": 9.14
+  },
+  {
+    "text": "[Music]",
+    "start": 3835.99,
+    "duration": 6.03
+  }
+]

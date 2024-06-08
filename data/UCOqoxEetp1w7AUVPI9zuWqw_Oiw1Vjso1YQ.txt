@@ -1,0 +1,52 @@
+[
+  {
+    "text": "if you've ever purchased a gold coin online\u00a0\nwell maybe you've seen that coins minted in\u00a0\u00a0",
+    "start": 0.12,
+    "duration": 4.24
+  },
+  {
+    "text": "certain years well they're just more expensive\u00a0\nthan others so you take away there might be that\u00a0\u00a0",
+    "start": 4.36,
+    "duration": 4.6
+  },
+  {
+    "text": "some coins are more valuable than others based on\u00a0\nwhen they're minted now these American Gold Eagles\u00a0\u00a0",
+    "start": 8.96,
+    "duration": 4.88
+  },
+  {
+    "text": "are random dates so flipping through this stack\u00a0\nof coins should give us a few that are worth more\u00a0\u00a0",
+    "start": 13.84,
+    "duration": 5.68
+  },
+  {
+    "text": "than normal based on varying mintage numbers at\u00a0\nleast hypothetically in 2022 there were 850,000\u00a0\u00a0",
+    "start": 19.52,
+    "duration": 7.72
+  },
+  {
+    "text": "of these minted it's a big number in 2021 more\u00a0\nthan a million that was split between the type\u00a0\u00a0",
+    "start": 27.24,
+    "duration": 6.24
+  },
+  {
+    "text": "one and type two coins but what about something\u00a0\nlike a 24 coin there were only 425,000 of these\u00a0\u00a0",
+    "start": 33.48,
+    "duration": 8.72
+  },
+  {
+    "text": "minted so that one has to be worth more right\u00a0\nwell yes and no yes if you're a big dealer with\u00a0\u00a0",
+    "start": 42.2,
+    "duration": 6.0
+  },
+  {
+    "text": "Buyers with personal reasons to want something\u00a0\nspecific and maybe you have a child born in 2014\u00a0\u00a0",
+    "start": 48.2,
+    "duration": 5.16
+  },
+  {
+    "text": "but when you go to sell your 2014 and 2021\u00a0\ncoins will likely be worth exactly the same",
+    "start": 53.36,
+    "duration": 5.88
+  }
+]

@@ -1,0 +1,1547 @@
+[
+  {
+    "text": "so I bought a bunch of gold or a bit of",
+    "start": 0.199,
+    "duration": 5.041
+  },
+  {
+    "text": "gold it's all relative I guess bought a",
+    "start": 2.6,
+    "duration": 5.959
+  },
+  {
+    "text": "bunch sold a bit traded for some but I",
+    "start": 5.24,
+    "duration": 6.559
+  },
+  {
+    "text": "think I'm confusing this whole thing so",
+    "start": 8.559,
+    "duration": 5.761
+  },
+  {
+    "text": "let's back",
+    "start": 11.799,
+    "duration": 2.521
+  },
+  {
+    "text": "[Music]",
+    "start": 15.02,
+    "duration": 4.129
+  },
+  {
+    "text": "up so I bought a buffalo from Esty",
+    "start": 19.24,
+    "duration": 4.959
+  },
+  {
+    "text": "bullion at the beginning of May spot",
+    "start": 22.119,
+    "duration": 5.201
+  },
+  {
+    "text": "price was slightly below",
+    "start": 24.199,
+    "duration": 5.24
+  },
+  {
+    "text": "$2300 and they also happened to be",
+    "start": 27.32,
+    "duration": 4.72
+  },
+  {
+    "text": "having a sale on Buffalo at the time so",
+    "start": 29.439,
+    "duration": 5.64
+  },
+  {
+    "text": "two wins double sale on this week I",
+    "start": 32.04,
+    "duration": 4.92
+  },
+  {
+    "text": "traded for two more I also bought an",
+    "start": 35.079,
+    "duration": 4.48
+  },
+  {
+    "text": "eagle that I traded for a few more and I",
+    "start": 36.96,
+    "duration": 4.96
+  },
+  {
+    "text": "bought another so it seems like a lot at",
+    "start": 39.559,
+    "duration": 4.081
+  },
+  {
+    "text": "least to me but after everything was",
+    "start": 41.92,
+    "duration": 4.2
+  },
+  {
+    "text": "said and done I just added a few ounces",
+    "start": 43.64,
+    "duration": 4.72
+  },
+  {
+    "text": "and really that's all I'm working on",
+    "start": 46.12,
+    "duration": 4.48
+  },
+  {
+    "text": "just Buffalo's Eagles not much else I'm",
+    "start": 48.36,
+    "duration": 4.519
+  },
+  {
+    "text": "a few Eagles short of a new tube that",
+    "start": 50.6,
+    "duration": 4.36
+  },
+  {
+    "text": "maybe I'll Vault maybe I'll bury in the",
+    "start": 52.879,
+    "duration": 4.561
+  },
+  {
+    "text": "Rose Garden but the bigger story of",
+    "start": 54.96,
+    "duration": 3.72
+  },
+  {
+    "text": "what's happening in the market what's",
+    "start": 57.44,
+    "duration": 2.84
+  },
+  {
+    "text": "happening in the shops is probably a lot",
+    "start": 58.68,
+    "duration": 3.559
+  },
+  {
+    "text": "more interesting than what I'm buying",
+    "start": 60.28,
+    "duration": 3.959
+  },
+  {
+    "text": "personally because that is what's",
+    "start": 62.239,
+    "duration": 3.56
+  },
+  {
+    "text": "driving all of this so a lot more",
+    "start": 64.239,
+    "duration": 4.721
+  },
+  {
+    "text": "interesting to find out why than what",
+    "start": 65.799,
+    "duration": 4.401
+  },
+  {
+    "text": "before we get back to it if you're",
+    "start": 68.96,
+    "duration": 3.44
+  },
+  {
+    "text": "looking for gold and silver hit up SD",
+    "start": 70.2,
+    "duration": 4.12
+  },
+  {
+    "text": "bullion new customers can even get gold",
+    "start": 72.4,
+    "duration": 5.399
+  },
+  {
+    "text": "and silver for spot that's sdbullion.com",
+    "start": 74.32,
+    "duration": 5.64
+  },
+  {
+    "text": "slne so let's start off with what's",
+    "start": 77.799,
+    "duration": 3.921
+  },
+  {
+    "text": "happening in the market and in the shops",
+    "start": 79.96,
+    "duration": 3.4
+  },
+  {
+    "text": "I'm just coming back from one of my",
+    "start": 81.72,
+    "duration": 3.68
+  },
+  {
+    "text": "local shops and this is going to be the",
+    "start": 83.36,
+    "duration": 3.68
+  },
+  {
+    "text": "third local gold and silver shop that",
+    "start": 85.4,
+    "duration": 4.16
+  },
+  {
+    "text": "I've spoken with saying the same thing",
+    "start": 87.04,
+    "duration": 4.399
+  },
+  {
+    "text": "people are not coming in to sell they're",
+    "start": 89.56,
+    "duration": 3.68
+  },
+  {
+    "text": "coming in to buy and maybe that's a",
+    "start": 91.439,
+    "duration": 3.68
+  },
+  {
+    "text": "surprise to you maybe that's not I've",
+    "start": 93.24,
+    "duration": 4.0
+  },
+  {
+    "text": "kind of heard the opposite around here",
+    "start": 95.119,
+    "duration": 3.921
+  },
+  {
+    "text": "online but if you've been into to see",
+    "start": 97.24,
+    "duration": 3.199
+  },
+  {
+    "text": "your local shops or you've been in",
+    "start": 99.04,
+    "duration": 3.68
+  },
+  {
+    "text": "contact with any of the online dealers",
+    "start": 100.439,
+    "duration": 4.521
+  },
+  {
+    "text": "my guess is you're hearing that story",
+    "start": 102.72,
+    "duration": 4.399
+  },
+  {
+    "text": "people are coming into buy they're not",
+    "start": 104.96,
+    "duration": 4.64
+  },
+  {
+    "text": "coming in to sell so this is great if",
+    "start": 107.119,
+    "duration": 4.04
+  },
+  {
+    "text": "you're in the business of selling gold",
+    "start": 109.6,
+    "duration": 3.28
+  },
+  {
+    "text": "or silver this year has been huge for",
+    "start": 111.159,
+    "duration": 4.401
+  },
+  {
+    "text": "dealers at least anecdotally cannot",
+    "start": 112.88,
+    "duration": 4.04
+  },
+  {
+    "text": "speak for the whole industry of course",
+    "start": 115.56,
+    "duration": 2.599
+  },
+  {
+    "text": "but if you've been wondering if higher",
+    "start": 116.92,
+    "duration": 3.0
+  },
+  {
+    "text": "prices for metals are pushing retail",
+    "start": 118.159,
+    "duration": 4.32
+  },
+  {
+    "text": "buyers out of the market that does not",
+    "start": 119.92,
+    "duration": 5.519
+  },
+  {
+    "text": "seem to be the case and mostly that's",
+    "start": 122.479,
+    "duration": 4.881
+  },
+  {
+    "text": "good for everyone so we're going to get",
+    "start": 125.439,
+    "duration": 3.281
+  },
+  {
+    "text": "into the problem in a minute but before",
+    "start": 127.36,
+    "duration": 3.44
+  },
+  {
+    "text": "we get there two of the shops I spoke",
+    "start": 128.72,
+    "duration": 3.8
+  },
+  {
+    "text": "with said the only thing people are",
+    "start": 130.8,
+    "duration": 4.0
+  },
+  {
+    "text": "selling is silver and that should",
+    "start": 132.52,
+    "duration": 4.04
+  },
+  {
+    "text": "probably be expected and I don't",
+    "start": 134.8,
+    "duration": 2.92
+  },
+  {
+    "text": "personally think it's a good time to",
+    "start": 136.56,
+    "duration": 3.8
+  },
+  {
+    "text": "sell silver but it's the highest price",
+    "start": 137.72,
+    "duration": 5.56
+  },
+  {
+    "text": "that it's been in over 11 years so some",
+    "start": 140.36,
+    "duration": 4.599
+  },
+  {
+    "text": "people are going to jump at that now",
+    "start": 143.28,
+    "duration": 3.4
+  },
+  {
+    "text": "nobody told me a lot of people were",
+    "start": 144.959,
+    "duration": 3.601
+  },
+  {
+    "text": "selling silver just that if they're",
+    "start": 146.68,
+    "duration": 4.76
+  },
+  {
+    "text": "selling anything it's silver now there",
+    "start": 148.56,
+    "duration": 4.399
+  },
+  {
+    "text": "is an exception that's going to be",
+    "start": 151.44,
+    "duration": 4.0
+  },
+  {
+    "text": "inheritance stacks and air comes in they",
+    "start": 152.959,
+    "duration": 4.081
+  },
+  {
+    "text": "don't understand what they've inherited",
+    "start": 155.44,
+    "duration": 4.159
+  },
+  {
+    "text": "so they sell now they're not getting out",
+    "start": 157.04,
+    "duration": 4.76
+  },
+  {
+    "text": "of it because they never really got into",
+    "start": 159.599,
+    "duration": 4.881
+  },
+  {
+    "text": "it now that means a few things one is",
+    "start": 161.8,
+    "duration": 4.159
+  },
+  {
+    "text": "that if you're selling you should be",
+    "start": 164.48,
+    "duration": 4.88
+  },
+  {
+    "text": "able to get a decent price now decent is",
+    "start": 165.959,
+    "duration": 5.761
+  },
+  {
+    "text": "relative as prices go up dealers tend to",
+    "start": 169.36,
+    "duration": 4.68
+  },
+  {
+    "text": "give you less back it's just higher cost",
+    "start": 171.72,
+    "duration": 4.439
+  },
+  {
+    "text": "for them it makes sense but I've heard",
+    "start": 174.04,
+    "duration": 4.479
+  },
+  {
+    "text": "stories about dealers not even offering",
+    "start": 176.159,
+    "duration": 4.201
+  },
+  {
+    "text": "spot and the handful that I spoke to",
+    "start": 178.519,
+    "duration": 3.881
+  },
+  {
+    "text": "though they're giving a little bit less",
+    "start": 180.36,
+    "duration": 3.76
+  },
+  {
+    "text": "than normal but they're all giving at",
+    "start": 182.4,
+    "duration": 4.0
+  },
+  {
+    "text": "least spot for eagles and Buffalos and",
+    "start": 184.12,
+    "duration": 4.32
+  },
+  {
+    "text": "two of the three were giving spot for a",
+    "start": 186.4,
+    "duration": 4.44
+  },
+  {
+    "text": "gold Maple Leaf all of them were giving",
+    "start": 188.44,
+    "duration": 4.719
+  },
+  {
+    "text": "spot for really any kind of silver round",
+    "start": 190.84,
+    "duration": 4.679
+  },
+  {
+    "text": "any kind of silver bar as long as it was",
+    "start": 193.159,
+    "duration": 4.921
+  },
+  {
+    "text": "clean is we all know how silver gets now",
+    "start": 195.519,
+    "duration": 4.961
+  },
+  {
+    "text": "other random stuff gold coins gold bars",
+    "start": 198.08,
+    "duration": 4.439
+  },
+  {
+    "text": "that are at least well known maybe",
+    "start": 200.48,
+    "duration": 4.16
+  },
+  {
+    "text": "they're giving a little UND spot and",
+    "start": 202.519,
+    "duration": 3.321
+  },
+  {
+    "text": "then less for the things that you'd",
+    "start": 204.64,
+    "duration": 3.08
+  },
+  {
+    "text": "imagine so the Obscure stuff the old",
+    "start": 205.84,
+    "duration": 4.2
+  },
+  {
+    "text": "European coins no real surprising is",
+    "start": 207.72,
+    "duration": 4.439
+  },
+  {
+    "text": "there another thing all this active",
+    "start": 210.04,
+    "duration": 4.479
+  },
+  {
+    "text": "buying means is that the retail Market",
+    "start": 212.159,
+    "duration": 4.321
+  },
+  {
+    "text": "is holding up prices for this stuff now",
+    "start": 214.519,
+    "duration": 3.8
+  },
+  {
+    "text": "I've seen comments from people saying",
+    "start": 216.48,
+    "duration": 4.08
+  },
+  {
+    "text": "only central banks are buying gold",
+    "start": 218.319,
+    "duration": 4.761
+  },
+  {
+    "text": "individuals they're only buying silver",
+    "start": 220.56,
+    "duration": 5.44
+  },
+  {
+    "text": "but that's really the kind of story that",
+    "start": 223.08,
+    "duration": 4.68
+  },
+  {
+    "text": "I don't even know it comes from somebody",
+    "start": 226.0,
+    "duration": 3.159
+  },
+  {
+    "text": "with no actual communication with the",
+    "start": 227.76,
+    "duration": 3.52
+  },
+  {
+    "text": "outside world maybe we all know that",
+    "start": 229.159,
+    "duration": 4.0
+  },
+  {
+    "text": "Central Bank buying is driving a",
+    "start": 231.28,
+    "duration": 4.36
+  },
+  {
+    "text": "significant part of this price spike but",
+    "start": 233.159,
+    "duration": 4.761
+  },
+  {
+    "text": "if retail buyers understand that",
+    "start": 235.64,
+    "duration": 5.159
+  },
+  {
+    "text": "influence they don't seem to care one of",
+    "start": 237.92,
+    "duration": 4.92
+  },
+  {
+    "text": "my local shops just happened to say he's",
+    "start": 240.799,
+    "duration": 3.761
+  },
+  {
+    "text": "having the best year he's ever had and I",
+    "start": 242.84,
+    "duration": 3.72
+  },
+  {
+    "text": "didn't even ask and that might be a",
+    "start": 244.56,
+    "duration": 3.56
+  },
+  {
+    "text": "little bit of a surprise because 1 o",
+    "start": 246.56,
+    "duration": 4.28
+  },
+  {
+    "text": "gold coin right now goes for $24 to",
+    "start": 248.12,
+    "duration": 6.36
+  },
+  {
+    "text": "$2500 and that just feels expensive it",
+    "start": 250.84,
+    "duration": 6.359
+  },
+  {
+    "text": "feels like things escalated quickly but",
+    "start": 254.48,
+    "duration": 5.24
+  },
+  {
+    "text": "buyer psychology can be a really weird",
+    "start": 257.199,
+    "duration": 4.44
+  },
+  {
+    "text": "thing when something is more expensive",
+    "start": 259.72,
+    "duration": 3.72
+  },
+  {
+    "text": "people will actually feel more compelled",
+    "start": 261.639,
+    "duration": 4.801
+  },
+  {
+    "text": "to want it that 2009 ultra high relief",
+    "start": 263.44,
+    "duration": 5.479
+  },
+  {
+    "text": "Double Eagle right there is 1 oz of pure",
+    "start": 266.44,
+    "duration": 5.0
+  },
+  {
+    "text": "gold it's sitting beside Eagles that are",
+    "start": 268.919,
+    "duration": 5.481
+  },
+  {
+    "text": "also 1 o of pure gold it costs a lot",
+    "start": 271.44,
+    "duration": 5.56
+  },
+  {
+    "text": "more and yeah I wanted it a little bit",
+    "start": 274.4,
+    "duration": 4.92
+  },
+  {
+    "text": "more than another Eagle so jumping to",
+    "start": 277.0,
+    "duration": 4.08
+  },
+  {
+    "text": "the first problem here something that",
+    "start": 279.32,
+    "duration": 3.48
+  },
+  {
+    "text": "I've been mentioning is that pullbacks",
+    "start": 281.08,
+    "duration": 3.8
+  },
+  {
+    "text": "have not been significant now normally",
+    "start": 282.8,
+    "duration": 3.76
+  },
+  {
+    "text": "when we see spot price jump as quickly",
+    "start": 284.88,
+    "duration": 4.4
+  },
+  {
+    "text": "as we're seeing a 20% jump in 6 months",
+    "start": 286.56,
+    "duration": 4.96
+  },
+  {
+    "text": "we also see profit taking that leads to",
+    "start": 289.28,
+    "duration": 3.88
+  },
+  {
+    "text": "Corrections and those price Corrections",
+    "start": 291.52,
+    "duration": 3.88
+  },
+  {
+    "text": "that give us these dips to buy in on",
+    "start": 293.16,
+    "duration": 4.039
+  },
+  {
+    "text": "well the dips just haven't been very",
+    "start": 295.4,
+    "duration": 3.96
+  },
+  {
+    "text": "significant there was nearly a $100",
+    "start": 297.199,
+    "duration": 3.961
+  },
+  {
+    "text": "swing in price between the Buffalo I",
+    "start": 299.36,
+    "duration": 3.36
+  },
+  {
+    "text": "bought May 1st and the eagle I just",
+    "start": 301.16,
+    "duration": 4.24
+  },
+  {
+    "text": "bought this week but only partly because",
+    "start": 302.72,
+    "duration": 5.44
+  },
+  {
+    "text": "of a dip in spot price I think that",
+    "start": 305.4,
+    "duration": 5.0
+  },
+  {
+    "text": "amounted to maybe $40 or $50 the rest",
+    "start": 308.16,
+    "duration": 3.68
+  },
+  {
+    "text": "had to do with the difference in premium",
+    "start": 310.4,
+    "duration": 3.44
+  },
+  {
+    "text": "between those shops now I'm at a point",
+    "start": 311.84,
+    "duration": 3.52
+  },
+  {
+    "text": "where I'm just not as worried about",
+    "start": 313.84,
+    "duration": 4.079
+  },
+  {
+    "text": "price because the dips aren't really",
+    "start": 315.36,
+    "duration": 4.959
+  },
+  {
+    "text": "happening low 2300s feel like enough of",
+    "start": 317.919,
+    "duration": 4.4
+  },
+  {
+    "text": "a dip for me I'm more concerned about",
+    "start": 320.319,
+    "duration": 4.32
+  },
+  {
+    "text": "what I'm buying than whether I can get",
+    "start": 322.319,
+    "duration": 5.521
+  },
+  {
+    "text": "$50 off if I wait long enough so what",
+    "start": 324.639,
+    "duration": 5.321
+  },
+  {
+    "text": "else on the topic of buying well I",
+    "start": 327.84,
+    "duration": 4.68
+  },
+  {
+    "text": "haven't really talked much about Costco",
+    "start": 329.96,
+    "duration": 4.239
+  },
+  {
+    "text": "but people with very little background",
+    "start": 332.52,
+    "duration": 3.799
+  },
+  {
+    "text": "in gold or silver are coming in through",
+    "start": 334.199,
+    "duration": 4.521
+  },
+  {
+    "text": "these purchases the anecdotal part is",
+    "start": 336.319,
+    "duration": 4.081
+  },
+  {
+    "text": "that I actually know people who've done",
+    "start": 338.72,
+    "duration": 3.8
+  },
+  {
+    "text": "it people in the real world casually",
+    "start": 340.4,
+    "duration": 4.0
+  },
+  {
+    "text": "mentioning that they just bought some",
+    "start": 342.52,
+    "duration": 3.72
+  },
+  {
+    "text": "gold from Costco now it's a little bit",
+    "start": 344.4,
+    "duration": 4.239
+  },
+  {
+    "text": "of a weird phenomenon because Costco is",
+    "start": 346.24,
+    "duration": 5.28
+  },
+  {
+    "text": "just not part of the gold and silver",
+    "start": 348.639,
+    "duration": 5.56
+  },
+  {
+    "text": "ecosystem it's like buying sushi at the",
+    "start": 351.52,
+    "duration": 5.08
+  },
+  {
+    "text": "gas station and it turns out it's",
+    "start": 354.199,
+    "duration": 3.84
+  },
+  {
+    "text": "actually pretty popular now I'm not",
+    "start": 356.6,
+    "duration": 3.599
+  },
+  {
+    "text": "implying Costco's gold is bad bad but",
+    "start": 358.039,
+    "duration": 4.041
+  },
+  {
+    "text": "the one-way nature of their model and",
+    "start": 360.199,
+    "duration": 3.44
+  },
+  {
+    "text": "they sell but they don't buy or they",
+    "start": 362.08,
+    "duration": 3.64
+  },
+  {
+    "text": "don't allow returns that makes for a",
+    "start": 363.639,
+    "duration": 4.361
+  },
+  {
+    "text": "possible problem Downstream or at least",
+    "start": 365.72,
+    "duration": 4.8
+  },
+  {
+    "text": "it adds to one and what am I talking",
+    "start": 368.0,
+    "duration": 3.759
+  },
+  {
+    "text": "about well the problem is that people",
+    "start": 370.52,
+    "duration": 2.88
+  },
+  {
+    "text": "end up with gold that they don't know",
+    "start": 371.759,
+    "duration": 3.84
+  },
+  {
+    "text": "what to do with now if that person is",
+    "start": 373.4,
+    "duration": 3.68
+  },
+  {
+    "text": "wealthy and some of the people I know",
+    "start": 375.599,
+    "duration": 4.521
+  },
+  {
+    "text": "who mentioned it they are it might not",
+    "start": 377.08,
+    "duration": 4.48
+  },
+  {
+    "text": "be something that they have to worry",
+    "start": 380.12,
+    "duration": 3.079
+  },
+  {
+    "text": "about maybe it's something they'll never",
+    "start": 381.56,
+    "duration": 4.079
+  },
+  {
+    "text": "sell I think some people see gold as a",
+    "start": 383.199,
+    "duration": 4.801
+  },
+  {
+    "text": "checklist item and it's kind of a new",
+    "start": 385.639,
+    "duration": 4.721
+  },
+  {
+    "text": "thing extra batteries check first aid",
+    "start": 388.0,
+    "duration": 5.24
+  },
+  {
+    "text": "kit check gold bar check now they're",
+    "start": 390.36,
+    "duration": 5.08
+  },
+  {
+    "text": "ready for anything but there are others",
+    "start": 393.24,
+    "duration": 3.6
+  },
+  {
+    "text": "out there who are going to be selling",
+    "start": 395.44,
+    "duration": 3.52
+  },
+  {
+    "text": "down those wiim buys and possibly",
+    "start": 396.84,
+    "duration": 4.12
+  },
+  {
+    "text": "selling down all on the same trigger and",
+    "start": 398.96,
+    "duration": 3.239
+  },
+  {
+    "text": "that could affect everything that I've",
+    "start": 400.96,
+    "duration": 3.12
+  },
+  {
+    "text": "been saying about dealers seeing lots of",
+    "start": 402.199,
+    "duration": 5.161
+  },
+  {
+    "text": "buyers in very few sellers so on the",
+    "start": 404.08,
+    "duration": 5.16
+  },
+  {
+    "text": "front end we have new people into the",
+    "start": 407.36,
+    "duration": 3.76
+  },
+  {
+    "text": "game buying physical gold and silver",
+    "start": 409.24,
+    "duration": 4.56
+  },
+  {
+    "text": "maybe with no real idea how to sell but",
+    "start": 411.12,
+    "duration": 5.04
+  },
+  {
+    "text": "welcome new friends no real change on",
+    "start": 413.8,
+    "duration": 4.44
+  },
+  {
+    "text": "the back end though we could see a quick",
+    "start": 416.16,
+    "duration": 4.319
+  },
+  {
+    "text": "flip in the market with A Rush of",
+    "start": 418.24,
+    "duration": 4.72
+  },
+  {
+    "text": "sellers now don't hold me to any of this",
+    "start": 420.479,
+    "duration": 4.081
+  },
+  {
+    "text": "but my guess is we're going to continue",
+    "start": 422.96,
+    "duration": 3.679
+  },
+  {
+    "text": "to see strong performance for gold and",
+    "start": 424.56,
+    "duration": 3.8
+  },
+  {
+    "text": "silver it doesn't take any real stretch",
+    "start": 426.639,
+    "duration": 3.721
+  },
+  {
+    "text": "of the imagination to say but on top of",
+    "start": 428.36,
+    "duration": 4.8
+  },
+  {
+    "text": "that we could see some crazy activity so",
+    "start": 430.36,
+    "duration": 5.04
+  },
+  {
+    "text": "price movement that pushes price to a",
+    "start": 433.16,
+    "duration": 4.52
+  },
+  {
+    "text": "point that just isn't sustainable so a",
+    "start": 435.4,
+    "duration": 5.68
+  },
+  {
+    "text": "spike in price and then a crash a crash",
+    "start": 437.68,
+    "duration": 5.919
+  },
+  {
+    "text": "being 15 to 20% loss in spot price and",
+    "start": 441.08,
+    "duration": 4.48
+  },
+  {
+    "text": "what happens in a crash in asset prices",
+    "start": 443.599,
+    "duration": 4.44
+  },
+  {
+    "text": "well a lot of smart buyers sell toward",
+    "start": 445.56,
+    "duration": 4.639
+  },
+  {
+    "text": "the top that pushes prices down and that",
+    "start": 448.039,
+    "duration": 3.84
+  },
+  {
+    "text": "gets the attention of the less smart",
+    "start": 450.199,
+    "duration": 3.521
+  },
+  {
+    "text": "buyers who then all rush in to sell at",
+    "start": 451.879,
+    "duration": 5.081
+  },
+  {
+    "text": "the bottom things change slowly and then",
+    "start": 453.72,
+    "duration": 6.199
+  },
+  {
+    "text": "all at once now I don't see this being a",
+    "start": 456.96,
+    "duration": 6.76
+  },
+  {
+    "text": "2011 to 2013 situation I'll just give",
+    "start": 459.919,
+    "duration": 5.361
+  },
+  {
+    "text": "you a chart to show you what that looks",
+    "start": 463.72,
+    "duration": 4.36
+  },
+  {
+    "text": "like and we could see some of this so a",
+    "start": 465.28,
+    "duration": 4.8
+  },
+  {
+    "text": "possibility of a big price run as",
+    "start": 468.08,
+    "duration": 4.64
+  },
+  {
+    "text": "everything converges the prices jump",
+    "start": 470.08,
+    "duration": 4.44
+  },
+  {
+    "text": "they go well beyond my Baseline case",
+    "start": 472.72,
+    "duration": 3.56
+  },
+  {
+    "text": "that I mentioned for strong medals",
+    "start": 474.52,
+    "duration": 3.959
+  },
+  {
+    "text": "performance and those big changes get a",
+    "start": 476.28,
+    "duration": 4.12
+  },
+  {
+    "text": "lot of attention especially from the",
+    "start": 478.479,
+    "duration": 3.881
+  },
+  {
+    "text": "buyers with little to no history with",
+    "start": 480.4,
+    "duration": 3.56
+  },
+  {
+    "text": "physical metal so they're watching",
+    "start": 482.36,
+    "duration": 3.2
+  },
+  {
+    "text": "what's happening they're buying on the",
+    "start": 483.96,
+    "duration": 3.239
+  },
+  {
+    "text": "way up they're selling on the way down",
+    "start": 485.56,
+    "duration": 4.12
+  },
+  {
+    "text": "but they're on a delay meaning they buy",
+    "start": 487.199,
+    "duration": 5.201
+  },
+  {
+    "text": "at the top and they sell at the bottom",
+    "start": 489.68,
+    "duration": 4.16
+  },
+  {
+    "text": "so this is where I need to tell you that",
+    "start": 492.4,
+    "duration": 3.28
+  },
+  {
+    "text": "I don't have any special forecasting",
+    "start": 493.84,
+    "duration": 4.039
+  },
+  {
+    "text": "abilities I can't tell you what will or",
+    "start": 495.68,
+    "duration": 4.16
+  },
+  {
+    "text": "will not happen but we're working with",
+    "start": 497.879,
+    "duration": 4.641
+  },
+  {
+    "text": "logical assumptions one is that with",
+    "start": 499.84,
+    "duration": 5.0
+  },
+  {
+    "text": "Central Bank buying propping up sales",
+    "start": 502.52,
+    "duration": 5.16
+  },
+  {
+    "text": "normal retail fear and greed Dynamics",
+    "start": 504.84,
+    "duration": 4.72
+  },
+  {
+    "text": "aren't in complete control and that's",
+    "start": 507.68,
+    "duration": 3.16
+  },
+  {
+    "text": "big reason that I don't think we'll see",
+    "start": 509.56,
+    "duration": 4.599
+  },
+  {
+    "text": "the 2011 2013 Spike and crash I don't",
+    "start": 510.84,
+    "duration": 4.96
+  },
+  {
+    "text": "think that's a great comparison but the",
+    "start": 514.159,
+    "duration": 3.161
+  },
+  {
+    "text": "assumption that new buyers will become",
+    "start": 515.8,
+    "duration": 4.44
+  },
+  {
+    "text": "the most likely sellers is still fair",
+    "start": 517.32,
+    "duration": 4.599
+  },
+  {
+    "text": "and if those new buyers are Costco",
+    "start": 520.24,
+    "duration": 3.88
+  },
+  {
+    "text": "buyers and they don't understand how or",
+    "start": 521.919,
+    "duration": 3.761
+  },
+  {
+    "text": "where to sell well a lot of the good",
+    "start": 524.12,
+    "duration": 3.44
+  },
+  {
+    "text": "that Costco is doing for gold and silver",
+    "start": 525.68,
+    "duration": 5.08
+  },
+  {
+    "text": "attention right now could backfire again",
+    "start": 527.56,
+    "duration": 5.12
+  },
+  {
+    "text": "no shade intended there I just haven't",
+    "start": 530.76,
+    "duration": 4.28
+  },
+  {
+    "text": "gotten real excited about Costco selling",
+    "start": 532.68,
+    "duration": 3.719
+  },
+  {
+    "text": "gold now twice now I've checked their",
+    "start": 535.04,
+    "duration": 3.44
+  },
+  {
+    "text": "prices against SD bullying the price was",
+    "start": 536.399,
+    "duration": 4.56
+  },
+  {
+    "text": "within $10 I checked the gold Maple Leaf",
+    "start": 538.48,
+    "duration": 4.44
+  },
+  {
+    "text": "this week I checked the Buffalo when I",
+    "start": 540.959,
+    "duration": 3.801
+  },
+  {
+    "text": "bought it at the beginning of May both",
+    "start": 542.92,
+    "duration": 4.68
+  },
+  {
+    "text": "within $10 but Costco didn't have them",
+    "start": 544.76,
+    "duration": 5.16
+  },
+  {
+    "text": "available either way so typically those",
+    "start": 547.6,
+    "duration": 4.76
+  },
+  {
+    "text": "buyers are stacking cash back programs",
+    "start": 549.92,
+    "duration": 4.039
+  },
+  {
+    "text": "rewards and I get it I understand the",
+    "start": 552.36,
+    "duration": 3.4
+  },
+  {
+    "text": "fun in that but I'd rather have a",
+    "start": 553.959,
+    "duration": 3.841
+  },
+  {
+    "text": "relationship with a seller who I know",
+    "start": 555.76,
+    "duration": 4.68
+  },
+  {
+    "text": "will also buy back and really that's",
+    "start": 557.8,
+    "duration": 4.32
+  },
+  {
+    "text": "just a sideshow on the whole topic here",
+    "start": 560.44,
+    "duration": 3.959
+  },
+  {
+    "text": "if we put it all together people are not",
+    "start": 562.12,
+    "duration": 4.399
+  },
+  {
+    "text": "selling they're buying at least in the",
+    "start": 564.399,
+    "duration": 3.921
+  },
+  {
+    "text": "retail physical market so the buyer",
+    "start": 566.519,
+    "duration": 3.161
+  },
+  {
+    "text": "profile might be a little a little bit",
+    "start": 568.32,
+    "duration": 2.92
+  },
+  {
+    "text": "different with these new buyers coming",
+    "start": 569.68,
+    "duration": 3.88
+  },
+  {
+    "text": "in but it's good in just about every way",
+    "start": 571.24,
+    "duration": 3.839
+  },
+  {
+    "text": "the two exceptions that I'm talking",
+    "start": 573.56,
+    "duration": 3.959
+  },
+  {
+    "text": "about here are just that we aren't",
+    "start": 575.079,
+    "duration": 4.121
+  },
+  {
+    "text": "seeing significant price drops so we're",
+    "start": 577.519,
+    "duration": 3.361
+  },
+  {
+    "text": "not getting the dips that we all like",
+    "start": 579.2,
+    "duration": 3.52
+  },
+  {
+    "text": "and new buyers are always going to be",
+    "start": 580.88,
+    "duration": 3.76
+  },
+  {
+    "text": "likely to become new sellers they",
+    "start": 582.72,
+    "duration": 3.679
+  },
+  {
+    "text": "potentially would hit the shops at the",
+    "start": 584.64,
+    "duration": 4.28
+  },
+  {
+    "text": "same time flipping the attitudes of the",
+    "start": 586.399,
+    "duration": 5.401
+  },
+  {
+    "text": "dealers who are buying the gold back and",
+    "start": 588.92,
+    "duration": 4.599
+  },
+  {
+    "text": "what we do about all of this is still",
+    "start": 591.8,
+    "duration": 3.52
+  },
+  {
+    "text": "pretty simple you buy when it makes",
+    "start": 593.519,
+    "duration": 3.521
+  },
+  {
+    "text": "sense so when it makes sense where it",
+    "start": 595.32,
+    "duration": 4.079
+  },
+  {
+    "text": "makes sense what makes sense I'm not",
+    "start": 597.04,
+    "duration": 3.799
+  },
+  {
+    "text": "buying a gold bar because I happen to",
+    "start": 599.399,
+    "duration": 2.721
+  },
+  {
+    "text": "see it on my way to get a case of",
+    "start": 600.839,
+    "duration": 3.361
+  },
+  {
+    "text": "protein and peanut butter and then you",
+    "start": 602.12,
+    "duration": 3.8
+  },
+  {
+    "text": "sell when it makes sense the important",
+    "start": 604.2,
+    "duration": 4.68
+  },
+  {
+    "text": "part here is not to follow the herd ever",
+    "start": 605.92,
+    "duration": 4.8
+  },
+  {
+    "text": "really but especially not when we know",
+    "start": 608.88,
+    "duration": 3.44
+  },
+  {
+    "text": "the herd is bringing in so many new",
+    "start": 610.72,
+    "duration": 4.0
+  },
+  {
+    "text": "people who might have just been on their",
+    "start": 612.32,
+    "duration": 4.6
+  },
+  {
+    "text": "way back to the blueberries and bananas",
+    "start": 614.72,
+    "duration": 5.04
+  },
+  {
+    "text": "and spotted something shiny now no",
+    "start": 616.92,
+    "duration": 5.359
+  },
+  {
+    "text": "offense if that's you I still think you",
+    "start": 619.76,
+    "duration": 4.84
+  },
+  {
+    "text": "made a good decision so let's call it",
+    "start": 622.279,
+    "duration": 4.041
+  },
+  {
+    "text": "good there let us know if you're buying",
+    "start": 624.6,
+    "duration": 3.2
+  },
+  {
+    "text": "what you're buying or you're buying when",
+    "start": 626.32,
+    "duration": 3.12
+  },
+  {
+    "text": "you're buying whether you're still",
+    "start": 627.8,
+    "duration": 4.039
+  },
+  {
+    "text": "getting used to the higher prices and I",
+    "start": 629.44,
+    "duration": 3.839
+  },
+  {
+    "text": "think we'd all be interested just to",
+    "start": 631.839,
+    "duration": 3.0
+  },
+  {
+    "text": "hear what's happening in everyone's",
+    "start": 633.279,
+    "duration": 3.36
+  },
+  {
+    "text": "Market can't really use my pool of five",
+    "start": 634.839,
+    "duration": 3.921
+  },
+  {
+    "text": "or six dealers as what's happening",
+    "start": 636.639,
+    "duration": 4.121
+  },
+  {
+    "text": "everywhere so let us know and then while",
+    "start": 638.76,
+    "duration": 3.24
+  },
+  {
+    "text": "you're in the comments be sure to hit",
+    "start": 640.76,
+    "duration": 3.12
+  },
+  {
+    "text": "the like button if you found any of this",
+    "start": 642.0,
+    "duration": 3.839
+  },
+  {
+    "text": "interesting be sure you're subscribed",
+    "start": 643.88,
+    "duration": 3.24
+  },
+  {
+    "text": "with notifications turned on if you want",
+    "start": 645.839,
+    "duration": 3.041
+  },
+  {
+    "text": "to hear more on the topic and if you're",
+    "start": 647.12,
+    "duration": 4.12
+  },
+  {
+    "text": "still here thanks again for watching I",
+    "start": 648.88,
+    "duration": 3.68
+  },
+  {
+    "text": "always appreciate your",
+    "start": 651.24,
+    "duration": 3.96
+  },
+  {
+    "text": "time take care",
+    "start": 652.56,
+    "duration": 8.6
+  },
+  {
+    "text": "[Music]",
+    "start": 655.2,
+    "duration": 8.96
+  },
+  {
+    "text": "ah",
+    "start": 661.16,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 666.3,
+    "duration": 9.78
+  }
+]
