@@ -10,7 +10,7 @@ from langchain_openai import ChatOpenAI
 from data_scraping import youtube_caption_scraper as captions
 
 # Prints a podcast script to console based on a single-shot of context data + a single prompt.
-async def write_one_shot_script(prompt):
+async def write_one_shot_script(prompt, file=None):
   source_material = get_consolidated_notes()
   print("Source material is " + str(len(source_material)) + " characters long")
   print("")
@@ -60,6 +60,12 @@ async def write_one_shot_script(prompt):
     parser
   )
 
+  if file != None:
+     script = runnable_chain.invoke({"source_material": source_material, "prompt": prompt})
+     file.write(script)
+     return
+
+  # No file was provided - stream output to console.
   output_stream = runnable_chain.astream({"source_material": source_material, "prompt": prompt})
 
   async for chunk in output_stream:

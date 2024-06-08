@@ -4,3 +4,4 @@ youtube-transcript-api
 langchain
 langchain-community
 langchain-openai
+elevenlabs

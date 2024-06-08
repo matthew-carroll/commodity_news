@@ -6,6 +6,7 @@ The project expects a `.env` file at the root of the repo that contains various 
 
 ```
 GOOGLE_API_KEY=''
+ELEVENLABS_API_KEY=''
 ```
 
 ## System Overview
